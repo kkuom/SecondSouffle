@@ -22,8 +22,12 @@ showSocial: true
 showDate: true
 comments: true
 ---
+Le Premier Souffle se veut être le postulat philosophique sur lequel le collectif se pose. Il est, s'il on veut, les fondations mêmes des textes fondateurs.
+<!--more-->
+<!-- toc -->
 
 {{< wide-image src="https://github.com/kkuom/SecondSouffle/blob/master/docs/img/Premier_Souffle.png?raw=true">}}
+
 <table style="width:auto; margin:auto;">
   <tr style="background-color:#767a8c; color:#FFFFFF; text-align:center; font-weight:400;">
     <td style="background-color:#535767;">Pièces jointes</td>
