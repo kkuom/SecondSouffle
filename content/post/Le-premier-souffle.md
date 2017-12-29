@@ -9,7 +9,7 @@ thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/cover-image-showcase/city-750.jp
 coverImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/img/Premier_Souffle.png?raw=true
 metaAlignment: center
 coverMeta: out
-coverSize: 100%
+coverSize: 10%
 date: 2017-12-29T15:26:33+01:00
 categories:
 - Postulat Philosophique
