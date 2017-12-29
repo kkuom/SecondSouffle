@@ -12,7 +12,7 @@
 # For developpers, if you modify this theme, put your images in `source/images` folder and
 # use grunt task `build` to synchronize assets
 
-baseURL = "https://kkuom.github.io/secondsouffle/"
+baseURL = "https://kkuom.github.io/SecondSouffle/"
 themesDir = "themes"
 publishDir = "docs"
 languageCode = "en-us"
