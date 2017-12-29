@@ -26,39 +26,9 @@ comments: true
 Le Premier Souffle se veut être le postulat philosophique sur lequel le collectif se pose. Il est, s'il on veut, les fondations mêmes des textes fondateurs.
 <!--more-->
 
-<!-- toc -->
-
-<table style="width:auto; margin:auto;">
-  <tr style="background-color:#767a8c; color:#FFFFFF; text-align:center; font-weight:400;">
-    <td style="background-color:#535767;">Pièces jointes</td>
-    <td>Informations</td>
-    <td>Langue</td>
-  </tr>
-  <tr>
-    <td style="text-align:right;">
-    {{% button href="https://www.dropbox.com/s/zc22bb8bbg8p2nt/Le%20premier%20souffle%20-%20pages.pdf?dl=0" icon="fa fa-download" %}}Page par page{{% /button %}}
-    </td>
-    <td>**PDF** (12 pages A5), _123ko_</td>
-    <td>Français</td>
-  </tr>
-  <tr>
-    <td style="text-align:right;">
-    {{% button href="https://www.dropbox.com/s/mv4lshzqezizwn5/Le%20premier%20souffle%20-%20planches.pdf?dl=0" icon="fa fa-download" %}}Planche par planche{{% /button %}}
-    </td>
-    <td>**PDF** (7 planches A4), _143ko_</td>
-    <td>Français</td>
-  </tr>
-  <tr>
-    <td style="text-align:right;">
-    {{% button href="https://www.dropbox.com/s/xk7ubtq6cqvvq1j/Le%20premier%20souffle%20-%20cahier.pdf?dl=0" icon="fa fa-download" %}}Livret recto/verso{{% /button %}}
-    </td>
-    <td>**PDF** (6 planches A4), _106ko_</td>
-    <td>Français</td>
-  </tr>
-</table>
-
 {{%attachments title="Pièces jointes" style="grey" pattern=".*(pdf)"/%}}
 
+<!-- toc -->
 ___
 {{< alert info >}}
 **Remarque quant aux genres**

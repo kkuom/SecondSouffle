@@ -61,6 +61,8 @@ section.attachments {
 }
 
 section.attachments label {
+    font-family: "Open Sans",sans-serif;
+    font-size: 1.6rem;
     font-weight: 400;
     padding-left: 0.5em;
     padding-top: 0.2em;
@@ -69,12 +71,13 @@ section.attachments label {
 }
 
 section.attachments .attachments-files {
-    padding: 15px;
+    font-family: "Open Sans",sans-serif;
+    font-size: 1.6rem;
+    font-weight: 200;
+    padding: 10px 0px 10px 30px;
     display: block;
-    font-size: 1rem;
     margin-top: 0rem;
     margin-bottom: 0rem;
-    color: #666;
 }
 
 section.attachments.orange label {
@@ -107,6 +110,7 @@ section.attachments.blue .attachments-files {
 section.attachments.grey label {
     color: #fff;
     background: #505d65;
+    background-size: auto;
 }
 
 section.attachments.grey .attachments-files {
