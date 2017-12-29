@@ -15,7 +15,7 @@
 baseURL = "https://kkuom.github.io/SecondSouffle/"
 themesDir = "themes"
 publishDir = "docs"
-languageCode = "en-us"
+languageCode = "fr-fr"
 defaultContentLanguage = "en-us"
 title = "Collectif Second Souffle"
 theme = "themeSeSo"
@@ -33,15 +33,15 @@ canonifyurls = true
   archive = "archives"
 
 [author]
-  name = "Thomas Champion"
-  bio = "Super bio with markdown support **COOL**"
+  name = "Second Souffle"
+  bio = "Collectif libertaire et anti-âgiste"
   job = "Your job title"
-  location = "France"
+  location = "Grenoble, France"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
-  gravatarEmail = "thibaud.lepretre@gmail.com"
+  gravatarEmail = "secondsouffle@protonmail.com"
   # Your profile picture
   # Overwritten by your gravatar image if `author.gravatarEmail` is filled
-  picture = "https://cdn1.iconfinder.com/data/icons/ninja-things-1/1772/ninja-simple-512.png"
+  picture = "https://github.com/kkuom/SecondSouffle/blob/master/docs/img/SecondSouffle_Logo.png?raw=true"
   # Your Twitter username without the @. E.g : thibaudlepretre
   # twitter = "thibaudlepretre"
   # Your google plus profile id. E.g : +ThibaudLepretre or 114625208755123718311
@@ -57,7 +57,7 @@ canonifyurls = true
 [[menu.main]]
   weight = 2
   identifier = "categories"
-  name = "Categories"
+  name = "Catégories"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-bookmark\"></i>"
   url = "/categories"
 [[menu.main]]
@@ -74,23 +74,10 @@ canonifyurls = true
   url = "/archives"
 [[menu.main]]
   weight = 5
-  identifier = "about"
-  name = "About"
+  identifier = "à-propos"
+  name = "À propos"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-question\"></i>"
   url = "/#about"
-
-[[menu.links]]
-  weight = 1
-  identifier = "github"
-  name = "GitHub"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-github\"></i>"
-  url = "https://github.com/kakawait"
-[[menu.links]]
-  weight = 2
-  identifier = "stackoverflow"
-  name = "Stack Overflow"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-stack-overflow\"></i>"
-  url = "https://stackoverflow.com/users/636472/kakawait"
 
 [[menu.misc]]
   weight = 1
@@ -104,10 +91,10 @@ canonifyurls = true
   # You must use date format used by Go Time package https://golang.org/pkg/time/
   # Months (not work with short month like "jan", "feb", etc) are translated if translation exists on i18n folders
   # Default format is: January 2, 2006
-  # dateFormat = "2 January 2006"
+  dateFormat = "2 January 2006"
 
   # Global keywords configuration. Following keywords will be add to every pages
-  # keywords = ["development", "next-gen"]
+  keywords = ["libertaire", "anti", "âgisme", "second","souffle"]
 
   # Syntax highlighter, possible choice between: "highlight.js" (recommanded) and "prism.js" (experimental)
   # You can comment it to disable syntax highlighting
@@ -207,7 +194,7 @@ canonifyurls = true
   [params.header.rightLink]
     class = ""
     icon = ""
-    url = "/#about"
+    url = "/#home"
 
   # Customize link of author avatar in sidebar
   # [params.sidebar.profile]
