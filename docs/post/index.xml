@@ -6,17 +6,17 @@
     <description>Recent content in Posts on Collectif Second Souffle</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 29 Dec 2017 15:26:33 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 29 Oct 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://kkuom.github.io/SecondSouffle/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Le Premier Souffle</title>
-      <link>https://kkuom.github.io/SecondSouffle/2017/12/le-premier-souffle/</link>
-      <pubDate>Fri, 29 Dec 2017 15:26:33 +0100</pubDate>
+      <title>Tags plugins showcase</title>
+      <link>https://kkuom.github.io/SecondSouffle/2017/10/tags-plugins-showcase/</link>
+      <pubDate>Sun, 29 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://kkuom.github.io/SecondSouffle/2017/12/le-premier-souffle/</guid>
+      <guid>https://kkuom.github.io/SecondSouffle/2017/10/tags-plugins-showcase/</guid>
       <description>{{&amp;lt; wide-image src=&amp;ldquo;https://github.com/kkuom/SecondSouffle/blob/master/docs/img/Premier_Souffle.png?raw=true&amp;quot; title=&amp;ldquo;Le premier souffle&amp;rdquo; &amp;gt;}}
 Pièces jointes Informations Langue   {{% button href=&amp;ldquo;https://www.dropbox.com/s/zc22bb8bbg8p2nt/Le%20premier%20souffle%20-%20pages.pdf?dl=0&amp;quot; icon=&amp;ldquo;fa fa-download&amp;rdquo; %}}Page par page{{% /button %}}  PDF (12 pages A5), 123ko Français   {{% button href=&amp;ldquo;https://www.dropbox.com/s/mv4lshzqezizwn5/Le%20premier%20souffle%20-%20planches.pdf?dl=0&amp;quot; icon=&amp;ldquo;fa fa-download&amp;rdquo; %}}Planche par planche{{% /button %}}  PDF (7 planches A4), 143ko Français   {{% button href=&amp;ldquo;https://www.dropbox.com/s/xk7ubtq6cqvvq1j/Le%20premier%20souffle%20-%20cahier.pdf?dl=0&amp;quot; icon=&amp;ldquo;fa fa-download&amp;rdquo; %}}Livret recto/verso{{% /button %}}  PDF (6 planches A4), 106ko Français</description>
     </item>
