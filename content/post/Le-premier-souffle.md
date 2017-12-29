@@ -1,43 +1,30 @@
 ---
-title: "Tags plugins showcase"
-date: 2017-10-29
+title: "Le Premier Souffle"
+date: 2017-12-29T15:26:33+01:00
+draft: false
+metaAlignment: center
+
+categories:
+- "Structuration du collectif"
 tags:
-- tag plugins
-- test
+- "Postulat Philosophique"
+
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-6-140.jpg
+thumbnailImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/img/StructurationCollectif.png?raw=true
+
+coverImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/img/StructurationCollectif.png?raw=true
+coverMeta: in
+coverSize: partial
+
+showTags: true
+showPagination: true
+showSocial: true
+showDate: true
+comments: true
 ---
 
 {{< wide-image src="https://github.com/kkuom/SecondSouffle/blob/master/docs/img/Premier_Souffle.png?raw=true" title="Le premier souffle" >}}
 
-<table style="width:auto; margin:auto;">
-  <tr style="background-color:#767a8c; color:#FFFFFF; text-align:center; font-weight:400;">
-    <td style="background-color:#535767;">Pièces jointes</td>
-    <td>Informations</td>
-    <td>Langue</td>
-  </tr>
-  <tr>
-    <td style="text-align:right;">
-    {{% button href="https://www.dropbox.com/s/zc22bb8bbg8p2nt/Le%20premier%20souffle%20-%20pages.pdf?dl=0" icon="fa fa-download" %}}Page par page{{% /button %}}
-    </td>
-    <td>**PDF** (12 pages A5), _123ko_</td>
-    <td>Français</td>
-  </tr>
-  <tr>
-    <td style="text-align:right;">
-    {{% button href="https://www.dropbox.com/s/mv4lshzqezizwn5/Le%20premier%20souffle%20-%20planches.pdf?dl=0" icon="fa fa-download" %}}Planche par planche{{% /button %}}
-    </td>
-    <td>**PDF** (7 planches A4), _143ko_</td>
-    <td>Français</td>
-  </tr>
-  <tr>
-    <td style="text-align:right;">
-    {{% button href="https://www.dropbox.com/s/xk7ubtq6cqvvq1j/Le%20premier%20souffle%20-%20cahier.pdf?dl=0" icon="fa fa-download" %}}Livret recto/verso{{% /button %}}
-    </td>
-    <td>**PDF** (6 planches A4), _106ko_</td>
-    <td>Français</td>
-  </tr>
-</table>
 ___
 {{< alert info >}}
 **Remarque quant aux genres**

@@ -3,8 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://kkuom.github.io/SecondSouffle/2017/10/tags-plugins-showcase/</loc>
-    <lastmod>2017-10-29T00:00:00+00:00</lastmod>
+    <loc>https://kkuom.github.io/SecondSouffle/2017/12/le-premier-souffle/</loc>
+    <lastmod>2017-12-29T15:26:33+01:00</lastmod>
   </url>
   
   <url>
@@ -69,7 +69,7 @@
   
   <url>
     <loc>https://kkuom.github.io/SecondSouffle/</loc>
-    <lastmod>2017-10-29T00:00:00+00:00</lastmod>
+    <lastmod>2017-12-29T15:26:33+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -153,7 +153,13 @@
   
   <url>
     <loc>https://kkuom.github.io/SecondSouffle/post/</loc>
-    <lastmod>2017-10-29T00:00:00+00:00</lastmod>
+    <lastmod>2017-12-29T15:26:33+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kkuom.github.io/SecondSouffle/tags/postulat-philosophique/</loc>
+    <lastmod>2017-12-29T15:26:33+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -176,8 +182,14 @@
   </url>
   
   <url>
+    <loc>https://kkuom.github.io/SecondSouffle/categories/structuration-du-collectif/</loc>
+    <lastmod>2017-12-29T15:26:33+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://kkuom.github.io/SecondSouffle/tags/tag-plugins/</loc>
-    <lastmod>2017-10-29T00:00:00+00:00</lastmod>
+    <lastmod>2014-10-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -195,7 +207,7 @@
   
   <url>
     <loc>https://kkuom.github.io/SecondSouffle/tags/test/</loc>
-    <lastmod>2017-10-29T00:00:00+00:00</lastmod>
+    <lastmod>2015-03-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
