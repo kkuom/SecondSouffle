@@ -17,7 +17,7 @@ tags:
 - "Postulat Philosophique"
 ---
 
-{{< wide-image src="https://github.com/kkuom/SecondSouffle/blob/master/docs/img/Premier_Souffle.png?raw=true" title="Le premier souffle" >}}
+{{% wide-image src="https://github.com/kkuom/SecondSouffle/blob/master/docs/img/Premier_Souffle.png?raw=true" title="Le premier souffle" %}}
 
 <table style="width:auto; margin:auto;">
   <tr style="background-color:#767a8c; color:#FFFFFF; text-align:center; font-weight:400;">
