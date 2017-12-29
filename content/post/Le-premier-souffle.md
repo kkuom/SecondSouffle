@@ -10,7 +10,7 @@ tags:
 - "Postulat Philosophique"
 
 thumbnailImagePosition: left
-thumbnailImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/img/StructurationCollectif.png?raw=true
+thumbnailImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/img/Cover.png?raw=true
 
 coverImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/img/Cover.png?raw=true
 coverMeta: in
