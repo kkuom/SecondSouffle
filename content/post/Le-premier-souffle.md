@@ -16,6 +16,7 @@ categories:
 - Structuration du collectif
 tags:
 - Postulat Philosophique
+comments: true
 ---
 
 #Le Premier Souffle
