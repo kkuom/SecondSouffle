@@ -2,19 +2,25 @@
 title: "Le Premier Souffle"
 date: 2017-12-29T15:26:33+01:00
 draft: false
-
-title: "Cover image showcase"
-thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/cover-image-showcase/city-750.jpg
-coverImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/img/StructurationCollectif.png?raw=true
 metaAlignment: center
-coverMeta: in
-coverSize: partial
-date: 2017-12-29T15:26:33+01:00
+
 categories:
 - "Structuration du collectif"
 tags:
 - "Postulat Philosophique"
+
+thumbnailImagePosition: left
+thumbnailImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/img/StructurationCollectif.png?raw=true
+
+coverImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/img/StructurationCollectif.png?raw=true
+coverMeta: in
+coverSize: partial
+
+showTags: true
+showPagination: true
+showSocial: true
+showDate: true
+comments: true
 ---
 
 {{< wide-image src="https://github.com/kkuom/SecondSouffle/blob/master/docs/img/Premier_Souffle.png?raw=true" title="Le premier souffle" >}}
