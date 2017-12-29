@@ -24,7 +24,34 @@ comments: true
 ---
 
 {{< wide-image src="https://github.com/kkuom/SecondSouffle/blob/master/docs/img/Premier_Souffle.png?raw=true">}}
-
+<table style="width:auto; margin:auto;">
+  <tr style="background-color:#767a8c; color:#FFFFFF; text-align:center; font-weight:400;">
+    <td style="background-color:#535767;">Pièces jointes</td>
+    <td>Informations</td>
+    <td>Langue</td>
+  </tr>
+  <tr>
+    <td style="text-align:right;">
+    {{% button href="https://www.dropbox.com/s/zc22bb8bbg8p2nt/Le%20premier%20souffle%20-%20pages.pdf?dl=0" icon="fa fa-download" %}}Page par page{{% /button %}}
+    </td>
+    <td>**PDF** (12 pages A5), _123ko_</td>
+    <td>Français</td>
+  </tr>
+  <tr>
+    <td style="text-align:right;">
+    {{% button href="https://www.dropbox.com/s/mv4lshzqezizwn5/Le%20premier%20souffle%20-%20planches.pdf?dl=0" icon="fa fa-download" %}}Planche par planche{{% /button %}}
+    </td>
+    <td>**PDF** (7 planches A4), _143ko_</td>
+    <td>Français</td>
+  </tr>
+  <tr>
+    <td style="text-align:right;">
+    {{% button href="https://www.dropbox.com/s/xk7ubtq6cqvvq1j/Le%20premier%20souffle%20-%20cahier.pdf?dl=0" icon="fa fa-download" %}}Livret recto/verso{{% /button %}}
+    </td>
+    <td>**PDF** (6 planches A4), _106ko_</td>
+    <td>Français</td>
+  </tr>
+</table>
 ___
 {{< alert info >}}
 **Remarque quant aux genres**
@@ -53,7 +80,7 @@ ___
 
 #### Liberté individuelle et contrainte collective
 
-Il existe une tension entre individu et collectif, la tension se situant au niveau de la liberté du choix de la contrainte. Bien que la liberté individuelle semble totale si une personne est seule, cettedite liberté est toutefois limitée par un grand nombre de contraintes directes (trouver et se faire à manger, trouver à boire, construire un logement, se déplacer, etc.). Par contre, un individu impliqué dans un collectif s’engage à respecter des contraintes indirectes en échange du soutien du collectif l’aidant à s’affranchir d’un grand nombre des contraintes directes susdites. Ceci est régit par le contrat social, contrat tacite entre l’individu et le collectif. Selon nous, le contrat social devrait augmenter les libertés individuelles des membres composant le collectif, cependant de nombreuses dérives groupales finissent par les diminuer et rendent celui-ci inadéquat. Des contraintes indirectes peuvent alors être vécues comme des contraintes directes par des individus. D’autre part, le contrat social est imposé aux individus du collectif et les enferme, car il n’existe pas une multiplicité de modèles sociétaux organisés autour d’autres contrats sociaux. De plus, la complexité du contrat social est immense tant ce dernier s’est immiscé en profondeur dans les moindres sphères collectives et individuelles du collectif. L’organisation sociale peut donc très rapidement glisser d’un collectif libérant (des contraintes directes) à un collectif aliénant (aux contraintes indirectes imposées sur les individus). La morale agit comme liant de ce contrat tacite et amène les personnes à se soumettre à ce contrat social sans chercher à le comprendre. Ainsi, pour être capable de libérer l’individu impliqué en son sein, le collectif doit mettre en place un contrat social basé sur l’éthique.
+Il existe une tension entre individu et collectif, la tension se situant au niveau de la liberté du choix de la contrainte. Bien que la liberté individuelle semble totale si une personne est seule, cettedite liberté est toutefois limitée par un grand nombre de contraintes directes (trouver et se faire à manger, trouver à boire, construire un logement, se déplacer, etc.). Par contre, un individu impliqué dans un collectif s’engage à respecter des contraintes indirectes en échange du soutien du collectif l’aidant à s’affranchir d’un grand nombre des contraintes directes susdites. Ceci est régit par le contrat social, contrat tacite entre l’individu et le collectif. {{< pullquote left >}}Selon nous, le contrat social devrait augmenter les libertés individuelles des membres composant le collectif.{{< /pullquote >}}Selon nous, le contrat social devrait augmenter les libertés individuelles des membres composant le collectif, cependant de nombreuses dérives groupales finissent par les diminuer et rendent celui-ci inadéquat. Des contraintes indirectes peuvent alors être vécues comme des contraintes directes par des individus. D’autre part, le contrat social est imposé aux individus du collectif et les enferme, car il n’existe pas une multiplicité de modèles sociétaux organisés autour d’autres contrats sociaux. De plus, la complexité du contrat social est immense tant ce dernier s’est immiscé en profondeur dans les moindres sphères collectives et individuelles du collectif. L’organisation sociale peut donc très rapidement glisser d’un collectif libérant (des contraintes directes) à un collectif aliénant (aux contraintes indirectes imposées sur les individus). La morale agit comme liant de ce contrat tacite et amène les personnes à se soumettre à ce contrat social sans chercher à le comprendre. Ainsi, pour être capable de libérer l’individu impliqué en son sein, le collectif doit mettre en place un contrat social basé sur l’éthique.
 
 
 #### Comment penser l’éthique dans un contrat social ?
