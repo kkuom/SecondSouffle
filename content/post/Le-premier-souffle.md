@@ -57,7 +57,8 @@ Le Premier Souffle se veut être le postulat philosophique sur lequel le collect
   </tr>
 </table>
 
-{{%attachments title="Pièces jointes" style="grey" pattern=".*(pdf)"/%}}
+{{% attachments /%}}
+
 ___
 {{< alert info >}}
 **Remarque quant aux genres**
