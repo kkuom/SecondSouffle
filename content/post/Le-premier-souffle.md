@@ -12,7 +12,7 @@ tags:
 thumbnailImagePosition: left
 thumbnailImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/img/StructurationCollectif.png?raw=true
 
-coverImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/img/StructurationCollectif.png?raw=true
+coverImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/img/Cover.png?raw=true
 coverMeta: in
 coverSize: partial
 
@@ -23,7 +23,7 @@ showDate: true
 comments: true
 ---
 
-{{< wide-image src="https://github.com/kkuom/SecondSouffle/blob/master/docs/img/Premier_Souffle.png?raw=true" title="Le premier souffle" >}}
+{{< wide-image src="https://github.com/kkuom/SecondSouffle/blob/master/docs/img/Premier_Souffle.png?raw=true">}}
 
 ___
 {{< alert info >}}
