@@ -48,10 +48,10 @@ tags:
   </tr>
 </table>
 ___
-{{< alert info >}}
+{{% alert info %}}
 **Remarque quant aux genres**
 _On  a l’habitude de voir le masculin absorber grammaticalement le féminin.  Ici, le féminin et le masculin sont employés de manière aléatoire, ceci  dans le but de conserver une lecture fluide tout en neutralisant la langue._
-{{< /alert >}}
+{{% /alert %}}
 
 #### Quelques (re)définitions
 
@@ -69,9 +69,9 @@ Le cadre est l’ensemble de règles régissant un collectif, quel qu’il soit 
 
 ___
 
-{{< blockquote "J. J. Rousseau" "Du Contrat social, L. I" >}}
+{{% blockquote "J. J. Rousseau" "Du Contrat social, L. I" %}}
   Trouver une forme d’association qui défende et protège de toute la force commune la personne et les biens de chaque associé, et par laquelle chacun, s’unissant à tous, n’obéisse pourtant qu’à lui-même, et reste aussi libre qu’auparavant. Tel est le problème fondamental dont le Contrat Social donne la solution.
-{{< /blockquote >}}
+{{% /blockquote %}}
 
 #### Liberté individuelle et contrainte collective
 
