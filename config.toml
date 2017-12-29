@@ -14,6 +14,7 @@
 
 baseURL = "https://kkuom.github.io/secondsouffle/"
 themesDir = "themes"
+publishDir = "docs"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
 title = "Collectif Second Souffle"
