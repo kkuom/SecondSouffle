@@ -201,7 +201,11 @@ section.attachments.grey label {
 }
 section.attachments.grey .attachments-files {
     background: #f4f4f4;
+    font-family: 'Lato', serif;
+    font-weight: 300;
 }
 section.attachments.grey .attachments-files a {
-    color: #faafa1;
+    color: #505d65;
+    text-shadow: 1px 1px 1px rgba(80,93,101,0.5);
+    font-weight: 400;
 }
