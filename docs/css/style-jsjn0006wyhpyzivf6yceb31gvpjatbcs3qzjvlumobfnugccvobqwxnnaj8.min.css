@@ -61,7 +61,6 @@ section.attachments {
 }
 
 section.attachments label {
-    font-family: "Open Sans",sans-serif;
     font-size: 1.6rem;
     font-weight: 400;
     padding-left: 0.5em;
@@ -110,7 +109,7 @@ section.attachments.blue .attachments-files {
 section.attachments.grey label {
     color: #fff;
     background: #505d65;
-    background-size: auto;
+    display: block;
 }
 
 section.attachments.grey .attachments-files {

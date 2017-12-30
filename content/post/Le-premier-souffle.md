@@ -6,6 +6,7 @@ metaAlignment: center
 
 categories:
 - "Structuration du collectif"
+- "Postulat Philosophique"
 tags:
 - "Postulat Philosophique"
 
