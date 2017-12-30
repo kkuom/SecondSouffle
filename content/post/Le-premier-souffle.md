@@ -47,7 +47,7 @@ L’éthique constitue chez les personnes l’ensemble des valeurs qu’elles on
 {{< hl-text yellow >}}Morale :{{< /hl-text >}}
 La morale est l’ensemble des valeurs collectives transmises, jugeant du bien et du mal. Ces valeurs sont toujours liées à des sociétés – patrie, communautés, tribus, familles, etc. – et sont souvent imposées aux membres qui les composent.
 
-{{< hl-text yellow >}}Cadre :{{< /hl-text >}}<br/>
+{{< hl-text yellow >}}Cadre :{{< /hl-text >}}
 Le cadre est l’ensemble de règles régissant un collectif, quel qu’il soit (lois, règlements, règles de vie, etc.), et exprimant la partie explicite du contrat social à laquelle les individus sont inféodés.
 
 ___
