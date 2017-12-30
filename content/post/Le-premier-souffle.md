@@ -47,12 +47,12 @@ L’éthique constitue chez les personnes l’ensemble des valeurs qu’elles on
 {{< hl-text yellow >}}Morale :{{< /hl-text >}}
 La morale est l’ensemble des valeurs collectives transmises, jugeant du bien et du mal. Ces valeurs sont toujours liées à des sociétés – patrie, communautés, tribus, familles, etc. – et sont souvent imposées aux membres qui les composent.
 
-{{< hl-text yellow >}}Cadre :{{< /hl-text >}}
+{{< hl-text yellow >}}Cadre :{{< /hl-text >}}<br/>
 Le cadre est l’ensemble de règles régissant un collectif, quel qu’il soit (lois, règlements, règles de vie, etc.), et exprimant la partie explicite du contrat social à laquelle les individus sont inféodés.
 
 ___
 
-{{< blockquote "J. J. Rousseau" "Du Contrat social, L. I" >}}
+{{< blockquote "J. J. Rousseau" "Du Contrat social, L. I" >}}<br/>
   Trouver une forme d’association qui défende et protège de toute la force commune la personne et les biens de chaque associé, et par laquelle chacun, s’unissant à tous, n’obéisse pourtant qu’à lui-même, et reste aussi libre qu’auparavant. Tel est le problème fondamental dont le Contrat Social donne la solution.
 {{< /blockquote >}}
 
