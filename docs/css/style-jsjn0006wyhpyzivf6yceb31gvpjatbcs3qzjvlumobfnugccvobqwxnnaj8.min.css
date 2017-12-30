@@ -339,4 +339,5 @@ section.attachments.grey .attachments-files a {
     width: 85%;
     margin: auto;
     padding-top: 30px;
+    display: block;
 }
