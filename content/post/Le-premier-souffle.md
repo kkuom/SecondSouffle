@@ -38,19 +38,18 @@ _On  a l’habitude de voir le masculin absorber grammaticalement le féminin.  
 
 # Quelques (re)définitions
 
-## **Éducation, Éduquer, Environnement Éducatif :**
+{{< hl-text yellow >}}**Éducation, Éduquer, Environnement Éducatif :**{{< /hl-text >}}
 Le mot « éduquer » a été critiqué par des groupes dont nous partageons en grande partie la vision politique. Dans le texte Éduquer est ignoble écrit par le collectif d’enfants berlinois K.R.Ä.T.Z.A, le caractère vertical et aliénant de l’éducation traditionnelle y est décrypté. Bien que nous partageons ce constat, nous choisissons délibérément de nous réapproprier cette terminologie en la redéfinissant. Nous considérons en effet que l’usager s’éduque lui-même en utilisant ce qui l’environne pour le faire.  Ainsi, un acteur éducatif conçoit et entretient cet environnement éducatif dans lequel l’usager est libre de s’éduquer.
 
-## **Éthique :**
+{{< hl-text yellow >}}**Éthique :**{{< /hl-text >}}
 L’éthique constitue chez les personnes l’ensemble des valeurs qu’elles ont acquises individuellement par expérimentation, leur permettant notamment d’envisager leur morale de façon critique.
 
-## **Morale :**
+{{< hl-text yellow >}}**Morale :**{{< /hl-text >}}
 La morale est l’ensemble des valeurs collectives transmises, jugeant du bien et du mal. Ces valeurs sont toujours liées à des sociétés – patrie, communautés, tribus, familles, etc. – et sont souvent imposées aux membres qui les composent.
 
-## **Cadre :**
+{{< hl-text yellow >}}**Cadre :**{{< /hl-text >}}
 Le cadre est l’ensemble de règles régissant un collectif, quel qu’il soit (lois, règlements, règles de vie, etc.), et exprimant la partie explicite du contrat social à laquelle les individus sont inféodés.
 
-Ta définition ? <span style="animation:1s blink step-end infinite;">|</span>
 ___
 
 {{< blockquote "J. J. Rousseau" "Du Contrat social, L. I" >}}
