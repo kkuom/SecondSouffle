@@ -194,8 +194,14 @@ section.attachments.grey label {
     color: #fff;
     background: #505d65;
     display: block;
+    font-family: 'Merriweather', serif;
+    font-size: 1.1em;
+    font-weight: 400;
+    letter-spacing: .02em;
 }
-
 section.attachments.grey .attachments-files {
     background: #f4f4f4;
+}
+section.attachments.grey .attachments-files a {
+    color: #faafa1;
 }
