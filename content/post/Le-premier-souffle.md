@@ -50,6 +50,7 @@ La morale est l’ensemble des valeurs collectives transmises, jugeant du bien e
 ##### **Cadre :**
 Le cadre est l’ensemble de règles régissant un collectif, quel qu’il soit (lois, règlements, règles de vie, etc.), et exprimant la partie explicite du contrat social à laquelle les individus sont inféodés.
 
+Ta définition ? <span style="animation:1s blink step-end infinite;">|</span>
 ___
 
 {{< blockquote "J. J. Rousseau" "Du Contrat social, L. I" >}}
