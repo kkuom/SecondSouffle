@@ -154,7 +154,7 @@ section.attachments .attachments-files {
     font-family: "Open Sans",sans-serif;
     font-size: 1.6rem;
     font-weight: 200;
-    padding: 10px 0px 10px 30px;
+    padding: 6px 0px 6px 27px;
     display: block;
     margin-top: 0rem;
     margin-bottom: 0rem;
@@ -200,9 +200,12 @@ section.attachments.grey label {
     letter-spacing: .02em;
 }
 section.attachments.grey .attachments-files {
+    margin-top: 2px;
     background: #f4f4f4;
     font-family: 'Lato', serif;
     font-weight: 300;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
 }
 section.attachments.grey .attachments-files a {
     color: #505d65;
