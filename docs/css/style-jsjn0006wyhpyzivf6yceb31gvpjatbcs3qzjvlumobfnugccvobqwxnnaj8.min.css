@@ -328,9 +328,7 @@ section.attachments.grey .attachments-files a {
 }
 
 #header-svg{
-    width: 8rem;
-    height: 2rem;
-}
-#header-svg path {
-    fill: #fff;
+    width: 85%;
+    margin: auto;
+    padding-top: 30px;
 }
