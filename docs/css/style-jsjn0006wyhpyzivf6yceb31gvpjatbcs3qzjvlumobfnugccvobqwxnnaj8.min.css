@@ -336,8 +336,8 @@ section.attachments.grey .attachments-files a {
 }
 
 #header-svg{
-    max-width: 85%;
+    max-width: 50%;
     margin: auto;
     padding-top: 30px;
-    display: flex;
+    display: block;
 }
