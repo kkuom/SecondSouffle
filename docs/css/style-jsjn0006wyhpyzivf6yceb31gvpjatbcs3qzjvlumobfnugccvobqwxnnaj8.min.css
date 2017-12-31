@@ -335,6 +335,14 @@ section.attachments.grey .attachments-files a {
     font-weight: 400;
 }
 
+#header-svg-wrapper {
+    background: #8451a1;
+    color: #fff;
+    text-align: center;
+    border-bottom: 4px solid #9c6fb6;
+    padding: 1rem;
+}
+
 #header-svg #seso-logo #logo-svg{
     width: 90%;
     margin: 0 auto;
