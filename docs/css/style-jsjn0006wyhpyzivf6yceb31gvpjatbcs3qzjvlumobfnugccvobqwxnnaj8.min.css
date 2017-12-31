@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css?family=Merriweather:300,300i,400,400i,700,700i,900,900i&subset=cyrillic,cyrillic-ext,latin-ext');
 @import url('https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i&subset=latin-ext');
 @font-face {
-    font-family: 'Delicious-SmallCaps, Delicious SmallCaps';
+    font-family: 'Delicious SmallCaps';
     src: url('/fonts/delicious-smallcaps-webfont.woff2') format('woff2'),
          url('/fonts/delicious-smallcaps-webfont.woff') format('woff');
     font-weight: normal;
