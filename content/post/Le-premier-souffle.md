@@ -51,7 +51,7 @@ Le cadre est l’ensemble de règles régissant un collectif, quel qu’il soit 
 
 ___
 
-{{< blockquote "J. J. Rousseau" "Du Contrat social, L. I" >}}<br/>
+{{< blockquote "J. J. Rousseau" "Du Contrat social, L. I" >}}
   Trouver une forme d’association qui défende et protège de toute la force commune la personne et les biens de chaque associé, et par laquelle chacun, s’unissant à tous, n’obéisse pourtant qu’à lui-même, et reste aussi libre qu’auparavant. Tel est le problème fondamental dont le Contrat Social donne la solution.
 {{< /blockquote >}}
 
