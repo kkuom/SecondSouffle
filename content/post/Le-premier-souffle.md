@@ -13,7 +13,7 @@ tags:
 thumbnailImagePosition: left
 thumbnailImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/img/Cover.png?raw=true
 
-coverImage: /images/Post-header.png?raw=true
+coverImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/img/Cover.png?raw=true
 coverMeta: in
 coverSize: partial
 
