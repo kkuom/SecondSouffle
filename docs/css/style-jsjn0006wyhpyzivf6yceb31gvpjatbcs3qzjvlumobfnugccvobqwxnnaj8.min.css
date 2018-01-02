@@ -29,7 +29,7 @@ h1,h2,h3,h4,h5,h6{letter-spacing:-.04em;font-weight:700;line-height:1.45em;color
 
 code,pre>code{font-family:Menlo,Consolas,monospace}
 
-h1,h2,h3{margin:1em 0}
+h1,h2,h3{margin:1em 0 0.5em 0}
 h4,h5,h6{margin:1em 0 .5em}
 p{margin:0 0 1.5em}
 dl,ol,ul{margin:0 0 .5em}
