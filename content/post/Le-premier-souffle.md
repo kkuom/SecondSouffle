@@ -31,8 +31,7 @@ Le Premier Souffle se veut être le postulat philosophique sur lequel le collect
 
 <!-- toc -->
 ___
-{{< alert info >}}
-**Remarque quant aux genres**
+{{< alert genre >}}
 _On  a l’habitude de voir le masculin absorber grammaticalement le féminin.  Ici, le féminin et le masculin sont employés de manière aléatoire, ceci  dans le but de conserver une lecture fluide tout en neutralisant la langue._
 {{< /alert >}}
 
