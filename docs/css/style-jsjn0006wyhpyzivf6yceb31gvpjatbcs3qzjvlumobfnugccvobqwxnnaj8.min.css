@@ -106,7 +106,7 @@ pre.code-highlight>code{padding:0;margin:0;line-height:inherit}#about{top:0;left
 .alert p{margin:1.5em 0 0}
 .alert p:first-child{margin:0}
 .alert:not(.no-icon){padding-left:55px}.btn,.btn--medium,.btn--small{padding:8px 15px}
-.alert:not(.no-icon):before{position:absolute;top:10px;left:15px;font-family:FontAwesome;font-size:2.5rem}
+.alert:not(.no-icon):before{position:absolute;top:0.5em;left:0.75em;font-family:FontAwesome;font-size:2.5rem}
 .alert.info{border-color:#349ef3;background-color:#e6f3fe}
 .alert.info:not(.no-icon):before{content:"\f05a";color:#349ef3}
 .alert.success{border-color:#4dc657;background-color:#effaf0;content:"\f058"}
