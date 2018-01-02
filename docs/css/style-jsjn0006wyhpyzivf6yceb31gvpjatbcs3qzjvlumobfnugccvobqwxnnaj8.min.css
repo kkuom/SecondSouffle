@@ -117,7 +117,8 @@ pre.code-highlight>code{padding:0;margin:0;line-height:inherit}#about{top:0;left
 .alert.danger:not(.no-icon):before{content:"\f05e";color:#f5311d}
 .alert.genre{border-color:#4B4B4B;background-color:#EBEBEB;color:#4B4B4B}
 .alert.genre:not(.no-icon):before{content:"\f224";color:#4B4B4B}
-#alert-align{display:table-cell;vertical-align:inherit;}
+#alert-table{display:table;vertical-align:middle}
+#alert-table-cell{display:table-cell;vertical-align:inherit}
 
 .archive-result{display:none}
 .archive .archive-title{color:#5d686f}
