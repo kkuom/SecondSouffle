@@ -36,7 +36,7 @@ ___
 _On  a l’habitude de voir le masculin absorber grammaticalement le féminin.  Ici, le féminin et le masculin sont employés de manière aléatoire, ceci  dans le but de conserver une lecture fluide tout en neutralisant la langue._
 {{< /alert >}}
 
-# <i class="fa fa-gears" aria-hidden="true" style="padding-right:15px;"></i>Quelques (re)définitions
+# <i class="fa fa-info-circle" aria-hidden="true" style="padding-right:13px;"></i>Quelques (re)définitions
 
 {{< hl-text yellow >}}Éducation, Éduquer, Environnement Éducatif :{{< /hl-text >}}
 Le mot « éduquer » a été critiqué par des groupes dont nous partageons en grande partie la vision politique. Dans le texte Éduquer est ignoble écrit par le collectif d’enfants berlinois K.R.Ä.T.Z.A, le caractère vertical et aliénant de l’éducation traditionnelle y est décrypté. Bien que nous partageons ce constat, nous choisissons délibérément de nous réapproprier cette terminologie en la redéfinissant. Nous considérons en effet que l’usager s’éduque lui-même en utilisant ce qui l’environne pour le faire.  Ainsi, un acteur éducatif conçoit et entretient cet environnement éducatif dans lequel l’usager est libre de s’éduquer.
