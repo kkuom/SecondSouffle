@@ -367,7 +367,8 @@ section.attachments.grey .attachments-files a {
 
 #TableOfContents {
     font-weight: 300;
-    margin-left: -15px;
+    border-left: 1px solid #bf635b;
+    display: table;
 }
 
 #table-of-contents{
