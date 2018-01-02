@@ -41,9 +41,9 @@ h4{font-size:1.8rem}
 h5{font-size:1.7rem}
 h6{font-size:1.6rem}
 
-a,a:active,a:hover,a:visited{cursor:pointer;color:#349ef3;text-decoration:none}
+a,a:active,a:hover,a:visited{cursor:pointer;color:#bf635b;text-decoration:none}
 .archive .archive-posts .archive-post .archive-post-title:hover,.archive .archive-title:hover,a:hover{text-decoration:underline}
-a:hover{color:#349ef3}
+a:hover{color:#bf635b}
 table{background:0 0;border-collapse:collapse;border-spacing:0;text-align:left}
 table th{border-bottom:2px solid #909ba2}
 table tr:nth-child(2n){background:#f7f8f8}
@@ -363,4 +363,13 @@ section.attachments.grey .attachments-files a {
 
 #header-svg a {
     display: inline-block;
+}
+
+#TableOfContents {
+    font-weight: 300;
+    margin-left: -15px;
+}
+
+#table-of-contents{
+    color: #bf635b;
 }
