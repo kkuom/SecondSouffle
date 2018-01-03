@@ -66,7 +66,7 @@ _On  a l’habitude de voir le masculin absorber grammaticalement le féminin.  
   </tr>
 </table>
 
-{{< blockquote "J. J. Rousseau" "Du Contrat social, L. I" >}}
+{{< blockquote "J. J. Rousseau," "Du Contrat social, L. I" >}}
   Trouver une forme d’association qui défende et protège de toute la force commune la personne et les biens de chaque associé, et par laquelle chacun, s’unissant à tous, n’obéisse pourtant qu’à lui-même, et reste aussi libre qu’auparavant. Tel est le problème fondamental dont le Contrat Social donne la solution.
 {{< /blockquote >}}
 
@@ -93,6 +93,6 @@ Selon nous, Second Souffle ne peut s’installer sur une base dite neutre (neutr
 
 ___
 
-{{< blockquote >}}
+{% blockquote %}
 En tant qu’acteurs éducatifs partageant une vision anarchiste et impliqués dans l’éducation populaire, nous envisageons cette association comme un pont entre ces deux mondes. Nous rêvons Second Souffle comme la connexion d’îles pirates d’en-dehors dans un océan de morale. Ces îles que nous côtoyons déjà continueraient alors leurs activités, mais auraient accès à de nouvelles passerelles leur permettant de s’entraider et de partager leurs singularités. Nous espérons que de ces relations libres découle une flopée d’îles bâtardes plus émancipatrices les unes que les autres, permettant d’ouvrir de nouveaux horizons aux voyageurs ou naufragés.
-{{< /blockquote >}}
+{% /blockquote %}
