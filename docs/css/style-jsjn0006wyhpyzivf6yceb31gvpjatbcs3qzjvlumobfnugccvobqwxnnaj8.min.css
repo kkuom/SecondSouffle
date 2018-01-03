@@ -335,87 +335,45 @@ a.fancybox{cursor:zoom-in!important}
 /* attachments shortcode */
 
 section.attachments {
-    margin: 2rem 0;
     position: relative;
+    display: table;
+    width: 100%
 }
 section.attachments label {
-    font-size: 1.6rem;
-    font-weight: 100;
-    padding-left: 0.5em;
-    padding-top: 0.2em;
-    padding-bottom: 0.2em;
-    margin: 0;
-    text-shadow: 1px 1px 1px #000;
-    border-top-right-radius: 6px;
+    text-align: center;
+    vertical-align: middle;
+    border-bottom-left-radius: 6px;
     border-top-left-radius: 6px;
+    width: 10%;
+    display: table-cell
 }
-
+section.attachments.red label {
+    color: #fff;
+    background: #bf635b;
+    text-shadow: 2px 2px 0 #8c433c
+}
 section.attachments .attachments-files {
-    font-family: 'Lato', sans-serif;
     font-weight: 300;
-    font-size: 1.6rem;
     padding: 0.2em 0 0.2em 1em;
-    display: block;
-    margin-top: 0rem;
-    margin-bottom: 0rem;
+    display: table-cell;
 }
-
-section.attachments.orange label {
-    color: #fff;
-    background: #F0B37E;
-    display: block;
-}
-
-section.attachments.orange .attachments-files {
-    background: #FFF2DB;
-}
-
-section.attachments.green label {
-    color: #fff;
-    background: rgba(92, 184, 92, 0.8);
-    display: block;
-}
-
-section.attachments.green .attachments-files {
-    background: #E6F9E6;
-}
-
-section.attachments.blue label {
-    color: #fff;
-    background: #6AB0DE;
-    display: block;
-}
-
-section.attachments.blue .attachments-files {
-    background: #E7F2FA;
-}
-
-section.attachments.grey label {
-    color: #fff;
-    background: #505d65;
-    display: block;
-    font-family: 'Merriweather', serif;
-    font-size: 1.1em;
-    font-weight: 400;
-    letter-spacing: .02em;
-}
-section.attachments.grey .attachments-files {
+section.attachments.red .attachments-files {
     margin-top: 2px;
-    background: #f4f4f4;
-    border-bottom-right-radius: 20px;
-    border-bottom-left-radius: 20px;
+    background: #fff5f5;
+    border-bottom-right-radius: 6px;
+    border-top-right-radius: 6px
 }
-section.attachments.grey .attachments-files a {
+section.attachments.red .attachments-files a {
     color: #505d65;
-    text-shadow: 1px 1px 0 rgba(0,0,0,0.15);
-    font-weight: 400;
+    font-weight: 400
 }
+
 
 #header-svg-wrapper {
     background: rgba(255, 255, 255, .6);
     border-bottom: 4px solid #fff;
     padding: 2rem 1rem 2rem 1rem;
-    text-align: center;
+    text-align: center
 }
 
 #header-svg #seso-logo #logo-svg{
@@ -423,25 +381,25 @@ section.attachments.grey .attachments-files a {
     margin: 0 auto;
     padding: 30px 0px 30px 0px;
     display: block;
-    border-bottom: 1px solid #9c6fb6;
+    border-bottom: 1px solid #9c6fb6
 }
 
 #seso-logo {
     max-width: 95%;
     text-transform: none;
-    text-align: center;
+    text-align: center
 }
 
 #header-svg a {
-    display: inline-block;
+    display: inline-block
 }
 
 #TableOfContents {
     font-weight: 300;
     border-left: 1px solid #bf635b;
-    display: table;
+    display: table
 }
 
 #table-of-contents{
-    color: #bf635b;
+    color: #bf635b
 }
