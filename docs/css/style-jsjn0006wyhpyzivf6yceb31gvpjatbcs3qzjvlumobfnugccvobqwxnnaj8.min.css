@@ -116,7 +116,7 @@ pre.code-highlight>code{padding:0;margin:0;line-height:inherit}#about{top:0;left
 .alert.warning:not(.no-icon):before{content:"\f071";color:#f5aa0a}
 .alert.danger{border-color:#f5311d;background-color:#feecea}
 .alert.danger:not(.no-icon):before{content:"\f05e";color:#f5311d}
-.alert.genre{margin:0;border-top:1px solid #f5f5f5;background-color:#333;color:rgba(255,255,255,.9)}
+.alert.genre{border:none;background-color:#333;color:rgba(255,255,255,.9)}
 .alert.genre:not(.no-icon):before{content:"\f224";color:rgba(255,255,255,.9);top:0.65em;left:0.45em;font-size:3.5rem}
 
 .archive-result{display:none}
