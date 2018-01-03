@@ -342,7 +342,7 @@ section.attachments {
 section.attachments label {
     text-align: center;
     vertical-align: middle;
-    padding: 0 2px;
+    width: 85px;
     display: table-cell
 }
 section.attachments.black label {
