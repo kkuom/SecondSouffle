@@ -13,7 +13,7 @@ tags:
 thumbnailImagePosition: left
 thumbnailImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/img/Cover.png?raw=true
 
-coverImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Post-header-structuration.png?raw=true
+coverImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Post-header.jpg?raw=true
 coverMeta: in
 coverSize: partial
 
@@ -27,7 +27,7 @@ comments: true
 Le Premier Souffle se veut être le postulat philosophique sur lequel le collectif se pose. Il est, s'il on veut, les fondations mêmes des textes fondateurs.
 <!--more-->
 
-{{%attachments title="" style="red" pattern=".*(pdf)"/%}}
+{{%attachments title="" pattern=".*(pdf)"/%}}
 
 <!-- toc -->
 ___
