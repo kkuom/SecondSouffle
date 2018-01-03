@@ -21,7 +21,7 @@ dl dt,table th{font-weight:700}
 
 html{font-size:10px;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;text-size-adjust:100%;-webkit-tap-highlight-color:transparent;tap-highlight-color:transparent}
 
-body{margin:0;padding:0;background:#fff;font-size:1.6rem;line-height:1.6em;letter-spacing:.01em;-webkit-font-smoothing:subpixel-antialiased;font-smoothing:subpixel-antialiased}
+body{margin:0;padding:0;background:#fff;font-size:1.6rem;line-height:1.6em;letter-spacing:.01em;-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:subpixel-antialiased;font-smoothing:subpixel-antialiased}
 
 body.pushed{overflow-x:hidden}
 
@@ -55,9 +55,6 @@ abbr,acronym{border-bottom:1px dotted #5d686f}
 blockquote{border-left:3px solid #5d686f;padding:0 15px;font-family:'Merriweather',serif;font-size:1.8rem;font-style:italic;line-height:1.8em;margin:1.5em 0.5em}
 blockquote cite:before{content:' — ';padding:0 .3em}
 blockquote>p:first-child{margin:0}
-
-blockquote:not(.no-icon){padding-left:55px}
-blockquote:not(.no-icon):before{content:"\f10d";color:#333;position:absolute;top:0.5em;left:0.75em;font-family:FontAwesome;font-size:2.5rem}
 
 
 @media only screen and (max-width:767px){code,h1{font-size:2.6rem}h2{font-size:2.2rem}h3{font-size:1.8rem}h4{font-size:1.6rem}h5{font-size:1.5rem}h6{font-size:1.4rem}}
