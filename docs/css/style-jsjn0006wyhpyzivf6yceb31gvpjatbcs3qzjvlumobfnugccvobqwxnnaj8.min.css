@@ -116,8 +116,8 @@ pre.code-highlight>code{padding:0;margin:0;line-height:inherit}#about{top:0;left
 .alert.warning:not(.no-icon):before{content:"\f071";color:#f5aa0a}
 .alert.danger{border-color:#f5311d;background-color:#feecea}
 .alert.danger:not(.no-icon):before{content:"\f05e";color:#f5311d}
-.alert.genre{border-color:#333;border-left:1px solid #333;background-color:rgba(0,0,0,.025);color:#505d65}
-.alert.genre:not(.no-icon):before{content:"\f224";color:#4B4B4B;top:0.65em;left:0.45em;font-size:3.5rem}
+.alert.genre{margin:0;border-top:1px solid #f5f5f5;background-color:#333;color:rgba(255,255,255,.9)}
+.alert.genre:not(.no-icon):before{content:"\f224";color:rgba(255,255,255,.9);top:0.65em;left:0.45em;font-size:3.5rem}
 
 .archive-result{display:none}
 .archive .archive-title{color:#5d686f}
@@ -360,7 +360,6 @@ section.attachments .attachments-files {
 section.attachments.black .attachments-files {
     margin-top: 2px;
     background-color: rgba(0,0,0,.025);
-    border-left: 1px solid #333
 }
 section.attachments.black .attachments-files a {
     color: #505d65;
