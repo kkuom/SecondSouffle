@@ -23,14 +23,15 @@ showSocial: true
 showDate: true
 comments: true
 ---
-
+<div class="summary">
 Le Premier Souffle se veut être le postulat philosophique sur lequel le collectif se pose. Il est, s'il on veut, les fondations mêmes des textes fondateurs.
 <!--more-->
 
 {{%attachments title="" style="black" pattern=".*(pdf)"/%}}
 
 <!-- toc -->
-___
+</div>
+
 {{< alert genre >}}
 _On  a l’habitude de voir le masculin absorber grammaticalement le féminin.  Ici, le féminin et le masculin sont employés de manière aléatoire, ceci  dans le but de conserver une lecture fluide tout en neutralisant la langue._
 {{< /alert >}}
