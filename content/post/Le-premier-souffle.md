@@ -27,7 +27,7 @@ comments: true
 Le Premier Souffle se veut être le postulat philosophique sur lequel le collectif se pose. Il est, s'il on veut, les fondations mêmes des textes fondateurs.
 <!--more-->
 
-{{%attachments title="" pattern=".*(pdf)"/%}}
+{{%attachments title="" style="black" pattern=".*(pdf)"/%}}
 
 <!-- toc -->
 ___

@@ -344,6 +344,8 @@ section.attachments label {
     vertical-align: middle;
     width: 10%;
     display: table-cell
+}
+section.attachments.black label {
     color: #fff;
     background-color: #333;
     text-shadow: 2px 2px 0 #333, 4px 4px 0 rgba(0, 0, 0, 0.2)
@@ -352,11 +354,13 @@ section.attachments .attachments-files {
     font-weight: 300;
     padding: 0.2em 0 0.2em 1em;
     display: table-cell;
+}
+section.attachments.black .attachments-files {
     margin-top: 2px;
     background-color: rgba(0,0,0,.025);
     border-left: 1px solid #333
 }
-section.attachments-files a {
+section.attachments.black .attachments-files a {
     color: #505d65;
     font-weight: 400
 }
