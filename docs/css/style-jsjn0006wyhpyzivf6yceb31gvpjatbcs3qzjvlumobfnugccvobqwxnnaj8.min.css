@@ -41,7 +41,7 @@ h4{font-size:1.8rem}
 h5{font-size:1.7rem}
 h6{font-size:1.6rem}
 
-a,a:active,a:hover,a:visited{cursor:pointer;color:#bf635b;text-decoration:none}
+a,a:active,a:hover,a:visited{cursor:pointer;color:#333;text-decoration:none}
 .archive .archive-posts .archive-post .archive-post-title:hover,.archive .archive-title:hover,a:hover{text-decoration:underline}
 a:hover{color:#bf635b}
 table{background:0 0;border-collapse:collapse;border-spacing:0;text-align:left}
@@ -396,10 +396,13 @@ section.attachments.red .attachments-files a {
 
 #TableOfContents {
     font-weight: 300;
-    border-left: 1px solid #bf635b;
+    border-left: 1px solid #333;
     display: table
 }
 
 #table-of-contents{
-    color: #bf635b
+    color: #fff;
+    background-color: #333;
+    font-weight: 300;
+    padding: 0px 4px 0 40px
 }
