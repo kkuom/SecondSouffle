@@ -359,7 +359,7 @@ section.attachments .attachments-files {
 }
 section.attachments.red .attachments-files {
     margin-top: 2px;
-    background: #fff5f5;
+    background: #fafafa;
     border-bottom-right-radius: 6px;
     border-top-right-radius: 6px
 }
