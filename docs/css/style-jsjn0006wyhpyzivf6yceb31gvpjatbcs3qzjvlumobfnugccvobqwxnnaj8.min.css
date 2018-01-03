@@ -348,7 +348,7 @@ section.attachments label {
     display: table-cell
 }
 section.attachments.black label {
-    color: #fff;
+    color: rgba(255,255,255,0.9);
     background-color: #333;
     text-shadow: 2px 2px 0 #333, 4px 4px 0 rgba(0, 0, 0, 0.2)
 }
@@ -412,6 +412,5 @@ section.attachments.black .attachments-files a {
 
 .post-summary {
   font-size: 1.7rem;
-  padding: 20px 20px 0 20px
-  margin-top:0;
+  padding: 20px 20px 0 20px;
 }
