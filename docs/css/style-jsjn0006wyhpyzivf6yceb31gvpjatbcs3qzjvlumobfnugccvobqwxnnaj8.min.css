@@ -43,7 +43,7 @@ h6{font-size:1.6rem}
 
 a,a:active,a:hover,a:visited{cursor:pointer;color:#333;text-decoration:none}
 .archive .archive-posts .archive-post .archive-post-title:hover,.archive .archive-title:hover,a:hover{text-decoration:underline}
-a:hover{color:#bf635b}
+a:hover{color:#fa8072}
 table{background:0 0;border-collapse:collapse;border-spacing:0;text-align:left}
 table th{border-bottom:2px solid #909ba2}
 table tr:nth-child(2n){background:#f7f7f7}
@@ -356,13 +356,14 @@ section.attachments .attachments-files {
     font-weight: 300;
     padding: 0.2em 1em 0.2em 1em;
     display: table-cell;
+    color:#333
 }
 section.attachments.black .attachments-files {
     margin-top: 2px;
     background-color: rgba(0,0,0,.025);
 }
 section.attachments.black .attachments-files a {
-    color: #505d65;
+    color: #333;
     font-weight: 400
 }
 
@@ -407,10 +408,11 @@ section.attachments.black .attachments-files a {
 
 .summary {
   background-color: #F5F5F5;
-  border-top: 1px solid #fff;
+  border-top: 1px solid #fff
 }
 
 .post-summary {
   font-size: 1.7rem;
   padding: 20px 20px 0 20px;
+  color:#333
 }
