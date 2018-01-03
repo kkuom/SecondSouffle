@@ -352,7 +352,7 @@ section.attachments.black label {
 }
 section.attachments .attachments-files {
     font-weight: 300;
-    padding: 0.2em 0 0.2em 1em;
+    padding: 0.2em 1em 0.2em 1em;
     display: table-cell;
 }
 section.attachments.black .attachments-files {
