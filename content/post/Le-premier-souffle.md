@@ -5,8 +5,8 @@ draft: false
 metaAlignment: center
 
 categories:
+- "Brochures"
 - "Structuration du collectif"
-- "Postulat Philosophique"
 tags:
 - "Postulat Philosophique"
 
