@@ -24,7 +24,12 @@ showDate: true
 comments: true
 ---
 <section class="summary">
-<p class="post-summary">Le Premier Souffle se veut être le postulat philosophique sur lequel le collectif se pose. Il est, s'il on veut, les fondations mêmes des textes fondateurs.</p>
+<article>
+    <div class="eta"></div>
+    <div class="word-count"></div>
+</article>
+<p class="post-summary">
+Le Premier Souffle se veut être le postulat philosophique sur lequel le collectif se pose. Il est, s'il on veut, les fondations mêmes des textes fondateurs.</p>
 <!--more-->
 <!-- toc -->
 {{%attachments title="" style="black" pattern=".*(pdf)"/%}}
@@ -32,7 +37,7 @@ comments: true
 _On  a l’habitude de voir le masculin absorber grammaticalement le féminin.  Ici, le féminin et le masculin sont employés de manière aléatoire, ceci  dans le but de conserver une lecture fluide tout en neutralisant la langue._
 {{< /alert >}}
 </section>
-
+<section class="article-count">
 # <i class="fa fa-info-circle" aria-hidden="true" style="padding-right:13px;"></i>Quelques (re)définitions
 
 <table>
@@ -96,3 +101,4 @@ ___
 {{< blockquote >}}
 En tant qu’acteurs éducatifs partageant une vision anarchiste et impliqués dans l’éducation populaire, nous envisageons cette association comme un pont entre ces deux mondes. Nous rêvons Second Souffle comme la connexion d’îles pirates d’en-dehors dans un océan de morale. Ces îles que nous côtoyons déjà continueraient alors leurs activités, mais auraient accès à de nouvelles passerelles leur permettant de s’entraider et de partager leurs singularités. Nous espérons que de ces relations libres découle une flopée d’îles bâtardes plus émancipatrices les unes que les autres, permettant d’ouvrir de nouveaux horizons aux voyageurs ou naufragés.
 {{< /blockquote >}}
+</section>
