@@ -9,6 +9,8 @@ categories:
 - "Structuration du collectif"
 tags:
 - "Postulat Philosophique"
+- "Éthique"
+- "Contrat social"
 
 thumbnailImagePosition: left
 thumbnailImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/img/Cover.png?raw=true

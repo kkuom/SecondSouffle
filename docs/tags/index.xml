@@ -6,10 +6,19 @@
     <description>Recent content in Tags on Collectif Second Souffle</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 May 2015 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 Dec 2017 15:26:33 +0100</lastBuildDate>
     
 	<atom:link href="https://kkuom.github.io/SecondSouffle/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Contrat Social</title>
+      <link>https://kkuom.github.io/SecondSouffle/tags/contrat-social/</link>
+      <pubDate>Fri, 29 Dec 2017 15:26:33 +0100</pubDate>
+      
+      <guid>https://kkuom.github.io/SecondSouffle/tags/contrat-social/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Cover Image</title>
@@ -197,6 +206,15 @@
       <pubDate>Sat, 09 Aug 2014 00:00:00 +0000</pubDate>
       
       <guid>https://kkuom.github.io/SecondSouffle/tags/youtube/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Éthique</title>
+      <link>https://kkuom.github.io/SecondSouffle/tags/%C3%A9thique/</link>
+      <pubDate>Fri, 29 Dec 2017 15:26:33 +0100</pubDate>
+      
+      <guid>https://kkuom.github.io/SecondSouffle/tags/%C3%A9thique/</guid>
       <description></description>
     </item>
     
