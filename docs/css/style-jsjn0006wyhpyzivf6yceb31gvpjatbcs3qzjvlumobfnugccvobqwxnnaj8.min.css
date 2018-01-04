@@ -279,7 +279,7 @@ a.fancybox{cursor:zoom-in!important}
 .postShorten .postShorten-content,.postShorten .postShorten-excerpt{text-rendering:optimizelegibility;letter-spacing:-.3px;font-family:'Lato', sans-serif;color:#5d686f;font-weight:400;overflow:hidden;-webkit-hypens:auto;-moz-hypens:auto;hypens:auto}
 .postShorten .postShorten-content img,.postShorten .postShorten-excerpt img{display:block;width:auto;max-width:100%}
 .postShorten .postShorten-excerpt{margin-top:15px}
-.postShorten .postShorten-excerpt p:nth-child(1){margin:0}
+.postShorten .postShorten-excerpt p:nth-child(1){}
 .postShorten .postShorten-content{margin-top:25px}
 a.postShorten-continue{transition:.5s;cursor:pointer;color:#777;text-decoration:none;border:1px solid rgba(0,0,0,0);padding:1px 5px;border-radius:3px}
 .postShorten-continue:visited{cursor:pointer;color:#777;text-decoration:none}
