@@ -12,7 +12,7 @@ categories:
 tags:
 - cover image
 thumbnailImagePosition: bottom
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/elements-showcase/vintage-140.jpg
+thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/welcome-to-tranquilpeak/city-750.jpg
 ---
 
 Tranquilpeak integrate a unique "cover image" feature. Open this post to see how this feature sublimate your article.
