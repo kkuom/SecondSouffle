@@ -270,7 +270,7 @@ a.fancybox{cursor:zoom-in!important}
 .postShorten-group .postShorten{padding:10px 0px 10px 0px;margin-bottom:10px;border-bottom:1px solid rgba(0,0,0,.1);background-color:#f5f5f5}
 .postShorten{position:relative;width:100%;display:inline-block;vertical-align:top}
 .postShorten .postShorten-thumbnailimg{overflow:hidden}
-.postShorten-header{margin:0 0 0 10px}
+.postShorten-header{margin:0 10px -10px 10px}
 .postShorten .postShorten-header .postShorten-title{margin:0;word-break:initial;overflow:hidden;font-family:'Love Ya Like A Sister';font-weight:normal;letter-spacing:.1px}
 .postShorten .postShorten-meta{line-height:1.5em}
 .postShorten .postShorten-meta,.postShorten .postShorten-meta a,.postShorten .postShorten-readingtime{color:#9eabb3}
