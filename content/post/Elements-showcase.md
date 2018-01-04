@@ -7,7 +7,7 @@ categories:
 tags:
 - html elements
 - markdown
-thumbnailImagePosition: left
+thumbnailImagePosition: right
 thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/elements-showcase/vintage-140.jpg
 ---
 
