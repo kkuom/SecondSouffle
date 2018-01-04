@@ -25,7 +25,7 @@
 
   var pluginName = "readRemaining",
     defaults = {
-      showGaugeDelay   : 1000,           // Delay for the gauge, 0 if always visible.
+      showGaugeDelay   : 0,              // Delay for the gauge, 0 if always visible.
       showGaugeOnStart : true,          // Show the gauge initially, before the user scroll.
       timeFormat       : '%mm %ss left',
       maxTimeToShow    : 20*60,          // Show remaining time only if is lower than x minutes (multiplied to seconds).
@@ -57,7 +57,7 @@
       this.updateWithNextMeasurement = false;
 
       this.scrollingElement = this.element;
-      if ($(this.element).prop("tagName").toString().toLowerCase() == 'body') { this.scrollingElement = window; }
+      if ($(this.element).prop("tagName").toString().toLowerCase() == 'main-content-wrap') { this.scrollingElement = window; }
 
       this.currentScrollPos = $(this.scrollingElement).scrollTop();
       this.startScrollPos4measure = this.currentScrollPos;
