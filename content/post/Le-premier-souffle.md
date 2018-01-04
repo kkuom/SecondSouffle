@@ -23,6 +23,14 @@ showSocial: true
 showDate: true
 comments: true
 ---
+<script>
+  $(function() {
+    $('article').readingTime({
+      wordCountTarget: '.words'
+    });
+  });
+</script>
+
 <section class="summary">
 
 <p><small><span class="eta"></span> (<span class="word-count"></span> words)</small></p>

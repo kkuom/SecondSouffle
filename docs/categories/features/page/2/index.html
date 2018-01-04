@@ -15,27 +15,6 @@
 <html lang="en-us">
   <head>
     
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
-    <script type="text/javascript">
-    if (typeof jQuery == 'undefined') {
-        document.write(unescape("%3Cscript src='https://kkuom.github.io/SecondSouffle/js/jquery.1.9.1.min.js' type='text/javascript'%3E%3C/script%3E"));
-    }
-    </script>
-    <script src="https://kkuom.github.io/SecondSouffle/js/readingTime.js"></script>
-    <script>
-      $(function() {
-        $('article').each(function() {
-          $(this).readingTime({
-            readingTimeTarget: $(this).find('.eta'),
-            wordCountTarget: $(this).find('.words'),
-            remotePath: $(this).attr('data-file'),
-            remoteTarget: $(this).attr('data-target')
-          });
-        });
-      });
-    </script>
-
-
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="generator" content="Hugo 0.31.1 with theme Tranquilpeak 0.4.3-BETA">
@@ -83,6 +62,27 @@
     <link rel="stylesheet" href="https://kkuom.github.io/SecondSouffle/css/style-jsjn0006wyhpyzivf6yceb31gvpjatbcs3qzjvlumobfnugccvobqwxnnaj8.min.css" />
     
     
+    
+    
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
+    <script type="text/javascript">
+    if (typeof jQuery == 'undefined') {
+        document.write(unescape("%3Cscript src='https://kkuom.github.io/SecondSouffle/js/jquery.1.9.1.min.js' type='text/javascript'%3E%3C/script%3E"));
+    }
+    </script>
+    <script src="https://kkuom.github.io/SecondSouffle/js/readingTime.js"></script>
+    <script>
+      $(function() {
+        $('article').each(function() {
+          $(this).readingTime({
+            readingTimeTarget: $(this).find('.eta'),
+            wordCountTarget: $(this).find('.words'),
+            remotePath: $(this).attr('data-file'),
+            remoteTarget: $(this).attr('data-target')
+          });
+        });
+      });
+    </script>
 
     
       
@@ -366,7 +366,15 @@
                   Dec 12, 2017
                 </span>
               </span>
-              <div class="media-content hide-xs font-merryweather"><section class="summary"></div>
+              <div class="media-content hide-xs font-merryweather"><script>
+  $(function() {
+    $('article').readingTime({
+      wordCountTarget: '.words'
+    });
+  });
+</script>
+
+<section class="summary"></div>
             </div>
             <div style="clear:both;"></div>
             <hr>
