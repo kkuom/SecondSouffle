@@ -21,7 +21,7 @@ Licensed under the MIT license
 							wordCountTarget: null,
 							wordsPerMinute: 270,
 							round: true,
-							lang: 'en',
+							lang: 'fr',
 					lessThanAMinuteString: '',
 					prependTimeString: '',
 					prependWordString: '',
