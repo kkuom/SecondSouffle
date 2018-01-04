@@ -233,7 +233,12 @@
           
           <div class="post-content markdown" itemprop="articleBody">
             <div class="main-content-wrap">
-                            <p>Youtube and Vimeo videos are easily integrated thanks to tags plugins. Of course, you can add video other platforms like dailymotion.
+              <script src="https://kkuom.github.io/SecondSouffle/js/jquery.min.js"></script>
+              <script src="js/readremaining.jquery.js"></script>
+              <script>
+              	$('main-content-wrap').readRemaining();
+              </script>
+              <p>Youtube and Vimeo videos are easily integrated thanks to tags plugins. Of course, you can add video other platforms like dailymotion.
 </p>
 
 <p><strong>Youtube</strong></p>
@@ -252,13 +257,6 @@
  </div>
 </p>
               
-            <script>
-              $(function() {
-                $('article').readingTime({
-                  wordCountTarget: '.word-count'
-                });
-              });
-            </script>
             </div>
           </div>
           <div id="post-footer" class="post-footer main-content-wrap">

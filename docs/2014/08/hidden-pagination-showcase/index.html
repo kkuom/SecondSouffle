@@ -233,18 +233,16 @@
           
           <div class="post-content markdown" itemprop="articleBody">
             <div class="main-content-wrap">
-                            <p>This post is used to show how a site looks if the pagination is hidden.
+              <script src="https://kkuom.github.io/SecondSouffle/js/jquery.min.js"></script>
+              <script src="js/readremaining.jquery.js"></script>
+              <script>
+              	$('main-content-wrap').readRemaining();
+              </script>
+              <p>This post is used to show how a site looks if the pagination is hidden.
 </p>
 
 <p>In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus.</p>
               
-            <script>
-              $(function() {
-                $('article').readingTime({
-                  wordCountTarget: '.word-count'
-                });
-              });
-            </script>
             </div>
           </div>
           <div id="post-footer" class="post-footer main-content-wrap">

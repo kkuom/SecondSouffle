@@ -233,7 +233,12 @@
           
           <div class="post-content markdown" itemprop="articleBody">
             <div class="main-content-wrap">
-                            <p>Check out how Tranquilpeak theme display well HTML elements (title, paragraph, blockquote, table and more..). It&rsquo;s simple and elegant.
+              <script src="https://kkuom.github.io/SecondSouffle/js/jquery.min.js"></script>
+              <script src="js/readremaining.jquery.js"></script>
+              <script>
+              	$('main-content-wrap').readRemaining();
+              </script>
+              <p>Check out how Tranquilpeak theme display well HTML elements (title, paragraph, blockquote, table and more..). It&rsquo;s simple and elegant.
 </p>
 
 <h1 id="heading-1">Heading 1</h1>
@@ -320,13 +325,6 @@
  Nam
 sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. <acronym title="National Basketball Association">NBA</acronym> Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.  <abbr title="Avenue">AVE</abbr></p>
               
-            <script>
-              $(function() {
-                $('article').readingTime({
-                  wordCountTarget: '.word-count'
-                });
-              });
-            </script>
             </div>
           </div>
           <div id="post-footer" class="post-footer main-content-wrap">

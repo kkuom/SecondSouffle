@@ -223,7 +223,12 @@
           
           <div class="post-content markdown" itemprop="articleBody">
             <div class="main-content-wrap">
-                            <p>This post is used to show how tag plugins are displayed. See <a href="https://github.com/kakawait/hugo-tranquilpeak-theme/blob/master/docs/user.md#tags">docs</a> for more info.
+              <script src="https://kkuom.github.io/SecondSouffle/js/jquery.min.js"></script>
+              <script src="js/readremaining.jquery.js"></script>
+              <script>
+              	$('main-content-wrap').readRemaining();
+              </script>
+              <p>This post is used to show how tag plugins are displayed. See <a href="https://github.com/kakawait/hugo-tranquilpeak-theme/blob/master/docs/user.md#tags">docs</a> for more info.
 </p>
 
 <h2><span id="table-of-contents">Dans cet article</span></h2><nav id="TableOfContents">
@@ -1344,13 +1349,6 @@ li[lang=ru] {
 
 <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio.</p>
               
-            <script>
-              $(function() {
-                $('article').readingTime({
-                  wordCountTarget: '.word-count'
-                });
-              });
-            </script>
             </div>
           </div>
           <div id="post-footer" class="post-footer main-content-wrap">

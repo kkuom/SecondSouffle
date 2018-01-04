@@ -249,7 +249,12 @@
           
           <div class="post-content markdown" itemprop="articleBody">
             <div class="main-content-wrap">
-                            <p>And here is the image gallery!
+              <script src="https://kkuom.github.io/SecondSouffle/js/jquery.min.js"></script>
+              <script src="js/readremaining.jquery.js"></script>
+              <script>
+              	$('main-content-wrap').readRemaining();
+              </script>
+              <p>And here is the image gallery!
 </p>
               
   
@@ -328,13 +333,6 @@
     </div>
     
 
-            <script>
-              $(function() {
-                $('article').readingTime({
-                  wordCountTarget: '.word-count'
-                });
-              });
-            </script>
             </div>
           </div>
           <div id="post-footer" class="post-footer main-content-wrap">
