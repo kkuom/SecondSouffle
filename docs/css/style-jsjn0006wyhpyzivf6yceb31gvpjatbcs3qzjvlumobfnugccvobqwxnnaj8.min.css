@@ -281,11 +281,10 @@ a.fancybox{cursor:zoom-in!important}
 .postShorten .postShorten-excerpt{margin-top:15px}
 .postShorten .postShorten-excerpt p:nth-child(1){margin:0}
 .postShorten .postShorten-content{margin-top:25px}
-a.postShorten-continue{cursor:pointer;color:#777;text-decoration:none;border:1px solid rgba(0,0,0,0);padding:1px 5px;border-radius:3px}
+a.postShorten-continue{transition:.5s;cursor:pointer;color:#777;text-decoration:none;border:1px solid rgba(0,0,0,0);padding:1px 5px;border-radius:3px}
 .postShorten-continue:visited{cursor:pointer;color:#777;text-decoration:none}
 .postShorten-continue:active,.postShorten-continue:hover{cursor:pointer;color:#fa8072;text-decoration:none;border:1px solid rgba(250,128,114,1);padding:1px 5px;border-radius:3px}
-.postShorten-continue:not(.no-icon):before{content:"\f1ea";font-family:FontAwesome;vertical-align:middle;margin-right:12px;margin-left:-6px}
-.postShorten-continue:not(.no-icon):hover{content:"\f1ea";font-family:FontAwesome;vertical-align:middle;margin-right:6px}
+.postShorten-continue:not(.no-icon):before{content:"\f1ea";font-family:FontAwesome;vertical-align:middle;margin-right:6px}
 
 @media only screen and (max-width:479px){.postShorten .postShorten-thumbnailimg,.postShorten .postShorten-thumbnailimg img{display:none}}
 @media only screen and (min-width:480px){.postShorten.postShorten--thumbnailimg-right .postShorten-thumbnailimg{float:right}.postShorten.postShorten--thumbnailimg-right .postShorten-thumbnailimg img{display:block;width:140px;height:140px;object-fit:cover;overflow:hidden}.postShorten.postShorten--thumbnailimg-right .postShorten-wrap{float:left;width:calc(100% - 140px - 20px)}.postShorten.postShorten--thumbnailimg-left .postShorten-thumbnailimg{float:left}.postShorten.postShorten--thumbnailimg-left .postShorten-thumbnailimg img{display:block;width:140px;height:140px;object-fit:cover;overflow:hidden}.postShorten.postShorten--thumbnailimg-left .postShorten-wrap{float:right;width:calc(100% - 140px - 20px)}.postShorten.postShorten--thumbnailimg-top .postShorten-thumbnailimg{margin-top:5px}.postShorten.postShorten--thumbnailimg-bottom .postShorten-wrap{display:block;width:100%}.postShorten.postShorten--thumbnailimg-bottom .postShorten-excerpt>p{margin-bottom:0}.postShorten.postShorten--thumbnailimg-bottom .postShorten-thumbnailimg{display:block;width:100%;overflow:hidden;margin:15px 0}.postShorten.postShorten--thumbnailimg-bottom .postShorten-thumbnailimg img{width:auto;height:auto}}
