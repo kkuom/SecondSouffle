@@ -24,10 +24,9 @@ showDate: true
 comments: true
 ---
 <section class="summary">
-<article>
-    <div class="eta"></div>
-    <div class="word-count"></div>
-</article>
+
+<p><small><span class="eta"></span> (<span class="word-count"></span> words)</small></p>
+
 <p class="post-summary">
 Le Premier Souffle se veut être le postulat philosophique sur lequel le collectif se pose. Il est, s'il on veut, les fondations mêmes des textes fondateurs.</p>
 <!--more-->
