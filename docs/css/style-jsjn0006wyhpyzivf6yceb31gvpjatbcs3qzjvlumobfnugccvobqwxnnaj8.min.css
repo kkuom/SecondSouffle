@@ -418,13 +418,8 @@ section.attachments.black .attachments-files a {
 
 .summary {
   background-color: #F5F5F5;
-  border-top: 1px solid #fff
-}
-
-.post-summary {
-  font-size: 1.7rem;
-  padding: 20px 20px 0 20px;
-  color:#333
+  border-top: 1px solid #fff;
+  padding: 0px 10px
 }
 
 .readRemainingGauge {
