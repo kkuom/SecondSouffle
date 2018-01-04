@@ -11,7 +11,7 @@ categories:
 - features
 tags:
 - cover image
-thumbnailImagePosition: bottom
+thumbnailImagePosition: top
 thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/welcome-to-tranquilpeak/city-750.jpg
 ---
 
