@@ -69,7 +69,7 @@
     <link rel="stylesheet" href="https://kkuom.github.io/SecondSouffle/css/style-jsjn0006wyhpyzivf6yceb31gvpjatbcs3qzjvlumobfnugccvobqwxnnaj8.min.css" />
     
     
-    
+
     
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
     <script type="text/javascript">
@@ -253,12 +253,21 @@
 </div>
           
           <div class="post-content markdown" itemprop="articleBody">
-            <div class="main-content-wrap article">
+            <div class="main-content-wrap">
+              <article class="article">
               <p>This post is used to show how a site looks if the tag section is hidden.
 </p>
 
 <p>In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus.</p>
               
+            </article>
+            <script>
+              $(function() {
+                $('article').readingTime({
+                  wordCountTarget: '.words'
+                });
+              });
+            </script>
             </div>
           </div>
           <div id="post-footer" class="post-footer main-content-wrap">
@@ -489,15 +498,7 @@
                   Dec 12, 2017
                 </span>
               </span>
-              <div class="media-content hide-xs font-merryweather"><script>
-  $(function() {
-    $('article').readingTime({
-      wordCountTarget: '.words'
-    });
-  });
-</script>
-
-<section class="summary"></div>
+              <div class="media-content hide-xs font-merryweather"><section class="summary"></div>
             </div>
             <div style="clear:both;"></div>
             <hr>

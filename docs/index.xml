@@ -17,15 +17,7 @@
       <pubDate>Fri, 29 Dec 2017 15:26:33 +0100</pubDate>
       
       <guid>https://kkuom.github.io/SecondSouffle/2017/12/le-premier-souffle/</guid>
-      <description>&lt;script&gt;
-  $(function() {
-    $(&#39;article&#39;).readingTime({
-      wordCountTarget: &#39;.words&#39;
-    });
-  });
-&lt;/script&gt;
-
-&lt;section class=&#34;summary&#34;&gt;</description>
+      <description>&lt;section class=&#34;summary&#34;&gt;</description>
     </item>
     
     <item>

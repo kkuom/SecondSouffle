@@ -69,7 +69,7 @@
     <link rel="stylesheet" href="https://kkuom.github.io/SecondSouffle/css/style-jsjn0006wyhpyzivf6yceb31gvpjatbcs3qzjvlumobfnugccvobqwxnnaj8.min.css" />
     
     
-    
+
     
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
     <script type="text/javascript">
@@ -253,7 +253,8 @@
 </div>
           
           <div class="post-content markdown" itemprop="articleBody">
-            <div class="main-content-wrap article">
+            <div class="main-content-wrap">
+              <article class="article">
               <p>Tranquilpeak Hugo theme have its own theme to highlight source code. It&rsquo;s based on GitHub theme: simple and elegant. Check out how it sublimate source codes.
 </p>
 
@@ -2266,6 +2267,14 @@ func main() {
   </table>
 </figure></p>
               
+            </article>
+            <script>
+              $(function() {
+                $('article').readingTime({
+                  wordCountTarget: '.words'
+                });
+              });
+            </script>
             </div>
           </div>
           <div id="post-footer" class="post-footer main-content-wrap">
@@ -2512,15 +2521,7 @@ func main() {
                   Dec 12, 2017
                 </span>
               </span>
-              <div class="media-content hide-xs font-merryweather"><script>
-  $(function() {
-    $('article').readingTime({
-      wordCountTarget: '.words'
-    });
-  });
-</script>
-
-<section class="summary"></div>
+              <div class="media-content hide-xs font-merryweather"><section class="summary"></div>
             </div>
             <div style="clear:both;"></div>
             <hr>
