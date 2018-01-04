@@ -82,8 +82,8 @@
       $(function() {
         $('article').each(function() {
           $(this).readingTime({
-            readingTimeTarget: $(this).find('.eta'),
-            wordCountTarget: $(this).find('.words'),
+            readingTimeTarget: $(this).find('.reading-time'),
+            wordCountTarget: $(this).find('.word-count'),
             remotePath: $(this).attr('data-file'),
             remoteTarget: $(this).attr('data-target')
           });
@@ -346,7 +346,7 @@ sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula
             <script>
               $(function() {
                 $('article').readingTime({
-                  wordCountTarget: '.words'
+                  wordCountTarget: '.word-count'
                 });
               });
             </script>
@@ -594,7 +594,7 @@ sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula
                   Dec 12, 2017
                 </span>
               </span>
-              <div class="media-content hide-xs font-merryweather"><section class="summary"></div>
+              <div class="media-content hide-xs font-merryweather"><p><section class="summary"></div>
             </div>
             <div style="clear:both;"></div>
             <hr>

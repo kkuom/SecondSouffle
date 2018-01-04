@@ -81,8 +81,8 @@
       $(function() {
         $('article').each(function() {
           $(this).readingTime({
-            readingTimeTarget: $(this).find('.eta'),
-            wordCountTarget: $(this).find('.words'),
+            readingTimeTarget: $(this).find('.reading-time'),
+            wordCountTarget: $(this).find('.word-count'),
             remotePath: $(this).attr('data-file'),
             remoteTarget: $(this).attr('data-target')
           });
@@ -262,10 +262,10 @@
           <div class="post-content markdown" itemprop="articleBody">
             <div class="main-content-wrap">
               <article class="article">
-              <section class="summary">
-<p><span class="eta"></span> (<span class="words"></span> words)</p>
+              <p><section class="summary">
+<p><span class="reading-time"></span> (<span class="word-count"></span> words)</p>
 <p class="post-summary">
-Le Premier Souffle se veut être le postulat philosophique sur lequel le collectif se pose. Il est, s'il on veut, les fondations mêmes des textes fondateurs.</p>
+Le Premier Souffle se veut être le postulat philosophique sur lequel le collectif se pose. Il est, s&rsquo;il on veut, les fondations mêmes des textes fondateurs.</p>
 
 <h2><span id="table-of-contents">Dans cet article</span></h2><nav id="TableOfContents">
 <ul>
@@ -335,6 +335,7 @@ Le Premier Souffle se veut être le postulat philosophique sur lequel le collect
 </div>
 
 </section>
+<div class="article"></p>
 
 <h1 id="i-class-fa-fa-info-circle-aria-hidden-true-style-padding-right-13px-i-quelques-re-définitions"><i class="fa fa-info-circle" aria-hidden="true" style="padding-right:13px;"></i>Quelques (re)définitions</h1>
 
@@ -408,7 +409,7 @@ Un tel cadre nécessite toutefois de se défaire d’habitudes liées à toutes 
 
 <hr />
 
-<blockquote>
+<p><blockquote>
   <i class="fa fa-quote-left fa-3x fa-pull-left" aria-hidden="true"></i>
   <p>
 En tant qu’acteurs éducatifs partageant une vision anarchiste et impliqués dans l’éducation populaire, nous envisageons cette association comme un pont entre ces deux mondes. Nous rêvons Second Souffle comme la connexion d’îles pirates d’en-dehors dans un océan de morale. Ces îles que nous côtoyons déjà continueraient alors leurs activités, mais auraient accès à de nouvelles passerelles leur permettant de s’entraider et de partager leurs singularités. Nous espérons que de ces relations libres découle une flopée d’îles bâtardes plus émancipatrices les unes que les autres, permettant d’ouvrir de nouveaux horizons aux voyageurs ou naufragés.
@@ -422,12 +423,43 @@ En tant qu’acteurs éducatifs partageant une vision anarchiste et impliqués d
       
   </footer>
 </blockquote>
+
+</div>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script></p>
+
+<script type="text/javascript">
+if (typeof jQuery == 'undefined') {
+    document.write(unescape("%3Cscript src='https://kkuom.github.io/SecondSouffle/js/jquery.1.9.1.min.js' type='text/javascript'%3E%3C/script%3E"));
+}
+</script>
+
+<script src="https://kkuom.github.io/SecondSouffle/js/readingTime.js"></script>
+
+<script>
+
+  $(function() {
+
+    $('article').readingTime({
+      readingTimeTarget: $(this).find('.reading-time'),
+      wordCountTarget: $(this).find('.word-count'),
+      success: function() {
+        console.log('It worked!');
+      },
+      error: function(message) {
+        console.log(message);
+        $(this).find('.eta').remove();
+      }
+    });
+
+  });
+
+</script>
               
             </article>
             <script>
               $(function() {
                 $('article').readingTime({
-                  wordCountTarget: '.words'
+                  wordCountTarget: '.word-count'
                 });
               });
             </script>
@@ -673,7 +705,7 @@ En tant qu’acteurs éducatifs partageant une vision anarchiste et impliqués d
                   Dec 12, 2017
                 </span>
               </span>
-              <div class="media-content hide-xs font-merryweather"><section class="summary"></div>
+              <div class="media-content hide-xs font-merryweather"><p><section class="summary"></div>
             </div>
             <div style="clear:both;"></div>
             <hr>

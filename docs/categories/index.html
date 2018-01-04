@@ -407,8 +407,8 @@
       $(function() {
         $('article').each(function() {
           $(this).readingTime({
-            readingTimeTarget: $(this).find('.eta'),
-            wordCountTarget: $(this).find('.words'),
+            readingTimeTarget: $(this).find('.reading-time'),
+            wordCountTarget: $(this).find('.word-count'),
             remotePath: $(this).attr('data-file'),
             remoteTarget: $(this).attr('data-target')
           });
