@@ -57,7 +57,7 @@
       this.updateWithNextMeasurement = false;
 
       this.scrollingElement = this.element;
-      if ($(this.element).prop("tagName").toString().toLowerCase() == 'main-content-wrap') { this.scrollingElement = window; }
+      if ($(this.element).prop("tagName").toString().toLowerCase() == 'body') { this.scrollingElement = window; }
 
       this.currentScrollPos = $(this.scrollingElement).scrollTop();
       this.startScrollPos4measure = this.currentScrollPos;

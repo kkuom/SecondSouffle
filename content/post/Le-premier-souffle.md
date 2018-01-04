@@ -97,8 +97,6 @@ ___
 En tant qu’acteurs éducatifs partageant une vision anarchiste et impliqués dans l’éducation populaire, nous envisageons cette association comme un pont entre ces deux mondes. Nous rêvons Second Souffle comme la connexion d’îles pirates d’en-dehors dans un océan de morale. Ces îles que nous côtoyons déjà continueraient alors leurs activités, mais auraient accès à de nouvelles passerelles leur permettant de s’entraider et de partager leurs singularités. Nous espérons que de ces relations libres découle une flopée d’îles bâtardes plus émancipatrices les unes que les autres, permettant d’ouvrir de nouveaux horizons aux voyageurs ou naufragés.
 {{< /blockquote >}}
 
-<script src="/js/jquery.min.js"></script>
-<script src="/js/readremaining.jquery.js"></script>
 <script>
-  $('main-content-wrap').readRemaining();
+  $('body').readRemaining();
 </script>
