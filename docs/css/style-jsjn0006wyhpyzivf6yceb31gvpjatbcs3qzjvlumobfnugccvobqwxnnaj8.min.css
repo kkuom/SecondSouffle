@@ -267,7 +267,7 @@ a.fancybox{cursor:zoom-in!important}
 @media only screen and (min-width:1024px) and (max-width:1279px){.post-header-cover .post-header .post-title{font-size:6rem;line-height:1.2em}.post-header-cover[data-behavior="1"],.post-header-cover[data-behavior="2"]{width:calc(100% - 250px);left:250px;background-size:auto}.post-header-cover[data-behavior="3"]{width:calc(100% - 75px);left:75px;background-size:auto}.post-header-cover[data-behavior="4"],.post-header-cover[data-behavior="5"],.post-header-cover[data-behavior="6"]{width:100%;left:0;background-size:auto}.post-header-cover[data-behavior="4"].pushed,.post-header-cover[data-behavior="5"].pushed{-webkit-transform:translate3d(250px,0,0);-moz-transform:translate3d(250px,0,0);transform:translate3d(250px,0,0)}.post-header-cover[data-behavior="6"].pushed{-webkit-transform:translate3d(75px,0,0);-moz-transform:translate3d(75px,0,0);transform:translate3d(75px,0,0)}}
 @media only screen and (min-width:1280px){.post-header-cover .post-header .post-title{font-size:6rem;line-height:1.2em}.post-header-cover[data-behavior="1"]{width:calc(100% - 500px);left:500px;background-size:auto}.post-header-cover[data-behavior="2"]{width:calc(100% - 250px);left:250px;background-size:auto}.post-header-cover[data-behavior="3"]{width:calc(100% - 75px);left:75px;background-size:auto}.post-header-cover[data-behavior="4"],.post-header-cover[data-behavior="5"],.post-header-cover[data-behavior="6"]{width:100%;left:0;background-size:auto}.post-header-cover[data-behavior="4"].pushed{-webkit-transform:translate3d(500px,0,0);-moz-transform:translate3d(500px,0,0);transform:translate3d(500px,0,0)}.post-header-cover[data-behavior="5"].pushed{-webkit-transform:translate3d(250px,0,0);-moz-transform:translate3d(250px,0,0);transform:translate3d(250px,0,0)}.post-header-cover[data-behavior="6"].pushed{-webkit-transform:translate3d(75px,0,0);-moz-transform:translate3d(75px,0,0);transform:translate3d(75px,0,0)}}
 
-.postShorten-group .postShorten{margin-bottom:10px}
+.postShorten-group .postShorten{margin-bottom:10px;border-bottom:1px solid rgba(0,0,0,.1);background-color:#f5f5f5}
 .postShorten{position:relative;width:100%;display:inline-block;vertical-align:top}
 .postShorten .postShorten-thumbnailimg{overflow:hidden}
 .postShorten-header{margin:10px 10px -10px 10px}
@@ -287,8 +287,23 @@ a.postShorten-continue{transition:.5s;cursor:pointer;color:#777;text-decoration:
 .postShorten-continue:not(.no-icon):before{content:"\f1ea";font-family:FontAwesome;vertical-align:middle;margin-right:6px}
 .postShorten-continue-position{float:right;margin:10px 10px 10px 30px}
 
-@media only screen and (max-width:479px){.postShorten .postShorten-thumbnailimg,.postShorten .postShorten-thumbnailimg img{display:none}}
-@media only screen and (min-width:480px){.postShorten.postShorten--thumbnailimg-right .postShorten-thumbnailimg{float:right}.postShorten.postShorten--thumbnailimg-right .postShorten-thumbnailimg img{display:block;width:140px;height:140px;object-fit:cover;overflow:hidden}.postShorten.postShorten--thumbnailimg-right .postShorten-wrap{float:left;width:calc(100% - 140px - 10px);border-bottom:1px solid rgba(0,0,0,.1);background-color:#f5f5f5}.postShorten.postShorten--thumbnailimg-left .postShorten-thumbnailimg{float:left}.postShorten.postShorten--thumbnailimg-left .postShorten-thumbnailimg img{display:block;width:140px;height:140px;object-fit:cover;overflow:hidden;}.postShorten.postShorten--thumbnailimg-left .postShorten-wrap{float:right;width:calc(100% - 140px - 10px);border-bottom:1px solid rgba(0,0,0,.1);background-color:#f5f5f5}.postShorten.postShorten--thumbnailimg-top .postShorten-thumbnailimg{margin-top:5px}.postShorten.postShorten--thumbnailimg-bottom .postShorten-wrap{display:block;width:100%}.postShorten.postShorten--thumbnailimg-bottom .postShorten-excerpt>p{margin-bottom:0}.postShorten.postShorten--thumbnailimg-bottom .postShorten-thumbnailimg{display:block;width:100%;overflow:hidden;margin:15px 0}.postShorten.postShorten--thumbnailimg-bottom .postShorten-thumbnailimg img{width:auto;height:auto}}
+@media only screen and (max-width:479px){
+  .postShorten .postShorten-thumbnailimg,.postShorten .postShorten-thumbnailimg img{display:none}
+}
+
+@media only screen and (min-width:480px){
+  .postShorten.postShorten--thumbnailimg-right .postShorten-thumbnailimg{float:right}
+  .postShorten.postShorten--thumbnailimg-right .postShorten-thumbnailimg img{display:block;width:140px;height:140px;object-fit:cover;overflow:hidden}
+  .postShorten.postShorten--thumbnailimg-right .postShorten-wrap{float:left;width:calc(100% - 140px - 10px)}
+  .postShorten.postShorten--thumbnailimg-left .postShorten-thumbnailimg{float:left}
+  .postShorten.postShorten--thumbnailimg-left .postShorten-thumbnailimg img{display:block;width:140px;height:140px;object-fit:cover;overflow:hidden;}
+  .postShorten.postShorten--thumbnailimg-left .postShorten-wrap{float:right;width:calc(100% - 140px - 10px)}
+  .postShorten.postShorten--thumbnailimg-top .postShorten-thumbnailimg{margin-top:5px}
+  .postShorten.postShorten--thumbnailimg-bottom .postShorten-wrap{display:block;width:100%}
+  .postShorten.postShorten--thumbnailimg-bottom .postShorten-excerpt>p{margin-bottom:0}
+  .postShorten.postShorten--thumbnailimg-bottom .postShorten-thumbnailimg{display:block;width:100%;overflow:hidden;margin:15px 0}
+  .postShorten.postShorten--thumbnailimg-bottom .postShorten-thumbnailimg img{width:auto;height:auto}
+}
 
 .share-options-bar{position:fixed;bottom:-100%;background:#fff;height:100%;clear:both;border-top:1px solid #eef2f8;transition:transform .25s ease-in-out;z-index:50;-webkit-transition:-webkit-transform .25s ease-in-out;display:-webkit-flex;display:-webkit-box;display:-moz-box;display:-ms-flexbox;display:flex;flex-direction:column;justify-content:center;align-items:center}.share-options-bar.opened{-webkit-transform:translate3d(0,-100%,0);-moz-transform:translate3d(0,-100%,0);transform:translate3d(0,-100%,0)}.share-options-bar .share-options{padding:0;margin:0;list-style:none}.share-options-bar .share-options .share-option:first-child .share-option-btn{padding:20px 0 10px}.share-options-bar .share-options .share-option:last-child .share-option-btn{padding:10px 0 20px}.share-options-bar .share-options .share-option .share-option-btn{color:#6e7681;display:block;width:100%;padding:10px 0}.share-options-bar .share-options .share-option .share-option-btn .fa{margin-right:15px}#btn-close-shareoptions{position:absolute;top:15px;right:15px;font-size:20px;color:#5d686f;cursor:pointer}@media only screen and (max-width:767px){.share-options-bar{width:100%}}
 
