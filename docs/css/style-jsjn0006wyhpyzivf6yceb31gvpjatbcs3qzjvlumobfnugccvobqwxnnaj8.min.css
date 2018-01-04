@@ -423,6 +423,11 @@ section.attachments.black .attachments-files a {
   padding: 10px 10px
 }
 
+hr.summary {
+  border-top: 3px solid #fff;
+  margin: 10px -10px -10px -10px
+}
+
 .readRemainingGauge {
 	position: fixed;
 	font-weight: bold;
