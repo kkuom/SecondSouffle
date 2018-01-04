@@ -281,10 +281,10 @@ a.fancybox{cursor:zoom-in!important}
 .postShorten .postShorten-excerpt{margin-top:15px}
 .postShorten .postShorten-excerpt p:nth-child(1){margin:0}
 .postShorten .postShorten-content{margin-top:25px}
-.postShorten-continue{border:1px solid rgba (0,0,0,0)}
+.postShorten-continue{}
 a.postShorten-continue{cursor:pointer;color:#777;text-decoration:none}
 .postShorten-continue:visited{cursor:pointer;color:#777;text-decoration:none}
-.postShorten-continue:active,.postShorten-continue:hover{cursor:pointer;color:#fa8072;text-decoration:none;border:1px solid rgba(250,128,114,1)}
+.postShorten-continue:active,.postShorten-continue:hover{cursor:pointer;color:#fa8072;text-decoration:none;border:1px solid rgba(250,128,114,1);margin:1px 5px}
 .postShorten-continue:not(.no-icon):before{content:"\f1ea";font-family:FontAwesome;vertical-align:middle;margin-right:6px}
 
 @media only screen and (max-width:479px){.postShorten .postShorten-thumbnailimg,.postShorten .postShorten-thumbnailimg img{display:none}}
