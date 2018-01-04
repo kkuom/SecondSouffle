@@ -27,6 +27,9 @@ comments: true
 ---
 <section class="intro">
 Le Premier Souffle se veut être le postulat philosophique sur lequel le collectif se pose. Il est, si l'on veut, la racine principale des textes fondateurs qui émergeront ensuite du collectif.
+Le Premier Souffle se veut être le postulat philosophique sur lequel le collectif se pose. Il est, si l'on veut, la racine principale des textes fondateurs qui émergeront ensuite du collectif.
+Le Premier Souffle se veut être le postulat philosophique sur lequel le collectif se pose. Il est, si l'on veut, la racine principale des textes fondateurs qui émergeront ensuite du collectif.
+Le Premier Souffle se veut être le postulat philosophique sur lequel le collectif se pose. Il est, si l'on veut, la racine principale des textes fondateurs qui émergeront ensuite du collectif.
 <!--more-->
 <hr class="intro-divider">
 <!-- toc -->
