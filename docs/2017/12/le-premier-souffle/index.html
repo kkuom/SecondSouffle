@@ -261,8 +261,7 @@
           
           <div class="post-content markdown" itemprop="articleBody">
             <div class="main-content-wrap">
-              <article class="article">
-              <p><section class="summary">
+                            <p><section class="summary">
 <p><span class="reading-time"></span> (<span class="word-count"></span> words)</p>
 <p class="post-summary">
 Le Premier Souffle se veut être le postulat philosophique sur lequel le collectif se pose. Il est, s&rsquo;il on veut, les fondations mêmes des textes fondateurs.</p>
@@ -335,7 +334,7 @@ Le Premier Souffle se veut être le postulat philosophique sur lequel le collect
 </div>
 
 </section>
-<div class="article"></p>
+<article class="article"></p>
 
 <h1 id="i-class-fa-fa-info-circle-aria-hidden-true-style-padding-right-13px-i-quelques-re-définitions"><i class="fa fa-info-circle" aria-hidden="true" style="padding-right:13px;"></i>Quelques (re)définitions</h1>
 
@@ -435,27 +434,27 @@ if (typeof jQuery == 'undefined') {
 
 <script src="https://kkuom.github.io/SecondSouffle/js/readingTime.js"></script>
 
-<script>
+<p><script></p>
 
-  $(function() {
+<p>$(function() {</p>
 
-    $('article').readingTime({
-      readingTimeTarget: $(this).find('.reading-time'),
-      wordCountTarget: $(this).find('.word-count'),
-      success: function() {
-        console.log('It worked!');
-      },
-      error: function(message) {
-        console.log(message);
-        $(this).find('.eta').remove();
-      }
-    });
+<pre><code>$('article').readingTime({
+  readingTimeTarget: $(this).find('.reading-time'),
+  wordCountTarget: $(this).find('.word-count'),
+  success: function() {
+    console.log('It worked!');
+  },
+  error: function(message) {
+    console.log(message);
+    $(this).find('.eta').remove();
+  }
+});
+</code></pre>
 
-  });
+<p>});</p>
 
-</script>
+<p></article></p>
               
-            </article>
             <script>
               $(function() {
                 $('article').readingTime({
