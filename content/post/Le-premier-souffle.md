@@ -25,10 +25,10 @@ showSocial: true
 showDate: true
 comments: true
 ---
-<section class="summary">
+<section class="intro">
 Le Premier Souffle se veut être le postulat philosophique sur lequel le collectif se pose. Il est, si l'on veut, la racine principale des textes fondateurs qui émergeront ensuite du collectif.
 <!--more-->
-<hr class="summary">
+<hr class="introbottom">
 <!-- toc -->
 {{%attachments title="" style="black" pattern=".*(pdf)"/%}}
 {{< alert genre >}}

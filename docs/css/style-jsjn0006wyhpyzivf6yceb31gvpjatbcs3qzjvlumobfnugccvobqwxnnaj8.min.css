@@ -417,13 +417,13 @@ section.attachments.black .attachments-files a {
     margin-left: -10px
 }
 
-.summary {
+.intro {
   background-color: #F5F5F5;
   color: #333;
   padding: 10px 10px
 }
 
-hr.summary {
+hr.intro-divider {
   border-top: 3px solid #fff;
   margin: 10px -10px -10px -10px
 }
