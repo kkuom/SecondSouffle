@@ -16,10 +16,10 @@ Licensed under the MIT license
 
 		//define default parameters
         var defaults = {
-	        readingTimeTarget: '.eta',
-            readingTimeAsNumber: false,
-	        wordCountTarget: null,
-	        wordsPerMinute: 300,
+					readingTimeAsNumber: true,
+	        readingTimeTarget: $article.find('.reading-time'),
+	        wordCountTarget: $article.find('.word-count'),
+	        wordsPerMinute: 280,
 	        round: true,
 	        lang: 'fr',
 			lessThanAMinuteString: '',
@@ -27,8 +27,13 @@ Licensed under the MIT license
 			prependWordString: '',
 	        remotePath: null,
 	        remoteTarget: null,
-	        success: function() {},
-	        error: function() {}
+					success: function() {
+						console.log('It worked!');
+						},
+					error: function(message) {
+						console.log(message);
+						$article.find('.reading-time').remove();
+						}
         },
         plugin = this,
         el = $(this);
