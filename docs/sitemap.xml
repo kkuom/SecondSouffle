@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://kkuom.github.io/SecondSouffle/2018/01/kumi-et-larbre-maudit/</loc>
+    <lastmod>2018-01-07T18:15:01+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://kkuom.github.io/SecondSouffle/2017/12/le-premier-souffle/</loc>
     <lastmod>2017-12-29T15:26:33+01:00</lastmod>
   </url>
@@ -58,6 +63,12 @@
   </url>
   
   <url>
+    <loc>https://kkuom.github.io/SecondSouffle/tags/anti-%C3%A2gisme/</loc>
+    <lastmod>2018-01-07T18:15:01+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://kkuom.github.io/SecondSouffle/archives/</loc>
     <priority>0</priority>
   </url>
@@ -76,7 +87,25 @@
   
   <url>
     <loc>https://kkuom.github.io/SecondSouffle/</loc>
-    <lastmod>2017-12-29T15:26:33+01:00</lastmod>
+    <lastmod>2018-01-07T18:15:01+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kkuom.github.io/SecondSouffle/tags/conte/</loc>
+    <lastmod>2018-01-07T18:15:01+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kkuom.github.io/SecondSouffle/categories/contes-pour-une-autre-vision-du-monde/</loc>
+    <lastmod>2018-01-07T18:15:01+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kkuom.github.io/SecondSouffle/categories/contes-%C3%A9thique/</loc>
+    <lastmod>2018-01-07T18:15:01+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -141,6 +170,12 @@
   </url>
   
   <url>
+    <loc>https://kkuom.github.io/SecondSouffle/tags/histoire/</loc>
+    <lastmod>2018-01-07T18:15:01+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://kkuom.github.io/SecondSouffle/tags/html-elements/</loc>
     <lastmod>2015-05-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -166,7 +201,7 @@
   
   <url>
     <loc>https://kkuom.github.io/SecondSouffle/post/</loc>
-    <lastmod>2017-12-29T15:26:33+01:00</lastmod>
+    <lastmod>2018-01-07T18:15:01+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -208,7 +243,7 @@
   
   <url>
     <loc>https://kkuom.github.io/SecondSouffle/tags/</loc>
-    <lastmod>2017-12-29T15:26:33+01:00</lastmod>
+    <lastmod>2018-01-07T18:15:01+01:00</lastmod>
     <priority>0</priority>
   </url>
   
