@@ -5,10 +5,10 @@ draft: false
 metaAlignment: center
 
 categories:
-- "Brochures"
-- "Structuration du collectif"
+- "Écrits structurants"
+- "Postulat philosophique"
 tags:
-- "Postulat Philosophique"
+- "Brochure"
 - "Éthique"
 - "Contrat social"
 

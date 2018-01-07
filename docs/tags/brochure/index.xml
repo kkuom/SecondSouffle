@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brochure on Collectif Second Souffle</title>
+    <link>https://kkuom.github.io/SecondSouffle/tags/brochure/</link>
+    <description>Recent content in Brochure on Collectif Second Souffle</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 Jan 2018 18:15:01 +0100</lastBuildDate>
+    
+	<atom:link href="https://kkuom.github.io/SecondSouffle/tags/brochure/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kumi Et Larbre Maudit</title>
+      <link>https://kkuom.github.io/SecondSouffle/2018/01/kumi-et-larbre-maudit/</link>
+      <pubDate>Sun, 07 Jan 2018 18:15:01 +0100</pubDate>
+      
+      <guid>https://kkuom.github.io/SecondSouffle/2018/01/kumi-et-larbre-maudit/</guid>
+      <description>&lt;section class=&#34;intro&#34;&gt;
+
+Ici Raphaël devrait nous pondre prochainement un résumé sympathique pour donner à tout les internautes une envie folle de lire le conte &#34;Kumi et l&#39;arbre maudit&#34;.</description>
+    </item>
+    
+    <item>
+      <title>Le Premier Souffle</title>
+      <link>https://kkuom.github.io/SecondSouffle/2017/12/le-premier-souffle/</link>
+      <pubDate>Fri, 29 Dec 2017 15:26:33 +0100</pubDate>
+      
+      <guid>https://kkuom.github.io/SecondSouffle/2017/12/le-premier-souffle/</guid>
+      <description>&lt;section class=&#34;intro&#34;&gt;
+Le Premier Souffle se veut être le postulat philosophique sur lequel le collectif se pose. Il est, si l&#39;on veut, la racine principale des textes fondateurs qui émergeront ensuite du collectif.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,12 +5,13 @@ draft: false
 metaAlignment: center
 
 categories:
-- Contes éthique
-- Contes pour une autre vision du monde
+- "Contes éthique"
+- "Contes pour une autre vision du monde"
 tags:
-- Conte
-- Histoire
-- Anti-âgisme
+- "Brochure"
+- "Conte"
+- "Histoire"
+- "Anti-âgisme"
 
 
 thumbnailImagePosition: top

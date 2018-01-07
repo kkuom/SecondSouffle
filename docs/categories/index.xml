@@ -6,19 +6,9 @@
     <description>Recent content in Categories on Collectif Second Souffle</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 29 Dec 2017 15:26:33 +0100</lastBuildDate>
     
 	<atom:link href="https://kkuom.github.io/SecondSouffle/categories/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Brochures</title>
-      <link>https://kkuom.github.io/SecondSouffle/categories/brochures/</link>
-      <pubDate>Fri, 29 Dec 2017 15:26:33 +0100</pubDate>
-      
-      <guid>https://kkuom.github.io/SecondSouffle/categories/brochures/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Contes Pour Une Autre Vision Du Monde</title>
@@ -48,6 +38,15 @@
     </item>
     
     <item>
+      <title>Postulat Philosophique</title>
+      <link>https://kkuom.github.io/SecondSouffle/categories/postulat-philosophique/</link>
+      <pubDate>Fri, 29 Dec 2017 15:26:33 +0100</pubDate>
+      
+      <guid>https://kkuom.github.io/SecondSouffle/categories/postulat-philosophique/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Releases</title>
       <link>https://kkuom.github.io/SecondSouffle/categories/releases/</link>
       <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
@@ -57,20 +56,20 @@
     </item>
     
     <item>
-      <title>Structuration Du Collectif</title>
-      <link>https://kkuom.github.io/SecondSouffle/categories/structuration-du-collectif/</link>
-      <pubDate>Fri, 29 Dec 2017 15:26:33 +0100</pubDate>
-      
-      <guid>https://kkuom.github.io/SecondSouffle/categories/structuration-du-collectif/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Tranquilpeak</title>
       <link>https://kkuom.github.io/SecondSouffle/categories/tranquilpeak/</link>
       <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
       
       <guid>https://kkuom.github.io/SecondSouffle/categories/tranquilpeak/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Écrits Structurants</title>
+      <link>https://kkuom.github.io/SecondSouffle/categories/%C3%A9crits-structurants/</link>
+      <pubDate>Fri, 29 Dec 2017 15:26:33 +0100</pubDate>
+      
+      <guid>https://kkuom.github.io/SecondSouffle/categories/%C3%A9crits-structurants/</guid>
       <description></description>
     </item>
     

@@ -80,14 +80,13 @@
   </url>
   
   <url>
-    <loc>https://kkuom.github.io/SecondSouffle/categories/brochures/</loc>
-    <lastmod>2017-12-29T15:26:33+01:00</lastmod>
+    <loc>https://kkuom.github.io/SecondSouffle/tags/brochure/</loc>
+    <lastmod>2018-01-07T18:15:01+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://kkuom.github.io/SecondSouffle/categories/</loc>
-    <lastmod>2017-12-29T15:26:33+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -212,7 +211,7 @@
   </url>
   
   <url>
-    <loc>https://kkuom.github.io/SecondSouffle/tags/postulat-philosophique/</loc>
+    <loc>https://kkuom.github.io/SecondSouffle/categories/postulat-philosophique/</loc>
     <lastmod>2017-12-29T15:26:33+01:00</lastmod>
     <priority>0</priority>
   </url>
@@ -232,12 +231,6 @@
   <url>
     <loc>https://kkuom.github.io/SecondSouffle/tags/social/</loc>
     <lastmod>2014-08-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kkuom.github.io/SecondSouffle/categories/structuration-du-collectif/</loc>
-    <lastmod>2017-12-29T15:26:33+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -286,6 +279,12 @@
   <url>
     <loc>https://kkuom.github.io/SecondSouffle/tags/youtube/</loc>
     <lastmod>2014-08-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kkuom.github.io/SecondSouffle/categories/%C3%A9crits-structurants/</loc>
+    <lastmod>2017-12-29T15:26:33+01:00</lastmod>
     <priority>0</priority>
   </url>
   
