@@ -11,8 +11,7 @@ tags:
 - Conte
 - Histoire
 - Anti-âgisme
-keywords:
-- tech
+
 
 thumbnailImagePosition: top
 thumbnailImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Kumi_header.jpg?raw=true
