@@ -43,24 +43,24 @@ Les gens disent toujours : *« Mais comment des enfants libres s’adapteront-il
 <p style="text-align:center">#</p>
 Il fut un temps où un arbre majestueux produisait des fruits qu’on appelait Lomis. Ils étaient si nourrissants et sucrés qu’une tribu avait décidé de s’installer là, au pied de cet arbre immense, afin de profiter de cette abondance. Toute l’année, il leur procurait l’équivalent d’un panier chaque jour.
 
-Un soir, l’un des plus gros orages qu’on n’eut jamais vu éclata. Les villageois eurent très peur mais au matin, tout était calme et le soleil resplendissait. Deux hommes décidèrent de monter dans l’arbre pour ramener un panier de Lomis aux villageois. Mais quand ils furent redescendus, ils poussèrent des cris d’effroi qui déchirèrent le silence paisible qui régnait. Tout le village accouru. Les deux hommes, qui étaient à présent au centre d’un attroupement, avaient  leurs mains plaquées sur leurs fronts. Le silence fut rétabli par le sorcier du village qui fit irruption.
-*« Quelle est la raison de ce chahut ? »* tonna-t-il.
-*« C’est notre  front ! »* dirent de concert les deux hommes.
-*« Il est devenu étrange ! »*
-*« Étrange ? Comment ça ? Montrez-moi ! »* dit le sorcier.
-Les deux hommes retirèrent leurs mains de leurs fronts, laissant l’assemblée bouche bée. Puis, le silence laissa place aux explosions de rire face au ridicule de la scène : les visages des deux hommes étaient pourvus d’un troisième œil.
-*« Ce n’est pas notre faute ! »* s’écria l’un des deux hommes.
-*« C’est arrivé lorsque nous sommes montés pour cueillir des Lomis ! »*
-*« Ah ? Vous êtes montés dans l’arbre... »* reprit le sorcier d’un air songeur, *« ...intéressant... »*
-La foule était silencieuse et attendait de savoir où le sorcier voulait en venir. Lasse d’attendre, une femme demanda :
-*« Pourquoi trouves-tu cela intéressant ? Nous montons dans l’arbre chaque jour depuis des années ! »*
-Le sorcier laissa planer un silence et prit la parole :
-*« Mes amis, les dieux nous avertissent. Les Lomis sont devenus mauvais pour nous. En trouvant notre nourriture si facilement, nous nous sommes englués dans notre paresse. J’ai eu une intuition cette nuit lorsque la tempête était au plus fort, et j’en suis maintenant convaincu. Une malédiction a frappé notre récolte, et ceux qui voudront monter dans l’arbre seront désormais punis. Ce matin, ces deux hommes en ont fait l’expérience, mais des choses pires encore pourraient nous arriver... »*
-Un murmure d’effroi parcouru l’assemblée.
-*« Peut-être qu’ils sont contagieux ! »* lança quelqu’un.
-*« Nos dieux ne puniraient pas quelqu’un qui ne s’est pas approché des Lomis ! »* répondit un autre.
-*« Tu dois avoir raison. Mais moi, je ne m’approcherai plus de ces deux-là. Ni de cet arbre. Le sorcier a raison, c’est devenu un arbre maudit. »*
-Un murmure d’approbation suivit ces dernières paroles.
+Un soir, l’un des plus gros orages qu’on n’eut jamais vu éclata. Les villageois eurent très peur mais au matin, tout était calme et le soleil resplendissait. Deux hommes décidèrent de monter dans l’arbre pour ramener un panier de Lomis aux villageois. Mais quand ils furent redescendus, ils poussèrent des cris d’effroi qui déchirèrent le silence paisible qui régnait. Tout le village accouru. Les deux hommes, qui étaient à présent au centre d’un attroupement, avaient  leurs mains plaquées sur leurs fronts. Le silence fut rétabli par le sorcier du village qui fit irruption.  
+*« Quelle est la raison de ce chahut ? »* tonna-t-il.  
+*« C’est notre  front ! »* dirent de concert les deux hommes.  
+*« Il est devenu étrange ! »*  
+*« Étrange ? Comment ça ? Montrez-moi ! »* dit le sorcier.  
+Les deux hommes retirèrent leurs mains de leurs fronts, laissant l’assemblée bouche bée. Puis, le silence laissa place aux explosions de rire face au ridicule de la scène : les visages des deux hommes étaient pourvus d’un troisième œil.  
+*« Ce n’est pas notre faute ! »* s’écria l’un des deux hommes.  
+*« C’est arrivé lorsque nous sommes montés pour cueillir des Lomis ! »*  
+*« Ah ? Vous êtes montés dans l’arbre... »* reprit le sorcier d’un air songeur, *« ...intéressant... »*  
+La foule était silencieuse et attendait de savoir où le sorcier voulait en venir. Lasse d’attendre, une femme demanda :  
+*« Pourquoi trouves-tu cela intéressant ? Nous montons dans l’arbre chaque jour depuis des années ! »*  
+Le sorcier laissa planer un silence et prit la parole :  
+*« Mes amis, les dieux nous avertissent. Les Lomis sont devenus mauvais pour nous. En trouvant notre nourriture si facilement, nous nous sommes englués dans notre paresse. J’ai eu une intuition cette nuit lorsque la tempête était au plus fort, et j’en suis maintenant convaincu. Une malédiction a frappé notre récolte, et ceux qui voudront monter dans l’arbre seront désormais punis. Ce matin, ces deux hommes en ont fait l’expérience, mais des choses pires encore pourraient nous arriver... »*  
+Un murmure d’effroi parcouru l’assemblée.  
+*« Peut-être qu’ils sont contagieux ! »* lança quelqu’un.  
+*« Nos dieux ne puniraient pas quelqu’un qui ne s’est pas approché des Lomis ! »* répondit un autre.  
+*« Tu dois avoir raison. Mais moi, je ne m’approcherai plus de ces deux-là. Ni de cet arbre. Le sorcier a raison, c’est devenu un arbre maudit. »*  
+Un murmure d’approbation suivit ces dernières paroles.  
 
 Ce jour-là, un silence lourd planait sur le petit village. Suite à la prophétie, tout le monde avait regagné son chez-soi et l’inquiétude avait gagné le cœur de chacun.
 
