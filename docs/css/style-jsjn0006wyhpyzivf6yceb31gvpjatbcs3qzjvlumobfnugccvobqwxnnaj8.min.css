@@ -77,8 +77,8 @@ pre.code-highlight>code{padding:0;margin:0;line-height:inherit}#about{top:0;left
 #header{display:block;height:55px;position:fixed;top:0;border:1px solid #eef2f8;color:#88909a;z-index:20;-webkit-transition:-webkit-transform .25s ease-in-out}
 #header #btn-open-sidebar{position:absolute;top:20px;left:20px;cursor:pointer}
 #header .header-right-icon,#header .header-right-picture{position:absolute;top:12.5px;right:20px;color:#88909a}
-#header .header-right-picture{display:block;width:68px;height:30px}
-#header .header-right-picture .header-picture{display:block;width:68px;height:30px}
+#header .header-right-picture{display:block;width:240px;height:30px}
+#header .header-right-picture .header-picture{display:block;width:240px;height:30px}
 #header .header-title{text-align:center;font-size:1.6rem;line-height:55px;margin:0}
 #header .header-title .header-title-link{color:#88909a;font-weight:400}
 #header .header-title .header-title-link:active,#header .header-title .header-title-link:hover{color:#6e7681;text-decoration:none}
