@@ -91,12 +91,6 @@
   </url>
   
   <url>
-    <loc>https://kkuom.github.io/SecondSouffle/</loc>
-    <lastmod>2018-01-07T18:15:01+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://kkuom.github.io/SecondSouffle/tags/conte/</loc>
     <lastmod>2018-01-07T18:15:01+01:00</lastmod>
     <priority>0</priority>
@@ -225,6 +219,12 @@
   <url>
     <loc>https://kkuom.github.io/SecondSouffle/tags/responsive/</loc>
     <lastmod>2015-06-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kkuom.github.io/SecondSouffle/</loc>
+    <lastmod>2018-01-07T18:15:01+01:00</lastmod>
     <priority>0</priority>
   </url>
   
