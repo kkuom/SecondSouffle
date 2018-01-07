@@ -1,6 +1,9 @@
 ---
 title: "Kumi Et Larbre Maudit"
 date: 2018-01-07T18:15:01+01:00
+draft: false
+metaAlignment: center
+
 categories:
 - Contes éthique
 - Contes pour une autre vision du monde
@@ -17,6 +20,12 @@ thumbnailImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/images/K
 coverImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Post-header.jpg?raw=true
 coverMeta: in
 coverSize: partial
+
+showTags: true
+showPagination: true
+showSocial: true
+showDate: true
+comments: true
 ---
 <section class="intro">
 Ici Raphaël devrait nous pondre un petit résumé sympathique pour donner à tout les internautes une envie folle de lire le conte "Kumi et l'arbre maudit".
