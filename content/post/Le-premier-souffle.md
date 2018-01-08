@@ -1,7 +1,7 @@
 ---
 title: "Le Premier Souffle"
 date: 2017-12-29T15:26:33+01:00
-readingtime: 10
+readingtime: "10"
 draft: false
 metaAlignment: center
 postShorten-icon: cube
