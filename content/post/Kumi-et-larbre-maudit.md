@@ -4,7 +4,7 @@ date: 2018-01-07T18:15:01+01:00
 readingtime: 15min
 draft: false
 metaAlignment: center
-postShorten-icon: "book"
+postShorten-icon: book
 
 categories:
 - "Contes éthique"
@@ -40,7 +40,7 @@ Ici Raphaël devrait nous pondre prochainement un résumé sympathique pour donn
 </section>
 
 {{< blockquote "A.S. Niell" "Libres enfants de Summerhill (1960)" >}}
-Les gens disent toujours : *« Mais comment des enfants libres s’adapteront-ils jamais au côté fastidieux de la vie ? »* J’espère bien que ces enfants seront les pionniers de l’abolition de ce qui est fastidieux.
+Les gens disent toujours : « Mais comment des enfants libres s’adapteront-ils jamais au côté fastidieux de la vie ? » J’espère bien que ces enfants seront les pionniers de l’abolition de ce qui est fastidieux.
 {{< /blockquote >}}
 
 <p style="text-align:center">**#**</p>
