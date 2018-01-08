@@ -14,7 +14,6 @@ tags:
 - "Histoire"
 - "Anti-âgisme"
 
-
 thumbnailImagePosition: top
 thumbnailImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Kumi_thumbnail.jpg?raw=true
 

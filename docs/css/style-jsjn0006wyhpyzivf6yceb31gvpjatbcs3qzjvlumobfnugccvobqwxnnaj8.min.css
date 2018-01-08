@@ -495,3 +495,20 @@ hr.intro-divider {
 	-o-transition-property: none;
 	transition-property: none;
 }
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+    color:#fa8072
+}
+.dropdown-content {
+    display: none;
+    position: absolute;
+    color: #9eabb3;
+    background-color: #f5f5f5;
+    min-width: 25px;
+    max-width: 250px;
+    box-shadow: 0px 2px 8px 0px rgba(0,0,0,0.2);
+    padding: 5px 10px;
+    z-index: 1;
+}
