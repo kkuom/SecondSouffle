@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://kkuom.github.io/SecondSouffle/2018/01/ethique-des-relations-en-%C3%A9ducation/</loc>
-    <lastmod>2018-01-08T11:34:58+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://kkuom.github.io/SecondSouffle/2018/01/kumi-et-larbre-maudit/</loc>
     <lastmod>2018-01-07T18:15:01+01:00</lastmod>
   </url>
@@ -69,13 +64,12 @@
   
   <url>
     <loc>https://kkuom.github.io/SecondSouffle/tags/acteurs-%C3%A9ducatifs/</loc>
-    <lastmod>2018-01-08T11:34:58+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://kkuom.github.io/SecondSouffle/tags/anti-%C3%A2gisme/</loc>
-    <lastmod>2018-01-08T11:34:58+01:00</lastmod>
+    <lastmod>2018-01-07T18:15:01+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -92,7 +86,7 @@
   
   <url>
     <loc>https://kkuom.github.io/SecondSouffle/tags/brochure/</loc>
-    <lastmod>2018-01-08T11:34:58+01:00</lastmod>
+    <lastmod>2018-01-07T18:15:01+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -121,7 +115,7 @@
   
   <url>
     <loc>https://kkuom.github.io/SecondSouffle/tags/contrat-social/</loc>
-    <lastmod>2018-01-08T11:34:58+01:00</lastmod>
+    <lastmod>2017-12-29T15:26:33+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -140,6 +134,12 @@
   <url>
     <loc>https://kkuom.github.io/SecondSouffle/tags/disqus/</loc>
     <lastmod>2015-06-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kkuom.github.io/SecondSouffle/categories/ecrits-structurants/</loc>
+    <lastmod>2017-12-29T15:26:33+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -211,13 +211,12 @@
   
   <url>
     <loc>https://kkuom.github.io/SecondSouffle/categories/philosophie-appliquee/</loc>
-    <lastmod>2018-01-08T11:34:58+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://kkuom.github.io/SecondSouffle/post/</loc>
-    <lastmod>2018-01-08T11:34:58+01:00</lastmod>
+    <lastmod>2018-01-07T18:15:01+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -229,13 +228,11 @@
   
   <url>
     <loc>https://kkuom.github.io/SecondSouffle/categories/posture-educative/</loc>
-    <lastmod>2018-01-08T11:34:58+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://kkuom.github.io/SecondSouffle/tags/posture-%C3%A9ducative/</loc>
-    <lastmod>2018-01-08T11:34:58+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -253,7 +250,7 @@
   
   <url>
     <loc>https://kkuom.github.io/SecondSouffle/</loc>
-    <lastmod>2018-01-08T11:34:58+01:00</lastmod>
+    <lastmod>2018-01-07T18:15:01+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -271,7 +268,7 @@
   
   <url>
     <loc>https://kkuom.github.io/SecondSouffle/tags/</loc>
-    <lastmod>2018-01-08T11:34:58+01:00</lastmod>
+    <lastmod>2018-01-07T18:15:01+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -312,21 +309,18 @@
   </url>
   
   <url>
-    <loc>https://kkuom.github.io/SecondSouffle/categories/%C3%A9crits-structurants/</loc>
-    <lastmod>2017-12-29T15:26:33+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://kkuom.github.io/SecondSouffle/tags/%C3%A9ducation/</loc>
-    <lastmod>2018-01-08T11:34:58+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://kkuom.github.io/SecondSouffle/tags/%C3%A9thique/</loc>
-    <lastmod>2018-01-08T11:34:58+01:00</lastmod>
+    <lastmod>2017-12-29T15:26:33+01:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kkuom.github.io/SecondSouffle/1/01/%C3%A9thique-des-relations-en-%C3%A9ducation/</loc>
   </url>
   
 </urlset>
