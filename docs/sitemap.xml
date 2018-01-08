@@ -18,56 +18,6 @@
   </url>
   
   <url>
-    <loc>https://kkuom.github.io/SecondSouffle/bin/welcome-to-the-new-tranquilpeak/</loc>
-    <lastmod>2015-06-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kkuom.github.io/SecondSouffle/bin/elements-showcase/</loc>
-    <lastmod>2015-05-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kkuom.github.io/SecondSouffle/bin/cover-image-showcase/</loc>
-    <lastmod>2015-05-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kkuom.github.io/SecondSouffle/bin/highlighted-code-showcase/</loc>
-    <lastmod>2015-03-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kkuom.github.io/SecondSouffle/bin/tags-plugins-showcase/</loc>
-    <lastmod>2014-10-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kkuom.github.io/SecondSouffle/bin/hidden-social-section-showcase/</loc>
-    <lastmod>2014-08-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kkuom.github.io/SecondSouffle/bin/hidden-tag-section-showcase/</loc>
-    <lastmod>2014-08-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kkuom.github.io/SecondSouffle/bin/hidden-pagination-showcase/</loc>
-    <lastmod>2014-08-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kkuom.github.io/SecondSouffle/bin/video-integrations-showcase/</loc>
-    <lastmod>2014-08-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kkuom.github.io/SecondSouffle/bin/image-gallery-showcase/</loc>
-    <lastmod>2013-02-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://kkuom.github.io/SecondSouffle/tags/acteurs-%C3%A9ducatifs/</loc>
     <lastmod>2018-01-08T13:11:33+01:00</lastmod>
     <priority>0</priority>
@@ -81,12 +31,6 @@
   
   <url>
     <loc>https://kkuom.github.io/SecondSouffle/archives/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kkuom.github.io/SecondSouffle/bin/</loc>
-    <lastmod>2015-06-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -126,92 +70,14 @@
   </url>
   
   <url>
-    <loc>https://kkuom.github.io/SecondSouffle/tags/cover-image/</loc>
-    <lastmod>2015-05-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kkuom.github.io/SecondSouffle/tags/dailymotion/</loc>
-    <lastmod>2014-08-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kkuom.github.io/SecondSouffle/tags/disqus/</loc>
-    <lastmod>2015-06-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://kkuom.github.io/SecondSouffle/categories/ecrits-structurants/</loc>
     <lastmod>2017-12-29T15:26:33+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kkuom.github.io/SecondSouffle/categories/features/</loc>
-    <lastmod>2015-05-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kkuom.github.io/SecondSouffle/tags/github-theme/</loc>
-    <lastmod>2015-03-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kkuom.github.io/SecondSouffle/tags/google-analytics/</loc>
-    <lastmod>2015-06-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kkuom.github.io/SecondSouffle/tags/gravatar/</loc>
-    <lastmod>2015-06-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kkuom.github.io/SecondSouffle/tags/hexo-theme/</loc>
-    <lastmod>2015-06-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kkuom.github.io/SecondSouffle/tags/highlight-code/</loc>
-    <lastmod>2015-03-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://kkuom.github.io/SecondSouffle/tags/histoire/</loc>
     <lastmod>2018-01-07T18:15:01+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kkuom.github.io/SecondSouffle/tags/html-elements/</loc>
-    <lastmod>2015-05-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kkuom.github.io/SecondSouffle/tags/image-gallery/</loc>
-    <lastmod>2013-02-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kkuom.github.io/SecondSouffle/tags/markdown/</loc>
-    <lastmod>2015-05-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kkuom.github.io/SecondSouffle/tags/pagination/</loc>
-    <lastmod>2014-08-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -246,74 +112,14 @@
   </url>
   
   <url>
-    <loc>https://kkuom.github.io/SecondSouffle/categories/releases/</loc>
-    <lastmod>2015-06-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kkuom.github.io/SecondSouffle/tags/responsive/</loc>
-    <lastmod>2015-06-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://kkuom.github.io/SecondSouffle/</loc>
     <lastmod>2018-01-08T13:11:33+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kkuom.github.io/SecondSouffle/tags/social/</loc>
-    <lastmod>2014-08-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kkuom.github.io/SecondSouffle/tags/tag-plugins/</loc>
-    <lastmod>2014-10-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://kkuom.github.io/SecondSouffle/tags/</loc>
     <lastmod>2018-01-08T13:11:33+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kkuom.github.io/SecondSouffle/tags/tags/</loc>
-    <lastmod>2014-08-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kkuom.github.io/SecondSouffle/tags/test/</loc>
-    <lastmod>2015-03-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kkuom.github.io/SecondSouffle/categories/tranquilpeak/</loc>
-    <lastmod>2015-06-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kkuom.github.io/SecondSouffle/tags/videos-integration/</loc>
-    <lastmod>2014-08-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kkuom.github.io/SecondSouffle/tags/vimeo/</loc>
-    <lastmod>2014-08-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kkuom.github.io/SecondSouffle/tags/youtube/</loc>
-    <lastmod>2014-08-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
