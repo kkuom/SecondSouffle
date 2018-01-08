@@ -4,6 +4,7 @@ date: 2018-01-07T18:15:01+01:00
 readingtime: 15min
 draft: false
 metaAlignment: center
+postShorten-icon: "book"
 
 categories:
 - "Contes éthique"
