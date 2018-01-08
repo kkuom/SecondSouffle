@@ -6,15 +6,15 @@ draft: false
 metaAlignment: center
 
 categories:
-- "Philosophie appliquee"
-- "Posture educative"
+- "Écrits structurants"
+- "Postulat philosophique"
 tags:
 - "Brochure"
 - "Éthique"
 - "Contrat social"
 
 thumbnailImagePosition: left
-thumbnailImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Philosophie-appliquée-thumbnail.png?raw=true
+thumbnailImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Ecrits-structurants-thumbnail.png?raw=true
 
 coverImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Post-header.jpg?raw=true
 coverMeta: in

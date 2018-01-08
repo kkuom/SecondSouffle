@@ -1,5 +1,5 @@
 ---
-title: "Ethique Des Relations en Education"
+title: "Ethique des relations en éducation"
 date: 2018-01-08T11:34:58+01:00
 readingtime: "10"
 draft: false
@@ -18,7 +18,7 @@ tags:
 - "Acteurs éducatifs"
 
 thumbnailImagePosition: left
-thumbnailImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Ecrits-structurants-thumbnail.png?raw=true
+thumbnailImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Philosophie-appliquee-thumbnail.png?raw=true
 
 coverImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Post-header.jpg?raw=true
 coverMeta: in

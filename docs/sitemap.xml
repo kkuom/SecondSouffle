@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://kkuom.github.io/SecondSouffle/2018/01/ethique-des-relations-en-education/</loc>
+    <loc>https://kkuom.github.io/SecondSouffle/2018/01/ethique-des-relations-en-%C3%A9ducation/</loc>
     <lastmod>2018-01-08T11:34:58+01:00</lastmod>
   </url>
   
@@ -216,12 +216,6 @@
   </url>
   
   <url>
-    <loc>https://kkuom.github.io/SecondSouffle/categories/philosophie-appliquee/</loc>
-    <lastmod>2017-12-29T15:26:33+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://kkuom.github.io/SecondSouffle/post/</loc>
     <lastmod>2018-01-08T11:34:58+01:00</lastmod>
     <priority>0</priority>
@@ -230,12 +224,6 @@
   <url>
     <loc>https://kkuom.github.io/SecondSouffle/categories/postulat-philosophique/</loc>
     <lastmod>2018-01-08T11:34:58+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kkuom.github.io/SecondSouffle/categories/posture-educative/</loc>
-    <lastmod>2017-12-29T15:26:33+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -314,6 +302,12 @@
   <url>
     <loc>https://kkuom.github.io/SecondSouffle/tags/youtube/</loc>
     <lastmod>2014-08-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kkuom.github.io/SecondSouffle/categories/%C3%A9crits-structurants/</loc>
+    <lastmod>2017-12-29T15:26:33+01:00</lastmod>
     <priority>0</priority>
   </url>
   
