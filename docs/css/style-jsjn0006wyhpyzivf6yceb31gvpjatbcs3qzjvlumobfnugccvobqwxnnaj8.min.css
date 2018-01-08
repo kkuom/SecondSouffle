@@ -512,3 +512,6 @@ hr.intro-divider {
     padding: 5px 10px;
     z-index: 1;
 }
+.dropdown:hover .dropdown-content {
+    display: block;
+}
