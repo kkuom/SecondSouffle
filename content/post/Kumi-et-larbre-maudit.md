@@ -17,7 +17,7 @@ tags:
 
 
 thumbnailImagePosition: top
-thumbnailImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Kumi_header.jpg?raw=true
+thumbnailImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Kumi_thumbnail.jpg?raw=true
 
 coverImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Post-header.jpg?raw=true
 coverMeta: in
