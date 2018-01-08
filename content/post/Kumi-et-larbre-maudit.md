@@ -30,12 +30,10 @@ showDate: true
 comments: true
 ---
 <section class="intro">
-
 Ici Raphaël devrait nous pondre prochainement un résumé sympathique pour donner à tout les internautes une envie folle de lire le conte "Kumi et l'arbre maudit".
-
 <!--more-->
-
 <hr class="intro-divider">
+<!-- toc -->
 {{%attachments title="" style="black" pattern=".*(pdf)"/%}}
 </section>
 
@@ -43,7 +41,7 @@ Ici Raphaël devrait nous pondre prochainement un résumé sympathique pour donn
 Les gens disent toujours : « Mais comment des enfants libres s’adapteront-ils jamais au côté fastidieux de la vie ? » J’espère bien que ces enfants seront les pionniers de l’abolition de ce qui est fastidieux.
 {{< /blockquote >}}
 
-<p style="text-align:center">**#**</p>
+# <i class="fa fa-bookmark-o" aria-hidden="true" style="padding-right:15px;"></i>Chapitre I
 Il fut un temps où un arbre majestueux produisait des fruits qu’on appelait Lomis. Ils étaient si nourrissants et sucrés qu’une tribu avait décidé de s’installer là, au pied de cet arbre immense, afin de profiter de cette abondance. Toute l’année, il leur procurait l’équivalent d’un panier chaque jour.
 
 Un soir, l’un des plus gros orages qu’on n’eut jamais vu éclata. Les villageois eurent très peur mais au matin, tout était calme et le soleil resplendissait. Deux hommes décidèrent de monter dans l’arbre pour ramener un panier de Lomis aux villageois. Mais quand ils furent redescendus, ils poussèrent des cris d’effroi qui déchirèrent le silence paisible qui régnait. Tout le village accouru. Les deux hommes, qui étaient à présent au centre d’un attroupement, avaient  leurs mains plaquées sur leurs fronts. Le silence fut rétabli par le sorcier du village qui fit irruption.  
@@ -66,7 +64,7 @@ Un murmure d’effroi parcouru l’assemblée.
 Un murmure d’approbation suivit ces dernières paroles.
 
 Ce jour-là, un silence lourd planait sur le petit village. Suite à la prophétie, tout le monde avait regagné son chez-soi et l’inquiétude avait gagné le cœur de chacun.
-<p style="text-align:center">**# #**</p>
+# <i class="fa fa-bookmark-o" aria-hidden="true" style="padding-right:15px;"></i>Chapitre II
 Les villageois durent donc se mettre au travail. Les jours passant, ils apprirent à cultiver et à chasser. Et alors que les deux hommes avaient perdu leur troisième œil et avaient retrouvé leur apparence habituelle, tout le monde continuait de les éviter. Ils étaient les *hommes maudits*, les *cyclopes*.  
 Le temps passa. Les enfants de cette époque grandirent en entendant sans cesse qu’il était défendu de s’approcher de l’arbre maudit. *« Si tu le touches, un œil te poussera sur le front ! »*. Et aux  enfants qui rétorquaient *« Mais les hommes maudits n’ont que deux yeux ! »*, les adultes répondaient fermement *« Ne discute pas ! L’œil reste jusqu’à l’âge adulte, mais tu deviendras la risée du village. Veux-tu vraiment devenir un cyclope à ton tour ? Regarde comme ils sont détestés ! »*. Les enfants effrayés ne rétorquaient rien du tout. Le temps passa encore et les deux hommes avaient quitté la tribu depuis longtemps, lassés d’être craints par tous. Puis, les enfants d’hier élevèrent leurs propres enfants et se plaisaient à narrer un conte, qui, d’année en année, était devenu l’histoire la plus appréciée. Chaque famille le connaissait bien. Il racontait à quel point il était impensable de s’approcher de l’arbre maudit. Des cyclopes descendaient de ses branches les nuits d’orage pour roder dans le village à la recherche d’enfants paresseux...  
 Et bien que beaucoup croyait cette histoire sur parole, Kumi, une petite fille astucieuse qui adorait explorer la nature qui l’entourait, n’y croyait pas du tout. L’arbre maudit la fascinait. Il était le seul arbre des environs dans lequel elle n’était jamais montée, et au grand désespoir de sa mère, Kumi [se] posait beaucoup de questions à son sujet.  
@@ -83,7 +81,7 @@ Sa mère s’emporta et la saisit fermement.
 *« Tout le monde s’est moqué des hommes maudits, plus personne ne voulait leur parler. Kumi, je t’interdis de t’approcher de cet arbre. Et je t’interdis d’en parler à nouveau. Il est dangereux, un point c’est tout. Les dieux te maudiraient, et personne n’est plus puissant qu’un dieu. »*
 
 Kumi repartit déçue. Elle aurait bien aimé en parler plus. Elle se rendit là où elle allait lorsqu’elle était contrariée et qu’elle voulait se changer les idées. Elle se rendit dans la grande forêt.
-<p style="text-align:center">**# # #**</p>
+# <i class="fa fa-bookmark-o" aria-hidden="true" style="padding-right:15px;"></i>Chapitre III
 La grande forêt était dotée d’une nature luxuriante, mais au village, seuls les chasseurs osaient s’y aventurer. On pouvait s’y perdre et de nombreux animaux y rodaient. Kumi, elle, avait appris à y errer sans crainte. Et alors qu’elle s’y enfonçait plus profondément qu’à son habitude, elle aperçu un arbre idéal pour s’y hisser. Les branches étaient régulièrement espacées et semblaient inviter Kumi à l’escalade. D’un mouvement souple, elle attrapa la plus basse et commença l’ascension jusqu’à atteindre le sommet. Elle y découvrit des fleurs pourvues de majestueux pétales jaunes et violets au cœur desquels se nichait un pistil rouge vif. Quelques gouttes d’un liquide couleur rouge sang perlaient sur ce dernier. Kumi était fascinée par sa découverte. Elle contemplait depuis de longues minutes ces fleurs si belles qui poussaient à même le tronc de l’arbre. Et alors qu’elle allait se saisir de l’une d’entre elles, un craquement à proximité lui fit faire volte-face. Elle se retrouva nez-à-nez avec un chimpanzé. Apparemment amusé, il regardait Kumi avec un regard plein de malice. Kumi s’adressa à lui :  
 *« Bonjour ! Tu m’as fait peur, j’étais en train de regarder ces drôles de fleurs. En as-tu déjà vu des comme ça ? »*
 
@@ -96,11 +94,11 @@ Kumi avait de nouveau portée son attention sur la plante si belle lorsque le gr
 Kumi s’étonna :  
 *« Pourquoi dis-tu cela ? Je ne crois pas que la fleur nous pose un problème. D’ailleurs, personne ne vient ici, et les chasseurs ne montent pas aux arbres. Enfin, je ne crois pas. En as-tu déjà vu perchés ici ? »*  
 Kumi détourna son regard de la fleur et vit, surprise, que le chimpanzé n’était plus là. Kumi médita les paroles du singe un long moment avant de se décider à prendre le chemin du village. Mais ne voyant pas où il voulait en venir, elle se dit finalement qu’elle aurait la chance de le revoir et qu’elle le lui demanderait à ce moment-là.
-<p style="text-align:center">**# # # #**</p>
+# <i class="fa fa-bookmark-o" aria-hidden="true" style="padding-right:15px;"></i>Chapitre IV
 Plusieurs mois s’étaient écoulés depuis cette rencontre, et le printemps avait laissé sa place à un été ardent. Le soleil brûlait les terres, les récoltes dépérissaient, les animaux se réfugiaient au cœur de la forêt sous les feuillages les plus denses. Quelques fruits subsistaient encore dans les branches des arbres les plus profondément enracinés, mais les hommes avaient bien du mal à les atteindre. Le village mourrait de faim et certains se préparaient à quitter pour toujours cette terre ensorcelée. Ils maudissaient cet arbre qui narguait les villageois de ses fruits interdis, si gros et si nombreux.  
 Une nuit, Kumi revit dans ces rêves le chimpanzé qu’elle avait rencontré des mois auparavant. Assise auprès de lui, elle se rendit compte que la situation n’était pas la même que dans son souvenir. Elle n’était plus dans la forêt. Depuis la cime de l’arbre à Lomi, ils contemplaient tous deux le village. Le singe la regarda quelques secondes, puis descendit de l’arbre, aussi délicatement qu’une feuille décrochée par la brise rejoindrait le sol.  
 Kumi se réveilla perplexe mais sans sursaut. Elle sortit de son lit, marcha à travers le village avant de le dépasser, et atteignit finalement l’arbre majestueux. Il fallait qu’elle en ait le cœur net. Elle posa sa main sur la première branche et débuta son ascension nocturne.
-<p style="text-align:center">**# # # # #**</p>
+# <i class="fa fa-bookmark-o" aria-hidden="true" style="padding-right:15px;"></i>Chapitre V
 Il était encore tôt lorsque Kumi sillonna le village tout en clamant follement *« J’ai trouvé de la nourriture ! »*, *« Suivez-moi  ! »*, *« Venez vite ! »*. Elle avait patiemment attendu que les villageois fussent bien levés, réveillés comme chaque matin par la chaleur déjà étouffante des premiers rayons du soleil. L’état de désespoir était tel que personne n’osa remettre en doute la parole de Kumi, et tout le monde la suivit même lorsqu’elle prit la direction de l’arbre maudit. Quelques retardataires se hâtaient encore de rejoindre le cercle formé par les villageois lorsque Kumi se mit à parler.  
 *« Je vous ai rassemblé ici car j’ai découvert que l’arbre n’est pas maudit. »*  
 Aussitôt, une foule de personnes s’exclama.  
@@ -116,7 +114,7 @@ Elle sortit précautionnèrent une magnifique fleur jaune et violette de sa poch
 *« Cette fleur ne pousse qu’en haut des plus grands arbres, je l’ai découverte lors d’une sortie dans la forêt. Mais c’est cette nuit que j’ai réalisé que ces fleurs poussaient également à la cime de l’arbre à Lomis. »*  
 Kumi s’arrêta et regarda les villageois. Tous réfléchissaient, mais leurs pensées étaient toujours embuées par la frayeur qu’ils venaient d’avoir. Kumi reprit son explication :  
 *« Ce jus a le pouvoir de faire pousser un troisième œil ! »*
-<p style="text-align:center">**# # # # # #**</p>
+# <i class="fa fa-bookmark-o" aria-hidden="true" style="padding-right:15px;"></i>Chapitre VI
 Cette annonce provoqua une grande surprise au sein de la foule, mais personne n’avait l’air de réaliser l’étendue de ces révélations. Kumi demanda alors :  
 *« J’aimerais savoir… que s’est-il vraiment passé le jour où les hommes maudits sont montés dans l’arbre ? »*  
 Bref silence. Une femme  prit alors la parole.  
