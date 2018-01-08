@@ -6,10 +6,20 @@
     <description>Recent content in Contrat Social on Second Souffle</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 29 Dec 2017 15:26:33 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jan 2018 13:11:33 +0100</lastBuildDate>
     
 	<atom:link href="https://kkuom.github.io/SecondSouffle/tags/contrat-social/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Éthique des relations en éducation</title>
+      <link>https://kkuom.github.io/SecondSouffle/2018/01/%C3%A9thique-des-relations-en-%C3%A9ducation/</link>
+      <pubDate>Mon, 08 Jan 2018 13:11:33 +0100</pubDate>
+      
+      <guid>https://kkuom.github.io/SecondSouffle/2018/01/%C3%A9thique-des-relations-en-%C3%A9ducation/</guid>
+      <description>&lt;section class=&#34;intro&#34;&gt;
+Ici Raphaël devrait nous pondre un autre résumé carrément génial pour donner à tout les individus passant par là une envie dingue de lire cette brochure philosophique tout à fait intéressante..</description>
+    </item>
     
     <item>
       <title>Le Premier Souffle</title>
@@ -19,16 +29,6 @@
       <guid>https://kkuom.github.io/SecondSouffle/2017/12/le-premier-souffle/</guid>
       <description>&lt;section class=&#34;intro&#34;&gt;
 Le Premier Souffle se veut être le postulat philosophique sur lequel le collectif se pose. Il est, si l&#39;on veut, la racine principale des textes fondateurs qui émergeront ensuite du collectif.</description>
-    </item>
-    
-    <item>
-      <title>Éthique des relations en éducation</title>
-      <link>https://kkuom.github.io/SecondSouffle/1/01/%C3%A9thique-des-relations-en-%C3%A9ducation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://kkuom.github.io/SecondSouffle/1/01/%C3%A9thique-des-relations-en-%C3%A9ducation/</guid>
-      <description>&lt;section class=&#34;intro&#34;&gt;
-Ici Raphaël devrait nous pondre un autre résumé carrément génial pour donner à tout les individus passant par là une envie dingue de lire cette brochure philosophique tout à fait intéressante..</description>
     </item>
     
   </channel>
