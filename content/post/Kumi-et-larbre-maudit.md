@@ -1,5 +1,5 @@
 ---
-title: "Kumi Et Larbre Maudit"
+title: "Kumi et l'arbre Maudit"
 date: 2018-01-07T18:15:01+01:00
 draft: false
 metaAlignment: center
