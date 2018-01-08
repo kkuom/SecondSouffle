@@ -4,10 +4,9 @@ date: 2018-01-07T18:15:01+01:00
 readingtime: "15"
 draft: false
 metaAlignment: center
-Author: "Raphaël, Thomas"
 
 categories:
-- "Contes éthique"
+- "Contes ethique"
 - "Contes pour une autre vision du monde"
 tags:
 - "Brochure"
