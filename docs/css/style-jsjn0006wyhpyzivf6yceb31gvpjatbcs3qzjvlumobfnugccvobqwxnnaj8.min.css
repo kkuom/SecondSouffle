@@ -174,7 +174,7 @@ pre.code-highlight>code{padding:0;margin:0;line-height:inherit}#about{top:0;left
 
 .figure.center,.figure.center .fig-img{margin:2px auto}
 .figure.clear{clear:both}
-.figure.center{margin:2px auto}
+.figure.center{margin:0 auto}
 .figure.left{float:left;margin:2px}
 .figure.right{float:right;margin:2px}
 .figure.fig-20{width:calc(20% - 4px)}
