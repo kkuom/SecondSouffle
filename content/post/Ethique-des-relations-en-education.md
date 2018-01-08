@@ -6,8 +6,8 @@ draft: false
 metaAlignment: center
 
 categories:
-- "Ecrits structurants"
-- "Postulat philosophique"
+- "Philosophie appliquee"
+- "Posture educative"
 tags:
 - "Brochure"
 - "Éthique"
@@ -96,7 +96,7 @@ Personne ne sait tout, ni personne n’ignore tout, personne n’éduque personn
 Malgré cette affirmation de P. Freire qui s’inscrit dans l’éducation populaire, on ne peut nier l’existence de rôles dans l’éducation. De fait, par l’expérience, le recul, le statut, les compétences, le charisme, dans une relation entre individus, il existe presque toujours un rôle d’éducateur (détenteur de l’autorité), et un rôle d’éduqué (objet de l’autorité). Même si lorsqu’on dit *« éducation »*, nous pensons en premier aux enfants, une bonne partie de ce qui est analysé dans ce texte peut s’appliquer dans d’autres contextes que l’éducation des enfants. Je pense aux formations d’adultes, l’éducation populaire, les relations interpersonnelles dans un groupe, et toute autre relation d’autorité… L’éthique dans cette relation sera alors largement conditionnée par la perception et la conscience qu’auront les individus vis-à-vis de cette relation et particulièrement celui qui aura le rôle dominant. Par éthique libertaire, on entend ici l’autonomie, l’autodétermination et la conservation de leur dignité par les individus, la maitrise de leurs actions, de leur être et de leur image ainsi que la légitimité des besoins individuels et collectifs. Tout ceci exclut donc la plupart des hétéronomies possibles, de l’instrumentalisation entre individus, la domination, la dépendance... Ce texte reste surtout destiné aux acteurs éducatifs qui souhaitent prendre du recul sur les relations qu’ils développeront dans des contextes éducatifs, et qui souhaitent s’interroger sur la mise en place de relations en accord avec une éducation éthique et libertaire.
 
 # <i class="fa fa-bookmark-o" aria-hidden="true" style="padding-right:15px;"></i>Autorité
-##La place de la relation dans l’éducation
+### La place de la relation dans l’éducation
 {{< blockquote "Antoine de Saint-Exupéry," "Le petit prince" >}}
 J’ai le droit d’exiger l’obéissance parce que mes ordres sont raisonnables.
 {{< /blockquote >}}
@@ -114,7 +114,7 @@ La relation fait d’autre part partie du système définissant l’autorité. C
 +	des statuts de l’éducateur et de l’éduqué.
 Dans ce système la relation joue un rôle incontournable : des moments de partage, de confidences, de moments forts, de moments de jeu, de discussions, de rires, sont autant de situations qui vont accroitre la qualité de la relation entre éducateurs et éduqués et donc, renforcer l’autorité de l’éducateur. Ce renfort nécessite tout de même la condition que la relation ne dégrade pas le statut (par des comportements inappropriés, dissociés de la vision d’autorité par l’éduqué). Ces notions plus pédagogiques qu’éthiques sont développées dans un autre document de Second Souffle appelé La posture éducative. Elles sont cependant abordées ici, car elles sont nécessaires à la compréhension des mécanismes de pouvoir en jeu qui peuvent être objets de questionnements éthiques.
 
-##Relation et domination
+### Relation et domination
 {{< blockquote "John Holt" "" >}}
 La seule manière dont nous puissions vraiment protéger quelqu’un contre ses propres erreurs et contre les hasards de la vie, c’est de le transformer en esclave. Il est alors sans défense contre nos caprices et nos faiblesses. La plupart des humains choisiraient de courir ce risque [de ne pas être esclave]. Et ils ont le droit de le faire.
 {{< /blockquote >}}
@@ -125,7 +125,7 @@ Sans être dans la recherche d’affection, la relation éducative peut égaleme
 La relation est donc une condition à l’autorité de l’adulte qui est elle-même un dispositif indispensable pour l’éducateur afin d’interagir de manière adéquate avec l’être éduqué. Mais elle représente un piège affectif pour l’éducateur. Ce dernier doit alors constamment interroger sa posture. Pourquoi telle décision a-t-elle été prise ? Était-elle adaptée ? Pourquoi ai-je réagi ainsi et ai-je adopté tel comportement ? Était-ce adapté ?  
 Cette remise en question est à réaliser à plusieurs échelles ; dans l’instantané, dans la journée, sur une période longue…). Elle permettra à l’éducateur de progresser dans ses intentions éducatives en corrigeant sa trajectoire dès lors que celle-ci dévie vers une recherche de pouvoir, d’affection, de *« réussite éducative »*, de reconnaissance sociale, etc.
 
-##Les différentes influences
+### Les différentes influences
 {{< blockquote " Thomas Gordon" "" >}}
 Les groupes ont besoin de règles, mais la façon d’inciter tous les membres du groupe à respecter les règles fait toute la différence.
 {{< /blockquote >}}
@@ -135,7 +135,7 @@ Dans le cas de l’influence par la morale, l’éducateur va influencer le comp
 Voyons maintenant le cas de la séduction justement, c’est-à-dire de l’influence par l’affect. Au début d’une relation, un éducateur a peu d’autorité. Dans une stratégie de séduction, il va se baser sur son statut ou sur la force, puis gagner peu à peu de l’influence en donnant de l’affection (et en recevant). L’affect devient alors un moyen d’influence voir de manipulation ou de pression, car il représente un besoin de l’individu éduqué. L’éducateur peut avoir recours au chantage affectif. Son affection va être une récompense à une conduite qu’il juge appropriée de la part de l’individu éduqué. Il va donner de l’affection de manière très différente en fonction des individus éduqués s’ils constituent un groupe et ces derniers seront en compétition dans une ascension sociale, désirant gagner le statut de favoris de l’éducateur. Lui-même va user de tout son charisme pour être une personne dont on désire l’affection. Il va vouloir se mettre en valeur, montrer les avantages que l’individu éduqué peut avoir en étant apprécié de l’autorité. Tout est bon pour avoir de l’affection, les éducateurs dans cette stratégie vont souvent avoir recours à toutes sortes de mode de démonstrations affectives : surnoms, démonstrations excessives et/ou prématurées d’affection, câlins, manifestation d’affection ou de complicités de toutes sortes… La stratégie principale de celui qui veut influencer par l’affect va être de définir précisément la limite qui marque les moments où l’affection est échangée et les moments où elle ne l’est pas. Cette visibilité est presque nécessaire à l’éducateur dès lors qu’il veut contrôler l’individu éduqué. En effet, ce dernier doit pouvoir percevoir ce que l’éducateur approuve ou non, en fonction de la quantité d’échanges affectifs qu’il perçoit. Cette stratégie, telle que décrite précédemment, est souvent une logique intériorisée par l’éducateur et/ou l’éduqué. Ainsi l’éducateur n’a souvent pas le recul pour se rendre compte qu’il utilise des outils aussi précis pour acquérir du pouvoir sur l’individu éduqué. D’autre part, il a été décrit ici une situation presque extrême, afin de bien comprendre la logique qui peut paraître peu visible, car parfois morcelée. Cependant cette logique et ces stratégies, même moins visibles sont souvent bien présentes. On peut noter également que des pratiques citées ne signifient pas obligatoirement qu’on soit dans une influence par l’affect ; avoir des relations affectives n’est pas incompatible avec l’éthique, c’est leur instrumentalisation qui pose problème. Dès lors que l’affection échangée avec l’éducateur est condition du comportement de l’individu éduqué, on est dans une influence par l’affect et donc une relation éducative qui ne permet pas l’autodétermination de l’être éduqué.
 
 # <i class="fa fa-bookmark-o" aria-hidden="true" style="padding-right:15px;"></i>Affect et affection
-##L’individu éduqué comme moyen pour l’éducateur
+### L’individu éduqué comme moyen pour l’éducateur
 {{< blockquote "John Holt" "" >}}
 Nous traitons un être humain en objet quand nous l’utilisons pour nos desseins personnels, pour en tirer un avantage quelconque, sans nous demander ce qui en résulte pour lui ou quelle impression cela lui fait, ni même tout simplement si cela lui fait quelque chose.
 {{< /blockquote >}}
@@ -148,7 +148,7 @@ La liste n’est pas exhaustive, mais je donne un dernier exemple de situation d
 +	ayant des compétences importantes aux yeux de l’éducateur.
 Encore une fois, la rationalisation est facile : *« c’est pour son bien »*. Le bien peut être vu comme un bien absolu (*« ce qu’il y a de mieux »*) ou de manière subjective. Dans le cas d’une subjectivité, il est légitimé par le droit que se réserve l’éducateur de fixer le cap de l’individu éduqué : il fournit l’effort d’éducation donc il a le droit de décider *« ce qui constitue une réussite dans la vie, une bonne éducation »*. L’autodétermination de l’individu éduqué est mise à mal, allant de nouveau à l’encontre de l’éthique libertaire.
 
-##La *«distribution»* de l’affection dans un groupe
+### La *«distribution»* de l’affection dans un groupe
 {{< blockquote "Jane Nelsen" "" >}}
 L’enfant qui a le plus besoin d’amour est souvent celui qui se montre le moins aimable.
 {{< /blockquote >}}
@@ -164,7 +164,7 @@ Sur la question des besoins affectifs extrêmes, la réponse peut être qu’il 
 Enfin lorsque l’on parle des difficultés de l’éducateur en tant que personne, on part du principe que les éducateurs sont humains est ainsi qu’ils n’ont pas la même facilité à donner une affection à chaque individu éduqué. En effet, il existe nécessairement des liens plus ou moins forts entre individus aux vues de leurs personnalités et sensibilités. Ainsi, certains éducateurs se voient dans l’impossibilité de répondre aux besoins d’individus ayant des besoins affectifs même s’ils en ont la volonté. Ici, un vieil adage peut nous aider à la réflexion éthique *« De chacun selon ses moyens [éducateur], à chacun selon ses besoins [individu éduqué] »*. Il permet d’avancer dans le cas ou plusieurs éducateurs sont en charge de l’éducation d’un groupe, car ce que l’un ne peut faire, l’autre pourra peut-être. Cependant — et c’est dommage —, cela nous laisse dans l’impasse lorsque l’éducateur est seul en charge d’un groupe ce qui appuie un dicton africain selon lequel *« Il faut tout un village pour éduquer un enfant »*.
 
 # <i class="fa fa-bookmark-o" aria-hidden="true" style="padding-right:15px;"></i>Communication
-##Le mensonge
+### Le mensonge
 {{< blockquote "Janusz Korczak" "" >}}
 L’enfant est comme perdu dans un pays étranger dont il ignore la langue, les droits et les coutumes. Parfois, il préfère cheminer seul et, lorsqu’il rencontre des difficultés, il demande des renseignements et des conseils. Il a alors besoin d’un guide attentif pour répondre à ses questions.
 {{< /blockquote >}}
@@ -190,7 +190,7 @@ D’un point de vue éthique, ce qui questionne est que le mensonge installe une
 À noter également qu’il existe des mensonges à la fois offensifs et défensifs se nourrissant l’un l’autre, utilisés la plupart du temps sur les enfants. C’est le cas du père Fouettard, du croque-mitaine et des autres monstres mangeurs d’enfants. Le mécanisme est le suivant : je suis un adulte savant donc je profite de la crédulité de l’enfant pour inventer un monstre (offensif) pour lui faire peur et contrôler ensuite certaines de ses actions par une stratégie dissuasive (défensif).  
 Précisons toutefois que ce chapitre ne signifie pas qu’une éducation à visée éthique exclue totalement et radicalement le mensonge. Le mensonge et la tromperie sont injustes et inadéquats lorsqu’ils créent ou accentuent la dissymétrie dans la relation de pouvoir, mais il existe des cas ou un mensonge ou une tromperie peut se révéler intéressante. Lorsqu’une farce ou une supercherie visée à être rapidement démontée met à l’épreuve un sujet tout en lui permettant de conserver sa dignité et sans exploiter sa crédulité, des objectifs d’acquisition d’esprit critique ou d’observation peuvent être atteints. C’est le cas par exemple de certaines activités autour de la magie avec un individu trompeur donnant des clefs de compréhension au sujet trompé. Les indices laissent alors bien comprendre qu’il y a un *« truc »* et qu’il est en mesure de comprendre la supercherie. On peut inclure également les moments où éducateur et éduqué partent ensemble dans des jeux d’énigmes ou de fabulation, et où chacun a une place pour imaginer, exprimer pleinement son potentiel créatif et critique.
 
-## La brimade
+### La brimade
 {{< blockquote "Marie-Claude Bonnault" "" >}}
 Il faut redire aussi que pour qu’un jeu soit un jeu, tout le monde doit avoir le même accès à la connaissance des règles. Sinon certains deviennent les jouets de certains autres.
 {{< /blockquote >}}
@@ -208,7 +208,7 @@ Bien que cela paraisse évident à ce stade de notre analyse, décortiquons un p
 
 Pour ces raisons, la brimade n’a strictement rien à faire dans une éducation à visée éthique.
 
-##L’humour et la démonstration charismatique
+### L’humour et la démonstration charismatique
 {{< blockquote "Tomas Chamorro-Premuzic" "" >}}
 Le charisme des narcissiques s’estompe au bout de deux heures et demie à peine. Leur flamboyance, leur charme et leur confiance du départ se métamorphosent rapidement en une autoadmiration aveugle, en une arrogance défensive et en un désengagement moral. La durée très courte de leur charme explique que les narcissiques soient toujours en quête de nouveaux admirateurs – ou de nouvelles victimes.
 {{< /blockquote >}}
@@ -243,7 +243,7 @@ L’éthique apparait notamment dans la notion de compétition : puisqu’il fau
 L’éthique apparait également via l’admiration suscitée par la démonstration charismatique qui plonge l’individu éduqué dans un état passif voire dépendant de figures d’exemples. L’admirateur est focalisé sur les perceptions que chacun a des autres (perceptions interindividuelles), et non pas sur la perception que chacun a de soi-même. Alors, soucieux de l’image qu’il renvoie dans le groupe, l’individu ne priorise plus ses besoins internes et se plie à la volonté toute puissante du *« bien »* du groupe. L’individu est alors hétéronome (non autonome), car incapable de s’autodéterminer.
 
 # <i class="fa fa-bookmark-o" aria-hidden="true" style="padding-right:15px;"></i>La perception de la relation
-##Le mensonge
+### Le mensonge
 {{< blockquote "Gisèle De Failly" "" >}}
 Que nous ayons à faire à des enfants ou à des adultes; être en contact avec la réalité signifie les accepter tels qu’ils sont et non tels que nous souhaiterions qu’ils fussent. Il faut ensuite les accepter où ils en sont.
 {{< /blockquote >}}
