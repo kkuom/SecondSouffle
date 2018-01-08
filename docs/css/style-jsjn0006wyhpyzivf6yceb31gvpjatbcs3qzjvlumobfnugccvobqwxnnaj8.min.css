@@ -285,6 +285,7 @@ a.fancybox{cursor:zoom-in!important}
 .postShorten .postShorten-header .postShorten-title{margin:0;word-break:initial;overflow:hidden;font-family:'Love Ya Like A Sister';font-weight:normal;letter-spacing:.1px}
 .postShorten .postShorten-meta{line-height:1.5em}
 .postShorten .postShorten-meta,.postShorten .postShorten-meta a,.postShorten .postShorten-readingtime{color:#9eabb3;padding-left:1px}
+.postShorten-meta a:hover{color:#fa8072}
 .postShorten .postShorten-excerpt_link{margin-top:-15px}
 .postShorten .postShorten-excerpt_link,.postShorten .postShorten-meta,.postShorten .postShorten-readingtime{font-family:'Lato', sans-serif;font-size:1.3rem;font-weight:400}
 .postShorten .postShorten-content,.postShorten .postShorten-excerpt{text-rendering:optimizelegibility;letter-spacing:-.3px;font-family:'Lato', sans-serif;color:#5d686f;font-weight:400;overflow:hidden;-webkit-hypens:auto;-moz-hypens:auto;hypens:auto}
