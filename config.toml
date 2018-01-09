@@ -178,22 +178,22 @@ canonifyurls = true
   # Tranquilpeak configuration > Theme configuration > sharing-options
   [[params.sharingOptions]]
     name = "Facebook"
-    icon = "fas-facebook"
+    icon = "fab-facebook"
     url = "https://www.facebook.com/sharer/sharer.php?u=%s"
 
   [[params.sharingOptions]]
     name = "Twitter"
-    icon = "fas-twitter"
+    icon = "fab-twitter"
     url = "https://twitter.com/intent/tweet?text=%s"
 
   [[params.sharingOptions]]
     name = "Google+"
-    icon = "fas-google-plus"
+    icon = "fab-google-plus"
     url = "https://plus.google.com/share?url=%s"
 
   [params.header.rightLink]
-    class = "Header"
-    icon = "fas-home"
+    class = ""
+    icon = ""
     url = "/#home"
 
   # Customize link of author avatar in sidebar
