@@ -2816,7 +2816,7 @@ a.postShorten-continue {
 
 .postShorten-continue:not(.no-icon):before {
   content: "\f1ea";
-  font-family: FontAwesome;
+  font-family: Font Awesome\ 5 Free;
   vertical-align: middle;
   margin-right: 6px
 }

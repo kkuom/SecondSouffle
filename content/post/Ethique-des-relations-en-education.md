@@ -38,7 +38,7 @@ Ici Raphaël devrait nous pondre un autre résumé carrément génial pour donne
 {{%attachments title="" style="black" pattern=".*(pdf)"/%}}
 </section>
 
-# <i class="fa fa-info-circle" aria-hidden="true" style="padding-right:13px;"></i>Quelques (re)définitions
+# <i class="fas fa-info-circle" aria-hidden="true" style="padding-right:13px;"></i>Quelques (re)définitions
 <table>
 <tr>
 <td><strong>Autonomie</strong></td>
@@ -70,14 +70,14 @@ Ici Raphaël devrait nous pondre un autre résumé carrément génial pour donne
 L’éducation consiste à comprendre l’enfant tel qu’il est, sans lui imposer l’image de ce que nous pensons qu’il devrait être.
 {{< /blockquote >}}
 
-# <i class="fa fa-bookmark-o" aria-hidden="true" style="padding-right:15px;"></i>Introduction
+# <i class="far fa-bookmark" aria-hidden="true" style="padding-right:15px;"></i>Introduction
 {{< blockquote "Paulo Freire" "" >}}
 Personne ne sait tout, ni personne n’ignore tout, personne n’éduque personne, personne n’éduque seul, les hommes s’éduquent entre eux par la médiation du monde.
 {{< /blockquote >}}
 
 Malgré cette affirmation de P. Freire qui s’inscrit dans l’éducation populaire, on ne peut nier l’existence de rôles dans l’éducation. De fait, par l’expérience, le recul, le statut, les compétences, le charisme, dans une relation entre individus, il existe presque toujours un rôle d’éducateur (détenteur de l’autorité), et un rôle d’éduqué (objet de l’autorité). Même si lorsqu’on dit *« éducation »*, nous pensons en premier aux enfants, une bonne partie de ce qui est analysé dans ce texte peut s’appliquer dans d’autres contextes que l’éducation des enfants. Je pense aux formations d’adultes, l’éducation populaire, les relations interpersonnelles dans un groupe, et toute autre relation d’autorité… L’éthique dans cette relation sera alors largement conditionnée par la perception et la conscience qu’auront les individus vis-à-vis de cette relation et particulièrement celui qui aura le rôle dominant. Par éthique libertaire, on entend ici l’autonomie, l’autodétermination et la conservation de leur dignité par les individus, la maitrise de leurs actions, de leur être et de leur image ainsi que la légitimité des besoins individuels et collectifs. Tout ceci exclut donc la plupart des hétéronomies possibles, de l’instrumentalisation entre individus, la domination, la dépendance... Ce texte reste surtout destiné aux acteurs éducatifs qui souhaitent prendre du recul sur les relations qu’ils développeront dans des contextes éducatifs, et qui souhaitent s’interroger sur la mise en place de relations en accord avec une éducation éthique et libertaire.
 
-# <i class="fa fa-bookmark-o" aria-hidden="true" style="padding-right:15px;"></i>Autorité
+# <i class="far fa-bookmark" aria-hidden="true" style="padding-right:15px;"></i>Autorité
 ## La place de la relation dans l’éducation
 {{< blockquote "Antoine de Saint-Exupéry," "Le petit prince" >}}
 J’ai le droit d’exiger l’obéissance parce que mes ordres sont raisonnables.
@@ -152,7 +152,7 @@ Voyons maintenant le cas de la séduction justement, c’est-à-dire de l’infl
 <span class="dropdown-content">Exemple de chantage affectif : « Si tu fais ça tu vas me décevoir (j’aurai moins d’affection pour toi) ».</span>
 </span>. Son affection va être une récompense à une conduite qu’il juge appropriée de la part de l’individu éduqué. Il va donner de l’affection de manière très différente en fonction des individus éduqués s’ils constituent un groupe et ces derniers seront en compétition dans une ascension sociale, désirant gagner le statut de favoris de l’éducateur. Lui-même va user de tout son charisme pour être une personne dont on désire l’affection. Il va vouloir se mettre en valeur, montrer les avantages que l’individu éduqué peut avoir en étant apprécié de l’autorité. Tout est bon pour avoir de l’affection, les éducateurs dans cette stratégie vont souvent avoir recours à toutes sortes de mode de démonstrations affectives : surnoms, démonstrations excessives et/ou prématurées d’affection, câlins, manifestation d’affection ou de complicités de toutes sortes… La stratégie principale de celui qui veut influencer par l’affect va être de définir précisément la limite qui marque les moments où l’affection est échangée et les moments où elle ne l’est pas. Cette visibilité est presque nécessaire à l’éducateur dès lors qu’il veut contrôler l’individu éduqué. En effet, ce dernier doit pouvoir percevoir ce que l’éducateur approuve ou non, en fonction de la quantité d’échanges affectifs qu’il perçoit. Cette stratégie, telle que décrite précédemment, est souvent une logique intériorisée par l’éducateur et/ou l’éduqué. Ainsi l’éducateur n’a souvent pas le recul pour se rendre compte qu’il utilise des outils aussi précis pour acquérir du pouvoir sur l’individu éduqué. D’autre part, il a été décrit ici une situation presque extrême, afin de bien comprendre la logique qui peut paraître peu visible, car parfois morcelée. Cependant cette logique et ces stratégies, même moins visibles sont souvent bien présentes. On peut noter également que des pratiques citées ne signifient pas obligatoirement qu’on soit dans une influence par l’affect ; avoir des relations affectives n’est pas incompatible avec l’éthique, c’est leur instrumentalisation qui pose problème. Dès lors que l’affection échangée avec l’éducateur est condition du comportement de l’individu éduqué, on est dans une influence par l’affect et donc une relation éducative qui ne permet pas l’autodétermination de l’être éduqué.
 
-# <i class="fa fa-bookmark-o" aria-hidden="true" style="padding-right:15px;"></i>Affect et affection
+# <i class="far fa-bookmark" aria-hidden="true" style="padding-right:15px;"></i>Affect et affection
 ## L’individu éduqué comme moyen pour l’éducateur
 {{< blockquote "John Holt" "" >}}
 Nous traitons un être humain en objet quand nous l’utilisons pour nos desseins personnels, pour en tirer un avantage quelconque, sans nous demander ce qui en résulte pour lui ou quelle impression cela lui fait, ni même tout simplement si cela lui fait quelque chose.
@@ -186,7 +186,7 @@ Le besoin justement, n’est pas toujours formulé clairement, les individus com
 Sur la question des besoins affectifs extrêmes, la réponse peut être qu’il faut à la fois y répondre (le besoin est légitime), ne pas l’exploiter (éviter l’abus de pouvoir) et tenter une autonomisation progressive (afin que l’individu soit libre).La non prise en compte de ce besoin spécifique pourrait être vécue violemment par le sujet éduqué ou le faire souffrir.\
 Enfin lorsque l’on parle des difficultés de l’éducateur en tant que personne, on part du principe que les éducateurs sont humains est ainsi qu’ils n’ont pas la même facilité à donner une affection à chaque individu éduqué. En effet, il existe nécessairement des liens plus ou moins forts entre individus aux vues de leurs personnalités et sensibilités. Ainsi, certains éducateurs se voient dans l’impossibilité de répondre aux besoins d’individus ayant des besoins affectifs même s’ils en ont la volonté. Ici, un vieil adage peut nous aider à la réflexion éthique *« De chacun selon ses moyens [éducateur], à chacun selon ses besoins [individu éduqué] »*. Il permet d’avancer dans le cas ou plusieurs éducateurs sont en charge de l’éducation d’un groupe, car ce que l’un ne peut faire, l’autre pourra peut-être. Cependant — et c’est dommage —, cela nous laisse dans l’impasse lorsque l’éducateur est seul en charge d’un groupe ce qui appuie un dicton africain selon lequel *« Il faut tout un village pour éduquer un enfant »*.
 
-# <i class="fa fa-bookmark-o" aria-hidden="true" style="padding-right:15px;"></i>Communication
+# <i class="far fa-bookmark" aria-hidden="true" style="padding-right:15px;"></i>Communication
 ## Le mensonge
 {{< blockquote "Janusz Korczak" "" >}}
 L’enfant est comme perdu dans un pays étranger dont il ignore la langue, les droits et les coutumes. Parfois, il préfère cheminer seul et, lorsqu’il rencontre des difficultés, il demande des renseignements et des conseils. Il a alors besoin d’un guide attentif pour répondre à ses questions.
@@ -282,7 +282,7 @@ Même dans les cas où l’on *« rit avec »* avec une volonté éthique, il
 L’éthique apparait notamment dans la notion de compétition : puisqu’il faut augmenter sa valeur dans le collectif, il va falloir prendre le dessus, tirer son épingle du jeu. Pour cela, il va falloir user et abuser de l’humour et de la mise en scène de sa personne.\
 L’éthique apparait également via l’admiration suscitée par la démonstration charismatique qui plonge l’individu éduqué dans un état passif voire dépendant de figures d’exemples. L’admirateur est focalisé sur les perceptions que chacun a des autres (perceptions interindividuelles), et non pas sur la perception que chacun a de soi-même. Alors, soucieux de l’image qu’il renvoie dans le groupe, l’individu ne priorise plus ses besoins internes et se plie à la volonté toute puissante du *« bien »* du groupe. L’individu est alors hétéronome (non autonome), car incapable de s’autodéterminer.
 
-# <i class="fa fa-bookmark-o" aria-hidden="true" style="padding-right:15px;"></i>La perception de la relation
+# <i class="far fa-bookmark" aria-hidden="true" style="padding-right:15px;"></i>La perception de la relation
 ## Le mensonge
 {{< blockquote "Gisèle De Failly" "" >}}
 Que nous ayons à faire à des enfants ou à des adultes; être en contact avec la réalité signifie les accepter tels qu’ils sont et non tels que nous souhaiterions qu’ils fussent. Il faut ensuite les accepter où ils en sont.
@@ -298,13 +298,13 @@ Il faut reconnaitre que c’est un niveau méta-analytique plutôt élevé : ne 
 La perception de l’être éduqué doit également être considérée. Quelques fois, même si la posture de l’éducateur est théoriquement adaptée, elle est inadaptée à la vue de l’individu éduqué. Chaque individu ayant sa propre histoire, les relations qu’il a pu construire auparavant sont plus ou moins oppressantes, et les affects associés sont de nature différente. Ainsi, des individus habitués à subir une *« autorité »* reposant sur la peur et la force arriveront souvent vers un nouvel éducateur avec une représentation de la relation à l’autorité basée sur la méfiance et la confrontation. Quant aux individus habitués aux mécanismes de la séduction et du chantage affectifs, ils s’attendront probablement à obtenir une situation favorable ou des avantages par un jeu de séduction. Dans ces exemples, ces individus testeront le cadre et la posture des éducateurs en fonction de leurs déterminations passées. Ils vérifieront si leur représentation du monde est toujours vraie dans ce nouvel environnement éducatif, et pourront mal interpréter les réactions de l’autorité, même lorsque celles-ci sont des actes éthiques.\
 Dans une telle situation, un éducateur pourrait se sentir désorienté s’il pensait que sa posture était adaptée. Il doit alors être attentif à ne pas développer une relation tendant à la confrontation. Un individu éduqué perçu comme *« difficile »*, *« irrécupérable »*, *« chiant »*, *« séducteur »* ne l’est pas par essence. Il n’éprouve probablement que le besoin d’ajuster ses repères et de déconstruire pour reconstruire ses représentations d’une relation d’autorité.
 
-# <i class="fa fa-bookmark-o" aria-hidden="true" style="padding-right:15px;"></i>Ouverture
+# <i class="far fa-bookmark" aria-hidden="true" style="padding-right:15px;"></i>Ouverture
 Bien que ce document ait pour but de pousser le lecteur à une remise en question critique des relations éducatives dans lesquelles il se trouve, je souhaite toutefois ouvrir des réflexions qui me sont venues dans la construction de ma propre posture éthique. En effet, cette construction impliquant une meilleure compréhension de tous les enjeux nécessaires à une relation, tomber dans des travers moraux est facile, et il est bon de ne pas figer ses modèles lorsque notre visée est de tendre à l’éthique.\
 Ainsi, doit-on parfois stopper une intellectualisation systématique et quelles places doit-on laisser à la sensation et à l’intuition ? L’éducation étant un travail d’humain à humain, cette rationalité éthique n’enlève-t-elle pas cette *« humanité sensible »* qui devrait être présente dans nos relations ? À quel moment une réflexion éthique très poussée peut-elle générer des relations artificielles ? Comment savoir si l’autre comprend notre fonctionnement ou l’interprète comme une manipulation à des fins négatives ?
 
 Étant déterministe, je ne crois pas à une nature humaine mauvaise. Il est certes facile de glisser vers de nouvelles formes de domination lorsque nous augmentons notre niveau de conscience, mais le chemin vers l’éthique s’accompagne d’une remise en question systématique permettant à l’individu de mettre le bienfait de ses actes au service du collectif, et non pas à son propre service.\
 
-# <i class="fa fa-key" aria-hidden="true" style="padding-right:15px;"></i>Pour continuer sa réflexion...
+# <i class="fas fa-key" aria-hidden="true" style="padding-right:15px;"></i>Pour continuer sa réflexion...
 — *Rupture* de Simon\
 — *Libres enfants de Summerhill* d’A.S. Neil\
 — *S’évader de l’enfance* de J. Holt\
