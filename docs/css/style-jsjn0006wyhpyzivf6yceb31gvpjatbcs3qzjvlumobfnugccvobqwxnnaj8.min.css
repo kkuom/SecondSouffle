@@ -1662,7 +1662,7 @@ pre.code-highlight>code {
 }
 
 .alert.genre:not(.no-icon):before {
-  content: "\f224";
+  content: "\f22c";
   color: rgba(255, 255, 255, .98);
   top: 0.65em;
   left: 0.45em;
