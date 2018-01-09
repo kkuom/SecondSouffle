@@ -225,9 +225,8 @@ Lors d’une brimade, 3 rôles sont attribués :\
 —	Le deuxième rôle est celui de spectateur qui sera plutôt composé d’individus éduqués initiés ou non (dans la *« chasse au dahu »* ; ce sont tous les enfants du groupe sauf la victime). Ce sont ceux qui ne subiront pas la tromperie, mais en seront spectateurs, profitant du spectacle offert par les dupeurs-initiés aux dépens du dernier rôle.\
 —	Ce dernier rôle, le dupé non-initié, est rempli par des individus éduqués le plus souvent, soit volontaires, soit désignés par le sort ou de manière arbitraire par le ou les dupeurs. Le rôle de la personne dupée est celui qui sera à la merci du groupe. Il est l’objet de la farce, son consentement n’est pas possible, car il ne sait pas à quoi s’attendre, il subira la brimade.
 
-{{< image classes="fig-66 center clear" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/EthiqueDesRelationEnEducation-Brimade.png?raw=true" >}}
-
-
+{{< image classes="fig-66 center clear" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/EthiqueDesRelationEnEducation-Brimade.png?raw=true" >}}\
+\
 Lorsqu’un éducateur met en place, favorise, ou laisse s’installer une situation de brimade, il segmente le groupe entre des sujets ayant droit à la dignité (sujets non dupés) et à ceux n’y ayant pas droit (sujets dupés). Il met également en place une hiérarchie par dissymétrie d’informations représentée dans le schéma suivant.\
 Suite à une brimade, le dupeur gagne du pouvoir vis-à-vis des spectateurs qui le perçoivent comme puissant, car capable de soumettre un individu pour le plaisir de spectateurs. Il inspirera également de la méfiance. Dans le cas de spectateurs en désaccord avec la situation de brimade il perdra en autorité et en confiance. Dans un cas où les individus en désaccord sont plusieurs, l’éducateur peut faire face à une révolte (mais ce cas est malheureusement assez rare).\
 Bien que cela paraisse évident à ce stade de notre analyse, décortiquons un peu quelques limites éthiques transgressées par la brimade :\
