@@ -35,8 +35,8 @@ canonifyurls = true
 [author]
   name = "Second Souffle"
   bio = "Collectif libertaire et anti-âgiste"
-  job = "Your job title"
-  location = "Grenoble, France"
+  job = "Description de Second Souffle"
+  location = "Description territoriale du collectif"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
   gravatarEmail = "secondsouffle@protonmail.com"
   # Your profile picture
