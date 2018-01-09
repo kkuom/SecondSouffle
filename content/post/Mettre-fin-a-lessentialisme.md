@@ -29,7 +29,7 @@ showDate: true
 comments: true
 ---
 <section class="intro">
-Résumé de "Mettre fin à l'essentialisme : de l'en-dedans, de l'en-dehors & de l'en-contre", flemme de l'écrire. Mais ça sera bien. Aviv si tu t'embêtes, amuse toi. A moins que quelqu'un veuille faire un résumé de la brochure après l'avoir lu ? ;)
+Résumé de *Mettre fin à l'essentialisme : de l'en-dedans, de l'en-dehors & de l'en-contre*, flemme de l'écrire. Mais ça sera bien. Aviv si tu t'embêtes, amuse toi. A moins que quelqu'un veuille faire un résumé de la brochure après l'avoir lu ?
 <!--more-->
 <hr class="intro-divider">
 <!-- toc -->
