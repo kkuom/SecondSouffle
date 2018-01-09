@@ -41,52 +41,34 @@ Ici Raphaël devrait nous pondre un autre résumé carrément génial pour donne
 # <i class="fa fa-info-circle" aria-hidden="true" style="padding-right:13px;"></i>Quelques (re)définitions
 
 <table>
-\<tr>
-\\<td>
-\\<strong>Autonomie</strong>
-\\</td><td>
-\\Capacité (ou état) d’un individu à évoluer (ou qui évolue) selon ses propres règles dans un contexte donné.
-\\</td>
-\</tr>
-\<tr>
-\\<td>
-\\<strong>Autodétermination</strong>
-\\</td><td>
-\\Capacité ou phénomène dans lesquels l’individu connaît, comprend et maîtrise ou accepte au moins en partie ce qui agit sur lui, ce qui le détermine.
-\\</td>
-\</tr>
-\<tr>
-\\<td>
-\\<strong>Dignité</strong>
-\\</td><td>
-\\Considération accordée à un individu due à sa qualité de personne.
-\\</td>
-\</tr>
-\<tr>
-\\<td>
-\\<strong>Autorité</strong>
-\\</td><td>
-\\Selon Hannah Arendt, elle est à la fois l’opposant de la contrainte par force et à la persuasion par arguments. Elle implique une obéissance dans laquelle les hommes gardent leur liberté. Elle se différencie des autres formes d’imposition par la dimension de reconnaissance d’une certaine légitimité ou supériorité.
-\\</td>
-\</tr>
-\<tr>
-\\<td>
-\\<strong>Influence</strong>
-\\</td><td>
-\\Action modifiant des conceptions et agissements d’un individu ou d’un groupe.
-\\</td>
-\</tr>
-\<tr>
-\\<td>
-\\<strong>Dépendance</strong>
-\\</td><td>
-\\État de manque dans lequel se trouve individu ou un groupe lorsqu’il fait face à l’absence d’un objet ou d’un processus afin de persister dans son être ou se procurer de la joie.
-\\</td>
-\</tr>
+<tr>
+<td><strong>Autonomie</strong></td>
+<td>Capacité (ou état) d’un individu à évoluer (ou qui évolue) selon ses propres règles dans un contexte donné.</td>
+</tr>
+<tr>
+<td><strong>Autodétermination</strong></td>
+<td>Capacité ou phénomène dans lesquels l’individu connaît, comprend et maîtrise ou accepte au moins en partie ce qui agit sur lui, ce qui le détermine.</td>
+</tr>
+<tr>
+<td><strong>Dignité</strong></td>
+<td>Considération accordée à un individu due à sa qualité de personne.</td>
+</tr>
+<tr>
+<td><strong>Autorité</strong></td>
+<td>Selon Hannah Arendt, elle est à la fois l’opposant de la contrainte par force et à la persuasion par arguments. Elle implique une obéissance dans laquelle les hommes gardent leur liberté. Elle se différencie des autres formes d’imposition par la dimension de reconnaissance d’une certaine légitimité ou supériorité.</td>
+</tr>
+<tr>
+<td><strong>Influence</strong></td>
+<td>Action modifiant des conceptions et agissements d’un individu ou d’un groupe.</td>
+</tr>
+<tr>
+<td><strong>Dépendance</strong></td>
+<td>État de manque dans lequel se trouve individu ou un groupe lorsqu’il fait face à l’absence d’un objet ou d’un processus afin de persister dans son être ou se procurer de la joie.</td>
+</tr>
 </table>
 
 {{< blockquote "J. Krishnamurti," "De l'éducation, 1965" >}}
-\L’éducation consiste à comprendre l’enfant tel qu’il est, sans lui imposer l’image de ce que nous pensons qu’il devrait être.
+L’éducation consiste à comprendre l’enfant tel qu’il est, sans lui imposer l’image de ce que nous pensons qu’il devrait être.
 {{< /blockquote >}}
 
 # <i class="fa fa-bookmark-o" aria-hidden="true" style="padding-right:15px;"></i>Introduction
