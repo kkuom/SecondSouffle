@@ -1,7 +1,7 @@
 ---
 title: "Mettre fin à l'essentialisme"
 date: 2018-01-09T15:16:55+01:00
-readingtime: "10"
+readingtime: "25"
 draft: false
 metaAlignment: center
 
