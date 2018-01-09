@@ -38,7 +38,6 @@ Ici Raphaël devrait nous pondre un autre résumé carrément génial pour donne
 {{%attachments title="" style="black" pattern=".*(pdf)"/%}}
 </section>
 <link href="https://use.fontawesome.com/releases/v5.0.3/css/all.css" rel="stylesheet">
-<script defer src="https://use.fontawesome.com/releases/v5.0.3/js/all.js"></script>
 # <i class="fa fa-info-circle" aria-hidden="true" style="padding-right:13px;"></i>Quelques (re)définitions
 <table>
 <tr>
