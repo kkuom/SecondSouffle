@@ -227,6 +227,7 @@ Lors d’une brimade, 3 rôles sont attribués :\
 
 {{< image classes="fig-66 center clear" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/EthiqueDesRelationEnEducation-Brimade.png?raw=true" >}}
 
+
 Lorsqu’un éducateur met en place, favorise, ou laisse s’installer une situation de brimade, il segmente le groupe entre des sujets ayant droit à la dignité (sujets non dupés) et à ceux n’y ayant pas droit (sujets dupés). Il met également en place une hiérarchie par dissymétrie d’informations représentée dans le schéma suivant.\
 Suite à une brimade, le dupeur gagne du pouvoir vis-à-vis des spectateurs qui le perçoivent comme puissant, car capable de soumettre un individu pour le plaisir de spectateurs. Il inspirera également de la méfiance. Dans le cas de spectateurs en désaccord avec la situation de brimade il perdra en autorité et en confiance. Dans un cas où les individus en désaccord sont plusieurs, l’éducateur peut faire face à une révolte (mais ce cas est malheureusement assez rare).\
 Bien que cela paraisse évident à ce stade de notre analyse, décortiquons un peu quelques limites éthiques transgressées par la brimade :\
