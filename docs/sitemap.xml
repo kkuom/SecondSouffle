@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://kkuom.github.io/SecondSouffle/2018/01/mettre-fin-%C3%A0-lessentialisme/</loc>
+    <lastmod>2018-01-09T15:16:55+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://kkuom.github.io/SecondSouffle/2018/01/%C3%A9thique-des-relations-en-%C3%A9ducation/</loc>
     <lastmod>2018-01-08T13:11:33+01:00</lastmod>
   </url>
@@ -36,7 +41,7 @@
   
   <url>
     <loc>https://kkuom.github.io/SecondSouffle/tags/brochure/</loc>
-    <lastmod>2018-01-08T13:11:33+01:00</lastmod>
+    <lastmod>2018-01-09T15:16:55+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -70,8 +75,20 @@
   </url>
   
   <url>
+    <loc>https://kkuom.github.io/SecondSouffle/tags/d%C3%A9terminisme/</loc>
+    <lastmod>2018-01-09T15:16:55+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://kkuom.github.io/SecondSouffle/categories/ecrits-structurants/</loc>
     <lastmod>2017-12-29T15:26:33+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kkuom.github.io/SecondSouffle/tags/essentialisme/</loc>
+    <lastmod>2018-01-09T15:16:55+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -82,14 +99,32 @@
   </url>
   
   <url>
+    <loc>https://kkuom.github.io/SecondSouffle/categories/organisation-des-luttes/</loc>
+    <lastmod>2018-01-09T15:16:55+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kkuom.github.io/SecondSouffle/categories/papiers-politiques/</loc>
+    <lastmod>2018-01-09T15:16:55+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://kkuom.github.io/SecondSouffle/categories/philosophie-appliquee/</loc>
     <lastmod>2018-01-08T13:11:33+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://kkuom.github.io/SecondSouffle/tags/politique/</loc>
+    <lastmod>2018-01-09T15:16:55+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://kkuom.github.io/SecondSouffle/post/</loc>
-    <lastmod>2018-01-08T13:11:33+01:00</lastmod>
+    <lastmod>2018-01-09T15:16:55+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -113,7 +148,13 @@
   
   <url>
     <loc>https://kkuom.github.io/SecondSouffle/</loc>
-    <lastmod>2018-01-08T13:11:33+01:00</lastmod>
+    <lastmod>2018-01-09T15:16:55+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kkuom.github.io/SecondSouffle/tags/strat%C3%A9gie-de-lutte/</loc>
+    <lastmod>2018-01-09T15:16:55+01:00</lastmod>
     <priority>0</priority>
   </url>
   
