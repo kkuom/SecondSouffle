@@ -539,7 +539,7 @@ pre.code-highlight>code {
 
 #header #btn-open-sidebar {
   position: absolute;
-  top: 20px;
+  top: 12px;
   left: 20px;
   cursor: pointer
 }
