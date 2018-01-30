@@ -532,11 +532,10 @@ pre.code-highlight>code {
   height: 55px;
   position: fixed;
   top: 0;
-  border-bottom: 1px solid #333;
   background-image: url('https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Post-header.jpg?raw=true');
   color: #fff;
   box-shadow: 0 -15px 10px 15px rgba(0, 0, 0, .5);
-  z-index: 20;
+  z-index: 30;
   -webkit-transition: -webkit-transform .25s ease-in-out
 }
 
@@ -817,7 +816,7 @@ pre.code-highlight>code {
   #sidebar[data-behavior="4"], #sidebar[data-behavior="5"], #sidebar[data-behavior="1"], #sidebar[data-behavior="2"] {
     left: -250px;
     width: 250px;
-    top: 56px
+    top: 55px
   }
   #sidebar[data-behavior="4"] .sidebar-profile, #sidebar[data-behavior="5"] .sidebar-profile, #sidebar[data-behavior="1"] .sidebar-profile, #sidebar[data-behavior="2"] .sidebar-profile {
     height: 130px;
@@ -951,7 +950,7 @@ pre.code-highlight>code {
   #sidebar[data-behavior="4"], #sidebar[data-behavior="5"] {
     left: -250px;
     width: 250px;
-    top: 56px
+    top: 55px
   }
   #sidebar[data-behavior="4"] .sidebar-profile, #sidebar[data-behavior="5"] .sidebar-profile {
     height: 130px;
@@ -1136,7 +1135,7 @@ pre.code-highlight>code {
   #sidebar[data-behavior="4"], #sidebar[data-behavior="5"] {
     left: -250px;
     width: 250px;
-    top: 56px
+    top: 55px
   }
   #sidebar[data-behavior="4"] .sidebar-profile, #sidebar[data-behavior="5"] .sidebar-profile {
     height: 130px;
@@ -2165,7 +2164,7 @@ a.link-unstyled a.link, a.link-unstyled a.link:active, a.link-unstyled a.link:ho
   text-decoration: underline !important
 }
 
-.post .post-header .post-title:hover, .post-header .post-title:hover, .post-header-cover .post-header .post-title:hover, .postShorten .postShorten-header .postShorten-title:hover, .tag--danger:hover, .tag--primary:hover, .tag--success:hover, a.tag--danger:hover, a.tag--primary:hover, a.tag--success:hover {
+.post .post- .post-title:hover, .post- .post-title:hover, .post--cover .post- .post-title:hover, .postShorten .postShorten- .postShorten-title:hover, .tag--danger:hover, .tag--primary:hover, .tag--success:hover, a.tag--danger:hover, a.tag--primary:hover, a.tag--success:hover {
   text-decoration: none
 }
 
@@ -2274,7 +2273,7 @@ a.fancybox {
   z-index: 1010
 }
 
-.modal, .modal-body, .modal-header {
+.modal, .modal-body, .modal- {
   position: relative
 }
 
@@ -2285,7 +2284,7 @@ a.fancybox {
   overflow: hidden
 }
 
-.modal-header {
+.modal- {
   padding: 10px 15px 0;
   background: #fff;
   border-bottom: 1px solid #eef2f8
@@ -2367,7 +2366,7 @@ a.fancybox {
   margin-top: 20px
 }
 
-.post .post-header .post-title {
+.post .post- .post-title {
   margin: 0;
   word-break: initial;
   overflow: hidden
@@ -2424,13 +2423,13 @@ a.fancybox {
 }
 
 @media only screen and (min-width:768px) and (max-width:1023px) {
-  .post .post-header .post-title {
+  .post .post- .post-title {
     font-size: 3.3rem
   }
 }
 
 @media only screen and (min-width:1024px) {
-  .post .post-header .post-title {
+  .post .post- .post-title {
     font-size: 3.7rem
   }
 }
@@ -2533,13 +2532,13 @@ a.fancybox {
   background-color: #eef0f1
 }
 
-.post-header .post-title {
+.post- .post-title {
   margin: 0;
   word-break: initial;
   overflow: hidden
 }
 
-.post-header-cover {
+.post--cover {
   display: table;
   position: relative;
   top: 0;
@@ -2553,12 +2552,12 @@ a.fancybox {
   -webkit-transition: -webkit-transform .25s ease-in-out
 }
 
-.post-header-cover .post-header {
+.post--cover .post- {
   display: table-cell;
   vertical-align: middle
 }
 
-.post-header-cover .post-header .post-title {
+.post--cover .post- .post-title {
   font-family: 'Love Ya Like A Sister';
   letter-spacing: .5px;
   font-weight: normal;
