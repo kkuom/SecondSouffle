@@ -6,7 +6,7 @@ draft: false
 metaAlignment: center
 
 categories:
-- "Philosophie appliquee"
+- "Philosophie appliquée"
 - "Posture educative"
 tags:
 - "Brochure"
