@@ -947,7 +947,8 @@ pre.code-highlight>code {
   }
   #sidebar[data-behavior="4"], #sidebar[data-behavior="5"] {
     left: -250px;
-    width: 250px
+    width: 250px;
+    top: 56px
   }
   #sidebar[data-behavior="4"] .sidebar-profile, #sidebar[data-behavior="5"] .sidebar-profile {
     height: 130px;
@@ -1130,7 +1131,8 @@ pre.code-highlight>code {
   }
   #sidebar[data-behavior="4"], #sidebar[data-behavior="5"] {
     left: -250px;
-    width: 250px
+    width: 250px;
+    top: 56px
   }
   #sidebar[data-behavior="4"] .sidebar-profile, #sidebar[data-behavior="5"] .sidebar-profile {
     height: 130px;
