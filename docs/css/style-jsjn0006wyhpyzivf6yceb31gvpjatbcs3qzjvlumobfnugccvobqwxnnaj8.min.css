@@ -498,9 +498,9 @@ pre.code-highlight>code {
     transform: translate3d(500px, 0, 0)
   }
   #bottom-bar[data-behavior="5"].pushed {
-    -webkit-transform: translate3d(250px, 0, 0);
-    -moz-transform: translate3d(250px, 0, 0);
-    transform: translate3d(250px, 0, 0)
+    -webkit-transform: translate3d(0, 0, 0);
+    -moz-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0)
   }
   #bottom-bar[data-behavior="6"].pushed {
     -webkit-transform: translate3d(75px, 0, 0);
@@ -614,9 +614,9 @@ pre.code-highlight>code {
     transform: translate3d(500px, 0, 0)
   }
   #header[data-behavior="5"].pushed, #header[data-behavior="2"].pushed {
-    -webkit-transform: translate3d(250px, 0, 0);
-    -moz-transform: translate3d(250px, 0, 0);
-    transform: translate3d(250px, 0, 0)
+    -webkit-transform: translate3d(0, 0, 0);
+    -moz-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0)
   }
 }
 
@@ -740,9 +740,9 @@ pre.code-highlight>code {
     transform: translate3d(500px, 0, 0)
   }
   #main[data-behavior="5"].pushed {
-    -webkit-transform: translate3d(250px, 0, 0);
-    -moz-transform: translate3d(250px, 0, 0);
-    transform: translate3d(250px, 0, 0)
+    -webkit-transform: translate3d(0, 0, 0);
+    -moz-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0)
   }
   #main[data-behavior="6"].pushed {
     -webkit-transform: translate3d(75px, 0, 0);
