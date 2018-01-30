@@ -266,7 +266,8 @@ pre.code-highlight>code {
 }
 
 #sidebar, #sidebar .sidebar-container {
-  overflow: auto
+  overflow: auto;
+  background: rgba(0, 0, 0, .75)
 }
 
 #about #about-card {

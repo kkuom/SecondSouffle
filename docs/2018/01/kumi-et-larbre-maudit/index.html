@@ -83,6 +83,16 @@ Un arbre mystérieux transforme le mode de vie de tout un village d&#39;une sobr
   <body>
     <div id="blog">
       <header id="header" data-behavior="5">
+  <script type="text/javascript">
+    function AfficherMasquer()
+    {
+      divInfo = document.getElementById('frontground');
+      if (divInfo.style.display == 'none')
+      divInfo.style.display = 'block';
+      else
+      divInfo.style.display = 'none';
+    }
+  </script>
 
   <i id="btn-open-sidebar" class="fas fa-bars fa-lg" value="Afficher ou Masquer" onClick="AfficherMasquer()"></i>
 
@@ -100,6 +110,7 @@ Un arbre mystérieux transforme le mode de vie de tout un village d&#39;une sobr
     </a>
   
 </header>
+<div id="frontground" style="display:none;"></div>
 
       <nav id="sidebar" data-behavior="5">
 
@@ -177,7 +188,6 @@ Un arbre mystérieux transforme le mode de vie de tout un village d&#39;une sobr
 
     </ul>
   </div>
-  <div id="frontground" style="display:none;"></div>
 </nav>
 
       

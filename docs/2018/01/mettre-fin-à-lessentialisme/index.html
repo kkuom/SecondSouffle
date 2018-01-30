@@ -83,6 +83,16 @@ Résumé de *Mettre fin à l&#39;essentialisme : de l&#39;en-dedans, de l&#39;en
   <body>
     <div id="blog">
       <header id="header" data-behavior="5">
+  <script type="text/javascript">
+    function AfficherMasquer()
+    {
+      divInfo = document.getElementById('frontground');
+      if (divInfo.style.display == 'none')
+      divInfo.style.display = 'block';
+      else
+      divInfo.style.display = 'none';
+    }
+  </script>
 
   <i id="btn-open-sidebar" class="fas fa-bars fa-lg" value="Afficher ou Masquer" onClick="AfficherMasquer()"></i>
 
@@ -100,6 +110,7 @@ Résumé de *Mettre fin à l&#39;essentialisme : de l&#39;en-dedans, de l&#39;en
     </a>
   
 </header>
+<div id="frontground" style="display:none;"></div>
 
       <nav id="sidebar" data-behavior="5">
 
@@ -177,7 +188,6 @@ Résumé de *Mettre fin à l&#39;essentialisme : de l&#39;en-dedans, de l&#39;en
 
     </ul>
   </div>
-  <div id="frontground" style="display:none;"></div>
 </nav>
 
       
