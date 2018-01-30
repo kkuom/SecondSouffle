@@ -815,7 +815,7 @@ pre.code-highlight>code {
 @media only screen and (max-width:767px) {
   #sidebar[data-behavior="4"], #sidebar[data-behavior="5"], #sidebar[data-behavior="1"], #sidebar[data-behavior="2"] {
     left: -250px;
-    width: 250px
+    width: 200px
   }
   #sidebar[data-behavior="4"] .sidebar-profile, #sidebar[data-behavior="5"] .sidebar-profile, #sidebar[data-behavior="1"] .sidebar-profile, #sidebar[data-behavior="2"] .sidebar-profile {
     height: 130px;
@@ -947,7 +947,7 @@ pre.code-highlight>code {
   }
   #sidebar[data-behavior="4"], #sidebar[data-behavior="5"] {
     left: -250px;
-    width: 250px;
+    width: 200px;
     top: 55px
   }
   #sidebar[data-behavior="4"] .sidebar-profile, #sidebar[data-behavior="5"] .sidebar-profile {
@@ -1131,7 +1131,7 @@ pre.code-highlight>code {
   }
   #sidebar[data-behavior="4"], #sidebar[data-behavior="5"] {
     left: -250px;
-    width: 250px;
+    width: 200px;
     top: 55px
   }
   #sidebar[data-behavior="4"] .sidebar-profile, #sidebar[data-behavior="5"] .sidebar-profile {
