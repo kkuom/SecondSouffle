@@ -1475,7 +1475,8 @@ pre.code-highlight>code {
   }
   #sidebar[data-behavior="5"] {
     left: -250px;
-    width: 250px
+    width: 250px;
+    top: 55px
   }
   #sidebar[data-behavior="5"] .sidebar-profile {
     height: 130px;
