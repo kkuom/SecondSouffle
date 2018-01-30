@@ -544,7 +544,7 @@ pre.code-highlight>code {
   cursor: pointer
 }
 
-#btn-open-sidebar {
+.btn-open-sidebar:not(.no-icon):before {
   content: "\f150"
 }
 
