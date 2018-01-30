@@ -589,9 +589,9 @@ pre.code-highlight>code {
 }
 
 #header[data-behavior="4"].pushed, #header[data-behavior="5"].pushed, #header[data-behavior="1"].pushed, #header[data-behavior="2"].pushed {
-  -webkit-transform: translate3d(250px, 0, 0);
-  -moz-transform: translate3d(250px, 0, 0);
-  transform: translate3d(250px, 0, 0)
+  -webkit-transform: translate3d(0, 0, 0);
+  -moz-transform: translate3d(0, 0, 0);
+  transform: translate3d(0, 0, 0)
 }
 
 #header[data-behavior="3"].pushed, #header[data-behavior="6"].pushed {
@@ -814,7 +814,8 @@ pre.code-highlight>code {
 @media only screen and (max-width:767px) {
   #sidebar[data-behavior="4"], #sidebar[data-behavior="5"], #sidebar[data-behavior="1"], #sidebar[data-behavior="2"] {
     left: -250px;
-    width: 250px
+    width: 250px;
+    top: 56px
   }
   #sidebar[data-behavior="4"] .sidebar-profile, #sidebar[data-behavior="5"] .sidebar-profile, #sidebar[data-behavior="1"] .sidebar-profile, #sidebar[data-behavior="2"] .sidebar-profile {
     height: 130px;
