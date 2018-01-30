@@ -531,8 +531,8 @@ pre.code-highlight>code {
   height: 55px;
   position: fixed;
   top: 0;
-  border: 1px solid #eef2f8;
-  color: #88909a;
+  border-bottom: 1px solid #333;
+  color: #333;
   z-index: 20;
   -webkit-transition: -webkit-transform .25s ease-in-out
 }
@@ -542,6 +542,10 @@ pre.code-highlight>code {
   top: 20px;
   left: 20px;
   cursor: pointer
+}
+
+#btn-open-sidebar {
+  content: "\f150"
 }
 
 #header .header-right-icon, #header .header-right-picture {
