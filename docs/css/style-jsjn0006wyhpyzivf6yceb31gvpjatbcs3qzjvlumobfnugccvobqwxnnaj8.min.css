@@ -532,7 +532,8 @@ pre.code-highlight>code {
   position: fixed;
   top: 0;
   border-bottom: 1px solid #333;
-  color: #333;
+  background-image: url('https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Post-header.jpg?raw=true');
+  color: #fff;
   z-index: 20;
   -webkit-transition: -webkit-transform .25s ease-in-out
 }
@@ -561,7 +562,7 @@ pre.code-highlight>code {
 #header .header-right-picture .header-picture {
   display: block;
   max-width: 320px;
-  max-height: 40px
+  max- height: 40px
 }
 
 #header .header-title {
