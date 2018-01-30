@@ -1477,7 +1477,7 @@ pre.code-highlight>code {
   }
   #sidebar[data-behavior="5"] {
     left: -250px;
-    width: 250px;
+    width: 200px;
     top: 55px;
     background: rgba(0, 0, 0, .75)
   }

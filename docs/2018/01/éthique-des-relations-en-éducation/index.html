@@ -87,14 +87,15 @@ Un texte qui se propose de questionner l&#39;autorité à travers le prisme d&#3
     function AfficherMasquer()
     {
       divInfo = document.getElementById('frontground');
-      if (divInfo.style.display == 'none')
+      divSidebar = document.getElementById('sidebar');
+      if (divSidebar.class == 'pushed')
       divInfo.style.display = 'block';
       else
       divInfo.style.display = 'none';
     }
   </script>
 
-  <i id="btn-open-sidebar" class="fas fa-bars fa-lg" value="Afficher ou Masquer" onClick="AfficherMasquer()"></i>
+  <i id="btn-open-sidebar" class="fas fa-bars fa-lg"></i>
 
   
     
