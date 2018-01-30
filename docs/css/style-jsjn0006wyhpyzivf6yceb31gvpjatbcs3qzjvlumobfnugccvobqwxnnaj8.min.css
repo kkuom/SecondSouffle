@@ -266,8 +266,7 @@ pre.code-highlight>code {
 }
 
 #sidebar, #sidebar .sidebar-container {
-  overflow: auto;
-  background: rgba(0, 0, 0, .75)
+  overflow: auto
 }
 
 #about #about-card {
@@ -815,7 +814,8 @@ pre.code-highlight>code {
   #sidebar[data-behavior="4"], #sidebar[data-behavior="5"], #sidebar[data-behavior="1"], #sidebar[data-behavior="2"] {
     left: -250px;
     width: 200px;
-    top: 55px
+    top: 55px;
+    background: rgba(0, 0, 0, .75)
   }
   #sidebar[data-behavior="4"] .sidebar-profile, #sidebar[data-behavior="5"] .sidebar-profile, #sidebar[data-behavior="1"] .sidebar-profile, #sidebar[data-behavior="2"] .sidebar-profile {
     height: 130px;
@@ -948,7 +948,8 @@ pre.code-highlight>code {
   #sidebar[data-behavior="4"], #sidebar[data-behavior="5"] {
     left: -250px;
     width: 200px;
-    top: 55px
+    top: 55px;
+    background: rgba(0, 0, 0, .75)
   }
   #sidebar[data-behavior="4"] .sidebar-profile, #sidebar[data-behavior="5"] .sidebar-profile {
     height: 130px;
@@ -1132,7 +1133,8 @@ pre.code-highlight>code {
   #sidebar[data-behavior="4"], #sidebar[data-behavior="5"] {
     left: -250px;
     width: 200px;
-    top: 55px
+    top: 55px;
+    background: rgba(0, 0, 0, .75)
   }
   #sidebar[data-behavior="4"] .sidebar-profile, #sidebar[data-behavior="5"] .sidebar-profile {
     height: 130px;
@@ -1476,7 +1478,8 @@ pre.code-highlight>code {
   #sidebar[data-behavior="5"] {
     left: -250px;
     width: 250px;
-    top: 55px
+    top: 55px;
+    background: rgba(0, 0, 0, .75)
   }
   #sidebar[data-behavior="5"] .sidebar-profile {
     height: 130px;
