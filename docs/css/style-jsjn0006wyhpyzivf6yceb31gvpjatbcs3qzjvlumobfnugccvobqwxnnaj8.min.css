@@ -798,14 +798,13 @@ pre.code-highlight>code {
 #sidebar ul.sidebar-buttons li.sidebar-button .sidebar-button-link {
   color: #fff;
   display: block;
-  height: 100%;
-  text-shadow: 1px 1px 0px #333
+  height: 100%
 }
 
 #sidebar ul.sidebar-buttons li.sidebar-button .sidebar-button-link:active, #sidebar ul.sidebar-buttons li.sidebar-button .sidebar-button-link:hover {
   text-decoration: none;
   color: #fff;
-  text-shadow: 1.25px 1.25px 0px #fa8072, 2.5px 2.5px 0 #333
+  text-shadow: 1.25px 1.25px 0px #333
 }
 
 #sidebar ul.sidebar-buttons:first-child {
