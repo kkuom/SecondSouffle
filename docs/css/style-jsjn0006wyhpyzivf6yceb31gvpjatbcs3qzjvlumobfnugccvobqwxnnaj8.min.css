@@ -262,7 +262,7 @@ pre.code-highlight>code {
   line-height: 100%;
   overflow-y: auto;
   overflow-x: hidden;
-  z-index: 30
+  z-index: 60
 }
 
 #sidebar, #sidebar .sidebar-container {
@@ -344,9 +344,9 @@ pre.code-highlight>code {
     left: 0
   }
   #bottom-bar[data-behavior="4"].pushed, #bottom-bar[data-behavior="5"].pushed, #bottom-bar[data-behavior="1"].pushed, #bottom-bar[data-behavior="2"].pushed {
-    -webkit-transform: translate3d(250px, 0, 0);
-    -moz-transform: translate3d(250px, 0, 0);
-    transform: translate3d(250px, 0, 0)
+    -webkit-transform: translate3d(0, 0, 0);
+    -moz-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0)
   }
   #bottom-bar[data-behavior="3"].pushed, #bottom-bar[data-behavior="6"].pushed {
     -webkit-transform: translate3d(75px, 0, 0);
@@ -389,7 +389,7 @@ pre.code-highlight>code {
   margin: 0;
   border-top: 1px solid #eef2f8;
   padding: 0 15px;
-  z-index: 40;
+  z-index: 20;
   transition: transform .25s ease-in-out;
   -webkit-transition: -webkit-transform .25s ease-in-out
 }
@@ -414,9 +414,9 @@ pre.code-highlight>code {
     transform: translate3d(75px, 0, 0)
   }
   #bottom-bar[data-behavior="4"].pushed, #bottom-bar[data-behavior="5"].pushed {
-    -webkit-transform: translate3d(250px, 0, 0);
-    -moz-transform: translate3d(250px, 0, 0);
-    transform: translate3d(250px, 0, 0)
+    -webkit-transform: translate3d(0, 0, 0);
+    -moz-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0)
   }
   #bottom-bar[data-behavior="6"].pushed {
     -webkit-transform: translate3d(75px, 0, 0);
@@ -449,9 +449,9 @@ pre.code-highlight>code {
     transform: translate3d(75px, 0, 0)
   }
   #bottom-bar[data-behavior="4"].pushed, #bottom-bar[data-behavior="5"].pushed {
-    -webkit-transform: translate3d(250px, 0, 0);
-    -moz-transform: translate3d(250px, 0, 0);
-    transform: translate3d(250px, 0, 0)
+    -webkit-transform: translate3d(0, 0, 0);
+    -moz-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0)
   }
   #bottom-bar[data-behavior="6"].pushed {
     -webkit-transform: translate3d(75px, 0, 0);
@@ -535,7 +535,7 @@ pre.code-highlight>code {
   background-image: url('https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Post-header.jpg?raw=true');
   color: #fff;
   box-shadow: 0 -15px 10px 15px rgba(0, 0, 0, .5);
-  z-index: 30;
+  z-index: 40;
   -webkit-transition: -webkit-transform .25s ease-in-out
 }
 
@@ -760,7 +760,7 @@ pre.code-highlight>code {
   height: 100%;
   position: fixed;
   top: 0;
-  z-index: 20;
+  z-index: 30;
   -webkit-transition: -webkit-transform .25s ease-in-out;
   -webkit-font-smoothing: antialiased;
   font-smoothing: antialiased
