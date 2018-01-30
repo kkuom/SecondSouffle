@@ -635,6 +635,10 @@ pre.code-highlight>code {
   transition: transform .25s ease-in-out
 }
 
+.SidebarLogo {
+  width: 220px
+}
+
 #main.hasCover.hasCoverCaption, #main.hasCover.hasCoverMetaOut {
   padding-top: 50px !important
 }
