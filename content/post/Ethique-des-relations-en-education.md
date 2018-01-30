@@ -31,7 +31,7 @@ showDate: true
 comments: true
 ---
 <section class="intro">
-Ici Raphaël devrait nous pondre un autre résumé carrément génial pour donner à tout les individus passant par là une envie dingue de lire cette brochure philosophique tout à fait intéressante..
+Un texte qui se propose de questionner l'autorité à travers le prisme d'une éthique libertaire. Quelle place légitime pour les affects de l'éducateur et de l'être éduqué ? Quels abus d'autorité sont possibles ? Bref, la question de la posture éducative est ici questionnée dans sa partie philosophique.
 <!--more-->
 <hr class="intro-divider">
 <!-- toc -->

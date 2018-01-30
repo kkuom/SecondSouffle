@@ -28,7 +28,7 @@ showDate: true
 comments: true
 ---
 <section class="intro">
-Ici Raphaël devrait nous pondre prochainement un résumé sympathique pour donner à tout les internautes une envie folle de lire le conte "Kumi et l'arbre maudit".
+Un arbre mystérieux transforme le mode de vie de tout un village d'une sobriété heureuse vers le labeur et l'insécurité. Que peut faire Kumi, une petite fille curieuse et intrépide, à qui croyances et superstitions ne suffisent pas ?
 <!--more-->
 <hr class="intro-divider">
 <!-- toc -->
