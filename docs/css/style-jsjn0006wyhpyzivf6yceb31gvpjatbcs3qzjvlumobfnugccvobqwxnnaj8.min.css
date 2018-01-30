@@ -807,14 +807,13 @@ pre.code-highlight>code {
 }
 
 #sidebar ul.sidebar-buttons:first-child {
-  margin-top: 2rem
+  margin-top: calc(2rem + 55px)
 }
 
 @media only screen and (max-width:767px) {
   #sidebar[data-behavior="4"], #sidebar[data-behavior="5"], #sidebar[data-behavior="1"], #sidebar[data-behavior="2"] {
     left: -250px;
     width: 200px;
-    top: 55px;
     background: rgba(0, 0, 0, .75)
   }
   #sidebar[data-behavior="4"] .sidebar-profile, #sidebar[data-behavior="5"] .sidebar-profile, #sidebar[data-behavior="1"] .sidebar-profile, #sidebar[data-behavior="2"] .sidebar-profile {
@@ -948,7 +947,6 @@ pre.code-highlight>code {
   #sidebar[data-behavior="4"], #sidebar[data-behavior="5"] {
     left: -250px;
     width: 200px;
-    top: 55px;
     background: rgba(0, 0, 0, .75)
   }
   #sidebar[data-behavior="4"] .sidebar-profile, #sidebar[data-behavior="5"] .sidebar-profile {
@@ -1133,7 +1131,6 @@ pre.code-highlight>code {
   #sidebar[data-behavior="4"], #sidebar[data-behavior="5"] {
     left: -250px;
     width: 200px;
-    top: 55px;
     background: rgba(0, 0, 0, .75)
   }
   #sidebar[data-behavior="4"] .sidebar-profile, #sidebar[data-behavior="5"] .sidebar-profile {
@@ -1478,7 +1475,6 @@ pre.code-highlight>code {
   #sidebar[data-behavior="5"] {
     left: -250px;
     width: 200px;
-    top: 55px;
     background: rgba(0, 0, 0, .75)
   }
   #sidebar[data-behavior="5"] .sidebar-profile {
