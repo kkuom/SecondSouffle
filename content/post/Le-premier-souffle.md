@@ -6,7 +6,7 @@ draft: false
 metaAlignment: center
 
 categories:
-- "Ecrits structurants"
+- "Écrits structurants"
 - "Postulat philosophique"
 tags:
 - "Brochure"

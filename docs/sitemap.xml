@@ -57,13 +57,13 @@
   </url>
   
   <url>
-    <loc>https://kkuom.github.io/SecondSouffle/categories/contes-ethique/</loc>
+    <loc>https://kkuom.github.io/SecondSouffle/categories/contes-pour-une-autre-vision-du-monde/</loc>
     <lastmod>2018-01-07T18:15:01+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kkuom.github.io/SecondSouffle/categories/contes-pour-une-autre-vision-du-monde/</loc>
+    <loc>https://kkuom.github.io/SecondSouffle/categories/contes-%C3%A9thique/</loc>
     <lastmod>2018-01-07T18:15:01+01:00</lastmod>
     <priority>0</priority>
   </url>
@@ -77,12 +77,6 @@
   <url>
     <loc>https://kkuom.github.io/SecondSouffle/tags/d%C3%A9terminisme/</loc>
     <lastmod>2018-01-09T15:16:55+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kkuom.github.io/SecondSouffle/categories/ecrits-structurants/</loc>
-    <lastmod>2017-12-29T15:26:33+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -161,6 +155,12 @@
   <url>
     <loc>https://kkuom.github.io/SecondSouffle/tags/</loc>
     <lastmod>2018-01-08T13:11:33+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kkuom.github.io/SecondSouffle/categories/%C3%A9crits-structurants/</loc>
+    <lastmod>2017-12-29T15:26:33+01:00</lastmod>
     <priority>0</priority>
   </url>
   

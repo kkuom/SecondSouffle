@@ -6,7 +6,7 @@ draft: false
 metaAlignment: center
 
 categories:
-- "Contes ethique"
+- "Contes éthique"
 - "Contes pour une autre vision du monde"
 tags:
 - "Brochure"
