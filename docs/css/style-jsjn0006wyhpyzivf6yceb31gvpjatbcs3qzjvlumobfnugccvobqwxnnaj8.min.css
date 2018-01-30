@@ -3910,9 +3910,9 @@ section.attachments.black .attachments-files a {
 }
 
 #header-svg-wrapper {
-  background: rgba(255, 255, 255, .80);
-  border-bottom: 3px solid #fff;
-  padding: 2rem 1rem 2rem 1rem;
+  background: #fa8072;
+  border-bottom: 1px solid #333;
+  padding: 2rem 1rem 1rem 1rem;
   text-align: center
 }
 
