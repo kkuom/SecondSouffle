@@ -2608,9 +2608,9 @@ a.fancybox {
     background-size: auto
   }
   .post-header-cover[data-behavior="4"].pushed, .post-header-cover[data-behavior="5"].pushed, .post-header-cover[data-behavior="1"].pushed, .post-header-cover[data-behavior="2"].pushed {
-    -webkit-transform: translate3d(250px, 0, 0);
-    -moz-transform: translate3d(250px, 0, 0);
-    transform: translate3d(250px, 0, 0)
+    -webkit-transform: translate3d(0, 0, 0);
+    -moz-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0)
   }
   .post-header-cover[data-behavior="3"].pushed, .post-header-cover[data-behavior="6"].pushed {
     -webkit-transform: translate3d(75px, 0, 0);
@@ -2635,9 +2635,9 @@ a.fancybox {
     background-size: auto
   }
   .post-header-cover[data-behavior="4"].pushed, .post-header-cover[data-behavior="5"].pushed {
-    -webkit-transform: translate3d(250px, 0, 0);
-    -moz-transform: translate3d(250px, 0, 0);
-    transform: translate3d(250px, 0, 0)
+    -webkit-transform: translate3d(0, 0, 0);
+    -moz-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0)
   }
   .post-header-cover[data-behavior="6"].pushed {
     -webkit-transform: translate3d(75px, 0, 0);
@@ -2667,9 +2667,9 @@ a.fancybox {
     background-size: auto
   }
   .post-header-cover[data-behavior="4"].pushed, .post-header-cover[data-behavior="5"].pushed {
-    -webkit-transform: translate3d(250px, 0, 0);
-    -moz-transform: translate3d(250px, 0, 0);
-    transform: translate3d(250px, 0, 0)
+    -webkit-transform: translate3d(0, 0, 0);
+    -moz-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0)
   }
   .post-header-cover[data-behavior="6"].pushed {
     -webkit-transform: translate3d(75px, 0, 0);
@@ -2709,9 +2709,9 @@ a.fancybox {
     transform: translate3d(500px, 0, 0)
   }
   .post-header-cover[data-behavior="5"].pushed {
-    -webkit-transform: translate3d(250px, 0, 0);
-    -moz-transform: translate3d(250px, 0, 0);
-    transform: translate3d(250px, 0, 0)
+    -webkit-transform: translate3d(0, 0, 0);
+    -moz-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0)
   }
   .post-header-cover[data-behavior="6"].pushed {
     -webkit-transform: translate3d(75px, 0, 0);
