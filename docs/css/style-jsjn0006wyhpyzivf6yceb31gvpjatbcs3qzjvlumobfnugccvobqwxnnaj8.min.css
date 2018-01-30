@@ -535,13 +535,13 @@ pre.code-highlight>code {
   background-image: url('https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Post-header.jpg?raw=true');
   color: #fff;
   box-shadow: 0 -15px 10px 15px rgba(0, 0, 0, .5);
-  z-index: 40;
+  z-index: 200;
   -webkit-transition: -webkit-transform .25s ease-in-out
 }
 
 #header #btn-open-sidebar {
   position: absolute;
-  top: 13px;
+  top: 20px;
   left: 20px;
   cursor: pointer
 }
@@ -760,7 +760,7 @@ pre.code-highlight>code {
   height: 100%;
   position: fixed;
   top: 0;
-  z-index: 30;
+  z-index: 100;
   -webkit-transition: -webkit-transform .25s ease-in-out;
   -webkit-font-smoothing: antialiased;
   font-smoothing: antialiased
