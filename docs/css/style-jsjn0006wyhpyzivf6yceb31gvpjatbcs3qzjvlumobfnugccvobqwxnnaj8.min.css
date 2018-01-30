@@ -266,8 +266,7 @@ pre.code-highlight>code {
 }
 
 #sidebar, #sidebar .sidebar-container {
-  overflow: auto;
-  background-image: url('https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Post-header.jpg?raw=true')
+  overflow: auto
 }
 
 #about #about-card {
@@ -344,9 +343,9 @@ pre.code-highlight>code {
     left: 0
   }
   #bottom-bar[data-behavior="4"].pushed, #bottom-bar[data-behavior="5"].pushed, #bottom-bar[data-behavior="1"].pushed, #bottom-bar[data-behavior="2"].pushed {
-    -webkit-transform: translate3d(0, 0, 0);
-    -moz-transform: translate3d(0, 0, 0);
-    transform: translate3d(0, 0, 0)
+    -webkit-transform: translate3d(250px, 0, 0);
+    -moz-transform: translate3d(250px, 0, 0);
+    transform: translate3d(250px, 0, 0)
   }
   #bottom-bar[data-behavior="3"].pushed, #bottom-bar[data-behavior="6"].pushed {
     -webkit-transform: translate3d(75px, 0, 0);
@@ -414,9 +413,9 @@ pre.code-highlight>code {
     transform: translate3d(75px, 0, 0)
   }
   #bottom-bar[data-behavior="4"].pushed, #bottom-bar[data-behavior="5"].pushed {
-    -webkit-transform: translate3d(0, 0, 0);
-    -moz-transform: translate3d(0, 0, 0);
-    transform: translate3d(0, 0, 0)
+    -webkit-transform: translate3d(250px, 0, 0);
+    -moz-transform: translate3d(250px, 0, 0);
+    transform: translate3d(250px, 0, 0)
   }
   #bottom-bar[data-behavior="6"].pushed {
     -webkit-transform: translate3d(75px, 0, 0);
@@ -435,9 +434,9 @@ pre.code-highlight>code {
     left: 250px
   }
   #bottom-bar[data-behavior="1"].pushed, #bottom-bar[data-behavior="2"].pushed {
-    -webkit-transform: translate3d(0, 0, 0);
-    -moz-transform: translate3d(0, 0, 0);
-    transform: translate3d(0, 0, 0)
+    -webkit-transform: translate3d(250px, 0, 0);
+    -moz-transform: translate3d(250px, 0, 0);
+    transform: translate3d(250px, 0, 0)
   }
   #bottom-bar[data-behavior="3"] {
     width: calc(100% - 75px - 15px * 2);
@@ -449,9 +448,9 @@ pre.code-highlight>code {
     transform: translate3d(75px, 0, 0)
   }
   #bottom-bar[data-behavior="4"].pushed, #bottom-bar[data-behavior="5"].pushed {
-    -webkit-transform: translate3d(0, 0, 0);
-    -moz-transform: translate3d(0, 0, 0);
-    transform: translate3d(0, 0, 0)
+    -webkit-transform: translate3d(250px, 0, 0);
+    -moz-transform: translate3d(250px, 0, 0);
+    transform: translate3d(250px, 0, 0)
   }
   #bottom-bar[data-behavior="6"].pushed {
     -webkit-transform: translate3d(75px, 0, 0);
@@ -479,9 +478,9 @@ pre.code-highlight>code {
     left: 250px
   }
   #bottom-bar[data-behavior="2"].pushed {
-    -webkit-transform: translate3d(0, 0, 0);
-    -moz-transform: translate3d(0, 0, 0);
-    transform: translate3d(0, 0, 0)
+    -webkit-transform: translate3d(250px, 0, 0);
+    -moz-transform: translate3d(250px, 0, 0);
+    transform: translate3d(250px, 0, 0)
   }
   #bottom-bar[data-behavior="3"] {
     width: calc(100% - 75px - 15px * 2);
@@ -498,9 +497,9 @@ pre.code-highlight>code {
     transform: translate3d(500px, 0, 0)
   }
   #bottom-bar[data-behavior="5"].pushed {
-    -webkit-transform: translate3d(0, 0, 0);
-    -moz-transform: translate3d(0, 0, 0);
-    transform: translate3d(0, 0, 0)
+    -webkit-transform: translate3d(250px, 0, 0);
+    -moz-transform: translate3d(250px, 0, 0);
+    transform: translate3d(250px, 0, 0)
   }
   #bottom-bar[data-behavior="6"].pushed {
     -webkit-transform: translate3d(75px, 0, 0);
@@ -532,16 +531,15 @@ pre.code-highlight>code {
   height: 55px;
   position: fixed;
   top: 0;
-  background-image: url('https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Post-header.jpg?raw=true');
-  color: #fff;
-  box-shadow: 0 -15px 10px 15px rgba(0, 0, 0, .5);
-  z-index: 30;
+  border-bottom: 1px solid #333;
+  color: #333;
+  z-index: 20;
   -webkit-transition: -webkit-transform .25s ease-in-out
 }
 
 #header #btn-open-sidebar {
   position: absolute;
-  top: 20px;
+  top: 13px;
   left: 20px;
   cursor: pointer
 }
@@ -562,8 +560,8 @@ pre.code-highlight>code {
 
 #header .header-right-picture .header-picture {
   display: block;
-  max-width: 320px;
-  max- height: 40px
+  width: 320px;
+  height: 40px
 }
 
 #header .header-title {
@@ -590,9 +588,9 @@ pre.code-highlight>code {
 }
 
 #header[data-behavior="4"].pushed, #header[data-behavior="5"].pushed, #header[data-behavior="1"].pushed, #header[data-behavior="2"].pushed {
-  -webkit-transform: translate3d(0, 0, 0);
-  -moz-transform: translate3d(0, 0, 0);
-  transform: translate3d(0, 0, 0)
+  -webkit-transform: translate3d(250px, 0, 0);
+  -moz-transform: translate3d(250px, 0, 0);
+  transform: translate3d(250px, 0, 0)
 }
 
 #header[data-behavior="3"].pushed, #header[data-behavior="6"].pushed {
@@ -614,9 +612,9 @@ pre.code-highlight>code {
     transform: translate3d(500px, 0, 0)
   }
   #header[data-behavior="5"].pushed, #header[data-behavior="2"].pushed {
-    -webkit-transform: translate3d(0, 0, 0);
-    -moz-transform: translate3d(0, 0, 0);
-    transform: translate3d(0, 0, 0)
+    -webkit-transform: translate3d(250px, 0, 0);
+    -moz-transform: translate3d(250px, 0, 0);
+    transform: translate3d(250px, 0, 0)
   }
 }
 
@@ -636,10 +634,6 @@ pre.code-highlight>code {
   transition: transform .25s ease-in-out
 }
 
-.SidebarLogo {
-  width: 220px
-}
-
 #main.hasCover.hasCoverCaption, #main.hasCover.hasCoverMetaOut {
   padding-top: 50px !important
 }
@@ -655,9 +649,9 @@ pre.code-highlight>code {
     width: 100%
   }
   #main[data-behavior="4"].pushed, #main[data-behavior="5"].pushed, #main[data-behavior="1"].pushed, #main[data-behavior="2"].pushed {
-    -webkit-transform: translate3d(0, 0, 0);
-    -moz-transform: translate3d(0, 0, 0);
-    transform: translate3d(0, 0, 0)
+    -webkit-transform: translate3d(250px, 0, 0);
+    -moz-transform: translate3d(250px, 0, 0);
+    transform: translate3d(250px, 0, 0)
   }
   #main[data-behavior="3"].pushed, #main[data-behavior="6"].pushed {
     -webkit-transform: translate3d(75px, 0, 0);
@@ -678,9 +672,9 @@ pre.code-highlight>code {
     width: calc(100% - 75px)
   }
   #main[data-behavior="4"].pushed, #main[data-behavior="5"].pushed {
-    -webkit-transform: translate3d(0, 0, 0);
-    -moz-transform: translate3d(0, 0, 0);
-    transform: translate3d(0, 0, 0)
+    -webkit-transform: translate3d(250px, 0, 0);
+    -moz-transform: translate3d(250px, 0, 0);
+    transform: translate3d(250px, 0, 0)
   }
   #main[data-behavior="6"].pushed {
     -webkit-transform: translate3d(75px, 0, 0);
@@ -706,9 +700,9 @@ pre.code-highlight>code {
     width: calc(100% - 75px)
   }
   #main[data-behavior="4"].pushed, #main[data-behavior="5"].pushed {
-    -webkit-transform: translate3d(0, 0, 0);
-    -moz-transform: translate3d(0, 0, 0);
-    transform: translate3d(0, 0, 0)
+    -webkit-transform: translate3d(250px, 0, 0);
+    -moz-transform: translate3d(250px, 0, 0);
+    transform: translate3d(250px, 0, 0)
   }
   #main[data-behavior="6"].pushed {
     -webkit-transform: translate3d(75px, 0, 0);
@@ -744,9 +738,9 @@ pre.code-highlight>code {
     transform: translate3d(500px, 0, 0)
   }
   #main[data-behavior="5"].pushed {
-    -webkit-transform: translate3d(0, 0, 0);
-    -moz-transform: translate3d(0, 0, 0);
-    transform: translate3d(0, 0, 0)
+    -webkit-transform: translate3d(250px, 0, 0);
+    -moz-transform: translate3d(250px, 0, 0);
+    transform: translate3d(250px, 0, 0)
   }
   #main[data-behavior="6"].pushed {
     -webkit-transform: translate3d(75px, 0, 0);
@@ -815,8 +809,7 @@ pre.code-highlight>code {
 @media only screen and (max-width:767px) {
   #sidebar[data-behavior="4"], #sidebar[data-behavior="5"], #sidebar[data-behavior="1"], #sidebar[data-behavior="2"] {
     left: -250px;
-    width: 250px;
-    top: 55px
+    width: 250px
   }
   #sidebar[data-behavior="4"] .sidebar-profile, #sidebar[data-behavior="5"] .sidebar-profile, #sidebar[data-behavior="1"] .sidebar-profile, #sidebar[data-behavior="2"] .sidebar-profile {
     height: 130px;
@@ -862,10 +855,9 @@ pre.code-highlight>code {
     vertical-align: middle
   }
   #sidebar[data-behavior="4"].pushed, #sidebar[data-behavior="5"].pushed, #sidebar[data-behavior="1"].pushed, #sidebar[data-behavior="2"].pushed {
-    -webkit-transform: translate3d(0, 0, 0);
-    -moz-transform: translate3d(0, 0, 0);
-    transform: translate3d(0, 0, 0);
-    transition-duration: 200ms
+    -webkit-transform: translate3d(250px, 0, 0);
+    -moz-transform: translate3d(250px, 0, 0);
+    transform: translate3d(250px, 0, 0)
   }
   #sidebar[data-behavior="3"], #sidebar[data-behavior="6"] {
     left: -75px;
@@ -949,8 +941,7 @@ pre.code-highlight>code {
   }
   #sidebar[data-behavior="4"], #sidebar[data-behavior="5"] {
     left: -250px;
-    width: 250px;
-    top: 55px
+    width: 250px
   }
   #sidebar[data-behavior="4"] .sidebar-profile, #sidebar[data-behavior="5"] .sidebar-profile {
     height: 130px;
@@ -996,10 +987,9 @@ pre.code-highlight>code {
     vertical-align: middle
   }
   #sidebar[data-behavior="4"].pushed, #sidebar[data-behavior="5"].pushed {
-    -webkit-transform: translate3d(0, 0, 0);
-    -moz-transform: translate3d(0, 0, 0);
-    transform: translate3d(0, 0, 0);
-    transition-duration: 200ms
+    -webkit-transform: translate3d(250px, 0, 0);
+    -moz-transform: translate3d(250px, 0, 0);
+    transform: translate3d(250px, 0, 0)
   }
   #sidebar[data-behavior="6"] {
     left: -75px;
@@ -1134,8 +1124,7 @@ pre.code-highlight>code {
   }
   #sidebar[data-behavior="4"], #sidebar[data-behavior="5"] {
     left: -250px;
-    width: 250px;
-    top: 55px
+    width: 250px
   }
   #sidebar[data-behavior="4"] .sidebar-profile, #sidebar[data-behavior="5"] .sidebar-profile {
     height: 130px;
@@ -1183,8 +1172,7 @@ pre.code-highlight>code {
   #sidebar[data-behavior="4"].pushed, #sidebar[data-behavior="5"].pushed {
     -webkit-transform: translate3d(250px, 0, 0);
     -moz-transform: translate3d(250px, 0, 0);
-    transform: translate3d(250px, 0, 0);
-    transition-duration: 200ms
+    transform: translate3d(250px, 0, 0)
   }
   #sidebar[data-behavior="6"] {
     left: -75px;
@@ -2164,7 +2152,7 @@ a.link-unstyled a.link, a.link-unstyled a.link:active, a.link-unstyled a.link:ho
   text-decoration: underline !important
 }
 
-.post .post- .post-title:hover, .post- .post-title:hover, .post--cover .post- .post-title:hover, .postShorten .postShorten- .postShorten-title:hover, .tag--danger:hover, .tag--primary:hover, .tag--success:hover, a.tag--danger:hover, a.tag--primary:hover, a.tag--success:hover {
+.post .post-header .post-title:hover, .post-header .post-title:hover, .post-header-cover .post-header .post-title:hover, .postShorten .postShorten-header .postShorten-title:hover, .tag--danger:hover, .tag--primary:hover, .tag--success:hover, a.tag--danger:hover, a.tag--primary:hover, a.tag--success:hover {
   text-decoration: none
 }
 
@@ -2273,7 +2261,7 @@ a.fancybox {
   z-index: 1010
 }
 
-.modal, .modal-body, .modal- {
+.modal, .modal-body, .modal-header {
   position: relative
 }
 
@@ -2284,7 +2272,7 @@ a.fancybox {
   overflow: hidden
 }
 
-.modal- {
+.modal-header {
   padding: 10px 15px 0;
   background: #fff;
   border-bottom: 1px solid #eef2f8
@@ -2366,7 +2354,7 @@ a.fancybox {
   margin-top: 20px
 }
 
-.post .post- .post-title {
+.post .post-header .post-title {
   margin: 0;
   word-break: initial;
   overflow: hidden
@@ -2423,13 +2411,13 @@ a.fancybox {
 }
 
 @media only screen and (min-width:768px) and (max-width:1023px) {
-  .post .post- .post-title {
+  .post .post-header .post-title {
     font-size: 3.3rem
   }
 }
 
 @media only screen and (min-width:1024px) {
-  .post .post- .post-title {
+  .post .post-header .post-title {
     font-size: 3.7rem
   }
 }
@@ -2532,13 +2520,13 @@ a.fancybox {
   background-color: #eef0f1
 }
 
-.post- .post-title {
+.post-header .post-title {
   margin: 0;
   word-break: initial;
   overflow: hidden
 }
 
-.post--cover {
+.post-header-cover {
   display: table;
   position: relative;
   top: 0;
@@ -2552,12 +2540,12 @@ a.fancybox {
   -webkit-transition: -webkit-transform .25s ease-in-out
 }
 
-.post--cover .post- {
+.post-header-cover .post-header {
   display: table-cell;
   vertical-align: middle
 }
 
-.post--cover .post- .post-title {
+.post-header-cover .post-header .post-title {
   font-family: 'Love Ya Like A Sister';
   letter-spacing: .5px;
   font-weight: normal;
@@ -2612,9 +2600,9 @@ a.fancybox {
     background-size: auto
   }
   .post-header-cover[data-behavior="4"].pushed, .post-header-cover[data-behavior="5"].pushed, .post-header-cover[data-behavior="1"].pushed, .post-header-cover[data-behavior="2"].pushed {
-    -webkit-transform: translate3d(0, 0, 0);
-    -moz-transform: translate3d(0, 0, 0);
-    transform: translate3d(0, 0, 0)
+    -webkit-transform: translate3d(250px, 0, 0);
+    -moz-transform: translate3d(250px, 0, 0);
+    transform: translate3d(250px, 0, 0)
   }
   .post-header-cover[data-behavior="3"].pushed, .post-header-cover[data-behavior="6"].pushed {
     -webkit-transform: translate3d(75px, 0, 0);
@@ -2639,9 +2627,9 @@ a.fancybox {
     background-size: auto
   }
   .post-header-cover[data-behavior="4"].pushed, .post-header-cover[data-behavior="5"].pushed {
-    -webkit-transform: translate3d(0, 0, 0);
-    -moz-transform: translate3d(0, 0, 0);
-    transform: translate3d(0, 0, 0)
+    -webkit-transform: translate3d(250px, 0, 0);
+    -moz-transform: translate3d(250px, 0, 0);
+    transform: translate3d(250px, 0, 0)
   }
   .post-header-cover[data-behavior="6"].pushed {
     -webkit-transform: translate3d(75px, 0, 0);
@@ -2671,9 +2659,9 @@ a.fancybox {
     background-size: auto
   }
   .post-header-cover[data-behavior="4"].pushed, .post-header-cover[data-behavior="5"].pushed {
-    -webkit-transform: translate3d(0, 0, 0);
-    -moz-transform: translate3d(0, 0, 0);
-    transform: translate3d(0, 0, 0)
+    -webkit-transform: translate3d(250px, 0, 0);
+    -moz-transform: translate3d(250px, 0, 0);
+    transform: translate3d(250px, 0, 0)
   }
   .post-header-cover[data-behavior="6"].pushed {
     -webkit-transform: translate3d(75px, 0, 0);
@@ -2713,9 +2701,9 @@ a.fancybox {
     transform: translate3d(500px, 0, 0)
   }
   .post-header-cover[data-behavior="5"].pushed {
-    -webkit-transform: translate3d(0, 0, 0);
-    -moz-transform: translate3d(0, 0, 0);
-    transform: translate3d(0, 0, 0)
+    -webkit-transform: translate3d(250px, 0, 0);
+    -moz-transform: translate3d(250px, 0, 0);
+    transform: translate3d(250px, 0, 0)
   }
   .post-header-cover[data-behavior="6"].pushed {
     -webkit-transform: translate3d(75px, 0, 0);
