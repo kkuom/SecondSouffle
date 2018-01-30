@@ -87,7 +87,7 @@ Résumé de *Mettre fin à l&#39;essentialisme : de l&#39;en-dedans, de l&#39;en
     function AfficherMasquer()
     {
       divInfo = document.getElementById('frontground');
-      divSidebar = document.getElementById('sidebar');
+      divSidebar = document.getElementByClassName('pushed');
       if (divSidebar.className == 'pushed')
       divInfo.style.display = 'block';
       else

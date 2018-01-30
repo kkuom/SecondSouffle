@@ -208,7 +208,7 @@
     function AfficherMasquer()
     {
       divInfo = document.getElementById('frontground');
-      divSidebar = document.getElementById('sidebar');
+      divSidebar = document.getElementByClassName('pushed');
       if (divSidebar.className == 'pushed')
       divInfo.style.display = 'block';
       else
