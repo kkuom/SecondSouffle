@@ -7,7 +7,7 @@ metaAlignment: center
 
 categories:
 - "Philosophie appliquée"
-- "Posture educative"
+- "Posture éducative"
 tags:
 - "Brochure"
 - "Éthique"
