@@ -531,9 +531,10 @@ pre.code-highlight>code {
   height: 55px;
   position: fixed;
   top: 0;
-  border-bottom: 1px solid #333;
-  color: #333;
-  z-index: 20;
+  background-image: url('https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Post-header.jpg?raw=true');
+  color: #fff;
+  box-shadow: 0 -15px 10px 15px rgba(0, 0, 0, .5);
+  z-index: 30;
   -webkit-transition: -webkit-transform .25s ease-in-out
 }
 
@@ -749,6 +750,10 @@ pre.code-highlight>code {
   }
 }
 
+.SidebarLogo {
+  width: 220px
+}
+
 #sidebar {
   font-family: 'Lato', sans-serif;
   height: 100%;
@@ -941,7 +946,8 @@ pre.code-highlight>code {
   }
   #sidebar[data-behavior="4"], #sidebar[data-behavior="5"] {
     left: -250px;
-    width: 250px
+    width: 250px;
+    top: 55px
   }
   #sidebar[data-behavior="4"] .sidebar-profile, #sidebar[data-behavior="5"] .sidebar-profile {
     height: 130px;
@@ -1124,7 +1130,8 @@ pre.code-highlight>code {
   }
   #sidebar[data-behavior="4"], #sidebar[data-behavior="5"] {
     left: -250px;
-    width: 250px
+    width: 250px;
+    top: 55px
   }
   #sidebar[data-behavior="4"] .sidebar-profile, #sidebar[data-behavior="5"] .sidebar-profile {
     height: 130px;
