@@ -554,7 +554,7 @@ pre.code-highlight>code {
 
 #header .header-right-picture {
   display: block;
-  max-width: 320px;
+  max-width: calc(100% - 80px);
   max-height: 40px;
   top: 11.5px
 }
@@ -2187,10 +2187,11 @@ a.fancybox {
 
 @media only screen and (min-width:1024px) {
   .markdown h1 {
-    font-size: 3rem
+    font-size: 3rem;
+    text-align: left
   }
   .markdown h2 {
-    font-size: 2.4rem
+    font-size: 2.4rem text-align: left
   }
   .markdown h3 {
     font-size: 2.2rem
@@ -2208,10 +2209,10 @@ a.fancybox {
 
 @media only screen and (max-width:767px) {
   .markdown h1 {
-    font-size: 2.6rem
+    font-size: 2.6rem text-align: left
   }
   .markdown h2 {
-    font-size: 2.2rem
+    font-size: 2.2rem text-align: left
   }
   .markdown h3 {
     font-size: 2rem
@@ -2229,10 +2230,10 @@ a.fancybox {
 
 @media only screen and (min-width:768px) and (max-width:1023px) {
   .markdown h1 {
-    font-size: 2.8rem
+    font-size: 2.8rem text-align: left
   }
   .markdown h2 {
-    font-size: 2.2rem
+    font-size: 2.2rem text-align: left
   }
   .markdown h3 {
     font-size: 2rem
