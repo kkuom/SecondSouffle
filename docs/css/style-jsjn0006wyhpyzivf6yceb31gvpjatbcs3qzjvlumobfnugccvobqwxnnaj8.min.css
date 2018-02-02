@@ -947,7 +947,7 @@ pre.code-highlight>code {
   #sidebar[data-behavior="4"], #sidebar[data-behavior="5"] {
     left: -250px;
     width: 200px;
-    background: rgba(0, 0, 0, .75)
+    background: rgba(0, 0, 0, .9)
   }
   #sidebar[data-behavior="4"] .sidebar-profile, #sidebar[data-behavior="5"] .sidebar-profile {
     height: 130px;
@@ -1131,7 +1131,7 @@ pre.code-highlight>code {
   #sidebar[data-behavior="4"], #sidebar[data-behavior="5"] {
     left: -250px;
     width: 200px;
-    background: rgba(0, 0, 0, .75)
+    background: rgba(0, 0, 0, .9)
   }
   #sidebar[data-behavior="4"] .sidebar-profile, #sidebar[data-behavior="5"] .sidebar-profile {
     height: 130px;
@@ -1475,7 +1475,7 @@ pre.code-highlight>code {
   #sidebar[data-behavior="5"] {
     left: -250px;
     width: 200px;
-    background: rgba(0, 0, 0, .75)
+    background: rgba(0, 0, 0, .9)
   }
   #sidebar[data-behavior="5"] .sidebar-profile {
     height: 130px;
