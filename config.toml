@@ -33,8 +33,8 @@ canonifyurls = true
   archive = "archives"
 
 [author]
-  name = "Collectif libertaire et anti-âgiste"
-  bio = "Trouver une forme d’association qui défende et protège de toute la force commune la personne et les biens de chaque associé, et par laquelle chacun, s’unissant à tous, n’obéisse pourtant qu’à lui-même, et reste aussi libre qu’auparavant. Tel est le problème fondamental dont le Contrat Social donne la solution. (J. J. Rousseau)"
+  name = "Collectif éthique, libertaire et anti-âgiste"
+  bio = "Trouver une forme d’association qui défende et protège de toute la force commune la personne et les biens de chaque associé, et par laquelle chacun, s’unissant à tous, n’obéisse pourtant qu’à lui-même, et reste aussi libre qu’auparavant. Tel est le problème fondamental dont le Contrat Social donne la solution. (J.J.Rousseau)"
   job = "Description de Second Souffle"
   location = "Description territoriale du collectif"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
