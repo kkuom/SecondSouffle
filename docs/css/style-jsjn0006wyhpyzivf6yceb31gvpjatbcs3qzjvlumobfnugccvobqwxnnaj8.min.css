@@ -315,7 +315,7 @@ pre.code-highlight>code {
   vertical-align: top
 }
 
-#about #about-card #about-card-bio, #about #about-card #about-card-job, #about #about-card #about-card-location {
+#about #about-card #about-card-job, #about #about-card #about-card-location {
   font-size: 1.4rem;
   line-height: 1.2em;
   font-weight: 400;
@@ -323,7 +323,12 @@ pre.code-highlight>code {
 }
 
 #about-card-bio {
-  text-align: justify
+  font-size: 1.5rem;
+  line-height: 1.25em;
+  font-weight: 400;
+  color: #333;
+  text-align: justify;
+  font-style: italic
 }
 
 @media only screen and (max-width:767px) {
