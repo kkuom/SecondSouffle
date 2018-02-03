@@ -814,7 +814,7 @@ pre.code-highlight>code {
   #sidebar[data-behavior="4"], #sidebar[data-behavior="5"], #sidebar[data-behavior="1"], #sidebar[data-behavior="2"] {
     left: -250px;
     width: 200px;
-    background: rgba(0, 0, 0, .75)
+    background: rgba(0, 0, 0, .9)
   }
   #sidebar[data-behavior="4"] .sidebar-profile, #sidebar[data-behavior="5"] .sidebar-profile, #sidebar[data-behavior="1"] .sidebar-profile, #sidebar[data-behavior="2"] .sidebar-profile {
     height: 130px;
