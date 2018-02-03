@@ -316,10 +316,14 @@ pre.code-highlight>code {
 }
 
 #about #about-card #about-card-bio, #about #about-card #about-card-job, #about #about-card #about-card-location {
-  font-size: 1.6rem;
-  line-height: 1.9em;
+  font-size: 1.4rem;
+  line-height: 1.2em;
   font-weight: 400;
-  color: #5d686f
+  color: #5d686f;
+}
+
+#about-card-bio {
+  text-align: justify
 }
 
 @media only screen and (max-width:767px) {
