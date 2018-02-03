@@ -576,12 +576,18 @@ pre.code-highlight>code {
 }
 
 @media (max-width: 480px) {
+  #header .header-right-picture {
+    display: block;
+    max-width: calc(100% - 80px);
+    max-height: 27.5px;
+    top: 16px
+  }
   #header .header-right-picture .header-picture {
     display: block;
-    width: 270px;
-    height: 33.75px;
+    width: 220px;
+    height: 27.5px;
     background-image: url(https://github.com/kkuom/SecondSouffle/blob/master/docs/images/SecondSouffle_LogoHeader.png?raw=true);
-    background-size: 270px auto
+    background-size: 220px auto
   }
 }
 
