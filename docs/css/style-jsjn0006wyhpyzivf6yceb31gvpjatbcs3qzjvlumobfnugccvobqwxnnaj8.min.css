@@ -563,31 +563,33 @@ pre.code-highlight>code {
 #header .header-right-picture {
   display: block;
   max-width: calc(100% - 80px);
-  max-height: 40px;
+  max-height: 39.7px;
   top: 11.5px
 }
 
 #header .header-right-picture .header-picture {
   display: block;
   width: 320px;
-  height: 40px;
+  height: 39.7px;
   background-image: url(https://github.com/kkuom/SecondSouffle/blob/master/docs/images/SecondSouffle_LogoHeader.png?raw=true);
-  background-size: 320px auto
+  background-size: 320px auto;
+  background-repeat: no-repeat
 }
 
 @media (max-width: 480px) {
   #header .header-right-picture {
     display: block;
     max-width: calc(100% - 80px);
-    max-height: 27.5px;
+    max-height: 27.3px;
     top: 16px
   }
   #header .header-right-picture .header-picture {
     display: block;
     width: 220px;
-    height: 27.5px;
+    height: 27.3px;
     background-image: url(https://github.com/kkuom/SecondSouffle/blob/master/docs/images/SecondSouffle_LogoHeader.png?raw=true);
-    background-size: 220px auto
+    background-size: 220px auto;
+    background-repeat: no-repeat
   }
 }
 
