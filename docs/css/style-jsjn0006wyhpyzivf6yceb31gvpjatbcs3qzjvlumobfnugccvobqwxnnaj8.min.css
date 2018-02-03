@@ -570,7 +570,8 @@ pre.code-highlight>code {
 #header .header-right-picture .header-picture {
   display: block;
   width: 320px;
-  height: 40px
+  height: 40px;
+  background-image: url(https://github.com/kkuom/SecondSouffle/blob/master/docs/images/SecondSouffle_LogoHeader.png?raw=true);
 }
 
 #header .header-title {
