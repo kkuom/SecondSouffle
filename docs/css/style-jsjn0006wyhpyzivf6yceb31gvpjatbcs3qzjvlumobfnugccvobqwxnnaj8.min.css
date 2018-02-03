@@ -332,8 +332,8 @@ pre.code-highlight>code {
     padding: 0 30px
   }
   #about #about-card #about-card-picture {
-    width: 202px;
-    height: 90px
+    width: 200px;
+    height: auto
   }
   #about #about-card #about-card-job {
     margin-bottom: 15px
@@ -359,8 +359,8 @@ pre.code-highlight>code {
     width: 80%
   }
   #about #about-card #about-card-picture {
-    width: 247px;
-    height: 110px
+    width: 250px;
+    height: auto
   }
   #about #about-card #about-card-job, #about #about-card #about-card-location {
     display: inline-block;
