@@ -11,15 +11,6 @@
     
     
     <item>
-      <title>Contes Ethiques</title>
-      <link>https://kkuom.github.io/SecondSouffle/categories/contes-ethiques/</link>
-      <pubDate>Sun, 07 Jan 2018 18:15:01 +0100</pubDate>
-      
-      <guid>https://kkuom.github.io/SecondSouffle/categories/contes-ethiques/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Contes Pour Une Autre Vision Du Monde</title>
       <link>https://kkuom.github.io/SecondSouffle/categories/contes-pour-une-autre-vision-du-monde/</link>
       <pubDate>Sun, 07 Jan 2018 18:15:01 +0100</pubDate>
@@ -29,11 +20,11 @@
     </item>
     
     <item>
-      <title>Ecrits Structurants</title>
-      <link>https://kkuom.github.io/SecondSouffle/categories/ecrits-structurants/</link>
-      <pubDate>Fri, 29 Dec 2017 15:26:33 +0100</pubDate>
+      <title>Contes Éthiques</title>
+      <link>https://kkuom.github.io/SecondSouffle/categories/contes-%C3%A9thiques/</link>
+      <pubDate>Sun, 07 Jan 2018 18:15:01 +0100</pubDate>
       
-      <guid>https://kkuom.github.io/SecondSouffle/categories/ecrits-structurants/</guid>
+      <guid>https://kkuom.github.io/SecondSouffle/categories/contes-%C3%A9thiques/</guid>
       <description></description>
     </item>
     
@@ -56,11 +47,11 @@
     </item>
     
     <item>
-      <title>Philosophie Appliquee</title>
-      <link>https://kkuom.github.io/SecondSouffle/categories/philosophie-appliquee/</link>
+      <title>Philosophie Appliquée</title>
+      <link>https://kkuom.github.io/SecondSouffle/categories/philosophie-appliqu%C3%A9e/</link>
       <pubDate>Mon, 08 Jan 2018 13:11:33 +0100</pubDate>
       
-      <guid>https://kkuom.github.io/SecondSouffle/categories/philosophie-appliquee/</guid>
+      <guid>https://kkuom.github.io/SecondSouffle/categories/philosophie-appliqu%C3%A9e/</guid>
       <description></description>
     </item>
     
@@ -74,11 +65,20 @@
     </item>
     
     <item>
-      <title>Posture Educative</title>
-      <link>https://kkuom.github.io/SecondSouffle/categories/posture-educative/</link>
+      <title>Posture Éducative</title>
+      <link>https://kkuom.github.io/SecondSouffle/categories/posture-%C3%A9ducative/</link>
       <pubDate>Mon, 08 Jan 2018 13:11:33 +0100</pubDate>
       
-      <guid>https://kkuom.github.io/SecondSouffle/categories/posture-educative/</guid>
+      <guid>https://kkuom.github.io/SecondSouffle/categories/posture-%C3%A9ducative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Écrits Structurants</title>
+      <link>https://kkuom.github.io/SecondSouffle/categories/%C3%A9crits-structurants/</link>
+      <pubDate>Fri, 29 Dec 2017 15:26:33 +0100</pubDate>
+      
+      <guid>https://kkuom.github.io/SecondSouffle/categories/%C3%A9crits-structurants/</guid>
       <description></description>
     </item>
     

@@ -5,7 +5,7 @@ readingtime: "10"
 draft: false
 metaAlignment: center
 
-categories: ["Ecrits structurants", "Postulat philosophique"]
+categories: ["Écrits structurants", "Postulat philosophique"]
 tags: ["Brochure", "Éthique", "Contrat social"]
 
 thumbnailImagePosition: left
