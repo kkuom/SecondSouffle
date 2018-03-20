@@ -1745,6 +1745,18 @@ pre.code-highlight>code {
   margin-top: 20px
 }
 
+.boxes a, a:active, a:visited {
+  cursor: pointer;
+  color: #fa8072;
+  text-decoration: none
+}
+
+.boxes a:hover {
+  cursor: pointer;
+  color: #fa8072;
+  text-decoration: underline
+}
+
 .box {
   border-bottom: 1px solid #eef2f8
 }
