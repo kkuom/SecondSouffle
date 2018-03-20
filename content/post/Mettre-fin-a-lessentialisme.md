@@ -5,15 +5,8 @@ readingtime: "25"
 draft: false
 metaAlignment: center
 
-categories:
-- "Papiers politiques"
-- "Organisation des luttes"
-tags:
-- "Brochure"
-- "Politique"
-- "Stratégie de lutte"
-- "Déterminisme"
-- "Essentialisme"
+categories: ["Papiers politiques", "Organisation des luttes"]
+tags: ["Brochure", "Politique", "Stratégie de lutte", "Déterminisme", "Essentialisme"]
 
 thumbnailImagePosition: right
 thumbnailImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Papiers-politiques-thumbnail.png?raw=true

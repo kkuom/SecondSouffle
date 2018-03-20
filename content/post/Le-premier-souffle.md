@@ -5,13 +5,8 @@ readingtime: "10"
 draft: false
 metaAlignment: center
 
-categories:
-- "Écrits structurants"
-- "Postulat philosophique"
-tags:
-- "Brochure"
-- "Éthique"
-- "Contrat social"
+categories: ["Écrits structurants", "Postulat philosophique"]
+tags: ["Brochure", "Éthique", "Contrat social"]
 
 thumbnailImagePosition: left
 thumbnailImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Ecrits-structurants-thumbnail.png?raw=true
