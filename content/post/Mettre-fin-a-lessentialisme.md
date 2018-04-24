@@ -22,7 +22,7 @@ showDate: true
 comments: true
 ---
 <section class="intro">
-Résumé de *Mettre fin à l'essentialisme : de l'en-dedans, de l'en-dehors & de l'en-contre*, flemme de l'écrire. Mais ça sera bien. Aviv si tu t'embêtes, amuse toi. A moins que quelqu'un veuille faire un résumé de la brochure après l'avoir lu ?
+Dans *Mettre fin à l'essentialisme : de l'en-dedans, de l'en-dehors & de l'en-contre*, l'essentialisme et la morale sont attaqués à leur base. Ce papier développe l’intérêt de créer des espaces de liberté au sein des accueils collectifs de mineurs. Développant les stratégies de lutte et les moyens nécessaires pour contrer les oppressions, il se nourrie d'expériences de terrain et de réflexions politiques autour de la lutte anti-âgiste.
 <!--more-->
 <hr class="intro-divider">
 <!-- toc -->
