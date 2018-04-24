@@ -22,7 +22,7 @@ showDate: true
 comments: true
 ---
 <section class="intro">
-Dans *Mettre fin à l'essentialisme : de l'en-dedans, de l'en-dehors & de l'en-contre*, l'essentialisme et la morale sont attaqués à leur base. Ce papier développe l’intérêt de créer des espaces de liberté au sein des accueils collectifs de mineurs. Développant les stratégies de lutte et les moyens nécessaires pour contrer les oppressions, il se nourrie d'expériences de terrain et de réflexions politiques autour de la lutte anti-âgiste.
+L'essentialisme et la morale sont ici attaqués à leur base. Ce papier développe l’intérêt de créer des espaces de liberté au sein des accueils collectifs de mineurs. Développant les stratégies de lutte et les moyens nécessaires pour contrer les oppressions, il se nourrie d'expériences de terrain et de réflexions politiques autour de la lutte anti-âgiste.
 <!--more-->
 <hr class="intro-divider">
 <!-- toc -->
