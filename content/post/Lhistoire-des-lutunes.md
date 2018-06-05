@@ -33,7 +33,7 @@ En un temps où les enfants avaient des ailes, Alix se pose des questions sur un
 On ne naît pas femme, on le devient.
 {{< /blockquote >}}
 
-**
+
 # <i class="fas fa-sticky-note" aria-hidden="true" style="padding-right:15px;"></i>Note de Second Souffle
 Ce chapitre est vide parce que Lara nous freine dans notre puissance d'agir.
 
