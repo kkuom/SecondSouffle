@@ -1,12 +1,12 @@
 ---
 title: "L'histoire des Lutunes"
-date: 2018-06-05T16:56:37+02:00
+date: 2018-06-05T17:13:42+02:00
 readingtime: "10"
 draft: false
 metaAlignment: center
 
 categories: ["Contes éthiques", "Contes pour une autre vision du monde", "Réédition"]
-tags: ["Brochure", "Conte", "Histoire", "Anti-âgisme", "Réédition"]
+tags: ["Brochure", "Conte", "Histoire", "Anti-âgisme", "Réédition", "Genre"]
 
 thumbnailImagePosition: top
 thumbnailImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/images/LhistoireDesLutunes_thumbnail.jpg?raw=true
@@ -29,12 +29,17 @@ En un temps où les enfants avaient des ailes, Alix se pose des questions sur un
 {{%attachments title="" style="black" pattern=".*(pdf)"/%}}
 </section>
 
-{{< blockquote "Simone de Beauvoir" "Le deuxième sexe (1949)" >}}
+{{< blockquote "Simone de Beauvoir," "Le deuxième sexe (1949)" >}}
 On ne naît pas femme, on le devient.
 {{< /blockquote >}}
 
 
-# <i class="fas fa-sticky-note" aria-hidden="true" style="padding-right:15px;"></i>Note de Second Souffle
+# camouflées, cachées
+## camouflées, cachées
+### camouflées, cachées
+#### camouflées, cachées
+##### camouflées, cachées
+###### camouflées, cachées
 
 # <i class="far fa-bookmark" aria-hidden="true" style="padding-right:15px;"></i>L'histoire des lutunes
 Il était un temps où les enfants naissaient ailés. Oui, ailés&nbsp;: avec des ailes&nbsp;! Quelle chance, dites-vous ? Malheureusement, ce n’est pas ainsi qu’ils le vivaient&nbsp;: sitôt qu’un enfant naissait, son entourage s’attelait à toute une panoplie d’opérations pour éviter que les ailes ne se développent entièrement. Tout comme on le ferait avec un arbre qu’on voudrait transformer en bonzaï, les ailes de ces enfants tout juste nés étaient ainsi repliées sur elles-mêmes, taillées et enserrées dans des corsets.\
