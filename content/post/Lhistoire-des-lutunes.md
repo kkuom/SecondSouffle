@@ -73,8 +73,8 @@ Cet examen dura des heures, et ils ne trouvèrent rien. Ils rentrèrent chez eux
 *«&nbsp;Et comment comptes-tu t’y prendre,* dit le Roi, *mettre tes chaussettes sur tes oreilles pour qu’elles ne puent pas des pieds&nbsp;?&nbsp;»*\
 Mac Yav demanda au Roi de lui faire confiance, et lui conseilla de faire passer le décret suivant&nbsp;:\
 
-<center>**Les lutunes sont naturellement séparés en deux catégories&nbsp;:\
-les lutunes aux oreilles pointues et les autres, les lutunes aux oreilles rondes.**</center>\
+<table><tr><td><center>**Les lutunes sont naturellement séparés en deux catégories&nbsp;:\
+les lutunes aux oreilles pointues et les autres, les lutunes aux oreilles rondes.**</center></td></tr></table>\
 
 Le premier sujet lui fit remarquer que c’était totalement ridicule&nbsp;:\
 *«&nbsp;Pourquoi pas les lutunes aux dents dorées et les lutunes aux dents argentées, ou les lutunes blancs et les lutunes noirs, ou...*\
@@ -91,8 +91,8 @@ Cette idée ravit le Roi, qui aimait beaucoup la précision dans le langage. Cep
 Le Roi se demandait où cela allait mener, mais puisque les scientifiques avaient prouvé cette différence, il ne pouvait pas trouver à redire. Il ne voyait cependant pas en quoi cela l’empêchait de laver ses chaussettes.\
 Un jour, Mac Yav lui proposa un décret&nbsp;:\
 
-<center>**Aucun lutune ne devra aimer un lutune, aucun lutone ne devra aimer un lutone,\
-sous peine d’être traqué et traité de tous les noms.**</center>\
+<table><tr><td><center>**Aucun lutune ne devra aimer un lutune, aucun lutone ne devra aimer un lutone,\
+sous peine d’être traqué et traité de tous les noms.**</center></td></tr></table>\
 
 *«&nbsp;Quelle drôle d’idée, de faire un décret sur qui doit aimer qui&nbsp;!* dit le Roi.*\
 –&nbsp; Tu ne comprends pas,* dit Mac Yav, *c’est très important d’aimer quelqu’un différent de soi-même&nbsp;!\
