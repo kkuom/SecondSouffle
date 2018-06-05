@@ -6,7 +6,7 @@ draft: false
 metaAlignment: center
 
 categories: ["Contes éthiques", "Contes pour une autre vision du monde", "Réédition"]
-tags: ["Brochure", "Conte", "Histoire", "Anti-âgisme", "Réédition", "Genre"]
+tags: ["Brochure", "Conte", "Genre", "Essentialisme", "Réédition"]
 
 thumbnailImagePosition: top
 thumbnailImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/images/LhistoireDesLutunes_thumbnail.jpg?raw=true
