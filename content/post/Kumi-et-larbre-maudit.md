@@ -33,6 +33,7 @@ Un arbre mystérieux transforme le mode de vie de tout un village d'une sobriét
 Les gens disent toujours : « Mais comment des enfants libres s’adapteront-ils jamais au côté fastidieux de la vie ? » J’espère bien que ces enfants seront les pionniers de l’abolition de ce qui est fastidieux.
 {{< /blockquote >}}
 
+
 # <i class="far fa-bookmark" aria-hidden="true" style="padding-right:15px;"></i>Chapitre I - Pratique dangereuse
 Il fut un temps où un arbre majestueux produisait des fruits qu’on appelait Lomis. Ils étaient si nourrissants et sucrés qu’une tribu avait décidé de s’installer là, au pied de cet arbre immense, afin de profiter de cette abondance. Toute l’année, il leur procurait l’équivalent d’un panier chaque jour.
 
