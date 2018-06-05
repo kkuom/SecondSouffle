@@ -33,48 +33,74 @@ En un temps où les enfants avaient des ailes, Alix se pose des questions sur un
 On ne naît pas femme, on le devient.
 {{< /blockquote >}}
 
-
-# camouflées, cachées
-## camouflées, cachées
-### camouflées, cachées
-#### camouflées, cachées
-##### camouflées, cachées
-###### camouflées, cachées
+**
+# <i class="fas fa-sticky-note" aria-hidden="true" style="padding-right:15px;"></i>Note de Second Souffle
+Ce chapitre est vide parce que Lara nous freine dans notre puissance d'agir.
 
 # <i class="far fa-bookmark" aria-hidden="true" style="padding-right:15px;"></i>L'histoire des lutunes
-Il était un temps où les enfants naissaient ailés. Oui, ailés&nbsp;: avec des ailes&nbsp;! Quelle chance, dites-vous ? Malheureusement, ce n’est pas ainsi qu’ils le vivaient&nbsp;: sitôt qu’un enfant naissait, son entourage s’attelait à toute une panoplie d’opérations pour éviter que les ailes ne se développent entièrement. Tout comme on le ferait avec un arbre qu’on voudrait transformer en bonzaï, les ailes de ces enfants tout juste nés étaient ainsi repliées sur elles-mêmes, taillées et enserrées dans des corsets.\
+Il était une fois, dans un pays lointain, un peuple de petits êtres, les lutunes. Les lutunes étaient des êtres assez jolis et variés&nbsp;: certaines avaient de petites mains rondes et vertes, d’autres de grandes mains triangulaires et roses, certains avaient la peau dorée, d’autres les cheveux qui clignotaient... Chaque lutune était unique et étonnant.\
 
-Voici l’histoire d’un ou d’une petite enfant ayant pour prénom Alix. L’histoire ne dit pas s’il s’agissait d’un garçon ou d’une fille... Cet enfant était né avec une superbe paire d’ailes. C’était de plus en plus rare, car le nombre d’enfants naissant avec une paire d’ailes difforme ou incomplète était grandissant. Il arrivait même de plus en plus souvent que certains naissent sans ailes —&nbsp;et Alix les enviait beaucoup. Ou alors, tout juste avec des petits moignons là, derrière, au niveau des omoplates. Non, Alix n’avait *« pas eu de chance&nbsp;»*&nbsp;; c’est ce qu’on disait dans son entourage&nbsp;: une énorme paire d’ailes comme un attribut de sa monstruosité. Quand Alix était petite, et avant qu’elle ne soit confrontée au regard des autres et qu’on lui fasse prendre conscience de sa “différence”, de sa difformité, il aimait sentir ses ailes ouvertes derrière lui. Quand on essayait de les lui plier, de les enserrer, quand on lui interdisait de les toucher ou de jouer avec, il demandait toujours *« pourquoi&nbsp;»*, de sa petite voix d’enfant. Alors, on lui répondait tantôt&nbsp;: *« pour ne pas les salir&nbsp;»*, tantôt&nbsp;: *« pour ne pas les abimer&nbsp;»*. Mais très vite, comme Alix grandissait et que ses ailes se développaient derrière lui, les réponses changèrent et devinrent plus souvent&nbsp;: *« parce que ça ne se fait pas&nbsp;»* ou *« parce que c’est mal élevé&nbsp;»*, ou encore *« parce que&nbsp;»*, un point c’est tout. Et rien de plus&nbsp;!\
-À force de côtoyer des enfants dont les ailes étaient astucieusement camouflées, cachées, enserrées, repliées, ou encore taillées, tronquées, rabougries —&nbsp;sans parler de celles et ceux qui avaient eu la chance d’en être dépourvues&nbsp;!&nbsp;—, Alix finit par trouver cela normal de ne pas montrer ses ailes en public ni de les toucher. Elle s’est donc mise à faire tout son possible pour les cacher&nbsp;: elle les pliait, les serrait, les taillait, mais jamais ses efforts n’étaient suffisants. Ses ailes étaient vraiment trop amples et larges, on ne voyait qu’elles&nbsp;! Et évidemment, plus elle s’entêtait à vouloir cacher ses ailes, plus on s’apercevait de la supercherie. Tant de frustration et de souffrance questionnaient profondément Alix. Pourquoi fallait-il les dissimuler ? Les réponses qu’on lui avait données n’étaient franchement pas convaincantes. Certain soir, Alix rêvait d’un monde où les gens ne cachaient pas leurs ailes, où cela ne choquait personne de voir des ailes déployées ni de voir quelqu’un se gratter ou se lisser les plumes. Ah ça&nbsp;! Quelle joie de se lisser les plumes&nbsp;! Dans certains rêves, Alix bichonnait soigneusement son plumage si souvent maltraité. Et puis dans d’autres rêves, ses ailes s’ouvraient toutes grandes derrière lui. Elles le soulevaient, puis, ses ailes battant l’air ou glissant sur des vents, Alix volait&nbsp;! Il s’élevait, et à mesure qu’il s’élevait, il voyait la terre s’éloigner et les gens rapetisser&nbsp;! Les matins, ses parents le trouvaient souvent par terre, les ailes déployées derrière son dos, frémissantes, comme s’il s’était réellement envolé&nbsp;! Et ils étaient inquiets, ne sachant pas quoi faire ni proposer à leur enfant pour l’aider et le débarrasser de cette difformité. Jusqu’au jour où c’était trop&nbsp;: ils lui parlèrent sérieusement de tout cela, évoquant une solution soi-disant miraculeuse. Alix ne dit rien et retint son souffle...\
-*« Oui, on voit bien qu’elles te gênent&nbsp;! Tu es la risée du quartier, tout le monde se moque de toi, et il n’y a pas moyen de les cacher convenablement, comme tout le monde... Et tu sais, on a parlé des traitements et chirurgies encore expérimentales, qui progressent vraiment vite à ce qu’il paraît&nbsp;! Ils disent qu’on pourra bientôt se faire enlever les ailes complètement&nbsp;! Ils recherchent des patients pour des expérimentations, peut-être que tu pourrais en faire partie ? Ça ne doit pas craindre grand-chose.&nbsp;»*\
+Les lutunes avaient une particularité&nbsp;: c’était de puer des pieds.\
 
-Alix avait le sentiment d’avoir reçu un coup de marteau sur la tête. Elle ne prit pas la peine de répondre et partie soudainement. Son père voulut la rattraper en courant derrière elle, mais quand il arriva sur le pas de la porte, il vit qu’Alix était déjà loin. Elle courait comme sans toucher terre, et plus elle courait, plus elle semblait s’élever… et tous deux comprirent ce qui se passait. Alix était en train de décoller&nbsp;: elle s’envolait pour de vrai&nbsp;! Elle sentait ses ailes battre dans son dos, comme dans ses rêves&nbsp;! Oui, comme dans ses rêves, la terre s’éloignait et les gens rapetissaient, mais cette fois tout était bien réel&nbsp;! Il vola ainsi un long moment, jusqu’à ce qu’il commence à sentir une grande fatigue le submerger. Car pour la première fois depuis sa naissance, ses ailes faisaient ce pour quoi elles étaient faites, c’est dire si elles manquaient d’entrainement&nbsp;! Alix était très haut dans le ciel lorsqu’il se rendit compte qu’il commençait à perdre de l’altitude et de la vitesse. La dégringolade commençait, et Alix ne cherchait plus qu’à ralentir sa chute pour limiter la casse. Il atterrit finalement non sans difficulté, mais sans trop de dommages, dans un champ près d’un vieil arbre. La ville était si loin maintenant…\
+Ils puaient des pieds, mais à un point que vous ne pouvez pas imaginer. C’était une horreur, et du coup ils devaient changer de chaussettes plusieurs fois par jour. Car en plus les lutunes étaient très frileux des pieds et ne pouvaient se passer de chaussettes.\
+Du coup, les lutunes passaient une bonne partie de la journée à laver leurs chaussettes. Le reste de la journée, ils le passaient à aller ramasser des grudes dans la forêt (les grudes sont de magnifiques et délicieux fruits âpres et sucrés qui poussent au pays des lutunes), et à s’aimer.\
 
-À peine eu-t-il reprit ses esprits qu’il entendit derrière lui une voix profonde lui demander&nbsp;: *« Ça va ?&nbsp;»*\
-L’enfant se retourna, mais ne voyant personne, répondit *« Oui, ça va, mais qui es-tu ?&nbsp;»*\
-Il vit alors l’arbre lui sourire et ajouta&nbsp;:\
-*« Et comment un arbre peut-il parler ?*\
-*– Et toi,* lui répondit l’arbre, *peux-tu me dire&nbsp;: comment un enfant peut-il voler ?&nbsp;»*\
-L’enfant jeta un regard en arrière pour regarder ses ailes. Il repensa alors à tous les moments qu’elle avait passé à les tailler, comme on taille des ongles devenus trop longs… Et là, bien qu’ayant perdu quelques plumes dans sa chute, elle voyait ses ailes splendides, toutes déployées, flottant au vent, prêtes à se laisser emporter au moindre courant d’air.\
-*« C’est grâce à elles…&nbsp;»* finit-il par répondre en désignant ses ailes. Et Alix se mit à sangloter, repensant encore une fois à toutes ces années où il avait fallu en avoir honte. Ses pleurs devinrent alors des cris, et Alix hurla&nbsp;:\
-*« Mais pourquoi m’ont-ils fait ça ?! Pourquoi ?!*\
-*– Cela est ainsi depuis des générations,* lui répondit l’arbre, *et chaque génération nouvelle le transmet à sa descendance. Ce sont tes parents qui t’ont appris comment il fallait les haïr, de même que l’avaient fait leurs parents avant eux ; et ainsi de suite depuis des temps reculés.*\
-*– Mais, mais ça n’explique pas pourquoi…* balbutiait Alix, *toujours sous le choc.*\
-*– Je ne peux te le dire avec certitude… Peut-être pour se différencier des oiseaux et des autres animaux ? Pour marquer leur supériorité sur eux, les êtres humains ont-ils tenter de gommer peu à peu toute trace d’animalité en eux ? Ils ont appelé “cheveux” et “barbes” les poils qui leurs poussaient sur la tête et sur le visage et ils les ont taillés. Ils se sont mis à marcher sur deux pattes qu’ils ont appelé jambes, ils ont aussi taillé leurs griffes et les ont appelés “ongles”. Toujours est-il qu’un jour, l’un d’eux a du déclaré que les ailes représentaient une partie du corps hideuse et honteuse, et qu’en tant que telle, il ne fallait plus qu’elles soient vues.*\
-*– Et cet homme a trouvé des gens pour croire en ce qu’il disait ?*\
-*– Probablement par peur ou par intérêt, mais oui, j’imagine...*\
-*– Mais… je ne dois pas être seul à penser que les ailes sont faites pour voler&nbsp;! Jamais personne n’a exprimé son désaccord ?*\
-*– Oh si je pense&nbsp;! Mais il n’est pas simple d’être entendu quand on est minoritaire. Les minorités sont souvent pourchassées, persécutées, voire exécutées. Tu vois, si c’est comme cela que vos ailes ont été brimé, je crois que les personnes comme toi pouvaient être présentées comme dangereuses ou diaboliques, donc à convaincre ou à éliminer.*\
-*– Je ne comprends pas… pourquoi seule une minorité réagissait&nbsp;? Pourquoi pas la majorité, pourquoi pas tout le monde ?*\
-*– Peut-être par l’importance qu’ont pris certains humains à la recherche de pouvoir ? Certains emballent leurs discours très joliment, et réussisse à bouger des foules entières&nbsp;! Et puis, pour les autres devenus la marge, il leur est alors difficile d’aller à l’encontre de l’opinion commune. Si notre histoire est vraie, les personnes contre les ailes ont dû déployé beaucoup d’énergie pour défendre leurs idées. Cela leur a sûrement permis de devenir la culture principale que tu subis aujourd’hui... C’est pourquoi les chefs ont toujours des gardes et des armées&nbsp;: ils ont besoin de faire peur à celles et ceux qui ne sont pas d’accord avec eux. Et puis, petit à petit, les gens finissent par intégrer leurs lois et leurs principes, jusqu’à y croire fermement. Ainsi, tes ailes seraient devenues l’objet de tant de dégoût et de mépris suite à la haine de quelques-uns, mais leur haine devenue croyance a alors été répété et perpétué partout et toujours…*\
-*– Je peux comprendre qu’on croit ce que tout le monde répète,* répondit Alix, *si tout le monde le dit, c’était que ça doit être vrai. Mais nos ailes sont si grandes, comment croire ça ? J’ai toujours su qu’un truc ne tournait pas rond…&nbsp;»*\
+Les lutunes étaient minuscules (à peu près la taille d’un de nos pouces) et naissaient dans la terre, ou plutôt poussaient. Les lutunes adultes devaient donc arroser régulièrement la pépinière de futures lutunes, afin de renouveler les générations. C’était une tâche peu passionnante, mais qu’ils se devaient d’effectuer, au même titre que laver leurs chaussettes.\
 
-Alix bouillait de colère, elle reprit une fois plus calme&nbsp;:\
-*« Et sais-tu pourquoi de plus en plus de gens naissent sans ailes ? Ou avec une seule aile ? Ou avec des ailes plus courtes que les miennes ? Pourquoi sommes-nous si peu à en avoir de si larges ?*\
-*– Ça, c’est une question de génétique. Si l’être humain a serré, caché, taillé ses ailes depuis tant et tant de générations, alors celles-ci disparaîtront. Leur inutilité les poussera génétiquement à une lente autodisparition. Ainsi, les enfants seront toujours plus nombreux à naître comme tu le dis&nbsp;: sans ailes ou aux ailes atrophiés. Mais ce n’est pas le cas de tout le monde, et certaines, comme toi justement, naîtront encore dotées d’une superbe paire d’ailes. Deux ailes complètes, parfaitement en mesure de voler&nbsp;! Et si l’humanité continue à se rogner les ailes comme elle le fait depuis tant de générations, il est probable que les enfants naissant avec une paire d’ailes telle que la tienne seront de moins en moins nombreux, jusqu’à devenir des “anomalies génétiques”… Comme ces enfants qui naissent, encore aujourd’hui, avec une queue&nbsp;! Oui, une véritable queue prolongeant leur colonne vertébrale, comme c’est le cas chez tant d’animaux&nbsp;!*\
-*– Mais pourquoi moi ?! Pourquoi ai-je été choisi ?! Et qu’est-ce que je vais faire maintenant ?!*\
-*– Pourquoi toi ? J’imagine que c’est une question de hasard… En revanche, je peux te dire que tes ailes portent en elles toutes les possibilités&nbsp;: si tu te sens maudit parce que tu les portes, elles seront ta malédiction, et tu regretteras jour après jour ton existence. Tu finiras peut-être même par te les amputer, les êtres humains sont capables de beaucoup de choses étonnantes… Mais si, en revanche, tu te sens heureux parce que tu as des ailes, elles t’accompagneront sûrement dans la réalisation de ton bonheur.&nbsp;»*\
-Pleurer ou rire, le choix semblait fait, mais cela semblait toutefois moins simple dans l’esprit d’Alix. L’arbre continua&nbsp;:\
-*« Mais, plus probablement, tu remarqueras que tu oscilleras entre ces deux sentiments. Certains jours, tu te sentiras tiré vers le bas par ces ailes trop lourdes et encombrantes, mais d’autres jours, (et le plus souvent je te le souhaite&nbsp;!), tu t’élèveras dans les airs grâce à elles et tu te sentiras léger comme l’air.&nbsp;»*\
+Un jour, le Roi (eh oui, un roi avait été institué&nbsp;!) était à la rivière avec deux de ses sujets, et comme tous les jours, ils lavaient leurs chaussettes. Et comme tous les jours, c’était très désagréable et ils avaient froid aux mains. Un des deux sujets du Roi, fatigué, dit aux autres&nbsp;:\
+*«&nbsp;J’en ai assez de laver mes chaussettes tous les jours. Il faut trouver une solution.&nbsp;»*\
+Le Roi, un peu ballot, lui dit simplement&nbsp;:\
+*«&nbsp;On n’a qu’à arrêter de les laver&nbsp;!*\
+*–&nbsp;Tu déconnes, lui répond le premier sujet, choqué, on pue trop des pieds, ça va être atroce&nbsp;!&nbsp;»*\
+Alors, le Roi, inspiré, répondit&nbsp;:\
+*«&nbsp;Il faut trouver quelqu’un pour les laver à notre place.*\
+*–&nbsp;Oui, mais qui&nbsp;?&nbsp;»*\
 
-Ce furent les derniers mots de l’arbre. Alix ne lui posa d’ailleurs plus d’autres questions. Ils restèrent dans le silence un moment jusqu’à ce qu’un doux bruissement d’ailes sorte l’enfant de sa méditation. Alix leva les yeux au ciel et vit une nuée de volatiles de toutes tailles tourner et virer. Y avait-il d’autres humains dans cet opéra aérien ? La distance et l’éclat du soleil couchant ne lui permettaient pas d’en être certain. Alix hésita un instant. Il ouvrit finalement ses ailes, inspira profondément, et s’éleva dans les airs.
+Évidemment, l’un comme l’autre savait parfaitement que personne ne voudrait laver leurs chaussettes. Le deuxième sujet, qui écoutait depuis le début et était très malin (on l’appelait Mac Yav), dit&nbsp;:\
+*«&nbsp;J’ai une idée. Il faut trouver un point commun à nous trois.&nbsp;»*\
+Les deux autres lui répondent en cœur&nbsp;:\
+*«&nbsp;Ben on pue des pieds&nbsp;!*\
+*–&nbsp; Non, ça ne va pas,* répondit Max Yav. *Tous les lutunes puent des pieds. Ça ne peut pas faire l’affaire.*\
+*–&nbsp; Mais nous sommes tous les trois différents,* précisa le Roi. *Et puis, qu’est-ce que ça changerait de trouver un point commun à nous trois&nbsp;?&nbsp;»*\
+Mac Yav restait mystérieux.* Il répondit seulement&nbsp;:\
+*«&nbsp;Faites-moi confiance. Si nous trouvons un point commun à nous trois, même s’il est partagé par d’autres, et surtout s’il est partagé par d’autres, bientôt, nous ne laverons plus jamais nos chaussettes.&nbsp;»*\
+
+Comme Mac Yav avait toujours été un bon conseiller du Roi (c’est même lui, dit-on, qui l’avait aidé à accéder au pouvoir du temps où le mot même de Roi était inconnu des lutunes), le Roi lui fit confiance. Les trois lutunes commencèrent donc à s’examiner&nbsp;:\
+*«&nbsp;J’ai des grands pieds et toi aussi&nbsp;!&nbsp;»* Mais ça n’allait pas, le troisième avait de petits pieds.\
+*«&nbsp;Vous avez tous les deux des ongles violets&nbsp;!&nbsp;»* Mais ça n’allait pas, un des trois avait des ongles roses à pois verts.\
+*«&nbsp;Je suis un cuisinier hors pair et toi aussi&nbsp;!&nbsp;»* Mais le troisième ne savait faire que des plats infects.\
+
+Cet examen dura des heures, et ils ne trouvèrent rien. Ils rentrèrent chez eux bredouilles, et pendant des jours, dès qu’ils se retrouvaient pour laver leurs chaussettes, ils s’examinaient. Un jour, enfin, ils trouvèrent&nbsp;: ils avaient les oreilles pointues tous les trois. Mac Yav, devant cette découverte, sauta de joie. Les autres le regardèrent interloqués, car en attendant ça ne changeait rien, ils lavaient toujours leurs chaussettes.\
+*«&nbsp;Et comment comptes-tu t’y prendre,* dit le Roi, *mettre tes chaussettes sur tes oreilles pour qu’elles ne puent pas des pieds&nbsp;?&nbsp;»*\
+Mac Yav demanda au Roi de lui faire confiance, et lui conseilla de faire passer le décret suivant&nbsp;:\
+
+**Les lutunes sont naturellement séparés en deux catégories : les lutunes aux oreilles pointues et les autres, les lutunes aux oreilles rondes.**\
+
+Le premier sujet lui fit remarquer que c’était totalement ridicule&nbsp;:\
+*«&nbsp;Pourquoi pas les lutunes aux dents dorées et les lutunes aux dents argentées, ou les lutunes blancs et les lutunes noirs, ou...*\
+*–&nbsp;Tout simplement,* le coupa Mac Yav, *parce que les oreilles pointues sont le seul point commun que nous ayons trouvé. Ça aurait pu être autre chose, ça n’a pas d’importance. Mais laisse-moi finir&nbsp;: à la naissance, pour bien marquer la différence, les lutunes aux oreilles pointues porteront des chaussons verts, adaptés à leurs oreilles, et les autres porteront des chaussons oranges, adaptés à leurs oreilles.*\
+
+Là, le Roi pensa que son conseiller avait définitivement perdu la raison. Des chaussures adaptées aux oreilles, quelle idée&nbsp;! Mais comme il avait toujours eu confiance en Mac Yav et qu’il ne savait que faire, il fit passer le décret.\
+Le peuple des lutunes prenait le Roi pour un fou, mais heureusement, la guilde des scientifiques vint à son secours. Toutes les oreilles du Royaume furent examinées, et on remarqua qu’effectivement, il y avait des lutunes aux oreilles rondes et des lutunes aux oreilles pointues. C’était bien la preuve qu’il y avait deux catégories de lutunes&nbsp;! C’était démontré scientifiquement et plus personne ne pouvait contredire ce fait. Quelques lutunes, plus rares, avaient une oreille ronde et une oreille pointue. Heureusement la guilde des médecins vint à leur secours en rabotant l’une des deux oreilles, afin qu’ils puissent être des lutunes à part entière et qu’ils n’aient pas de problème d’identité au niveau de leurs oreilles.\
+
+Quelques temps plus tard, Mac Yav parla au Roi&nbsp;:\
+*«&nbsp;Il faut faire savoir au peuple que les lutunes aux oreilles pointues sont des lutunes, les autres sont des lutones. On dira Ul pour les premiers, Ol pour les lutones. Ça permettra, quand on parle de quelqu’un, de savoir directement si il a les oreilles pointues ou rondes.&nbsp;»*\
+Cette idée ravit le Roi, qui aimait beaucoup la précision dans le langage. Cependant il demanda&nbsp;:\
+*«&nbsp;Les lutones, ce sont des lutunes quand même&nbsp;?*\
+*–&nbsp; Oui, dit Mac Yav, mais des lutunes différents.&nbsp;»*\
+Le Roi se demandait où cela allait mener, mais puisque les scientifiques avaient prouvé cette différence, il ne pouvait pas trouver à redire. Il ne voyait cependant pas en quoi cela l’empêchait de laver ses chaussettes.\
+Un jour, Mac Yav lui proposa un décret&nbsp;:\
+
+**Aucun lutune ne devra aimer un lutune, aucun lutone ne devra aimer un lutone, sous peine d’être traqué et traité de tous les noms.**\
+
+*«&nbsp;Quelle drôle d’idée, de faire un décret sur qui doit aimer qui&nbsp;!* dit le Roi.*\
+–&nbsp; Tu ne comprends pas,* dit Mac Yav, *c’est très important d’aimer quelqu’un différent de soi-même&nbsp;!\
+–&nbsp; Voyons,* dit le premier sujet du Roi, *tu sais très bien que chaque lutune est unique&nbsp;!\
+–&nbsp;Oui,* dit Mac Yav, *mais seule la différence d’oreille est scientifique&nbsp;!&nbsp;»*\
+
+Le Roi, désespéré et épuisé par le lavage de ses chaussettes, fit passer le décret soufflé par Mac Yav. Dans le Royaume, tout le monde s’habituait à ces lois. Les plus zélés montraient du doigt les lutunes qui mettaient des chaussons ne convenant pas à leurs oreilles, c’était vu comme contre nature, et c’est ce qu’il y avait de plus honteux. Chacun s’efforçait d’être digne de ses oreilles, qu’elles soient rondes ou pointues.\
+
+Au bout de longs mois, le Roi convoqua Mac Yav en se plaignant de continuer à laver ses chaussettes malgré tous les décrets. Alors Mac Yav déclara que les lutones, aux oreilles rondes, devaient se passionner par l’arrosage des pousses de futurs lutunes. Sinon ils seraient bannis. De plus il fit circuler la rumeur selon laquelle les lutones avaient des qualités naturelles&nbsp;: *«&nbsp;Les lutones sont sensibles à la douleur des autres, et savent se sacrifier quand ils aiment.&nbsp;»*\
+Mac Yav avait eu raison. Bientôt, les lutones, qui devaient aimer un lutune, passaient leur temps à arroser les pousses de futurs lutunes, n’avaient plus de temps d’aller cueillir des grudes, et dépendaient des lutunes aux oreilles pointues.\
+
+C’est alors que les lutones devinrent les esclaves domestiques des lutunes aux oreilles pointues, déclarés bientôt les vrais Lutunes. Depuis, les lutunes aux oreilles rondes, les lutones, lavent les chaussettes des lutunes aux oreilles pointues, les Lutunes, et sont persuadés de le faire parce qu’ils ont des qualités naturelles pour cela. Et surtout, sont persuadés de le faire par amour.\
