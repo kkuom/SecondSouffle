@@ -9,7 +9,7 @@ categories: ["Contes éthiques", "Contes pour une autre vision du monde", "Réé
 tags: ["Brochure", "Conte", "Histoire", "Anti-âgisme", "Réédition"]
 
 thumbnailImagePosition: top
-thumbnailImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/images/QuandLesEnfantsAvaientDesAiles_thumbnail.jpg?raw=true
+thumbnailImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/images/LhistoireDesLutunes_thumbnail?raw=true
 
 coverImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Post-header.jpg?raw=true
 coverMeta: in
