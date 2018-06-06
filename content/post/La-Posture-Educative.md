@@ -445,3 +445,23 @@ Ainsi, les limites offensives sont des limites imposées par autrui à l’inté
 Dans ce chapitre, nous explorons successivement quatre systèmes d’obéissance basés sur la même morale aboutissant à des cadres injustes. D’une part, nous ne prétendons pas proposer une vision exhaustive, et d’autre part, un système d’obéissance est rarement cohérent à 100 %. La plupart du temps, ces systèmes sont poreux entre eux et les cadres injustes mélangent leurs mécanismes bien qu’une dominante soit souvent plus identifiable. Aussi, même lorsqu’un groupe essaie d’installer un cadre éthique, il est facile de glisser vers ces mécaniques injustes.</td></tr></table>
 ## La tyrannie de l’absence de structure.
 Bien, que ne pas cadrer part souvent d’une volonté positive (espoir de n’exclure personne, d’éviter d’éventuelles prises de pouvoir, etc.), la pratique invalide régulièrement cette idée.\
+
+<table style="color:#6b615b"><tr><td><i class="fas fa-cog fa-spin"></i><b>Prenons l’exemple de la fumée de cigarette&nbsp;:</b><br />
+<b>1.</b>&nbsp;Un collectif ne désirant pas mettre d’interdiction n’interdira pas de fumer.<br />
+<b>2.</b>&nbsp;Lorsque des espaces collectifs seront envahis de fumée, les personnes non-fumeuses ou craignant la fumée ne les investiront plus, ou à contrecœur.<br />
+<b>3.</b>&nbsp;Progressivement, une exclusion invisible aura lieu. Plus cette exclusion sera forte plus elle sera invisible, car moins les tensions entre personnes fumeuses/non-fumeuses qui auraient pu être engendrées par une cohabitation existeront.
+</td></tr></table>
+
+Parmi les processus de domination, on trouve régulièrement des flous qui jouent en faveur des dominantes, et prétendre ne pas avoir de règles aide à maintenir ces dominations. L’absence de règles n’a que d’infimes chances de conclure vers un système respectant les limites défensives des unes des autres. Cela crée beaucoup plus souvent un système entretenant des dominations puisque ces dernières sont invisibles (et donc plus négociées).\
+
+Une dictature va utiliser plusieurs systèmes tyranniques, mais elle va également pratiquer la tyrannie de l’absence de structure. Bien souvent, les dictatures vont fermer les yeux sur les enfreintes de loi ne nuisant pas aux dictateurs, voire consolidant leurs pouvoirs. C’est une des raisons pour lesquelles des milices ou des armées peuvent parfois transgresser les lois qu’ils sont censés défendre.\
+
+Comme on a vu plus haut, l’articulation individu/collectif doit nécessairement prendre en compte les limites défensives des individus. Si un animateur n’intervient pas lorsqu’un enfant est atteint dans ses limites, il favorise alors la tyrannie liée à l’absence de structure. Dans un autre cas, si des animatrices ne sont pas en accord avec le cadre qu’elles doivent défendre, elles risquent de pratiquer la tyrannie de l’absence de structure sur chaque règle à laquelle elles n’adhèrent pas.\
+Conseil en passant, n’acceptez pas un cadre que vous trouvez insensé&nbsp;! (sauf dans une stratégie de sabotage…&nbsp;! Cf. *Mettre fin à l’essentialisme* édité également à *Second Souffle*).\
+
+Dans la tyrannie d’absence de structure, les membres d’une équipe pédagogique risquent bien souvent d’avoir un statut très petit, peu importe qu’ils aient de bonnes compétences ou un bon relationnel. Pour autant, ce statut n’a pas nécessairement disparu, et les enfants l’accordant encore ont de bonnes chances d’obtenir des privilèges, privilèges que la tyrannie d’absence de structure tendra à augmenter progressivement.\
+
+<table style="box-shadow: 0px 2px 8px 0px rgba(0, 0, 0, 0.2); color:#333"><tr><td style="border-width:thin; border-color:#333">
+Dans ce système, le <span style="color:#fa8072">désir maître</span> s’efface au profit de <span style="color:#6b615b">désirs individuels</span> qui, potentiellement, deviendront de nouveaux désirs maîtres. Ainsi, loin de diminuer la violence issue des moyens d’obéissance, la responsabilité de celle-ci est simplement déplacée.<br /><br />
+{{< image classes="fig-75 center clear" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/PSAP/TyrannieDAbsenceDeStructure.png?raw=true" >}}
+</td></tr></table>

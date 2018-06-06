@@ -42,9 +42,9 @@ Nous nous sommes permis de neutraliser le texte et d’ajuster quelques formulat
 
 # <i class="far fa-bookmark" aria-hidden="true" style="padding-right:13px;"></i>Éduquer est ignoble
 
-*Cher lectrice, cher lecteur,
+<i>Cher lectrice, cher lecteur,
 
-Tu t’apprêtes à lire notre texte fondamental contre l'éducation. Il nous est tout à fait clair qu’il s’agit d’un thème qu’on affronte difficilement. Certaines constatations ou affirmations paraîtront peut-être d'abord assez dures. Mais ayez le courage d'une autre lecture&nbsp;! Nous essayons d’expliciter tout ce que nous pensons. Nous ne tenons pas la définition de l'éducation dont nous partons dans ce texte pour méchante –&nbsp;comme certains pourraient le penser&nbsp;– et nous ne voulons pas offenser qui que ce soit. Allons&nbsp;!*\
+Tu t’apprêtes à lire notre texte fondamental contre l'éducation. Il nous est tout à fait clair qu’il s’agit d’un thème qu’on affronte difficilement. Certaines constatations ou affirmations paraîtront peut-être d'abord assez dures. Mais ayez le courage d'une autre lecture&nbsp;! Nous essayons d’expliciter tout ce que nous pensons. Nous ne tenons pas la définition de l'éducation dont nous partons dans ce texte pour méchante –&nbsp;comme certains pourraient le penser&nbsp;– et nous ne voulons pas offenser qui que ce soit. Allons&nbsp;!</i>\
 
 Nous refusons toute forme d’éducation –&nbsp;y compris sa variante anti-autoritaire. Sous le terme “éducation”, cependant, nous ne comprenons évidemment pas tous la même chose. Pour éviter des malentendus, nous définirons avant tout cette notion.\
 
