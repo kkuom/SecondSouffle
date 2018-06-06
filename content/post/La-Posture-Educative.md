@@ -197,4 +197,68 @@ La sanction se doit quant à elle de remplir plusieurs fonctions et, contraireme
 (...) a pris forme un nouveau type de maitresse. Celle-ci doit, au lieu de la parole, apprendre le silence ; au lieu d’enseigner, observer ; au lieu de se revêtir d’une dignité orgueilleuse qui veut paraître infaillible, se revêtir d’humilité.
 {{< /blockquote >}}
 
-<center>**Il est donc impossible d’envisager la sanction comme une recette de cuisine, mais voici quelques conseils&nbsp;:**</center>\
+<br/><center>**Il est donc impossible d’envisager la sanction comme une recette de cuisine, mais voici quelques conseils&nbsp;:**</center>\
+<i class="far fa-thumbs-up"></i>Intervenez le plus tôt possible. Intervenir tôt permettra à l’enfant de mieux relier ses actes à leurs conséquences. Vous confirmerez votre statut de garante du cadre. Bien qu’il soit normal que les enfants testent les règles. En tant que tenant du cadre, il faut agir immédiatement si cela est nécessaire. De nombreux animateurs n’interviennent pas pour les transgressions mineures et admettent l’idée que les règles collectives sont faites pour être plus ou moins respectées. Ne pas intervenir lorsqu’un enfant teste le cadre signifie lui sous-communiquer que le cadre officiel n’est pas à respecter entièrement. De nombreuses animatrices démarrent leur séjour en intervenant peu et finissent en étant très agressives. C’est ainsi qu’elles finissent par être injustes.\
+**Attention&nbsp;:** intervenir tôt ne signifie pas pour autant choisir directement la sanction. Appliquez la sanction immédiatement si vous avez déjà une sanction adéquate. Sinon, intervenez pour que l’enfant stoppe sa transgression (protection) et dites lui que vous avez besoin de réfléchir à la sanction. Vous l’appliquerez plus tard.\
+
+<i class="far fa-thumbs-up"></i>Dans cette continuité là, présenter une transgression comme *«&nbsp;pas grave&nbsp;»* si cette dernière n’est pas détectée par les tenants du cadre (du genre, *«&nbsp;pas vu, pas pris&nbsp;!&nbsp;»*), équivaut à saboter soi-même le cadre. Toutefois, il peut arriver qu’une professeure laisse faire une enfant si elle considère qu’elle n’était pas dangereuse pour elle-même ou pour autrui. En réalité, ce genre de comportement correspond davantage à un *«&nbsp;vu, mais toléré car ton comportement ne nuit à personne et participe à ta compréhension du monde&nbsp;»*. Souvent, cet acte éducatif s’accompagne de langage non verbal tel qu’un échange de regard empathique.\
+
+<i class="far fa-thumbs-up"></i>La sanction doit découler de l’acte. Réfléchissez à la conséquence de la transgression et ce qu’elle provoque. Qu’est-ce qu’elle détruit&nbsp;? Comment le reconstruit-on&nbsp;? Bien entendu, certaines choses ne sont pas totalement réparables, il est impossible pour quiconque de reboucher une égratignure qu’il ou elle a provoquée&nbsp;; mais soigner dans la limite de ses pouvoirs est une réparation.\
+
+{{< blockquote "Fernand Deligny," "Graine de Crapule (1960)" >}}
+Méfie-toi des solutions immédiates&nbsp;: il ne sert à rien de brancher une lampe à pétrole sur le courant électrique.
+{{< /blockquote >}}<br />
+
+<i class="far fa-thumbs-up"></i>La sanction ne peut être personnelle. Si votre relation est mauvaise avec l’enfant, essayez d’imaginer ce que vous mettriez en place comme sanction à un enfant que vous appréciez. Si vous n’y arrivez pas, demandez à une autre animatrice de vous aider à choisir.\
+
+<i class="far fa-thumbs-up"></i>C’est celle qui intervient qui applique la sanction. Cette méthode clarifiera les choses pour l’enfant&nbsp;: toutes les adultes présentes sont garantes du cadre, pas plus la directrice que les animateurs. On peut donc choisir en équipe la sanction, mais c’est bien l’animatrice qui est intervenue lors de la transgression qui l’appliquera.\
+
+<i class="far fa-thumbs-up"></i>Accompagnez l’enfant dans sa sanction. Il faut aider l’enfant à faire sa sanction s’il en a besoin. Cela favorisera une bonne relation avec l’enfant et l’empêchera de faire un amalgame entre punition et sanction. Par ailleurs, cela lui permettra de ne pas être piégé dans sa sanction et la vivre comme une humiliation. La première fois que l’enfant subit une sanction difficile à réaliser, donnez-lui un coup de main pour le faire. Le but de la sanction n’est pas de mettre l’enfant en difficulté.\
+
+{{< blockquote "Maria Montessori" "" >}}
+Le véritable devoir du maitre est d’aider, pas de juger.
+{{< /blockquote >}}<br />
+
+<i class="far fa-thumbs-up"></i>Accepter de ne pas infliger de peine, c’est accepter qu’un enfant puisse prendre du plaisir dans sa sanction. Si l’enfant s’amuse en appliquant sa sanction, ce n’est pas grave, et cela ne signifie pas pour autant qu’il recommencera. Et si c’était le cas, faites simplement évoluer vos sanctions.\
+
+<i class="far fa-thumbs-up"></i>Faites évoluer vos sanctions. Il peut arriver que les enfants jouent avec votre sanction et c’est normal, car ils vérifient la cohérence du système, et cela les aide à mieux le comprendre. Pour éviter ce jeu, vos sanctions doivent évoluer pour que l’enfant se confronte plus profondément aux conséquences qu’engendrent ses actes.\
+Par exemple&nbsp;: un enfant dessine une fois sur la table&nbsp;> il nettoie avec votre aide&nbsp;; l’enfant dessine de nouveau&nbsp;> il nettoie seul&nbsp;; l’enfant renouvelle&nbsp;> il viendra avec vous racheter du liquide de nettoyage et après il nettoiera avec&nbsp;; il récidive&nbsp;> il ne peut plus utiliser le matériel de dessin en dehors des activités cadrées&nbsp;; etc.
+
+<i class="far fa-thumbs-up"></i>N’oubliez pas que commettre une transgression peut être dû à de l’inattention. Le commettre plusieurs fois alors qu’il y a eu sanction signifie qu’il y a un problème. Soit la sanction n’a pas permis à l’enfant de comprendre la règle, soit la règle est impossible à respecter pour l’enfant.\
+
+<i class="far fa-thumbs-up"></i>Écoutez plus que vous ne parlez. L’enfant est habitué à ce qu’on lui fasse la morale, et il transgresse malgré tout&nbsp;! Être à l’écoute vous aidera à comprendre le problème et à faire réfléchir l’enfant.\
+
+{{< blockquote "Antoine de Saint-Exupéry," "Le petit Prince (1943)" >}}
+Pose des questions, mais surtout écoute les réponses.
+{{< /blockquote >}}<br />
+
+<i class="far fa-thumbs-up"></i>Prenez le temps nécessaire. Si vous allez trop vite, vous aurez l’impression de régler le problème, mais il reviendra très rapidement. Vous ne perdrez jamais de temps à résoudre réellement un problème.\
+
+{{< blockquote "Maria Montessori" "" >}}
+Ce qui manque, ce n’est pas le temps, c’est la patience.
+{{< /blockquote >}}<br />
+
+<i class="far fa-thumbs-up"></i>Responsabilisez l’enfant dans sa sanction. Lorsque l’enfant est au courant de sa sanction et sait comment l’appliquer, laissez l’enfant évaluer sa sanction. Si je demande à un enfant d’effacer le dessin qu’il a fait sur le banc, je le laisserai faire par lui-même sa sanction, avec ou sans moi. Je donnerai à cet enfant ma confiance et le laisserai arrêter sa sanction en utilisant son propre jugement.\
+
+{{< blockquote "Maria Montessori" "" >}}
+La discipline qui naît de la liberté est nécessairement active.
+{{< /blockquote >}}<br />
+
+<i class="far fa-thumbs-up"></i>Prévoyez toujours le pardon. Une sanction définitive ne laisse aucune chance à l’enfant de s’améliorer. Pensez toujours à prévoir une fin de sanction, un pardon, et informez-en l’enfant, qu’il sache que sa sanction a une fin.\
+
+<i class="far fa-thumbs-up"></i>Une transgression qui se répète remet en cause le cadre et/ou la sanction. Si ça arrive, c’est que soit votre cadre est inapplicable (exemple&nbsp;: «*il est interdit d’être grossier alors que ce sont des enfants très habitués à l’être*»), soit que vos sanctions sont mal établies. Dans un cas, il vous faudra changer des règles de vie, et dans l’autre, envisager une autre sanction.\
+
+<i class="far fa-thumbs-up"></i>Ne prenez compte que de l’acte de transgression et ne vous souciez d’aucune morale. N’oubliez pas que beaucoup de transgressions répondent à un besoin. Si un enfant tague «&nbsp;fils de pute&nbsp;» sur un mur, faites-le nettoyer de la même manière que s’il avait dessiné un chat. Car lorsque vous réagissez à son attaque, vous l’encouragez à attirer votre attention de cette manière et surtout vous jugez vous-même de ce qu’il est acceptable d’exprimer ou pas. Qu’il dessine un chat ou qu’il écrive «&nbsp;fils de pute&nbsp;», les deux répondent à un besoin d’expression. Offrez-lui un espace d’expression libre.\
+
+{{< blockquote "Fernand Deligny," "Graine de Crapule (1960)" >}}
+S’ils vont voler des fraises, plante des fraisiers dans leur cour.
+{{< /blockquote >}}<br />
+
+<i class="far fa-thumbs-up"></i>Lorsque vous perdez confiance en un enfant, optez pour une logique de contrat. Les contrats servent à compenser le manque de confiance entre deux parties. Installez ces contrats jusqu’à ce que vous ayez de nouveau confiance en l’enfant.\
+
+<i class="far fa-thumbs-up"></i>Si l’enfant n’est pas conscient de ses actes, commencez par le conscientiser.
+Par exemple&nbsp;: l’enfant est agressif sans s’en rendre compte&nbsp;> vous décidez de mettre en place un signe avec l’enfant&nbsp;: à chaque fois qu’il aura un comportement agressif, vous lui ferez le signe et il agira avec plus de compréhension de son comportement. Cela vous permettra de lui communiquer quelque chose, sans l’exposer au reste du groupe.\
+
+<i class="far fa-thumbs-up"></i>Lorsqu’un enfant transgresse souvent, n’oubliez pas de vivre d’autres moments que des moments de recadrage avec lui. Essayez de passer de bons moments avec ces enfants vous permettra de créer une bonne relation avec eux et vous évitera de les diaboliser.\
+
+<i class="far fa-thumbs-up"></i>Un enfant mal intégré transgressera les règles. N’oubliez pas que l’enfant peut vous communiquer son rapport au groupe ou au séjour de vacances via son comportement. Travaillez sur la cause invisible, plutôt que sur ses effets visibles.\
