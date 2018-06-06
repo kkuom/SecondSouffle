@@ -1,5 +1,5 @@
 ---
-title: "Éduquer est ignoble, KRÄTZÄ"
+title: "Éduquer est ignoble, K.R.Ä.T.Z.Ä."
 date: 2018-06-06T13:15:20+02:00
 readingtime: "10"
 draft: false
@@ -22,15 +22,14 @@ showDate: true
 comments: true
 ---
 <section class="intro">
-
 <!--more-->
-La KRÄTZÄ est un collectif de Berlinois anti-âgiste qui s'est attaqué à l'éducation dans son concept lui même. Sans concession, ce texte décrypte avec finesse de nombreux problèmes profonds qu'engendrent l'éducation. On y parle de relation égalitaire entre adulte et enfant, on y parle de modèles défaillant, on y parle d'autodétermination.
+La K.R.Ä.T.Z.Ä est un collectif de Berlinois anti-âgiste qui s'est attaqué à l'éducation dans son concept lui même. Sans concession, ce texte décrypte avec finesse de nombreux problèmes profonds qu'engendrent l'éducation. On y parle de relation égalitaire entre adulte et enfant, on y parle de modèles défaillant, on y parle d'autodétermination.
 <hr class="intro-divider">
 <!-- toc -->
 
 </section>
 # <i class="fas fa-sticky-note" aria-hidden="true" style="padding-right:13px;"></i>Note de Second Souffle
-En lisant le livre « La domination Adulte » de Yves Bonnardel, je suis tombé sur le collectif KRÄTZÄ. Ce collectif Berlinois, principalement composé de mineures, m’a totalement retourné.\
+En lisant le livre « La domination Adulte » de Yves Bonnardel, je suis tombé sur le collectif K.R.Ä.T.Z.Ä. Ce collectif Berlinois, principalement composé de mineures, m’a totalement retourné.\
 Combattant pour le droit des enfants ce collectif a notamment lutté contre la scolarisation, pour le droit électoral des mineures, pour l’indépendance matérielle des enfants et… contre l’éducation.\
 Je ne savais pas trop à quoi m’attendre en lisant ce texte et cela fait des années que je suis impliqué dans l’éducation. Je travaillais déjà depuis plus de 10 ans sur ma posture, les questions de contrat social etc.\
 Des années également que je donnais de la formation et que je me confrontais à la difficulté de clarifier un propos.\
@@ -38,7 +37,7 @@ En lisant ce texte, ce fut une révélation. Ce texte attaquait avec clarté l�
 Ce texte m’a également énormément aidé à clarifier une question qui était déjà centrale pour moi : la question des limites. Ce texte propose une différenciation entre limite défensive et agressive et cette différenciation est devenu un des mes outils centraux de réflexion autour du cadre.\
 
 Dès que nous avons créé une édition à Second Souffle, il m’a paru indispensable d’y faire apparaître « éduquer est ignoble ».
-Dans cette édition nous avons utilisé la traduction d’Yves Bonnardel présente sur le site de la KRÄTZÄ.
+Dans cette édition nous avons utilisé la traduction d’Yves Bonnardel présente sur le site de la K.R.Ä.T.Z.Ä.
 Nous nous sommes permis de neutraliser le texte et d’ajuster quelques formulations.\
 
 # <i class="far fa-bookmark" aria-hidden="true" style="padding-right:13px;"></i>Éduquer est ignoble
