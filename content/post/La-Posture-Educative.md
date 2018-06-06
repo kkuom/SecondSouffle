@@ -115,3 +115,15 @@ Avec ou sans transgression, la punition est un appareil dissuasif n’ayant jama
 Si aujourd’hui tu donnes une gifle, demain, puisque la gifle aura été sans effet, il te faudra donner un coup de poing, après-demain un coup de matraque, puis installer une chambre des supplices. Tu crois que j’exagère&nbsp;? Et pourtant combien de maisons de rééducation s’ornaient de cellules d’isolement aussi inconfortables que possible où l’on jetait l’enfant puni en le privant de nourriture. Pendant qu’il était là-dedans, il fichait la paix au personnel, en attendant la mort.
 Ou le comble de l’adaptation sociale.
 {{< /blockquote >}}
+
+# <i class="far fa-bookmark" aria-hidden="true" style="padding-right:15px"></i>La sanction
+À *Second Souffle*, nous considérons que la sanction est un acte éducatif qui a l’intention de faire porter la conséquence d’une transgression à son auteure. La sanction aura donc comme premières intentions de protéger la ou les victimes d’une transgression, de responsabiliser son auteur, et si possible d’envisager une réparation.\
+
+<i class="fas fa-arrow-right fa-sm" style="padding-right:7.5px"></i>**La sanction _comprend_** là où la punition *condamne*.\
+<i class="fas fa-arrow-right fa-sm" style="padding-right:7.5px"></i>**La sanction _répare_** là où la punition *réprime*.\
+<i class="fas fa-arrow-right fa-sm" style="padding-right:7.5px"></i>**La sanction _éduque_** là où la punition *soumet*.\
+
+La sanction est l’outil de l’équipe pédagogique qui lui permettra de maintenir son autorité tout en garantissant le cadre.\
+
+L’animateur qui punit risquera de détériorer sa relation avec un ou des enfants, voire entrer dans une spirale de conflits. Quand la punition agit dans un cadre moral (notion de bien ou de mal collectif), la sanction fonctionne par l’éthique (notion d’évaluation individuelle de la conséquence de ses actes). Ainsi, il existe une infinité de sanctions étant donné qu’elles varieront en fonction des transgressions et du cadre. Cela demandera donc à l’actrice éducative de comprendre en profondeur le fonctionnement de la sanction. Par ailleurs, celle-ci évolue systématiquement et n’est jamais définitives.\
+Chaque sanction comprend la réconciliation et le pardon, et l’enfant sanctionné récupère le même statut que n’importe quel autre une fois le processus de la sanction achevé. Cela implique qu’il bénéficie à nouveau des avantages que lui permet le cadre collectif.\
