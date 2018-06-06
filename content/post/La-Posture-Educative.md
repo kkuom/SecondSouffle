@@ -447,7 +447,7 @@ Dans ce chapitre, nous explorons successivement quatre systèmes d’obéissance
 ## La tyrannie de l’absence de structure.
 Bien, que ne pas cadrer part souvent d’une volonté positive (espoir de n’exclure personne, d’éviter d’éventuelles prises de pouvoir, etc.), la pratique invalide régulièrement cette idée.\
 
-<table style="color:#6b615b"><tr><td><i class="fas fa-cog fa-spin"></i><b>Prenons l’exemple de la fumée de cigarette&nbsp;:</b><br />
+<table style="color:#6b615b"><tr><td><i class="fas fa-cog fa-spin"></i>&nbsp;&nbsp;<b>Prenons l’exemple de la fumée de cigarette&nbsp;:</b><br />
 <b>1.</b>&nbsp;Un collectif ne désirant pas mettre d’interdiction n’interdira pas de fumer.<br />
 <b>2.</b>&nbsp;Lorsque des espaces collectifs seront envahis de fumée, les personnes non-fumeuses ou craignant la fumée ne les investiront plus, ou à contrecœur.<br />
 <b>3.</b>&nbsp;Progressivement, une exclusion invisible aura lieu. Plus cette exclusion sera forte plus elle sera invisible, car moins les tensions entre personnes fumeuses/non-fumeuses qui auraient pu être engendrées par une cohabitation existeront.
