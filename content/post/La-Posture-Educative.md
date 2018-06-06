@@ -443,6 +443,7 @@ Ainsi, les limites offensives sont des limites imposées par autrui à l’inté
 # <i class="fas fa-lock" aria-hidden="true" style="padding-right:13px;"></i>Les systèmes injustes
 <table><tr><td style="background-color:#333;color:#fff">
 Dans ce chapitre, nous explorons successivement quatre systèmes d’obéissance basés sur la même morale aboutissant à des cadres injustes. D’une part, nous ne prétendons pas proposer une vision exhaustive, et d’autre part, un système d’obéissance est rarement cohérent à 100 %. La plupart du temps, ces systèmes sont poreux entre eux et les cadres injustes mélangent leurs mécanismes bien qu’une dominante soit souvent plus identifiable. Aussi, même lorsqu’un groupe essaie d’installer un cadre éthique, il est facile de glisser vers ces mécaniques injustes.</td></tr></table>
+
 ## La tyrannie de l’absence de structure.
 Bien, que ne pas cadrer part souvent d’une volonté positive (espoir de n’exclure personne, d’éviter d’éventuelles prises de pouvoir, etc.), la pratique invalide régulièrement cette idée.\
 
