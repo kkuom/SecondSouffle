@@ -172,13 +172,13 @@ Chacune de ces étapes participe à une compréhension plus profonde du cadre. V
 <b>3.</b>&nbsp;L’enfant souhaite de nouveau pouvoir être en autonomie dans la cuisine. Un contrat écrit est passé entre elle et le personnel de la cuisine : si elle transgresse à nouveau les normes d’hygiène dans les deux prochains jours, la sanction sera appliquée à nouveau pour une période plus longue.<br />
 <b>4.</b>&nbsp;Aucune réparation n’est ici nécessaire.<br />
 <b>5.</b>&nbsp;Une fois le contrat accompli, le lien de confiance est rétabli entre l’équipe et l’enfant, lui permettant ainsi une pleine autonomie dans la zone de la cuisine.
-</td></tr></table><br />
+</td></tr></table>
 
 Ces buts que traverse la sanction ne sont pas des étapes obligatoires et leur chronologie peut être bousculée. Il se peut que l’ensemble de ces buts soient atteints en moins de 30 secondes, comme avec l’exemple ci-dessous.\
 
 <table style="color:#6b615b"><tr><td><i class="fas fa-cog fa-spin"></i><b>&nbsp;&nbsp;Situation 4</b><br />
 <i class="fas fa-arrow-right fa-sm" style="padding-right:7.5px"></i>Julien ne range pas son marteau après utilisation, une animatrice lui explique que s’il ne le fait pas il risque de s’abimer voire d’être perdu. Julien ne veut toujours pas. L’animatrice lui explique alors qu’il n’aura plus accès aux marteaux (sanction protectrice). Julien comprend les conséquences du non-rangement de marteau (responsabilisation) et il range directement le marteau (réparation et remise en confiance). L’animatrice remercie Julien et il part faire autre chose (réconciliation).
-</td></tr></table><br />
+</td></tr></table>
 
 Le problème est parfois plus complexe, car l’enfant montre des résistances ou l’adulte n’a pas une posture totalement calibrée. Ce processus prendra alors plus de temps et certaines étapes auront besoin d’être formalisées de manière claire. Comme dans la situation 3, il arrive que l’établissement d’un contrat écrit soit nécessaire.\
 
@@ -197,4 +197,4 @@ La sanction se doit quant à elle de remplir plusieurs fonctions et, contraireme
 (...) a pris forme un nouveau type de maitresse. Celle-ci doit, au lieu de la parole, apprendre le silence ; au lieu d’enseigner, observer ; au lieu de se revêtir d’une dignité orgueilleuse qui veut paraître infaillible, se revêtir d’humilité.
 {{< /blockquote >}}
 
-**Il est donc impossible d’envisager la sanction comme une recette de cuisine, mais voici quelques conseils.**\
+<center>**Il est donc impossible d’envisager la sanction comme une recette de cuisine, mais voici quelques conseils&nbsp;:**</center>\
