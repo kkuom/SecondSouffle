@@ -131,20 +131,20 @@ Chaque sanction comprend la réconciliation et le pardon, et l’enfant sanction
 ## Comment une sanction se pense-t-elle&nbsp;?
 Nous commencerons ici par lister les différents buts de la sanction, puis nous les illustrerons avec quatre exemples.\
 
-<i class="fas fa-arrow-right fa-sm" style="padding-right:7.5px"></i>*Premier but&nbsp;:&nbsp;PROTÉGER*\
+<i class="far fa-check-square fa-sm" style="padding-right:7.5px"></i>*Premier but&nbsp;:&nbsp;PROTÉGER*\
 S’il est bien construit, le cadre (qu’on abordera  plus bas) protège les individus du groupe. Ainsi, lorsqu’il est transgressé, une conséquence négative risque de tomber sur quelqu’un. Le premier but de la sanction est d’anticiper cette conséquence et de protéger l’intégralité des personnes constituant le collectif.\
 
-<i class="fas fa-arrow-right fa-sm" style="padding-right:7.5px"></i>*Second but&nbsp;:&nbsp;RESPONSABILISER*\
+<i class="far fa-check-square fa-sm" style="padding-right:7.5px"></i>*Second but&nbsp;:&nbsp;RESPONSABILISER*\
 La sanction responsabilise individuellement et permet aux personnes de confronter leurs actes à leurs conséquences sur le collectif, et donc d’en comprendre les impacts. Un cadre ne peut perdurer si les personnes ne le comprennent pas et ne prennent pas leur responsabilité au sein de celui-ci. En partant du principe qu’une transgression est un manque de compréhension du cadre de la part des individus, il s’agit donc pour l’équipe de faciliter la compréhension du cadre via la sanction. L’adulte doit pouvoir expliquer à l’enfant les problèmes que la transgression engendre, et expliquer son lien avec la sanction.\
 
-<i class="fas fa-arrow-right fa-sm" style="padding-right:7.5px"></i>*Troisième but&nbsp;:&nbsp;Réhabiliter la confiance*\
+<i class="far fa-check-square fa-sm" style="padding-right:7.5px"></i>*Troisième but&nbsp;:&nbsp;Réhabiliter la confiance*\
 L’idée pour l’équipe pédagogique ou l’acteur éducatif est donc de (re)trouver le plus vite possible de la confiance envers l’enfant transgressant et non pas de rester (voire nourrir) une rancune vis-à-vis de ce dernier. Le manque de confiance entre deux parties peut être compensé par une logique de contrat (tacite ou formalisé), permettant ainsi à l’enfant de revenir à ses droits initiaux, et à l’adulte de progresser dans sa confiance envers l’enfant.\
 
-<i class="fas fa-arrow-right fa-sm" style="padding-right:7.5px"></i>*Quatrième but&nbsp;:&nbsp;Réparer (si besoin et si possible)*\
+<i class="far fa-check-square fa-sm" style="padding-right:7.5px"></i>*Quatrième but&nbsp;:&nbsp;Réparer (si besoin et si possible)*\
 La sanction doit également amener l’enfant à agir directement sur ce qui résulte de sa transgression, donc elle doit mettre en œuvre une logique de réparation. Cette réparation est nécessaire d’une part pour les victimes subissant les conséquences de la transgression, d’autre part pour achever le processus de responsabilisation, et enfin pour poursuivre la réhabilitation de la confiance. Nous ne voyons donc pas la confiance comme une récompense que l’adulte donne à l’enfant, mais bien comme l’amélioration de la relation adulte/enfant.\
 
-<i class="fas fa-arrow-right fa-sm" style="padding-right:7.5px"></i>*Cinquième but&nbsp;:&nbsp;Réconcillier*\
+<i class="far fa-check-square fa-sm" style="padding-right:7.5px"></i>*Cinquième but&nbsp;:&nbsp;Réconcillier*\
 La sanction n’entendant pas exclure une personne définitivement du cadre initial, la réconciliation constitue l’un de ses objectifs majeurs. La réconciliation est à la fois celle des "&nbsp;victimes&nbsp;" avec les "&nbsp;coupables&nbsp;" et celle des garantes du cadre avec ces derniers. À l’issue de cette étape, la confiance mise à mal précédemment est retrouvée et est souvent augmentée entre les garantes du cadre et la "&nbsp;coupable&nbsp;".\
 
-<i class="fas fa-arrow-right fa-sm" style="padding-right:7.5px"></i>*But global&nbsp;:&nbsp;Comprendre le cadre*\
+<i class="fas fa-check-square fa-sm" style="padding-right:7.5px"></i>*But global&nbsp;:&nbsp;Comprendre le cadre*\
 Chacune de ces étapes participe à une compréhension plus profonde du cadre. Via une posture empathique de l’adulte, l’enfant est lui-même amené à développer son empathie. Ce dernier intègre ainsi sa responsabilité individuelle au sein des contraintes collectives. Arrivé à cette étape, le respect du cadre par l’enfant est le résultat d’une motivation interne (par exemple : *«&nbsp;Je n’ai pas envie de déranger d’autres personnes&nbsp;»*) et non d’une motivation externe (par exemple : *«&nbsp;Si je suis sage, j’aurais un dessert&nbsp;»*).\
