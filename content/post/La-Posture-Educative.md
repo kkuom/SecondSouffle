@@ -275,16 +275,16 @@ S’ils vont voler des fraises, plante des fraisiers dans leur cour.
 ## Consigne, règle, interdit
 Il existe une confusion fréquente entre «&nbsp;règle&nbsp;» et «&nbsp;consigne&nbsp;». Cette confusion provoque de nombreux problèmes de cadre et d’application de ce cadre. La distinction entre les deux est essentielle afin de faire exister un cadre juste et équitable au sein d’un groupe.\
 
-<table><tr><td>
+<table><tr><td style="background-color:#333; color:#fff">
 <i class="fas fa-arrow-right fa-sm" style="padding-right:7.5px"></i><b>Consigne&nbsp;:</b> consigner émet l’idée de mettre en mémoire. Donner une consigne signifie donc donner un conseil collectif pour que les individus le composant partagent cette intention.<br />
 <i class="fas fa-arrow-right fa-sm" style="padding-right:7.5px"></i><b>Règle&nbsp;:</b> la règle est une ligne directrice de conduite, claire et connue. Elle indique ce qui doit ou ne doit pas être fait. Les conséquences liées à une transgression sont clarifiées, et une sanction pourra être appliquée.<br />
 <i class="fas fa-arrow-right fa-sm" style="padding-right:7.5px"></i><b>Interdit&nbsp;:</b> ainsi, l’interdit est défini par la règle, non pas par la consigne.
-</td></tr></table><br />
+</td></tr></table>
 
 <table style="color:#fa8072"><tr><td><i class="fas fa-cog fa-spin"></i><b>&nbsp;&nbsp;Mettons&nbsp;:</b><br />
 …&nbsp;qu’il soit interdit de dire des gros mots. Il s’agit par conséquent d’une règle, et il faudrait y trouver une sanction adéquate qui ne soit pas de la punition, ce qui me paraît impossible. Il est d’ailleurs probable que cette interdiction mène à des échecs systémiques.<br />
 …&nbsp;qu’il y ait comme consigne de ne pas être grossier. Cette dernière n’implique donc pas de sanctions, mais elle permet tout de même de le faire remarquer.
-</td></tr></table><br />
+</td></tr></table>
 
 L’accès au vocabulaire est largement déterminé par notre environnement social. Alors que les « gros mots » font partie du vocabulaire de base dans certains milieux, ils peuvent être considérés ailleurs comme graves et être perçus comme des offenses.\
 
@@ -295,7 +295,7 @@ Dans un tel cas, émettre une consigne permettra d’articuler individu et colle
 <table style="color:#fa8072"><tr><td><i class="fas fa-cog fa-spin"></i><b>&nbsp;&nbsp;Mettons maintenant&nbsp;:</b><br />
 …&nbsp;qu’il soit interdit de rentrer dans les douches des autres. Cette règle engendrera donc une première sanction protectrice (par exemple, ne pas avoir accès aux douches en même temps que les autres), et éventuellement d’autre type de sanctions (réparatrice, contrat, etc.).<br />
 …&nbsp;qu’il soit conseillé de ne pas rentrer dans les douches des autres. Ici, la consigne n’engendrera pas de sanctions si un enfant rentre dans la douche de quelqu’un. On peut imaginer une remarque telle que <i>«&nbsp;On avait dit qu’on essayait de ne pas rentrer dans la douche des autres, fait attention la prochaine fois.&nbsp;»</i>
-</td></tr></table><br />
+</td></tr></table>
 
 Dans ce cas-ci, quand bien même des personnes seraient habituées à entrer dans la douche des autres (très peu probable cependant), cet acte mettrait en péril les limites défensives des victimes éventuelles et une consigne serait insuffisante pour les protéger. L’articulation individu/collectif passant ici par une règle paraît ici cohérente.\
 
