@@ -23,7 +23,7 @@ comments: true
 ---
 <section class="intro">
 <!--more-->
-La K.R.Ä.T.Z.Ä est un collectif de Berlinois anti-âgiste qui s'est attaqué à l'éducation dans son concept lui même. Sans concession, ce texte décrypte avec finesse de nombreux problèmes profonds qu'engendrent l'éducation. On y parle de relation égalitaire entre adulte et enfant, on y parle de modèles défaillant, on y parle d'autodétermination.
+La K.R.Ä.T.Z.Ä est un collectif de Berlinois anti-âgiste qui s'est attaqué à l'éducation dans son concept lui même. Sans concession, ce texte décrypte avec finesse de nombreux problèmes profonds qu'engendrent l'éducation. On y parle de relation égalitaire entre adulte et enfant, on y parle de modèles défaillants, on y parle d'autodétermination.
 <hr class="intro-divider">
 <!-- toc -->
 
