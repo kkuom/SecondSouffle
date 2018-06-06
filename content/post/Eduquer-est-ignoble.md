@@ -22,11 +22,13 @@ showDate: true
 comments: true
 ---
 <section class="intro">
-<!--more-->
 La K.R.Ä.T.Z.Ä est un collectif de Berlinois anti-âgiste qui s'est attaqué à l'éducation dans son concept lui même. Sans concession, ce texte décrypte avec finesse de nombreux problèmes profonds qu'engendrent l'éducation. On y parle de relation égalitaire entre adulte et enfant, on y parle de modèles défaillants, on y parle d'autodétermination.
+<!--more-->
 <hr class="intro-divider">
 <!-- toc -->
-
+{{< alert genre >}}
+*On a l’habitude de voir le masculin absorber grammaticalement le féminin. Ici, le féminin et le masculin sont employés de manière aléatoire, ceci dans le but de conserver une lecture fluide tout en neutralisant la langue.*
+{{< /alert >}}
 </section>
 # <i class="fas fa-sticky-note" aria-hidden="true" style="padding-right:13px;"></i>Note de Second Souffle
 En lisant le livre « La domination Adulte » de Yves Bonnardel, je suis tombé sur le collectif K.R.Ä.T.Z.Ä. Ce collectif Berlinois, principalement composé de mineures, m’a totalement retourné.\
