@@ -149,7 +149,7 @@ La sanction n’entendant pas exclure une personne définitivement du cadre init
 <i class="fas fa-check-square fa-sm" style="padding-right:7.5px"></i>*But global&nbsp;:&nbsp;Comprendre le cadre*\
 Chacune de ces étapes participe à une compréhension plus profonde du cadre. Via une posture empathique de l’adulte, l’enfant est lui-même amené à développer son empathie. Ce dernier intègre ainsi sa responsabilité individuelle au sein des contraintes collectives. Arrivé à cette étape, le respect du cadre par l’enfant est le résultat d’une motivation interne (par exemple : *«&nbsp;Je n’ai pas envie de déranger d’autres personnes&nbsp;»*) et non d’une motivation externe (par exemple : *«&nbsp;Si je suis sage, j’aurais un dessert&nbsp;»*).\
 
-<table style="color:#fa8072"><tr><td><i class="fas fa-cog fa-spin"></i><b>&nbsp;Situation 1</b><br />
+<table style="color:#fa8072"><tr><td><i class="fas fa-cog fa-spin"></i><b>&nbsp;&nbsp;Situation 1</b><br />
 <i class="fas fa-arrow-right fa-sm" style="padding-right:7.5px"></i><i>Une enfant empêche le bon déroulement d’une activité.</i><br />
 <b>1.</b>&nbsp;L’enfant est mise à l’écart pendant cette activité afin de protéger les autres de ces actes. L’idée n’est pas de lui « donner une leçon », mais de l’empêcher de nuire au groupe. Il peut par exemple lui être proposé une autre activité en parallèle, etc.<br />
 <b>2.</b>&nbsp;L’animatrice explique à l’enfant en quoi empêcher les autres de vivre leur activité les limite dans leur liberté. Elle lui explique également pourquoi le mettre à l’écart est nécessaire pour protéger le groupe. Enfin, elle lui explique qu’à cause de cela, l’équipe ne peut plus lui faire totalement confiance. Si l’enfant ayant transgressé en est capable, elle peut avoir un rôle actif (expliquer d’elle-même en quoi ses comportements étaient limitants, et elle peut éventuellement proposer d’elle-même une sanction).<br />
@@ -157,3 +157,29 @@ Chacune de ces étapes participe à une compréhension plus profonde du cadre. V
 <b>4.</b>&nbsp;En fonction de la transgression initiale, il est possible qu’aucune réparation ne soit nécessaire. Par contre, si l’enfant a cassé en toute connaissance de cause l’arc de quelqu’un, elle peut par exemple l’aider à en fabriquer un autre.<br />
 <b>5.</b>&nbsp;La remise en confiance (contrat respecté...), la responsabilisation (compréhension des limites des autres) et l’éventuelle réparation permettent aux victimes" de se sentir reconnues. Ce processus a permis de reconstruire un lien positif entre les enfants victimes et l’enfant transgresseur, et entre ce dernier et l’équipe.
 </td></tr></table>
+<table style="color:#6b615b"><tr><td><i class="fas fa-cog fa-spin"></i><b>&nbsp;&nbsp;Situation 2</b><br />
+<i class="fas fa-arrow-right fa-sm" style="padding-right:7.5px"></i><i>Bien que parfaitement au courant de la manière dont on peut utiliser des ciseaux, un enfant casse une paire en tentant de couper des cailloux. </i><br />
+<b>1.</b>&nbsp;L’animateur prive temporairement l’enfant de sa liberté d’utiliser des ciseaux pour garantir aux autres personnes l’accès à un matériel en bon état.<br />
+<b>2.</b>&nbsp;L’animateur explique à l’enfant en quoi casser des ciseaux limite la liberté des autres d’en utiliser à leur tour. Il explique donc qu’il lui est nécessaire de lui interdire l’utilisation des ciseaux pour un moment.<br />
+<b>3.</b>&nbsp;Si l’enfant veut de nouveau utiliser des ciseaux, l’animateur peut, par exemple, lui autoriser leur utilisation mais uniquement en présence d’animatrices dans un premier temps. Si tout va bien, alors il y aura à nouveau accès en autonomie.<br />
+<b>4.</b>&nbsp;Pour remplacer le matériel cassé, l’enfant accompagne l’animateur au magasin pour acheter une nouvelle paire de ciseaux. Il ajoute également la facture correspondante au livre des dépenses et l’animateur lui explique comment ça marche s’il ne sait pas encore le faire.<br />
+<b>5.</b>&nbsp;Comme précédemment, ce processus permet  un retour à une utilisation des ciseaux en autonomie. L’enfant a modifié son comportement après avoir compris en quoi ce dernier atteignait le collectif, provoquant alors le retour d’un sentiment de confiance entre l’équipe et l’enfant.
+</td></tr></table>
+<table style="color:#fa8072"><tr><td><i class="fas fa-cog fa-spin"></i><b>&nbsp;&nbsp;Situation 3</b><br />
+<i class="fas fa-arrow-right fa-sm" style="padding-right:7.5px"></i><i>Une enfant ne respecte pas sciemment des normes d’hygiène assez strictes imposées par la structure au niveau de la cuisine. Ces normes étant soumises à des contrôles vétérinaires, l’équipe de cuisine serait la première touchée par une transgression.</i><br />
+<b>1.</b>&nbsp;L’enfant n’est plus autorisée à être en autonomie dans les zones à proximité de la cuisine.<br />
+<b>2.</b>&nbsp;L’animatrice explique à l’enfant en quoi l’impact de la transgression peut être grave pour le collectif, et rappelle à l’enfant qu’elle connaissait pourtant les normes. Le lien de confiance est donc atteint et il n’est donc plus possible pour elle d’être autonome dans cette zone. Comme précédemment, l’enfant peut jouer un rôle actif dans ce processus.<br />
+<b>3.</b>&nbsp;L’enfant souhaite de nouveau pouvoir être en autonomie dans la cuisine. Un contrat écrit est passé entre elle et le personnel de la cuisine : si elle transgresse à nouveau les normes d’hygiène dans les deux prochains jours, la sanction sera appliquée à nouveau pour une période plus longue.<br />
+<b>4.</b>&nbsp;Aucune réparation n’est ici nécessaire.<br />
+<b>5.</b>&nbsp;Une fois le contrat accompli, le lien de confiance est rétabli entre l’équipe et l’enfant, lui permettant ainsi une pleine autonomie dans la zone de la cuisine.
+</td></tr></table>
+
+Ces buts que traverse la sanction ne sont pas des étapes obligatoires et leur chronologie peut être bousculée. Il se peut que l’ensemble de ces buts soient atteints en moins de 30 secondes, comme avec l’exemple ci-dessous.\
+
+<table style="color:#6b615b"><tr><td><i class="fas fa-cog fa-spin"></i><b>&nbsp;&nbsp;Situation 4</b><br />
+<i class="fas fa-arrow-right fa-sm" style="padding-right:7.5px"></i>Julien ne range pas son marteau après utilisation, une animatrice lui explique que s’il ne le fait pas il risque de s’abimer voire d’être perdu. Julien ne veut toujours pas. L’animatrice lui explique alors qu’il n’aura plus accès aux marteaux (sanction protectrice). Julien comprend les conséquences du non-rangement de marteau (responsabilisation) et il range directement le marteau (réparation et remise en confiance). L’animatrice remercie Julien et il part faire autre chose (réconciliation).
+</td></tr></table>
+
+Le problème est parfois plus complexe, car l’enfant montre des résistances ou l’adulte n’a pas une posture totalement calibrée. Ce processus prendra alors plus de temps et certaines étapes auront besoin d’être formalisées de manière claire. Comme dans la situation 3, il arrive que l’établissement d’un contrat écrit soit nécessaire.\
+
+## Choix des sanctions et posture éducative
