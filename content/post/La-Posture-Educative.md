@@ -101,14 +101,23 @@ Avec ou sans transgression, la punition est un appareil dissuasif n’ayant jama
 <i class="fas fa-arrow-right fa-sm" style="padding-right:7.5px"></i>**La punition ne peut pas être juste**.\
 <i class="fas fa-angle-right fa-sm" style="padding-right:7.5px"></i>Elle est un jugement plus ou moins arbitraire du degré de gravité de la faute. Ainsi, elle est toujours disproportionnée par rapport à la transgression qui l’a engendrée.\
 <i class="fas fa-angle-right fa-sm" style="padding-right:7.5px"></i>La personne qui punit peut voir son jugement influencé par de multiples facteurs, comme la relation qu’elle entretient avec le puni, son état de fatigue, sa morale, etc. Encore aujourd’hui, être homosexuel peut être puni, car considéré comme un crime dans certaines sociétés.\
+
 <i class="fas fa-arrow-right fa-sm" style="padding-right:7.5px"></i>**La punition ne peut pas être éducative**. Bien qu’elle soit un outil utilisé suite à une transgression pour maintenir un cadre dit éducatif, la punition n’inclut ni la notion de compréhension des actes commis et de ses conséquences, ni la réparation des dommages occasionnés, ni la notion de protection. Elle n’est donc ni là pour protéger les éventuelles victimes, ni pour faire avancer les personnes ayant transgressé le cadre.\
+
 <i class="fas fa-arrow-right fa-sm" style="padding-right:7.5px"></i>**La punition ne croit pas en la capacité d’une personne à s’éduquer**. Elle considère les personnes hors cadre comme des problèmes à résoudre, dont la fin justifie les moyens (éducation forcée).\
+
 <i class="fas fa-arrow-right fa-sm" style="padding-right:7.5px"></i>**La punition a pour fonction principale d’être douloureuse**. Elle est une peine échelonnée et cadrée par des règles, mais elle reste une douleur que le système se permet d’infliger.\
+
 <i class="fas fa-arrow-right fa-sm" style="padding-right:7.5px"></i>**La punition est génératrice d’injustice**. Comme son échelonnage est arbitraire, la punition créera souvent un sentiment d’injustice se couplant systématiquement à une réelle injustice. Lorsque le sentiment d’injustice est trop fort, cela engendrera de la rébellion qui empêchera la réalisation de l’objectif même de la punition&nbsp;: le maintien du cadre.\
+
 <i class="fas fa-arrow-right fa-sm" style="padding-right:7.5px"></i>**La punition diminue la responsabilisation de la personne la subissant, et elle ne permet pas une reconnaissance saine de la faute**. Ainsi, la peur de la punition poussera la personne ayant transgressé à nier ou à amoindrir sa culpabilité.\
+
 <i class="fas fa-arrow-right fa-sm" style="padding-right:7.5px"></i>**Les punitions transgressent souvent les règles qu’elles sont censées protéger**. Par exemple, un enfant transgresse une règle en volant un objet, puis une animatrice transgresse une règle en fouillant dans le sac de l’enfant. Se présente ici le non-sens de la peine de mort : une personne transgresse la loi en tuant, la justice la condamne à mort.\
+
 <i class="fas fa-arrow-right fa-sm" style="padding-right:7.5px"></i>**La punition est dissuasive, ce qui signifie que ceux qui punissent règnent par la peur**. Lorsque l’on dissuade grâce à la punition, cela signifie que l’on oppose le désir de réaliser l’acte transgressif au désir de ne pas souffrir (générant la peur de réaliser la transgression). L’enjeu de la dissuasion est de rendre la peur plus grande que le désir de la transgression, mais un cadre très restrictif, augmente le désir de le transgresser. Ce cadre utilisera alors des punitions toujours plus grandes, car il devra réussir à faire régner plus de peur que le désir de transgresser qu’il produit.\
+
 <i class="fas fa-arrow-right fa-sm" style="padding-right:7.5px"></i>**La punition diminue les chances de réconciliation**. La « coupable » n’est pas incitée à reconnaître ses torts, et comme la punition ne répare pas, la «&nbsp;victime&nbsp;» pourra sentir un sentiment d’injustice, voire de persécution. La «&nbsp;coupable&nbsp;» n’est jamais encouragée à chercher la réconciliation tandis que la «&nbsp;victime&nbsp;» est encouragée à rester dans une position de victime.\
+
 <i class="fas fa-arrow-right fa-sm" style="padding-right:7.5px"></i>**La punition amène souvent à la répression, car moins elle est efficace, plus il faudra l’augmenter**. Ainsi, une personne étant moins sujette à la peur et/ou au mal qu’infligent les peines continuera de transgresser et tiendra en échec un système punitif qui renforcera alors sa violence pour tenter de la mater.\
 
 {{< blockquote "Fernand Deligny," "Graine de Crapule (1960)" >}}
@@ -222,7 +231,7 @@ Le véritable devoir du maitre est d’aider, pas de juger.
 <i class="far fa-thumbs-up fa-sm" style="padding-right:7.5px; color:#fa8072"></i>Accepter de ne pas infliger de peine, c’est accepter qu’un enfant puisse prendre du plaisir dans sa sanction. Si l’enfant s’amuse en appliquant sa sanction, ce n’est pas grave, et cela ne signifie pas pour autant qu’il recommencera. Et si c’était le cas, faites simplement évoluer vos sanctions.\
 
 <i class="far fa-thumbs-up fa-sm" style="padding-right:7.5px; color:#fa8072"></i>Faites évoluer vos sanctions. Il peut arriver que les enfants jouent avec votre sanction et c’est normal, car ils vérifient la cohérence du système, et cela les aide à mieux le comprendre. Pour éviter ce jeu, vos sanctions doivent évoluer pour que l’enfant se confronte plus profondément aux conséquences qu’engendrent ses actes.\
-<i class="fas fa-cog fa-spin fa-sm"></i>&nbsp;&nbsp;*Par exemple&nbsp;: un enfant dessine une fois sur la table&nbsp;> il nettoie avec votre aide&nbsp;; l’enfant dessine de nouveau&nbsp;> il nettoie seul&nbsp;; l’enfant renouvelle&nbsp;> il viendra avec vous racheter du liquide de nettoyage et après il nettoiera avec&nbsp;; il récidive&nbsp;> il ne peut plus utiliser le matériel de dessin en dehors des activités cadrées&nbsp;; etc.*
+<i class="fas fa-cog fa-spin"></i>&nbsp;&nbsp;*Par exemple&nbsp;: un enfant dessine une fois sur la table&nbsp;> il nettoie avec votre aide&nbsp;; l’enfant dessine de nouveau&nbsp;> il nettoie seul&nbsp;; l’enfant renouvelle&nbsp;> il viendra avec vous racheter du liquide de nettoyage et après il nettoiera avec&nbsp;; il récidive&nbsp;> il ne peut plus utiliser le matériel de dessin en dehors des activités cadrées&nbsp;; etc.*
 
 <i class="far fa-thumbs-up fa-sm" style="padding-right:7.5px; color:#fa8072"></i>N’oubliez pas que commettre une transgression peut être dû à de l’inattention. Le commettre plusieurs fois alors qu’il y a eu sanction signifie qu’il y a un problème. Soit la sanction n’a pas permis à l’enfant de comprendre la règle, soit la règle est impossible à respecter pour l’enfant.\
 
@@ -270,11 +279,12 @@ Il existe une confusion fréquente entre «&nbsp;règle&nbsp;» et «&nbsp;consi
 <i class="fas fa-arrow-right fa-sm" style="padding-right:7.5px"></i><b>Consigne&nbsp;:</b> consigner émet l’idée de mettre en mémoire. Donner une consigne signifie donc donner un conseil collectif pour que les individus le composant partagent cette intention.<br />
 <i class="fas fa-arrow-right fa-sm" style="padding-right:7.5px"></i><b>Règle&nbsp;:</b> la règle est une ligne directrice de conduite, claire et connue. Elle indique ce qui doit ou ne doit pas être fait. Les conséquences liées à une transgression sont clarifiées, et une sanction pourra être appliquée.<br />
 <i class="fas fa-arrow-right fa-sm" style="padding-right:7.5px"></i><b>Interdit&nbsp;:</b> ainsi, l’interdit est défini par la règle, non pas par la consigne.
-</td></tr></table>
+</td></tr></table><br />
 
-<i class="fas fa-cog fa-spin"></i>&nbsp;&nbsp;*Mettons&nbsp;:
-<!-- …&nbsp;qu’il soit interdit de dire des gros mots. Il s’agit par conséquent d’une règle, et il faudrait y trouver une sanction adéquate qui ne soit pas de la punition, ce qui me paraît impossible. Il est d’ailleurs probable que cette interdiction mène à des échecs systémiques.\
-…&nbsp;qu’il y ait comme consigne de ne pas être grossier. Cette dernière n’implique donc pas de sanctions, mais elle permet tout de même de le faire remarquer.*\
+<table style="color:#fa8072"><tr><td><i class="fas fa-cog fa-spin"></i><b>&nbsp;&nbsp;Mettons&nbsp;:</b><br />
+…&nbsp;qu’il soit interdit de dire des gros mots. Il s’agit par conséquent d’une règle, et il faudrait y trouver une sanction adéquate qui ne soit pas de la punition, ce qui me paraît impossible. Il est d’ailleurs probable que cette interdiction mène à des échecs systémiques.<br />
+…&nbsp;qu’il y ait comme consigne de ne pas être grossier. Cette dernière n’implique donc pas de sanctions, mais elle permet tout de même de le faire remarquer.
+</td></tr></table><br />
 
 L’accès au vocabulaire est largement déterminé par notre environnement social. Alors que les « gros mots » font partie du vocabulaire de base dans certains milieux, ils peuvent être considérés ailleurs comme graves et être perçus comme des offenses.\
 
@@ -282,9 +292,10 @@ Ainsi, une règle sur les gros mots risque de créer des inégalités liées aux
 
 Dans un tel cas, émettre une consigne permettra d’articuler individu et collectif à travers un contrat social prenant en compte les personnes sensibles au vocabulaire grossier et les personnes n’ayant que celui-ci à disposition. La consigne mènera progressivement à un apaisement des tensions sans mettre en échec des enfants. Par ailleurs, cet apaisement sera la conséquence d’une compréhension mutuelle et non d’un tabou.\
 
-<i class="fas fa-cog fa-spin"></i>&nbsp;&nbsp;*Mettons maintenant&nbsp;:
-…&nbsp;qu’il soit interdit de rentrer dans les douches des autres. Cette règle engendrera donc une première sanction protectrice (par exemple, ne pas avoir accès aux douches en même temps que les autres), et éventuellement d’autre type de sanctions (réparatrice, contrat, etc.).\
-…&nbsp;qu’il soit conseillé de ne pas rentrer dans les douches des autres. Ici, la consigne n’engendrera pas de sanctions si un enfant rentre dans la douche de quelqu’un. On peut imaginer une remarque telle que «&nbsp;On avait dit qu’on essayait de ne pas rentrer dans la douche des autres, fait attention la prochaine fois.&nbsp;»*\
+<table style="color:#fa8072"><tr><td><i class="fas fa-cog fa-spin"></i><b>&nbsp;&nbsp;Mettons maintenant&nbsp;:</b><br />
+…&nbsp;qu’il soit interdit de rentrer dans les douches des autres. Cette règle engendrera donc une première sanction protectrice (par exemple, ne pas avoir accès aux douches en même temps que les autres), et éventuellement d’autre type de sanctions (réparatrice, contrat, etc.).<br />
+…&nbsp;qu’il soit conseillé de ne pas rentrer dans les douches des autres. Ici, la consigne n’engendrera pas de sanctions si un enfant rentre dans la douche de quelqu’un. On peut imaginer une remarque telle que <i>«&nbsp;On avait dit qu’on essayait de ne pas rentrer dans la douche des autres, fait attention la prochaine fois.&nbsp;»</i>
+</td></tr></table><br />
 
 Dans ce cas-ci, quand bien même des personnes seraient habituées à entrer dans la douche des autres (très peu probable cependant), cet acte mettrait en péril les limites défensives des victimes éventuelles et une consigne serait insuffisante pour les protéger. L’articulation individu/collectif passant ici par une règle paraît ici cohérente.\
 
