@@ -1,11 +1,11 @@
 ---
-title: "Éduquer est ignoble"
+title: "Éduquer est ignoble, KRÄTZÄ"
 date: 2018-06-06T13:15:20+02:00
 readingtime: "10"
 draft: false
 metaAlignment: center
 
-categories: ["Philosophie appliquée", "Réédition"]
+categories: ["Éducation", "Réédition"]
 tags: ["Brochure", "Éthique", "Contrat social", "Anti-âgisme", "Posture éducative", "Éducation"]
 
 thumbnailImagePosition: left
@@ -22,14 +22,15 @@ showDate: true
 comments: true
 ---
 <section class="intro">
-Blablabla
+
 <!--more-->
+La KRÄTZÄ est un collectif de Berlinois anti-âgiste qui s'est attaqué à l'éducation dans son concept lui même. Sans concession, ce texte décrypte avec finesse de nombreux problèmes profonds qu'engendrent l'éducation. On y parle de relation égalitaire entre adulte et enfant, on y parle de modèles défaillant, on y parle d'autodétermination.
 <hr class="intro-divider">
 <!-- toc -->
 
 </section>
 # <i class="fas fa-sticky-note" aria-hidden="true" style="padding-right:13px;"></i>Note de Second Souffle
-En lisant le livre « La domination Adulte » de Yves Bonnardel, je suis tombé sur le collectif KRATZA. Ce collectif Berlinois, principalement composé de mineures, m’a totalement retourné.\
+En lisant le livre « La domination Adulte » de Yves Bonnardel, je suis tombé sur le collectif KRÄTZÄ. Ce collectif Berlinois, principalement composé de mineures, m’a totalement retourné.\
 Combattant pour le droit des enfants ce collectif a notamment lutté contre la scolarisation, pour le droit électoral des mineures, pour l’indépendance matérielle des enfants et… contre l’éducation.\
 Je ne savais pas trop à quoi m’attendre en lisant ce texte et cela fait des années que je suis impliqué dans l’éducation. Je travaillais déjà depuis plus de 10 ans sur ma posture, les questions de contrat social etc.\
 Des années également que je donnais de la formation et que je me confrontais à la difficulté de clarifier un propos.\
@@ -37,7 +38,7 @@ En lisant ce texte, ce fut une révélation. Ce texte attaquait avec clarté l�
 Ce texte m’a également énormément aidé à clarifier une question qui était déjà centrale pour moi : la question des limites. Ce texte propose une différenciation entre limite défensive et agressive et cette différenciation est devenu un des mes outils centraux de réflexion autour du cadre.\
 
 Dès que nous avons créé une édition à Second Souffle, il m’a paru indispensable d’y faire apparaître « éduquer est ignoble ».
-Dans cette édition nous avons utilisé la traduction d’Yves Bonnardel présente sur le site de la KRÄETZÄE.
+Dans cette édition nous avons utilisé la traduction d’Yves Bonnardel présente sur le site de la KRÄTZÄ.
 Nous nous sommes permis de neutraliser le texte et d’ajuster quelques formulations.\
 
 # <i class="far fa-bookmark" aria-hidden="true" style="padding-right:13px;"></i>Éduquer est ignoble
@@ -59,6 +60,7 @@ L'éducation est une activité systématique (intentionnelle) et exercée dans u
 <tr><td>L'éducation et son arrière-plan théorique "pédagogique" regardent les enfants comme des objets, comme un matériel humain à former. Cependant les enfants ne sont pas des objets. Les enfants sont des sujets, des êtres vivants autonomes comme toutes les personnes –&nbsp;et cela dès le début. En conséquence, on doit aussi présenter la relation aux enfants. Le fait que des capacités déterminées leur fassent encore défaut (la prétendue capacité d'exécution), ne constitue pas un problème fondamental. Si elles sont dans l’incapacité de faire quelque chose, les personnes âgées ne sont pas "élevées" pour autant, mais au contraire justement on les aide. L'éducation est caractérisée par la manipulation. Dans la pratique, l'éducation signifie souvent que des enfants doivent aller se coucher à un moment choisi par l'éducateur, ne peuvent peut-être pas rencontrer certains amis, doivent dire “Merci” et “s'il vous plaît”, ne peuvent parler que sur invitation, doivent rendre visite à la grand-mère&nbsp;; elles doivent manger ensemble avec les parents ou au contraire s’en voient interdits pour des raisons éducatives, ils doivent ranger leur chambre d’après les souhaits de leurs parents, se coiffer, s’habiller d’après le goût des parents et se conduire ainsi que les parents le veulent, afin qu’elles fassent bonne impression à la famille et aux connaissances (le symbole de standing que constitue l’enfant bien élevé). Cette énumération peut être continuée à volonté. Ce qui est ici décisif, ce n’est pas si ces actions sont rationnelles ou non, mais le fait qu'aucun choix n'est laissé à l'enfant. D’adultes égaux en droits on n'exige pas tout cela, et cela ne viendrait pas à l’idée de l'exiger.</td></tr>
 </table>
 
+
 Mais pourquoi les parents font-ils tout cela&nbsp;? Est-ce qu’une vie commune égalitaire, libre d’éducation, ne serait pas pour les deux côtés fondamentalement plus agréable&nbsp;? La folie éducative conforme de beaucoup de parents trouve son origine dans la supposition que les enfants ont besoin d’éducation. Aussi répandue cette supposition soit-elle, elle est fausse. Beaucoup de gens confondent éducation et apprentissage. L'éducation est organisée par l'éducateur. L'apprentissage est au contraire une activité de l'enfant. Il explore son environnement, prend des informations. L'enfant est le sujet de son apprentissage. Les enfants apprennent – et cela sans qu’on les y contraigne. On ne peut même pas empêcher l'apprentissage, tout au plus peut-on le restreindre, par l'éducation par exemple. Les enfants n’ont pas besoin d’éducation, ils ont besoin d’apprendre; et ils apprennent aussi sans éducation. Que cela ne soit pas seulement théorique, c’est ce que nous indique la pratique de plusieurs familles, dans lesquelles dès le début les enfants ont grandi sans être éduqués.\
 
 Naturellement des enfants apprennent aussi avec l'éducation. Ce qu’elles apprennent ainsi avant toute autre chose, ce sont les règles de l’éducation&nbsp;: que les enfants doivent faire ce qu'on leur dit. Qu’en cas de conflit, ce qui compte ce n’est pas ce que l’enfant veut ou pense, mais ce que les éducateurs décident. Les enfants "apprennent" en fin de compte à croire que l'éducation est indispensable. Et ce qu'on croit une fois avoir compris, on ne l’abandonne pas facilement. Ainsi, génération après génération on élève ses enfants - bien que la vie commune recèle la possibilité de relations égalitaires qui renoncent à la tutelle et à la violence.\
@@ -76,7 +78,6 @@ Cependant ne doit-on pourtant pas protéger les enfant&nbsp;? On ne peut pas nie
 Les interdictions ne sont pas compatibles avec le principe ci-dessus exposé, concernant les limites, et elles ne constituent non plus aucune protection efficace, puisque les enfants peuvent expérimenter à tout moment les choses interdites lorsqu'ils sont seuls. Les enfants elles-mêmes ne veulent pas du tout se mettre en danger. Les interdits peuvent provoquer au contraire des réactions par lesquelles les enfants oublient leur propre sécurité, si bien qu'elles se trouvent seulement ainsi réellement en danger. En outre, des interdits ne contribuent pas à la compréhension des situations de dangers.\
 
 Fondamentalement, on devrait considérer que la protection ne doit pas mener à une restriction des droits, mais à proposer des moyens de prévention supplémentaires.\
-
 Il est compréhensible que des parents se fassent du soucis lorsque leur fille de 12 ans n'est pas encore rentrée à la maison à deux heures du matin. A l’inverse, si beaucoup d'enfants ne reviennent que tard chez eux, c’est qu’ils ont peur de leurs parents. Informer d'avance l'autre ou appeler chemin faisant, adoucirait peut-être l'inquiétude. On peut aussi proposer à l'enfant d'aller le chercher à un endroit convenu ou de payer un taxi. Cependant, on ne réussira jamais à éviter tous les dangers. Conseiller, soutenir, mettre en œuvre des moyens de prévention, non seulement donne des relations plus agréables, mais se révèle aussi plus efficace que punir, interdire et éduquer.\
 
 Dans les relations égalitaires entre parents et enfants, la question ne se pose pas du tout de permettre ou d’interdire quoi que ce soit. Chacune est pris au sérieux avec son intérêt et sa décision. L'autodétermination n’implique pas que chaque décision est rationnelle, ou qu'aucune erreur n'est faite. Ce qui est réfléchi, c’est que chaque personne peut décider pour elle-même ce qu’elle éprouve comme “son bien” ou comme enviable et comment elle se conduit. Les parents n’ont pas à apprécier le mode de vie de l'enfant. Si les parents croient que ceci ou cela serait cependant mieux pour l'enfant, ils peuvent en parler avec lui, lui proposer des renseignements concrets, l'informer des conséquences de ses actes, lui faire des propositions. Il peut bien sûr y avoir des manifestations de sympathie ou d’antipathie envers le comportement de l'enfant dans des situations déterminées, de même qu’entre adultes. Seulement les parents n’ont pas à prescrire à l'enfant ce qu’il a à faire ou à éviter – pas plus en tout cas qu’ils n’ont à le faire entre adultes.\
