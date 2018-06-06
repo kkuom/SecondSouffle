@@ -371,14 +371,14 @@ On le voit ici, dans les deux premiers cas, obéir deviendra une contrainte limi
 
 Dans le troisième cas, l’obéissance est également perçue négativement, et l’adulte offre un accès à une liberté menant à un échec probable, presque espéré par l’adulte. Cette démonstration par l’échec amènera l’enfant à être dépendante de l’adulte (car il sait mieux qu’elle ce qu’il faut faire), à perdre confiance en ses propres capacités d’analyse, car elle ne se pensera plus capable de juger seule de ce qu’il est bon de faire (via notamment des injonctions telles que *«&nbsp;Je te l’avais dit&nbsp;»*&nbsp;; *«&nbsp;Tu aurais mieux fait de m’écouter&nbsp;»&nbsp;*; etc.). Et afin de conserver sa position dominante, l’adulte culpabilise l’enfant lorsqu’elle n’en fait qu’à sa tête (*«&nbsp;Souviens-toi la dernière fois comme ça a terminé !&nbsp;»*).\
 
-<table><tr><td>Petit jeu stupide !</td></tr>
-<tr><td>
-Vous avez sûrement toutes entendu ces phrases construites avec deux éléments A et B : A étant «&nbsp;Je t’y autorise…&nbsp;»&nbsp;; B étant «&nbsp;…mais tu seras dans la merde.&nbsp;»
-*«&nbsp;Vas-y si tu veux, mais comptes pas sur moi pour venir te chercher.&nbsp;»*
-*«&nbsp;OK, fais-le ! Mais ne viens pas te plaindre si tu te fais mal.&nbsp;»*
-*«&nbsp;OK, prends une autre glace... mais ne viens pas pleurer quand tu n’rentreras plus dans tes pantalons.&nbsp;»*
+<table><tr><td style="background-color:#333;color:#fff;text-align: center"><i class="fas fa-gamepad" style="padding-right:7.5px"></i>Petit jeu stupide !<i class="fas fa-gamepad" style="padding-left:7.5px"></i></td></tr>
+<tr><td style="background-color:#666;color:#fff">
+Vous avez sûrement toutes entendu ces phrases construites avec deux éléments A et B : A étant «&nbsp;Je t’y autorise…&nbsp;»&nbsp;; B étant «&nbsp;…mais tu seras dans la merde.&nbsp;»<br />
+<i>«&nbsp;Vas-y si tu veux, mais comptes pas sur moi pour venir te chercher.&nbsp;»</i><br />
+<i>«&nbsp;OK, fais-le ! Mais ne viens pas te plaindre si tu te fais mal.&nbsp;»</i><br />
+<i>«&nbsp;OK, prends une autre glace... mais ne viens pas pleurer quand tu n’rentreras plus dans tes pantalons.&nbsp;»</i><br /><br />
 Cherchez plusieurs phrases «&nbsp;A&nbsp;+&nbsp;B&nbsp;» et amusez-vous à interchanger les éléments A entre eux et B entre eux. Estimez ensuite par vous-mêmes la pertinence de ce type de remarque&nbsp;!
-*«&nbsp;OK ok, prends une autre glace... mais ne viens pas te plaindre si tu te fais mal&nbsp;!&nbsp;»*
+<i>«&nbsp;OK ok, prends une autre glace... mais ne viens pas te plaindre si tu te fais mal&nbsp;!&nbsp;»</i>
 </td></tr></table>
 
 Dans le dernier cas, par contre, l’obéissance deviendra une jouissance, un plaisir. En effet, l’adulte autorise dans un premier temps, prévient si nécessaire, et propose de continuer l’expérimentation en proposant même à l’enfant de participer à son activité. Toutes ces actions permettent une liberté de l’enfant accompagnée, augmentant son indépendance vis-à-vis de l’adulte, et l’autonomie est alors associée à des affects positifs. Si l’on y réfléchit, le rapport d’autorité s’inverse&nbsp;: ce n’est plus l’autorité de l’adulte qui soumet, mais l’autorité de l’enfant qui incite l’adulte à modifier ses activités pour permettre à l’enfant de continuer ses expérimentations. L’obéissance n’a alors plus rien de négatif&nbsp;: elle est synonyme d’écoute, de compréhension du monde et de la garantie d’un cadre bienveillant.\
