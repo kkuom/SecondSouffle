@@ -35,7 +35,7 @@ On ne naît pas femme, on le devient.
 
 
 # <i class="fas fa-sticky-note" aria-hidden="true" style="padding-right:15px;"></i>Note de Second Souffle
-Ce chapitre est vide parce que Lara nous freine dans notre puissance d'agir.
+À faire.
 
 # <i class="far fa-bookmark" aria-hidden="true" style="padding-right:15px;"></i>L'histoire des lutunes
 Il était une fois, dans un pays lointain, un peuple de petits êtres, les lutunes. Les lutunes étaient des êtres assez jolis et variés&nbsp;: certaines avaient de petites mains rondes et vertes, d’autres de grandes mains triangulaires et roses, certains avaient la peau dorée, d’autres les cheveux qui clignotaient... Chaque lutune était unique et étonnant.\

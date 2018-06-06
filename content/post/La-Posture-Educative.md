@@ -22,7 +22,7 @@ showDate: true
 comments: true
 ---
 <section class="intro">
-Un texte qui se propose de questionner l'autorité à travers le prisme d'une éthique libertaire. Quelle place légitime pour les affects de l'éducateur et de l'être éduqué ? Quels abus d'autorité sont possibles ? Bref, la question de la posture éducative est ici questionnée dans sa partie philosophique.
+À faire.
 <!--more-->
 <hr class="intro-divider">
 <!-- toc -->
@@ -78,4 +78,25 @@ L’*éducation éthique* mise sur la justesse de son cadre pour que ce dernier 
  Si tu coupes la langue qui a menti et la main qui a volé tu seras, en quelques jours, maître d’un petit peuple de muets et de manchots.
 {{< /blockquote >}}
 
-La punition n’en reste pas moins un acte commis par les tenants du cadre dans le but de dissuader les potentiels coupables de futures transgressions aux règles de celui-ci. Elle exprime un rapport de force entre la peur de la violence qu’elle inflige et le désir ou besoin de transgresser d’un individu.
+La punition n’en reste pas moins un acte commis par les tenants du cadre dans le but de dissuader les potentiels coupables de futures transgressions aux règles de celui-ci. Elle exprime un rapport de force entre la peur de la violence qu’elle inflige et le désir ou besoin de transgresser d’un individu.\
+
+<table><tr><td>
+Imaginons que le <span style="color:#6b615b">désir individuel</span> soit le désir d’une individue plongée dans un cadre collectif et dans lequel un <span style="color:#fa8072">désir maître</span> est l’orientation donnée/imposée par les tenants du cadre&nbsp;:\
+une grande flèche symbolise la force du désir, qu’il soit le <span style="color:#6b615b">désir individuel</span> ou le <span style="color:#fa8072">désir maître</span>&nbsp;;\
+<span style="color:#5f0261">l’angle alpha (α)</span> représente la divergence entre le <span style="color:#6b615b">désir individuel</span> et le <span style="color:#fa8072">désir maître</span>.\
+Par conséquent, au plus <span style="color:#5f0261">l’angle alpha (α)</span> est élevé, au plus la tension entre les tenants du cadre (imposant le <span style="color:#fa8072">désir maître</span>) et l’individue s’élevera également. Aussi, un <span style="color:#6b615b">désir individuel</span> très élevé peut se mettre en concurrence avec le <span style="color:#fa8072">désir maître</span>.
+
+{{< image classes="fig-66 center clear" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/PSAP/Punition1.png?raw=true" >}}\
+
+Dans le cadre punitif, le <span style="color:#fa8072">désir maître</span> cherche à augmenter sa force afin d’annihiler un <span style="color:#6b615b">désir individuel</span> <span style="color:#5f0261">divergent</span>. Il ne cherche donc pas du tout à s’adapter aux besoins exprimés par le <span style="color:#6b615b">désir individuel</span>, et cherche à l’écraser aux moyens de punitions préconçues, censées inspirer la peur.
+{{< image classes="fig-66 center clear" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/PSAP/Punition2.png?raw=true" >}}\
+
+Lorsque la punition fonctionne, le <span style="color:#6b615b">désir individuel</span> s’écrase laissant <span style="color:#fa8072">désir maître</span> s’imposer. La peur de la punition est la force principale qui annihile le <span style="color:#6b615b">désir individuel</span>. Ainsi, l’envie d’opposition de l’individu n’a pas été changée (<span style="color:#5f0261">l’angle alpha (α)</span> est toujours le même), mais puisque sa force est inférieure à la peur générée par le <span style="color:#fa8072">désir maître</span>,  elle ne lui permet pas de maintenir son <span style="color:#6b615b">désir individuel</span>.
+{{< image classes="fig-66 center clear" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/PSAP/Punition3.png?raw=true" >}}\
+
+{{< blockquote "Maria Montessori" "" >}}
+Nous ne considérons pas qu’un enfant soit discipliné quand ses professeurs ont réussi à le rendre aussi silencieux qu’un muet et aussi immobile qu’un paralytique. Un tel individu n’est pas discipliné, mais annihilé. Nous disons d’un individu qu’il est discipliné quand il est maître de lui-même et qu’il est capable de contrôler sa conduite dans les occasions où il faut suivre des règles.
+{{< /blockquote >}}
+</td></tr></table>
+
+Avec ou sans transgression, la punition est un appareil dissuasif n’ayant jamais pour intention de réparer les dommages occasionnés par une transgression commise. La punition s’inscrit pleinement dans des rapports hiérarchiques entre les personnes : entre celles capables de l’infliger et celles incapables de la contourner.\
