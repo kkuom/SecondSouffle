@@ -37,14 +37,14 @@ En lisant ce texte, ce fut une révélation. Ce texte attaquait avec clarté l�
 Ce texte m’a également énormément aidé à clarifier une question qui était déjà centrale pour moi : la question des limites. Ce texte propose une différenciation entre limite défensive et agressive et cette différenciation est devenu un des mes outils centraux de réflexion autour du cadre.\
 
 Dès que nous avons créé une édition à Second Souffle, il m’a paru indispensable d’y faire apparaître « éduquer est ignoble ».
-Dans cette édition nous avons utilisé la traduction d’Yves Bonnardel présente sur le site de la KRÄTZÄ.
+Dans cette édition nous avons utilisé la traduction d’Yves Bonnardel présente sur le site de la KRÄETZÄE.
 Nous nous sommes permis de neutraliser le texte et d’ajuster quelques formulations.\
 
 # <i class="far fa-bookmark" aria-hidden="true" style="padding-right:13px;"></i>Éduquer est ignoble
 
 *Cher lectrice, cher lecteur,
 
-Tu t’apprêtes à lire notre texte fondamental contre l'éducation. Il nous est tout à fait clair qu’il s’agit d’un thème qu’on affronte difficilement. Certaines constatations ou affirmations paraîtront peut-être d'abord assez dures. Mais ayez le courage d'une autre lecture&nbsp;! Nous essayons d’expliciter tout ce que nous pensons. Nous ne tenons pas la définition de l'éducation dont nous partons dans ce texte pour méchante –&nbsp;comme certains pourraient le penser&nbsp;– et nous ne voulons pas offenser qui que ce soit. Allons&nbsp;!\*
+Tu t’apprêtes à lire notre texte fondamental contre l'éducation. Il nous est tout à fait clair qu’il s’agit d’un thème qu’on affronte difficilement. Certaines constatations ou affirmations paraîtront peut-être d'abord assez dures. Mais ayez le courage d'une autre lecture&nbsp;! Nous essayons d’expliciter tout ce que nous pensons. Nous ne tenons pas la définition de l'éducation dont nous partons dans ce texte pour méchante –&nbsp;comme certains pourraient le penser&nbsp;– et nous ne voulons pas offenser qui que ce soit. Allons&nbsp;!*\
 
 Nous refusons toute forme d’éducation –&nbsp;y compris sa variante anti-autoritaire. Sous le terme “éducation”, cependant, nous ne comprenons évidemment pas tous la même chose. Pour éviter des malentendus, nous définirons avant tout cette notion.\
 
