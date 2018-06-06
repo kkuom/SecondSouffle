@@ -32,7 +32,7 @@ L'essentialisme et la morale sont ici attaqués à leur base. Ce papier dévelop
 {{< /alert >}}
 </section>
 
-{{< blockquote "Y. Bonnardel" "" >}}
+{{< blockquote "Yves Bonnardel," "En finir avec l'idée de Nature, renouer avec l'éthique et la politique (2005)" >}}
 Le plus souvent, ce qui est perçu comme naturel n’est en réalité que ce qui est habituel ou admis dans une société donnée – en particulier chez ceux qui s’y trouvent en position dominante : lorsque ce n’est plus par droit divin, c’est par un fait de nature que les adultes ont le devoir de régir la vie des enfants, les hommes de diriger celle des femmes, les Blancs de « civiliser » les Noirs ou les autres « races », les humains de régner sur les autres « espèces », etc. Les dominés le sont par nature, les dominants le sont par nature.
 {{< /blockquote >}}
 
