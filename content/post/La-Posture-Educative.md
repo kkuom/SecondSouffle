@@ -32,9 +32,9 @@ comments: true
 </section>
 
 {{< blockquote "Antoine de Saint-Exupéry," "Le petit Prince (1943)" >}}
-Si j’ordonnais à un général de voler d’une fleur à l’autre à la façon d’un papillon, ou d’écrire une tragédie, ou de se changer en oiseau de mer, et si le général n’exécutait pas l’ordre reçu, qui, de lui ou de moi, serait dans son tort ?\
-–&nbsp;Ce serait vous, dit fermement le petit prince.\
-–&nbsp;Exact. Il faut exiger de chacun ce que chacun peut donner, reprit le roi. L’autorité repose d’abord sur la raison. Si tu ordonnes à ton peuple d’aller se jeter à la mer, il fera la révolution. J’ai le droit d’exiger l’obéissance parce que mes ordres sont raisonnables.\
+Si j’ordonnais à un général de voler d’une fleur à l’autre à la façon d’un papillon, ou d’écrire une tragédie, ou de se changer en oiseau de mer, et si le général n’exécutait pas l’ordre reçu, qui, de lui ou de moi, serait dans son tort ?<br />
+–&nbsp;Ce serait vous, dit fermement le petit prince.<br />
+–&nbsp;Exact. Il faut exiger de chacun ce que chacun peut donner, reprit le roi. L’autorité repose d’abord sur la raison. Si tu ordonnes à ton peuple d’aller se jeter à la mer, il fera la révolution. J’ai le droit d’exiger l’obéissance parce que mes ordres sont raisonnables.
 {{< /blockquote >}}
 
 # <i class="fas fa-info-circle" aria-hidden="true" style="padding-right:13px;"></i>Concepts indispensables
@@ -62,7 +62,7 @@ Ainsi, un acteur éducatif conçoit et entretient cet environnement éducatif da
 </tr>
 </table>
 <br />
-<table style="background-color: #fff">
+<table style="background-color: #fa8072">
 <tr>
 <td><strong>L'éducation éthique</strong></td>
 <td>L’<i>éducation éthique</i> prétend que chaque personne sera en mesure de comprendre les règles imposées par la vie en collectivité et que la collectivité sera en mesure de prendre les individus en compte afin d’ajuster et d’améliorer ses règles.<br />
@@ -79,7 +79,7 @@ L’<i>éducation éthique</i> mise sur la justesse de son cadre pour que ce der
 
 La punition n’en reste pas moins un acte commis par les tenants du cadre dans le but de dissuader les potentiels coupables de futures transgressions aux règles de celui-ci. Elle exprime un rapport de force entre la peur de la violence qu’elle inflige et le désir ou besoin de transgresser d’un individu.\
 
-<table style="background-color: #fff"><tr><td>
+<table style="border-color:#fa8072; border-width: medium"><tr><td>
 Imaginons que le <span style="color:#6b615b">désir individuel</span> soit le désir d’une individue plongée dans un cadre collectif et dans lequel un <span style="color:#fa8072">désir maître</span> est l’orientation donnée/imposée par les tenants du cadre&nbsp;:<br />
 une grande flèche symbolise la force du désir, qu’il soit le <span style="color:#6b615b">désir individuel</span> ou le <span style="color:#fa8072">désir maître</span>&nbsp;;<br />
 <span style="color:#5f0261">l’angle alpha (α)</span> représente la divergence entre le <span style="color:#6b615b">désir individuel</span> et le <span style="color:#fa8072">désir maître</span>.<br />
