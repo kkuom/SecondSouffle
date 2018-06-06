@@ -97,7 +97,7 @@ Nous ne considérons pas qu’un enfant soit discipliné quand ses professeurs o
 
 Avec ou sans transgression, la punition est un appareil dissuasif n’ayant jamais pour intention de réparer les dommages occasionnés par une transgression commise. La punition s’inscrit pleinement dans des rapports hiérarchiques entre les personnes : entre celles capables de l’infliger et celles incapables de la contourner.\
 
-## Les limites de la punition
+## Les limites de la punition.
 <i class="fas fa-arrow-right fa-sm" style="padding-right:7.5px"></i>**La punition ne peut pas être juste**.\
 <i class="fas fa-angle-right fa-sm" style="padding-right:7.5px"></i>Elle est un jugement plus ou moins arbitraire du degré de gravité de la faute. Ainsi, elle est toujours disproportionnée par rapport à la transgression qui l’a engendrée.\
 <i class="fas fa-angle-right fa-sm" style="padding-right:7.5px"></i>La personne qui punit peut voir son jugement influencé par de multiples facteurs, comme la relation qu’elle entretient avec le puni, son état de fatigue, sa morale, etc. Encore aujourd’hui, être homosexuel peut être puni, car considéré comme un crime dans certaines sociétés.\
@@ -191,7 +191,7 @@ Ces buts que traverse la sanction ne sont pas des étapes obligatoires et leur c
 
 Le problème est parfois plus complexe, car l’enfant montre des résistances ou l’adulte n’a pas une posture totalement calibrée. Ce processus prendra alors plus de temps et certaines étapes auront besoin d’être formalisées de manière claire. Comme dans la situation 3, il arrive que l’établissement d’un contrat écrit soit nécessaire.\
 
-## Choix des sanctions et posture éducative
+## Choix des sanctions et posture éducative.
 
 Au final, la plus grande difficulté pour les garantes du cadre consiste à trouver une posture éducative et des sanctions adéquates. Cela implique d’être un adulte en perpétuelle observation, réflexion et remise en question, et capable d’oublier l’idée selon laquelle être adulte suffirait à donner raison. Dans ce fonctionnement, il va falloir s’appuyer sur le cadre et la logique pour justifier chacun de ces choix. Cette posture éducative s’oppose à une posture injuste utilisant la punition, bien plus simple à réaliser (déconnectée de la transgression, peut-être unique et graduée, ou extrêmement simpliste).\
 
@@ -272,7 +272,7 @@ S’ils vont voler des fraises, plante des fraisiers dans leur cour.
 
 <i class="far fa-thumbs-up fa-sm" style="padding-right:7.5px; color:#fa8072"></i>Un enfant mal intégré transgressera les règles. N’oubliez pas que l’enfant peut vous communiquer son rapport au groupe ou au séjour de vacances via son comportement. Travaillez sur la cause invisible, plutôt que sur ses effets visibles.\
 
-## Consigne, règle, interdit
+## Consigne, règle, interdit.
 Il existe une confusion fréquente entre «&nbsp;règle&nbsp;» et «&nbsp;consigne&nbsp;». Cette confusion provoque de nombreux problèmes de cadre et d’application de ce cadre. La distinction entre les deux est essentielle afin de faire exister un cadre juste et équitable au sein d’un groupe.\
 
 <table><tr><td style="background-color:#333; color:#fff">
@@ -294,9 +294,47 @@ Dans un tel cas, émettre une consigne permettra d’articuler individu et colle
 
 <table style="color:#fa8072"><tr><td><i class="fas fa-cog fa-spin"></i><b>&nbsp;&nbsp;Mettons maintenant&nbsp;:</b><br />
 …&nbsp;qu’il soit interdit de rentrer dans les douches des autres. Cette règle engendrera donc une première sanction protectrice (par exemple, ne pas avoir accès aux douches en même temps que les autres), et éventuellement d’autre type de sanctions (réparatrice, contrat, etc.).<br />
-…&nbsp;qu’il soit conseillé de ne pas rentrer dans les douches des autres. Ici, la consigne n’engendrera pas de sanctions si un enfant rentre dans la douche de quelqu’un. On peut imaginer une remarque telle que <i>«&nbsp;On avait dit qu’on essayait de ne pas rentrer dans la douche des autres, fait attention la prochaine fois.&nbsp;»</i>
+…&nbsp;qu’il soit conseillé de ne pas rentrer dans les douches des autres. Ici, la consigne n’engendrera pas de sanctions si un enfant rentre dans la douche de quelqu’un. On peut imaginer une remarque telle que&nbsp;:<br /> <i>«&nbsp;On avait dit qu’on essayait de ne pas rentrer dans la douche des autres, fait attention la prochaine fois.&nbsp;»</i>
 </td></tr></table>
 
 Dans ce cas-ci, quand bien même des personnes seraient habituées à entrer dans la douche des autres (très peu probable cependant), cet acte mettrait en péril les limites défensives des victimes éventuelles et une consigne serait insuffisante pour les protéger. L’articulation individu/collectif passant ici par une règle paraît ici cohérente.\
 
 Ainsi, une réflexion permanente quant à la différenciation de ce qui devrait être de l’ordre de la règle ou de ce qui devrait être de l’ordre de la consigne permet une articulation plus juste des libertés individuelles tout en prenant en compte les contraintes collectives.\
+
+# <i class="far fa-bookmark" aria-hidden="true" style="padding-right:15px"></i>L'autorité&nbsp;?
+
+## Avoir de l’autorité, être autoritaire, faire autorité.
+La sanction (éducative) est un acte éducatif qui a l’intention de faire porter la conséquence d’une transgression à son auteur. La sanction aura donc comme premières intentions de *protéger* la ou les victimes d’une transgression, de *responsabiliser* son auteur, et si possible d’*envisager une réparation*.\
+
+<span style="color:#fa8072"><i class="fas fa-arrow-right fa-sm" style="padding-right:7.5px"></i>*«&nbsp;Avoir de l’autorité&nbsp;»*</span>\
+Lorsqu’une personne a suffisamment de crédit aux yeux des autres pour qu’ils lui accordent de l’autorité, alors elle a de l’autorité. La personne peut ainsi avoir de l’autorité sans même chercher à en avoir, car c’est les individus du groupe qui décide de lui accorder. Dans «&nbsp;avoir de l’autorité&nbsp;», on se réfère à la capacité relationnelle que cette personne a dans sa relation avec les autres. Cette autorité va également de pair avec ses compétences et la crédibilité de son statut.\
+
+<span style="color:#fa8072"><i class="fas fa-arrow-right fa-sm" style="padding-right:7.5px"></i>*«&nbsp;Être autoritaire&nbsp;»*</span>\
+Lorsqu’une personne adopte une attitude censée faire régner l’autorité, alors elle est autoritaire. L’autorité n’est donc plus accordée par le groupe, elle leur est imposée par quelqu’un. Cette dernière peut adopter une posture imitant celle d’une personne ayant de l’autorité, utiliser des logiques punitives pour assurer sa domination, etc. Il s’agit ici d’une personne donnant l’illusion d’un statut très élevé, mais ce statut n’ayant pas de support concret, il peut être facilement ébranlé en cas de tests.\
+
+<span style="color:#fa8072"><i class="fas fa-arrow-right fa-sm" style="padding-right:7.5px"></i>*«&nbsp;Faire autorité&nbsp;»*</span>\
+Lorsqu’une personne est compétente dans un domaine, alors elle fait autorité dans ce domaine en question. L’autorité est donc ici liée à la compétence.
+
+<table><tr><td style="background-color:#333; color:#fff">
+<i>Lorsque l’on dit de quelqu’un qu’il est autoritaire, c’est qu’il n’a pas d’autorité, et inversement, de quelqu’un qui a de l’autorité qu’il n’a pas besoin d’être autoritaire.<br /><br />
+On a de l’autorité quand on partage les tenants de son pouvoir, et la personne qui ne veut pas les partager est autoritaire.<br /><br />
+Ce que certaines personnes appellent autorité naturelle est souvent un mélange entre le crédit de départ qui est accordé à une personne par de multiples facteurs sociaux (réputation, statut [directrice, animateur…], genre, âge, race…) et l’autorité que le groupe lui accorde via leur vécu commun.</i>
+</td></tr></table>
+
+## Statut, compétence et relation.
+Le statut correspond au crédit accordé à la personne. Ainsi être animatrice confère un certain statut de départ auprès des enfants. Dans une société basée sur la hiérarchie, être directrice confère plus de statut. Dans une société patriarcale, être un mec donne plus de statut. Si l’on vient en tant qu’expert d’un sujet on démarre avec plus de crédit que d’autres. Cela signifie que l’on ne part pas à égalité en termes de statut et que certaines disposent de plus de crédit initial que d’autres.\
+
+Avoir un crédit de départ signifie que celui-ci n’est pas immuable. Il pourra augmenter avec le temps ou diminuer. En effet, ce crédit se construit sur la base d’une compétence et d’une relation entretenues par l’actrice éducative en adéquation avec son rôle. Il sera mis à épreuve, soit par la pratique, soit directement testé par les participantes. Et au plus le statut est élevé, au plus sa base doit être stable pour pouvoir tenir ! Sa base est composée de la compétence et de la relation.\
+
+{{< image classes="fancybox fig-100 fig-border nocaption" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/PSAP/PostureEducative-Statut1.jpg?raw=true" title="Page 1" >}}
+{{< image classes="fancybox fig-100 fig-border nocaption" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/PSAP/PostureEducative-Statut2.jpg?raw=true" title="Page 2" >}}
+{{< image classes="fancybox fig-100 fig-border nocaption" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/PSAP/PostureEducative-Statut3.jpg?raw=true" title="Page 3" >}}
+
+<span style="color:#fa8072"><i class="fas fa-arrow-right fa-sm" style="padding-right:7.5px"></i>*Quelques mots sur les planches 1 à 3&nbsp;:*</span>\
+
+On a vu ici qu’un statut peut s’effondrer par manque de compétences. Si une personne vient en tant qu’experte en mathématiques et qu’on se rend vite compte qu’elle n’y connaît rien, sa crédibilité de départ va rapidement disparaître. Son statut s’effondrera, ceci possiblement de manière irréversible.\
+
+Ainsi, diminuer son statut lorsque l’on n’est pas à la hauteur de celui-ci peut être une approche éthique du rôle tout en étant une stratégie riche de sens —&nbsp;élever artificiellement son statut est surtout une affaire d’ego.\
+Reprenons notre experte en mathématiques, qui sait pertinemment qu’elle a des lacunes sur certains sujets. Plutôt que de feindre des compétences supposées, elle peut dès le début diminuer son statut en expliquant ses lacunes au groupe. Cette démarche va peu à peu diminuer son ego et le groupe prendra conscience de son manque de compétence et ne la croira pas à la lettre lorsqu’elle parlera. Son statut, plus bas, sera préservé du risque de l’effondrement.\
+
+La reconnaissance d’une erreur peut donc entrainer une diminution de l’autorité, mais elle peut toutefois augmenter la stabilité de celle-ci. À l’inverse, ne pas la reconnaître feindra un statut artificiellement haut, mais prêt à s’écrouler.
