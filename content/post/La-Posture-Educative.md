@@ -338,3 +338,16 @@ Ainsi, diminuer son statut lorsque l’on n’est pas à la hauteur de celui-ci 
 Reprenons notre experte en mathématiques, qui sait pertinemment qu’elle a des lacunes sur certains sujets. Plutôt que de feindre des compétences supposées, elle peut dès le début diminuer son statut en expliquant ses lacunes au groupe. Cette démarche va peu à peu diminuer son ego et le groupe prendra conscience de son manque de compétence et ne la croira pas à la lettre lorsqu’elle parlera. Son statut, plus bas, sera préservé du risque de l’effondrement.\
 
 La reconnaissance d’une erreur peut donc entrainer une diminution de l’autorité, mais elle peut toutefois augmenter la stabilité de celle-ci. À l’inverse, ne pas la reconnaître feindra un statut artificiellement haut, mais prêt à s’écrouler.
+
+{{< image classes="fig-100 fig-border nocaption" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/PSAP/PostureEducative-Statut4.jpg?raw=true" title="Page 4" >}}
+{{< image classes="fig-100 fig-border nocaption" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/PSAP/PostureEducative-Statut5.jpg?raw=true" title="Page 5" >}}
+{{< image classes="fig-100 fig-border nocaption" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/PSAP/PostureEducative-Statut6.jpg?raw=true" title="Page 6" >}}
+
+<span style="color:#fa8072"><i class="fas fa-arrow-right fa-sm" style="padding-right:7.5px"></i>*Quelques mots sur les planches 4 à 6&nbsp;:*</span>\
+
+Les interactions d’équipe sont bien trop nombreuses pour réussir à toutes les analyser dans un ouvrage qui n’y est pas exclusivement consacré. Néanmoins, nous pouvons mettre en lumière quelques mécanismes souvent présents.\
+
+Le travail d’équipe est complexe, car il nécessite d’une part de la cohérence, de la coordination, du soutien mutuel, etc., et d’autre part une certaine indépendance, car chaque personne doit construire activement son statut alors que certaines interactions déséquilibrent les statuts entre eux.\
+L’équipe doit donc être capable de laisser la place à chacun de construire son statut tout en évitant les situations d’échecs. Pour une équipe, un des objectifs principaux est donc de développer une forêt harmonieuse, comprenant des arbres de taille plus ou moins équivalente et dont les racines de relations et de compétences se renforcent continuellement. Le rôle d’une personne ayant de plus grandes racines est plus d’accompagner les autres membres dans le développement de leurs racines (formation continue, codirection, etc.), que de les «&nbsp;protéger&nbsp;» avec un arbre immense, les empêchant de développer leur propre autorité.\
+
+Par ailleurs, il ne faut pas penser l’autorité comme un combat entre «&nbsp;détenants de l’autorité&nbsp;» et «&nbsp;subisseurs d’autorité&nbsp;» (adultes contre enfants par exemple), mais comme un cadre entier permettant de faire pousser une forêt où les uns et les autres peuvent grandir sans se nuire entre eux. Un enfant qui plante un arbre dans une forêt dévastée risque d’en reproduire les schémas oppressants, tandis qu’une enfant plantant son arbre dans une forêt riche de bienveillance ne peut construire qu’un arbre qui aidera l’ensemble du groupe.\
