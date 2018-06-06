@@ -22,7 +22,8 @@ showDate: true
 comments: true
 ---
 <section class="intro">
-À faire.
+Comment proposer un cadre juste et utiliser des moyens en cohérence avec celui-ci pour le mettre en œuvre&nbsp;? Un cadre peut-il être juste si la punition est le moyen de le faire respecter&nbsp;? Quelles sont les différences entre la sanction et la punition&nbsp;? Qu’est-ce qu’une consigne, qu’est-ce qu’une règle&nbsp;?<br />
+Ce texte aborde la question centrale de la <i>posture éducative</i>. Par une clarification de plusieurs concepts, il se veut être un outil pratique permettant d’améliorer de manière éthique son autorité en tant qu’acteur et qu'actrice éducative.
 <!--more-->
 <hr class="intro-divider">
 <!-- toc -->
