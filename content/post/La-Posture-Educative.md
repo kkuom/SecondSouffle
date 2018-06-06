@@ -156,7 +156,7 @@ Chacune de ces étapes participe à une compréhension plus profonde du cadre. V
 <b>3.</b>&nbsp;Si l’enfant veut réintégrer l’activité, l’animatrice lui donne quelques règles préalables à sa réintégration (exemple : ne crie pas quand on doit se concentrer ; ne jette pas ta peinture sur celle du voisin ; etc.) et l’enfant consent à suivre ces règles.<br />
 <b>4.</b>&nbsp;En fonction de la transgression initiale, il est possible qu’aucune réparation ne soit nécessaire. Par contre, si l’enfant a cassé en toute connaissance de cause l’arc de quelqu’un, elle peut par exemple l’aider à en fabriquer un autre.<br />
 <b>5.</b>&nbsp;La remise en confiance (contrat respecté...), la responsabilisation (compréhension des limites des autres) et l’éventuelle réparation permettent aux victimes" de se sentir reconnues. Ce processus a permis de reconstruire un lien positif entre les enfants victimes et l’enfant transgresseur, et entre ce dernier et l’équipe.
-</td></tr></table>
+</td></tr></table><br />
 <table style="color:#6b615b"><tr><td><i class="fas fa-cog fa-spin"></i><b>&nbsp;&nbsp;Situation 2</b><br />
 <i class="fas fa-arrow-right fa-sm" style="padding-right:7.5px"></i><i>Bien que parfaitement au courant de la manière dont on peut utiliser des ciseaux, un enfant casse une paire en tentant de couper des cailloux. </i><br />
 <b>1.</b>&nbsp;L’animateur prive temporairement l’enfant de sa liberté d’utiliser des ciseaux pour garantir aux autres personnes l’accès à un matériel en bon état.<br />
@@ -164,7 +164,7 @@ Chacune de ces étapes participe à une compréhension plus profonde du cadre. V
 <b>3.</b>&nbsp;Si l’enfant veut de nouveau utiliser des ciseaux, l’animateur peut, par exemple, lui autoriser leur utilisation mais uniquement en présence d’animatrices dans un premier temps. Si tout va bien, alors il y aura à nouveau accès en autonomie.<br />
 <b>4.</b>&nbsp;Pour remplacer le matériel cassé, l’enfant accompagne l’animateur au magasin pour acheter une nouvelle paire de ciseaux. Il ajoute également la facture correspondante au livre des dépenses et l’animateur lui explique comment ça marche s’il ne sait pas encore le faire.<br />
 <b>5.</b>&nbsp;Comme précédemment, ce processus permet  un retour à une utilisation des ciseaux en autonomie. L’enfant a modifié son comportement après avoir compris en quoi ce dernier atteignait le collectif, provoquant alors le retour d’un sentiment de confiance entre l’équipe et l’enfant.
-</td></tr></table>
+</td></tr></table><br />
 <table style="color:#fa8072"><tr><td><i class="fas fa-cog fa-spin"></i><b>&nbsp;&nbsp;Situation 3</b><br />
 <i class="fas fa-arrow-right fa-sm" style="padding-right:7.5px"></i><i>Une enfant ne respecte pas sciemment des normes d’hygiène assez strictes imposées par la structure au niveau de la cuisine. Ces normes étant soumises à des contrôles vétérinaires, l’équipe de cuisine serait la première touchée par une transgression.</i><br />
 <b>1.</b>&nbsp;L’enfant n’est plus autorisée à être en autonomie dans les zones à proximité de la cuisine.<br />
@@ -172,14 +172,29 @@ Chacune de ces étapes participe à une compréhension plus profonde du cadre. V
 <b>3.</b>&nbsp;L’enfant souhaite de nouveau pouvoir être en autonomie dans la cuisine. Un contrat écrit est passé entre elle et le personnel de la cuisine : si elle transgresse à nouveau les normes d’hygiène dans les deux prochains jours, la sanction sera appliquée à nouveau pour une période plus longue.<br />
 <b>4.</b>&nbsp;Aucune réparation n’est ici nécessaire.<br />
 <b>5.</b>&nbsp;Une fois le contrat accompli, le lien de confiance est rétabli entre l’équipe et l’enfant, lui permettant ainsi une pleine autonomie dans la zone de la cuisine.
-</td></tr></table>
+</td></tr></table><br />
 
 Ces buts que traverse la sanction ne sont pas des étapes obligatoires et leur chronologie peut être bousculée. Il se peut que l’ensemble de ces buts soient atteints en moins de 30 secondes, comme avec l’exemple ci-dessous.\
 
 <table style="color:#6b615b"><tr><td><i class="fas fa-cog fa-spin"></i><b>&nbsp;&nbsp;Situation 4</b><br />
 <i class="fas fa-arrow-right fa-sm" style="padding-right:7.5px"></i>Julien ne range pas son marteau après utilisation, une animatrice lui explique que s’il ne le fait pas il risque de s’abimer voire d’être perdu. Julien ne veut toujours pas. L’animatrice lui explique alors qu’il n’aura plus accès aux marteaux (sanction protectrice). Julien comprend les conséquences du non-rangement de marteau (responsabilisation) et il range directement le marteau (réparation et remise en confiance). L’animatrice remercie Julien et il part faire autre chose (réconciliation).
-</td></tr></table>
+</td></tr></table><br />
 
 Le problème est parfois plus complexe, car l’enfant montre des résistances ou l’adulte n’a pas une posture totalement calibrée. Ce processus prendra alors plus de temps et certaines étapes auront besoin d’être formalisées de manière claire. Comme dans la situation 3, il arrive que l’établissement d’un contrat écrit soit nécessaire.\
 
 ## Choix des sanctions et posture éducative
+
+Au final, la plus grande difficulté pour les garantes du cadre consiste à trouver une posture éducative et des sanctions adéquates. Cela implique d’être un adulte en perpétuelle observation, réflexion et remise en question, et capable d’oublier l’idée selon laquelle être adulte suffirait à donner raison. Dans ce fonctionnement, il va falloir s’appuyer sur le cadre et la logique pour justifier chacun de ces choix. Cette posture éducative s’oppose à une posture injuste utilisant la punition, bien plus simple à réaliser (déconnectée de la transgression, peut-être unique et graduée, ou extrêmement simpliste).\
+
+Exemples :  
+<i class="fas fa-arrow-right fa-sm" style="padding-right:7.5px"></i>*6 mois de prison ; 1 an ; 2 ans ; perpétuité ; peine de mort.*\
+<i class="fas fa-arrow-right fa-sm" style="padding-right:7.5px"></i>*Au piquet ; privé de veillée ; se coucher plus tôt ; etc.*\
+<i class="fas fa-arrow-right fa-sm" style="padding-right:7.5px"></i>*2 h de retenue ;  points de comportement ; expulsion temporaire ; renvoi.*\
+
+La sanction se doit quant à elle de remplir plusieurs fonctions et, contrairement à la punition, les formes qu’elle peut prendre sont quasiment illimitées. L’animateur devra donc être très actif dans ses choix et sa réflexion, et cela demande une certaine pratique et un certain recul qu’il n’est pas toujours facile d’avoir lorsque l’on a auparavant évolué dans des cadres injustes.\
+
+{{< blockquote "Maria Montessori" "" >}}
+(...) a pris forme un nouveau type de maitresse. Celle-ci doit, au lieu de la parole, apprendre le silence ; au lieu d’enseigner, observer ; au lieu de se revêtir d’une dignité orgueilleuse qui veut paraître infaillible, se revêtir d’humilité.
+{{< /blockquote >}}
+
+**Il est donc impossible d’envisager la sanction comme une recette de cuisine, mais voici quelques conseils.**\
