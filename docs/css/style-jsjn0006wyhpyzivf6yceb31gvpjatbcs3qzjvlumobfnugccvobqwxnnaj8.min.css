@@ -1760,7 +1760,7 @@ pre.code-highlight>code {
   margin-top: 20px
 }
 
-.boxes a {
+.boxes a:link {
   cursor: pointer;
   color: #fa8072;
   text-decoration: none

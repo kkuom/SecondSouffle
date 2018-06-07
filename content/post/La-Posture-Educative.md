@@ -466,3 +466,11 @@ Dans la tyrannie d’absence de structure, les membres d’une équipe pédagogi
 Dans ce système, le <span style="color:#fa8072">désir maître</span> s’efface au profit de <span style="color:#6b615b">désirs individuels</span> qui, potentiellement, deviendront de nouveaux désirs maîtres. Ainsi, loin de diminuer la violence issue des moyens d’obéissance, la responsabilité de celle-ci est simplement déplacée.<br /><br />
 {{< image classes="fig-75 center clear" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/PSAP/TyrannieDAbsenceDeStructure.png?raw=true" >}}
 </td></tr></table>
+
+## La tyrannie d'adultes.
+## La punition sociale, l’humiliation et la société du spectacle.
+## La séduction.
+## Le système de privilèges en prison... et en animation&nbsp;?
+## Le système d’obéissance totale.
+
+# <i class="fas fa-lock-open" aria-hidden="true" style="padding-right:13px;"></i>Les sanctions pour un système éthique
