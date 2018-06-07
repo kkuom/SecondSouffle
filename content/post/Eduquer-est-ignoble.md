@@ -32,20 +32,18 @@ La <i>K.R.Ä.T.Z.Ä</i> est un collectif de Berlinois anti-âgiste qui s'est att
 </section>
 
 # <i class="fas fa-sticky-note" aria-hidden="true" style="padding-right:13px;"></i>Note de Second Souffle
-En lisant le livre « La domination Adulte » de Yves Bonnardel, je suis tombé sur le collectif K.R.Ä.T.Z.Ä. Ce collectif Berlinois, principalement composé de mineures, m’a totalement retourné.\
-Combattant pour le droit des enfants ce collectif a notamment lutté contre la scolarisation, pour le droit électoral des mineures, pour l’indépendance matérielle des enfants et… contre l’éducation.\
-Je ne savais pas trop à quoi m’attendre en lisant ce texte et cela fait des années que je suis impliqué dans l’éducation. Je travaillais déjà depuis plus de 10 ans sur ma posture, les questions de contrat social etc.\
+En lisant le livre *La domination Adulte* de Yves Bonnardel, je suis tombé sur le collectif *K.R.Ä.T.Z.Ä.* Ce collectif Berlinois, principalement composé de mineures, m’a totalement retourné.\
+Combattant pour le droit des enfants, ce collectif a notamment lutté contre la scolarisation, pour le droit électoral des mineures, pour l’indépendance matérielle des enfants et… contre l’éducation.\
+Je ne savais pas trop à quoi m’attendre en lisant ce texte et cela fait des années que je suis impliqué dans l’éducation. Je travaillais déjà depuis plus de dix ans sur ma posture, les questions de contrat social, etc.\
 Des années également que je donnais de la formation et que je me confrontais à la difficulté de clarifier un propos.\
-En lisant ce texte, ce fut une révélation. Ce texte attaquait avec clarté l’éducation traditionnelle ainsi que l’éducation dite anti-autoritaire. Elle prenait le problème à la racine, l’envie d’imposer sur autrui une morale et une partie des moyens mis en œuvre pour y arriver. De manière paradoxale, j’ai beaucoup fait circuler ce texte dans des cercles éducatifs et je l’ai également utilisé en formation.\
-Ce texte m’a également énormément aidé à clarifier une question qui était déjà centrale pour moi : la question des limites. Ce texte propose une différenciation entre limite défensive et agressive et cette différenciation est devenu un des mes outils centraux de réflexion autour du cadre.\
+En lisant ce texte, ce fut une révélation. Ce texte attaquait avec clarté l’éducation traditionnelle ainsi que l’éducation dite "anti-autoritaire". Elle prenait le problème à la racine, l’envie d’imposer sur autrui une morale et une partie des moyens mis en œuvre pour y arriver. De manière paradoxale, j’ai beaucoup fait circuler ce texte dans des cercles éducatifs et je l’ai également utilisé en formation.\
+Ce texte m’a également énormément aidé à clarifier une question qui était déjà centrale pour moi&nbsp;: la question des limites. Ce texte propose une différenciation entre *limite défensive* et *limite agressive*, et cette différenciation est devenue un des mes outils centraux de réflexion autour du cadre.\
 
-Dès que nous avons créé une édition à Second Souffle, il m’a paru indispensable d’y faire apparaître « éduquer est ignoble ».
-Dans cette édition nous avons utilisé la traduction d’Yves Bonnardel présente sur le site de la K.R.Ä.T.Z.Ä.
-Nous nous sommes permis de neutraliser le texte et d’ajuster quelques formulations.\
+Dès que nous avons créé une édition à *Second Souffle*, il m’a paru indispensable d’y faire apparaître *Éduquer est ignoble*.\
+Dans cette édition, nous avons utilisé la traduction d’Yves Bonnardel présente sur le site de la *K.R.Ä.T.Z.Ä.* Nous nous sommes permis de neutraliser le texte et d’ajuster quelques formulations.\
 
 # <i class="far fa-bookmark" aria-hidden="true" style="padding-right:13px;"></i>Éduquer est ignoble
-
-<i>Cher lectrice, cher lecteur,
+<i>Cher lectrice, cher lecteur,\
 
 Tu t’apprêtes à lire notre texte fondamental contre l'éducation. Il nous est tout à fait clair qu’il s’agit d’un thème qu’on affronte difficilement. Certaines constatations ou affirmations paraîtront peut-être d'abord assez dures. Mais ayez le courage d'une autre lecture&nbsp;! Nous essayons d’expliciter tout ce que nous pensons. Nous ne tenons pas la définition de l'éducation dont nous partons dans ce texte pour méchante –&nbsp;comme certains pourraient le penser&nbsp;– et nous ne voulons pas offenser qui que ce soit. Allons&nbsp;!</i>\
 

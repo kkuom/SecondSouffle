@@ -1750,13 +1750,25 @@ pre.code-highlight>code {
   margin-top: 20px
 }
 
-.boxes a, a:active, a:visited {
+.boxes a {
   cursor: pointer;
   color: #fa8072;
   text-decoration: none
 }
 
-.boxes a:hover {
+.boxes a:visited {
+  cursor: pointer;
+  color: #fa8072;
+  text-decoration: none
+}
+
+.boxes a:active {
+  cursor: pointer;
+  color: #fa8072;
+  text-decoration: none
+}
+
+.boxes:hover {
   cursor: pointer;
   color: #fa8072;
   text-decoration: underline
