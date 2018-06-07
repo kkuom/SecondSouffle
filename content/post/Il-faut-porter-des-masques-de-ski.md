@@ -22,7 +22,7 @@ showDate: true
 comments: true
 ---
 <section class="intro">
-Je ne veux pas rendre mon incarcération facile. Je serais devenu un mort-vivant. Je veux la rendre dure, même si cela me coûte d’être brutalisé, même en prison je veux décider de ce que sera chaque jour de ma vie, je veux lutter du mieux que je peux./
+Je ne veux pas rendre mon incarcération facile. Je serais devenu un mort-vivant. Je veux la rendre dure, même si cela me coûte d’être brutalisé, même en prison je veux décider de ce que sera chaque jour de ma vie, je veux lutter du mieux que je peux.<br />
 Mark Barnsley
 <!--more-->
 <hr class="intro-divider">
@@ -37,41 +37,98 @@ Mark Barnsley
 Le plus fort n'est jamais assez fort pour être toujours le maître, s'il ne transforme sa force en droit et l'obéissance en devoir.
 {{< /blockquote >}}
 
-
 # <i class="fas fa-sticky-note" aria-hidden="true" style="padding-right:15px"></i>Note de Second Souffle.
+{{< pullquote left >}}
 <div style="font-size:3em; color:#fa8072">
 <span class="fas fa-angle-double-right"></span>
-</div>*Ça fait un moment qu’on essaye de travailler sur l’autorité de manière systémique, et envisager l’autorité de cette manière amène forcément à réfléchir sur les systèmes d’obéissances. Ça fait longtemps que je suis anticarcéral et que je pense qu’il y a un continuum entre l’éducation non formelle, formelle et la prison. En écrivant un chapitre expliquant explicitement le rapport entre prison et éducation, j’ai beaucoup pensé à la brochure «&nbsp;Il faut porter des masques de ski&nbsp;» de Mark Barnsley. Je me suis alors dit que ce serait intéressant de mettre un extrait afin d’illustrer mon propos.\
+</div>
+{{< /pullquote >}}
+*Ça fait un moment qu’on essaye de travailler sur l’autorité de manière systémique, et envisager l’autorité de cette manière amène forcément à réfléchir sur les systèmes d’obéissances. Ça fait longtemps que je suis anticarcéral et que je pense qu’il y a un continuum entre l’éducation non formelle, formelle et la prison. En écrivant un chapitre expliquant explicitement le rapport entre prison et éducation, j’ai beaucoup pensé à la brochure «&nbsp;Il faut porter des masques de ski&nbsp;» de Mark Barnsley. Je me suis alors dit que ce serait intéressant de mettre un extrait afin d’illustrer mon propos.\
 
+{{< pullquote left >}}
 <div style="font-size:3em; color:black">
 <span class="fas fa-angle-double-right"></span>
-</div>C’est la relecture du chapitre en question qui a suscité ma curiosité quant à Mark Barnsley. Nous étions alors en train d’écrire une brochure questionnant en profondeur la posture éducative. Animé par la lutte anti-âgiste depuis plusieurs années, nous nous creusons les méninges pour déployer des espaces dégagés d’un maximum d’injustices que bien des enfants subissent quotidiennement dans les différentes institutions qu’ils fréquentent. Je savais que les logiques punitives peuvent être comparables dans les prisons et dans les cadres éducatifs, mais je n’avais jamais pris le temps de creuser ce sujet. On s’est mis à chercher la brochure un peu partout. Ça a pris un long moment avant de la retrouver&nbsp;:&nbsp;les infokiosques, le deep web, les réseaux militants…, elle restait introuvable ! À un moment, on a bien cru qu’il faudrait nous satisfaire d’extraits qu’on avait glanés ici et là./
+</div>
+{{< /pullquote >}}
+C’est la relecture du chapitre en question qui a suscité ma curiosité quant à Mark Barnsley. Nous étions alors en train d’écrire une brochure questionnant en profondeur la posture éducative. Animé par la lutte anti-âgiste depuis plusieurs années, nous nous creusons les méninges pour déployer des espaces dégagés d’un maximum d’injustices que bien des enfants subissent quotidiennement dans les différentes institutions qu’ils fréquentent. Je savais que les logiques punitives peuvent être comparables dans les prisons et dans les cadres éducatifs, mais je n’avais jamais pris le temps de creuser ce sujet. On s’est mis à chercher la brochure un peu partout. Ça a pris un long moment avant de la retrouver&nbsp;:&nbsp;les infokiosques, le deep web, les réseaux militants…, elle restait introuvable ! À un moment, on a bien cru qu’il faudrait nous satisfaire d’extraits qu’on avait glanés ici et là./
 
--- On a d’abord cherché à joindre La Brèche, l’éditeur original de la brochure. Mais il semble que le collectif ait totalement disparu, et l’adresse mail ne fonctionnait plus. J’ai multiplié les mails et les demandes à divers collectifs susceptibles de l’avoir. Le squat dans lequel je l’avais trouvé ne l’avait plus non plus. Elles ont néanmoins poursuivi leurs recherches et ont pu nous scanner une version mouillée de la brochure.\
+{{< pullquote left >}}
+<div style="font-size:3em; color:#fa8072">
+<span class="fas fa-angle-double-right"></span>
+</div>
+{{< /pullquote >}}On a d’abord cherché à joindre La Brèche, l’éditeur original de la brochure. Mais il semble que le collectif ait totalement disparu, et l’adresse mail ne fonctionnait plus. J’ai multiplié les mails et les demandes à divers collectifs susceptibles de l’avoir. Le squat dans lequel je l’avais trouvé ne l’avait plus non plus. Elles ont néanmoins poursuivi leurs recherches et ont pu nous scanner une version mouillée de la brochure.\
 
---- C’est plutôt drôle, on a eu comme le sentiment d’avoir mis la main sur un trésor perdu. Nous étions carrément excités lorsque nous avons reçu le fichier.\
+{{< pullquote left >}}
+<div style="font-size:3em; color:black">
+<span class="fas fa-angle-double-right"></span>
+</div>
+{{< /pullquote >}}C’est plutôt drôle, on a eu comme le sentiment d’avoir mis la main sur un trésor perdu. Nous étions carrément excités lorsque nous avons reçu le fichier.\
 
--- On s’est assez vite dit qu’il fallait qu’on le réédite, et ma relecture a renforcé cette idée.\
+{{< pullquote left >}}
+<div style="font-size:3em; color:#fa8072">
+<span class="fas fa-angle-double-right"></span>
+</div>
+{{< /pullquote >}}On s’est assez vite dit qu’il fallait qu’on le réédite, et ma relecture a renforcé cette idée.\
 
---- Oui, nous publions à Second Souffle, et nous avons envie de rééditer des textes qui nous semblent fondateurs. La motivation était là et en quelques heures l’entièreté du texte était retranscrite. Nous avons d’ailleurs pris la liberté d’appliquer quelques modifications mineures en neutralisant la langue et en y ajoutant quelques virgules qui nous semblaient nécessaires… Cette réécriture m’a permis de lire le texte en profondeur. Bien qu’en situation d’extrême oppressé, et même après avoir subi de graves injustices de la part de l’État, j’ai été frappé par la force avec laquelle Mark a su rester fidèle à ses convictions anarchistes. Pour lui, ne pas abdiquer face à la peur —&nbsp;levier omniprésent au sein des systèmes pénal et carcéral&nbsp;— n’était pas une option, mais une nécessité.\
+{{< pullquote left >}}
+<div style="font-size:3em; color:black">
+<span class="fas fa-angle-double-right"></span>
+</div>
+{{< /pullquote >}}Oui, nous publions à Second Souffle, et nous avons envie de rééditer des textes qui nous semblent fondateurs. La motivation était là et en quelques heures l’entièreté du texte était retranscrite. Nous avons d’ailleurs pris la liberté d’appliquer quelques modifications mineures en neutralisant la langue et en y ajoutant quelques virgules qui nous semblaient nécessaires… Cette réécriture m’a permis de lire le texte en profondeur. Bien qu’en situation d’extrême oppressé, et même après avoir subi de graves injustices de la part de l’État, j’ai été frappé par la force avec laquelle Mark a su rester fidèle à ses convictions anarchistes. Pour lui, ne pas abdiquer face à la peur —&nbsp;levier omniprésent au sein des systèmes pénal et carcéral&nbsp;— n’était pas une option, mais une nécessité.\
 
--- La prison agissant comme bâton de l’ensemble d’une société, elle est l’espace le plus terrifiant que la société nous propose. Elle est l’endroit qui nourrit de violences nos fantasmes et cauchemars. C’est elle qui nous pousse à suivre des lois, même lorsqu’elles sont autant injustes qu’illégitimes. C’est elle qui protège des oppresseurs en règle, face à des oppressés illégaux.\
+{{< pullquote left >}}
+<div style="font-size:3em; color:#fa8072">
+<span class="fas fa-angle-double-right"></span>
+</div>
+{{< /pullquote >}}La prison agissant comme bâton de l’ensemble d’une société, elle est l’espace le plus terrifiant que la société nous propose. Elle est l’endroit qui nourrit de violences nos fantasmes et cauchemars. C’est elle qui nous pousse à suivre des lois, même lorsqu’elles sont autant injustes qu’illégitimes. C’est elle qui protège des oppresseurs en règle, face à des oppressés illégaux.\
 
---- Mark analyse avec finesse les enjeux des systèmes punitifs déployés par la prison, qui ont tenté de le briser, et contre lesquels il n’a jamais cédé de terrain. La description qu’il fait de ces systèmes et des stratégies mises en place par l’Administration pénitentiaire britannique dégage des concepts allant bien au-delà de la prison elle-même.\
+{{< pullquote left >}}
+<div style="font-size:3em; color:black">
+<span class="fas fa-angle-double-right"></span>
+</div>
+{{< /pullquote >}}Mark analyse avec finesse les enjeux des systèmes punitifs déployés par la prison, qui ont tenté de le briser, et contre lesquels il n’a jamais cédé de terrain. La description qu’il fait de ces systèmes et des stratégies mises en place par l’Administration pénitentiaire britannique dégage des concepts allant bien au-delà de la prison elle-même.\
 
--- En effet, dire «&nbsp;non&nbsp;» à un père, un prof, une éducatrice nous permet de prendre conscience de l’absence de leurs «&nbsp;supers pouvoirs&nbsp;». Mark a lui aussi affronté le système punitif dans toute sa violence, et celui-ci n’avait pas non plus de supers pouvoirs. Une grande contradiction de ce texte est qu’il aborde le système carcéral avec deux points de vue opposés. D’une part, l’État à trop de droits sur nous, le combat est donc inégal ; mais d’autre part, il nous est possible de le combattre jusqu’à ce qu’il ne sache plus quoi faire de nous.\
+{{< pullquote left >}}
+<div style="font-size:3em; color:#fa8072">
+<span class="fas fa-angle-double-right"></span>
+</div>
+{{< /pullquote >}}En effet, dire «&nbsp;non&nbsp;» à un père, un prof, une éducatrice nous permet de prendre conscience de l’absence de leurs «&nbsp;supers pouvoirs&nbsp;». Mark a lui aussi affronté le système punitif dans toute sa violence, et celui-ci n’avait pas non plus de supers pouvoirs. Une grande contradiction de ce texte est qu’il aborde le système carcéral avec deux points de vue opposés. D’une part, l’État à trop de droits sur nous, le combat est donc inégal ; mais d’autre part, il nous est possible de le combattre jusqu’à ce qu’il ne sache plus quoi faire de nous.\
 
---- C’est un témoignage impressionnant de conviction. Mark a su rester intègre et n’a cédé à aucun chantage, ceci même lorsqu’il était en situation d’extrême isolement. Je rejoins cette critique quant à la contradiction de ce texte&nbsp;:&nbsp;avec sa simple couverture et sans uniforme, Mark devient le super héros d’une lutte contre la prison, mais il est clair que tout le monde ne peut adopter une telle posture.\
+{{< pullquote left >}}
+<div style="font-size:3em; color:black">
+<span class="fas fa-angle-double-right"></span>
+</div>
+{{< /pullquote >}}C’est un témoignage impressionnant de conviction. Mark a su rester intègre et n’a cédé à aucun chantage, ceci même lorsqu’il était en situation d’extrême isolement. Je rejoins cette critique quant à la contradiction de ce texte&nbsp;:&nbsp;avec sa simple couverture et sans uniforme, Mark devient le super héros d’une lutte contre la prison, mais il est clair que tout le monde ne peut adopter une telle posture.\
 
--- Ainsi, nous ne prenons pas ce témoignage isolé comme possible pour n’importe qui, nous savons qu’il est extrêmement difficile d’atteindre un tel engagement dans la résistance. Nous avons conscience du danger que représente un récit individuel s’il est perçu comme un plan stratégique à suivre à la lettre, mais décidément attaché à l’analyse systémique, nous nous disons que ce texte reflète une tension individu/ collectif qu’il nous faut saisir. Le système peut être dépassé par la rébellion d’une individue, mais si cette individue est isolée, sa force ne sera pas suffisante à contrer le système…\
+{{< pullquote left >}}
+<div style="font-size:3em; color:#fa8072">
+<span class="fas fa-angle-double-right"></span>
+</div>
+{{< /pullquote >}}Ainsi, nous ne prenons pas ce témoignage isolé comme possible pour n’importe qui, nous savons qu’il est extrêmement difficile d’atteindre un tel engagement dans la résistance. Nous avons conscience du danger que représente un récit individuel s’il est perçu comme un plan stratégique à suivre à la lettre, mais décidément attaché à l’analyse systémique, nous nous disons que ce texte reflète une tension individu/ collectif qu’il nous faut saisir. Le système peut être dépassé par la rébellion d’une individue, mais si cette individue est isolée, sa force ne sera pas suffisante à contrer le système…\
 
---- …et c’est une des raisons pour laquelle je considère les concepts qu’il dégage comme désormais incontournables dans notre réflexion libertaire. En développant sur les stratégies qu’un oppresseur peut mettre en place pour dominer des personnes, nous avons essayé de montrer en quoi les violences d’un système peuvent être visibles tout comme invisibles.\
+{{< pullquote left >}}
+<div style="font-size:3em; color:black">
+<span class="fas fa-angle-double-right"></span>
+</div>
+{{< /pullquote >}}…et c’est une des raisons pour laquelle je considère les concepts qu’il dégage comme désormais incontournables dans notre réflexion libertaire. En développant sur les stratégies qu’un oppresseur peut mettre en place pour dominer des personnes, nous avons essayé de montrer en quoi les violences d’un système peuvent être visibles tout comme invisibles.\
 
--- Et un système d’obéissance totale use de ces violences sournoises, en créant notamment des privilèges pour diviser ses potentiels adversaires. Il désynchronise leurs luttes et les pousse à la résignation. Il faut donc absolument agir contre ces systèmes d’obéissance dans leur dimension collective, qu’ils aient lieu en prison, en famille, en colo, en squat, à l’école, etc. Parallèlement, les forces individuelles en lutte s’affranchissent de la plus grande arme du système&nbsp;:&nbsp;la peur. Une fois cette peur retirée, il devient de plus en plus difficile pour un système punitif de prendre le dessus. L’enjeu est de transformer la force individuelle en force collective, et le partage de ce témoignage rend cela accessible.\
+{{< pullquote left >}}
+<div style="font-size:3em; color:#fa8072">
+<span class="fas fa-angle-double-right"></span>
+</div>
+{{< /pullquote >}}Et un système d’obéissance totale use de ces violences sournoises, en créant notamment des privilèges pour diviser ses potentiels adversaires. Il désynchronise leurs luttes et les pousse à la résignation. Il faut donc absolument agir contre ces systèmes d’obéissance dans leur dimension collective, qu’ils aient lieu en prison, en famille, en colo, en squat, à l’école, etc. Parallèlement, les forces individuelles en lutte s’affranchissent de la plus grande arme du système&nbsp;:&nbsp;la peur. Une fois cette peur retirée, il devient de plus en plus difficile pour un système punitif de prendre le dessus. L’enjeu est de transformer la force individuelle en force collective, et le partage de ce témoignage rend cela accessible.\
 
---- Pour atteindre ce stade de désaliénation, il est nécessaire d’être capable de comprendre en profondeur les enjeux cachés derrière chacune des méthodes déployées par un tel système. Nous pouvons ainsi réfléchir aux meilleurs moyens de les contrecarrer. Aussi, lorsque nous sommes en situation de dominantes telles que nous pouvons l’être dans des rapports éducatifs, cette analyse nous empêche de glisser vers des pratiques qu’il nous faut éviter au maximum si nous souhaitons construire des cadres justes.\
+{{< pullquote left >}}
+<div style="font-size:3em; color:black">
+<span class="fas fa-angle-double-right"></span>
+</div>
+{{< /pullquote >}}Pour atteindre ce stade de désaliénation, il est nécessaire d’être capable de comprendre en profondeur les enjeux cachés derrière chacune des méthodes déployées par un tel système. Nous pouvons ainsi réfléchir aux meilleurs moyens de les contrecarrer. Aussi, lorsque nous sommes en situation de dominantes telles que nous pouvons l’être dans des rapports éducatifs, cette analyse nous empêche de glisser vers des pratiques qu’il nous faut éviter au maximum si nous souhaitons construire des cadres justes.\
 
--- Ainsi, un Mark Barnsley en lutte et déjouant le système de la prison représente une inspiration collective nous permettant d’augmenter notre force de lutte. Son témoignage nous donne l’occasion de regarder les mécanismes d’un système d’obéissance face à l’un de ses adversaires les plus récalcitrants. Il est également un des rares textes détaillant les interactions entre le système de privilèges et le système punitif.*\
+{{< pullquote left >}}
+<div style="font-size:3em; color:#fa8072">
+<span class="fas fa-angle-double-right"></span>
+</div>
+{{< /pullquote >}}Ainsi, un Mark Barnsley en lutte et déjouant le système de la prison représente une inspiration collective nous permettant d’augmenter notre force de lutte. Son témoignage nous donne l’occasion de regarder les mécanismes d’un système d’obéissance face à l’un de ses adversaires les plus récalcitrants. Il est également un des rares textes détaillant les interactions entre le système de privilèges et le système punitif.*\
 
 
 
@@ -82,7 +139,7 @@ Mais Mark n’est pas cette victime que nous imaginions, l’homme effondré auq
 
 Certains abolitionnistes ont parfois tendance à s’appesantir sur l’ignominie de la prison à travers d’interminables descriptions des conditions dégradantes de détention. Cette dénonciation du caractère inhumain des taules nourrit cette crainte que ressente les gens face à la prison et relaye cette fonction principale du carcéral qui est de faire peur. À l’inverse, le récit de Mark nous permet de ne pas être, malgré nous, des auxiliaires de l’Administration pénitentiaire à l’extérieur des murs et prouve qu’il est possible de parler des taules sans reconduire la crainte qu’elle suscite. Un discours positif donc en contraste avec les sempiternelles attitudes victimales et pessimistes qui plombent nos luttes, mais qui ne versent pas pour autant dans l’angélisme ou le romantisme révolutionnaire, car comme le rappelle Mark, si c’était facile, on n’appellerait pas ça une lutte.\
 
-<span style="text-align:right">La brèche, septembre 2004.</span>
+<right>La brèche, septembre 2004.</right>
 
 # <i class="far fa-bookmark" aria-hidden="true" style="padding-right:15px"></i>Il faut porter des masques de ski !
 
@@ -198,8 +255,8 @@ Depuis que j’ai été relâché un système autrefois légal en Grande-Bretagn
 
 Ma peine a été rallongée dans ces prétoires. Mais chaque fois qu’elle l’était, j’engageais des recours légaux. Et à chaque fois, parce que l’Administration pénitentiaire est stupide, elle perdait ces procès. Et j’ai gagné toutes les affaires dans lesquelles j’ai été impliqué en prison. Finalement, ma peine n’a été rallongée que de trois semaines sur les huit ans que j’ai faits. Mais c’est déjà arrivé qu’ils jugent des prisonniers devant des juridictions ordinaires hors de la prison et beaucoup exécutent de longues peines à cause de cela. C’est comme dehors&nbsp;:&nbsp;il faut être malin, il faut anticiper. Il faut porter des masques de ski…\
 
-<span style="text-align:right">*(Traduction et retranscription d’une intervention au squat
-Le Brankard à Lille, en mai 2004 ; markbarnsley@mail.com)*</span>\
+<right>*(Traduction et retranscription d’une intervention au squat
+Le Brankard à Lille, en mai 2004 ; markbarnsley@mail.com)*</right>\
 
 
 # <i class="far fa-bookmark" aria-hidden="true" style="padding-right:15px"></i>Répression dans les prisons britanniques.
@@ -232,11 +289,11 @@ Parallèlement aux restrictions physiques d’ordre sécuritaires, un certain no
 <span class="dropdown-content">Que l’on pourrait approximativement traduire par «&nbsp;Plan d’incitation au gain de privilèges&nbsp;»</span>
 </span>&nbsp;», qui a donné un nouvel élan au vieux concept de «&nbsp;diviser pour mieux régner&nbsp;» en introduisant un système de classe à l’intérieur des prisons. Ce plan divise les prisonnières entre les «&nbsp;élémentaires », les «&nbsp;standards&nbsp;» et les  «&nbsp;réhaussés&nbsp;» (ces derniers connus comme les «&nbsp;enchantés ») en fonction de leur comportement et de leur degré de soumission au système&nbsp;? Au début, il n’y avait que de petites différences entre les catégories, mais elles se sont agrandies avec le temps, tout comme le niveau de soumission requis.\
 
-Les prisonnières «&nbsp;basiques&nbsp;» sont enfermées dans des conditions dignes des quartiers d’isolement, même si elles n’ont pas commis d’infraction disciplinaire. Elles ne reçoivent aucun «&nbsp;privilège », elles ont droit à une ou deux visites d’une demi-heure par mois (peut-être derrière une vitre), et à une dépense hebdomadaire de 2,50 £ seulement (un paquet de 12 grammes de tabac coûte plus de 2 £). D’un autre côté, un prisonnier qui se fraie un chemin jusqu’au statut «&nbsp;d’enchantés&nbsp;» disposera d’une télé, peut-être de matériel de cuisine, d’au moins quatre visites mensuelles d’une durée pouvant aller jusqu’à 2 h 30, de 15 £ par semaine d’argent à dépenser ainsi que d’un rehaussement de salaire et d’une série d’autres «&nbsp;privilèges ». Dans certaines prisons, le plan a tellement bien marché qu’il y a même des niveaux différents «&nbsp;d’enchantés ». En termes de résistance des prisonnières, le «&nbsp;Incentives and Earned Privileges Scheme&nbsp;» a été catastrophique. L’autre arme destructrice de l’État a été l’introduction progressive de télé en cellule (au même moment que le plan mentionné).\
+Les prisonnières «&nbsp;basiques&nbsp;» sont enfermées dans des conditions dignes des quartiers d’isolement, même si elles n’ont pas commis d’infraction disciplinaire. Elles ne reçoivent aucun «&nbsp;privilège », elles ont droit à une ou deux visites d’une demi-heure par mois (peut-être derrière une vitre), et à une dépense hebdomadaire de 2,50 £ seulement (un paquet de 12 grammes de tabac coûte plus de 2 £). D’un autre côté, un prisonnier qui se fraie un chemin jusqu’au statut «&nbsp;d’enchantés&nbsp;» disposera d’une télé, peut-être de matériel de cuisine, d’au moins quatre visites mensuelles d’une durée pouvant aller jusqu’à 2&nbsp;h&nbsp;30, de 15 £ par semaine d’argent à dépenser ainsi que d’un rehaussement de salaire et d’une série d’autres «&nbsp;privilèges ». Dans certaines prisons, le plan a tellement bien marché qu’il y a même des niveaux différents «&nbsp;d’enchantés ». En termes de résistance des prisonnières, le «&nbsp;Incentives and Earned Privileges Scheme&nbsp;» a été catastrophique. L’autre arme destructrice de l’État a été l’introduction progressive de télé en cellule (au même moment que le plan mentionné).\
 
-Six ans après l’évasion de Whitemoor, et seulement dix ans après le renouveau de la libéralisation des prisons que Strangeways a inauguré, le cycle de la répression carcérale a encore une fois battu son plein, et la «&nbsp;phase 1&nbsp;» est presque achevée.\
+Six ans après l’évasion de Whitemoor, et seulement dix ans après le renouveau de la libéralisation des prisons que Strangeways a inauguré, le cycle de la répression carcérale a encore une fois battu son plein, et la «&nbsp;phase&nbsp;1&nbsp;» est presque achevée.\
 
-Ce plan finement mené dans le but de détruire la résistance des prisonniers ne devait pas être gâché par le déclenchement de grandes mutineries à travers le pays. La répression a été introduite doucement, et elle s’est empirée après le rapatriement des prisonniers combatifs du système carcéral. La tactique employée le plus couramment a été la provocation contrôlée, à cela on ajoute la répression, et ceux qui résistent sont ciblés et transférés vers des quartiers spéciaux. Par ces méthodes, l’État a finalement réussi à reconfisquer toutes les concessions pour lesquelles les prisonnières longues peines s’étaient durement battus à l’époque, et il a réussi à rendre la population générale très coopérative et prête pour la «&nbsp;phase 2&nbsp;» de l’édification du Complexe Industriel des Prisons Britanniques.\
+Ce plan finement mené dans le but de détruire la résistance des prisonniers ne devait pas être gâché par le déclenchement de grandes mutineries à travers le pays. La répression a été introduite doucement, et elle s’est empirée après le rapatriement des prisonniers combatifs du système carcéral. La tactique employée le plus couramment a été la provocation contrôlée, à cela on ajoute la répression, et ceux qui résistent sont ciblés et transférés vers des quartiers spéciaux. Par ces méthodes, l’État a finalement réussi à reconfisquer toutes les concessions pour lesquelles les prisonnières longues peines s’étaient durement battus à l’époque, et il a réussi à rendre la population générale très coopérative et prête pour la «&nbsp;phase&nbsp;2&nbsp;» de l’édification du Complexe Industriel des Prisons Britanniques.\
 
 Au niveau du rapport avec les prisonniers politiques, l’État a évidemment cherché à les isoler et à les punir, en maintenant leur traitement d’exception en tant qu’exemple pour tous ceux qui s’écarteraient du chemin de la soumission totale. Le «&nbsp;gros bâton&nbsp;» final était (et d’une certaine façon est toujours) le Quartier de Contrôle de Woodhill, où un petit nombre de prisonniers constamment gênants sont retenus dans des conditions choquantes, inhumaines et brutales. De toute façon, Woodhill n’est pas exempt de problèmes du point de vue de l’État. Il y a eu une résistance continue de la part de ceux qui y ont été placés sans compter la solidarité de la part des autres prisonnières (par exemple une grève du travail à Full Sutton en 1999) et des groupes de soutien à l’extérieur. Woodhill représente une cible symbolique pour les luttes de détenues, et a attiré l’attention des organisations de défense des droits de l’Homme comme *Amnesty International*. À cause de cela, l’Administration pénitentiaire tend à revenir à sa politique précédente de dispersion des prisonnières rebelles vers des quartiers d’isolement éparpillés dans le district de la prison et à les
 <span class="dropdown">
@@ -246,11 +303,11 @@ Au niveau du rapport avec les prisonniers politiques, l’État a évidemment ch
 
 Un nombre relativement faible de «&nbsp;fauteurs de trouble&nbsp;» peuvent être traités de manière très simple, et aussi brutalement et cruellement que nécessaire, du moment qu’il y a soumission générale de la population carcérale. Malheureusement, cette pratique s’est actuellement exacerbée jusqu’à un degré jamais atteint auparavant.\
 
-Bénéficiant du maintien d’une population carcérale incroyablement «&nbsp;enfermée », intimidée, aliénée, abrutie par les postes de télévision, le système carcéral est maintenant en mesure de s’occuper du grand nombre de personnes à l’extérieur que la législation répressive va incarcérer. La «&nbsp;phase 2&nbsp;» de la stratégie carcérale, qui est déjà en cours, va engendrer une plus grande exploitation de cette force de travail détenue comme des esclaves. Les prisonniers seront soit au travail en train de «&nbsp;produire&nbsp;» ou ils seront enfermés derrière leur porte. Travaille, Regarde la télé, Dort.\
+Bénéficiant du maintien d’une population carcérale incroyablement «&nbsp;enfermée », intimidée, aliénée, abrutie par les postes de télévision, le système carcéral est maintenant en mesure de s’occuper du grand nombre de personnes à l’extérieur que la législation répressive va incarcérer. La «&nbsp;phase&nbsp;2&nbsp;» de la stratégie carcérale, qui est déjà en cours, va engendrer une plus grande exploitation de cette force de travail détenue comme des esclaves. Les prisonniers seront soit au travail en train de «&nbsp;produire&nbsp;» ou ils seront enfermés derrière leur porte. Travaille, Regarde la télé, Dort.\
 
 Voilà l’avenir que prévoit l’État pour nous. Tout comme en Amérique, l’avenir est privé. Les mêmes entreprises qui enferment les prisonniers aux États-Unis sont actuellement en train de financer le programme du gouvernement britannique de construction massive des prisons. Bien que nous soyons à un niveau bas en ce qui concerne la lutte en prison en Angleterre, la résistance existera toujours et perdurera. L’Histoire nous montre que les révolutions ont l’habitude d’éclater quand le pouvoir les attend le moins. Même les esclaves se révoltent.\
 
-<span style="text-align:right">*Mark Barnsley\
+<right>*Mark Barnsley\
 (Texte paru dans le numéro 19 de l’ABC en 2001)*</span>\
 
 # <i class="far fa-bookmark" aria-hidden="true" style="padding-right:15px"></i>Campagne Contre l’Esclavage en Prison (Campaign Against Prison Slavery) Se battre pour mettre fin au travail forcé dans les prisons
