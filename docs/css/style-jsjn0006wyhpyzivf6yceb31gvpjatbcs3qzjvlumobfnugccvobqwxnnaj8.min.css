@@ -114,7 +114,13 @@ h6 {
   font-size: 1.6rem
 }
 
-a {
+a:link {
+  cursor: pointer;
+  color: #333;
+  text-decoration: none
+}
+
+a:visited {
   cursor: pointer;
   color: #333;
   text-decoration: none
@@ -129,12 +135,6 @@ a:hover {
 a:active {
   cursor: pointer;
   color: #fa8072;
-  text-decoration: none
-}
-
-a:visited {
-  cursor: pointer;
-  color: #333;
   text-decoration: none
 }
 
