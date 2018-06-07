@@ -29,9 +29,10 @@ Mark Barnsley
 <!-- toc -->
 {{%attachments title="" style="black" pattern=".*(pdf)"/%}}
 {{< alert genre >}}
-<i>On a l’habitude de voir le masculin absorber grammaticalement le féminin. Ici, le féminin et le masculin sont employés de manière aléatoire, ceci dans le but de conserver une lecture fluide tout en neutralisant la langue.</i>
+*On a l’habitude de voir le masculin absorber grammaticalement le féminin. Ici, le féminin et le masculin sont employés de manière aléatoire, ceci dans le but de conserver une lecture fluide tout en neutralisant la langue.*
 {{< /alert >}}
 </section>
+
 
 {{< blockquote "J-J. Rousseau" "" >}}
 Le plus fort n'est jamais assez fort pour être toujours le maître, s'il ne transforme sa force en droit et l'obéissance en devoir.
