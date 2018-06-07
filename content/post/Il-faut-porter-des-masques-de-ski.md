@@ -22,8 +22,8 @@ showDate: true
 comments: true
 ---
 <section class="intro">
-Je ne veux pas rendre mon incarcération facile. Je serais devenu un mort-vivant. Je veux la rendre dure, même si cela me coûte d’être brutalisé, même en prison je veux décider de ce que sera chaque jour de ma vie, je veux lutter du mieux que je peux. Je ne suis pas seul, j’ai beaucoup de camarades qui résistent de la même manière et ce que j’ai vu avec les prisonniers longues peines, c’est qu’après dix ans certains d’entre eux sont comme morts. Mais ceux qui continuent à résister malgré la brutalité et l’isolement restent en vie.<br />
-Mark Barnsley
+<i>Je ne veux pas rendre mon incarcération facile. Je serais devenu un mort-vivant. Je veux la rendre dure, même si cela me coûte d’être brutalisé, même en prison je veux décider de ce que sera chaque jour de ma vie, je veux lutter du mieux que je peux. Je ne suis pas seul, j’ai beaucoup de camarades qui résistent de la même manière et ce que j’ai vu avec les prisonniers longues peines, c’est qu’après dix ans certains d’entre eux sont comme morts. Mais ceux qui continuent à résister malgré la brutalité et l’isolement restent en vie.</i>
+<p style="text-align:right">Mark Barnsley</p>
 <!--more-->
 <hr class="intro-divider">
 <!-- toc -->
