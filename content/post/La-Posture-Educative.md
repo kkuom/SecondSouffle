@@ -595,27 +595,27 @@ Ainsi, chaque collectif définira son désir maître lui-même. Les limites déf
 
 <table style="color:#6b615b"><tr><td><i class="fas fa-cog fa-spin"></i>
 {{< image classes="fig-75 center clear" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/PSAP/SystemeEthique1.png?raw=true" >}}
-</td></tr></table><br />
+</td></tr></table>
 
 Ce contrat tend à se calibrer progressivement aux limites défensives et aux désirs individuels liés à ce contrat. Ainsi, il permettra plus de libertés là où cette dernière ne nuira à personne d’autre, et restreindra les libertés atteignant les autres dans leurs limites défensives. Une tension entre deux individus ou entre le cadre et un individu a plusieurs possibilités de résolution.\
 
 La première possibilité est que le cadre se réadapte, car le désir individuel exprimé qui sortait du contrat social ne semble pas atteindre les limites d’autres personnes dans le groupe.\
 
 <table style="color:#6b615b"><tr><td><i class="fas fa-cog fa-spin"></i><b>&nbsp;&nbsp;Première possibilité&nbsp;:</b><br />
-Une enfant ne parvient pas à ne pas dire de gros mots. Le groupe avait une règle qui les interdisait, mais puisque cela n’atteint personne dans ses limites, dire des gros mots n’est désormais plus sanctionné et la règle est retirée.<br /><br />
+Une enfant ne parvient pas à ne pas dire de gros mots. Le groupe avait une règle qui les interdisait, mais puisque cela n’atteint personne dans ses limites, dire des gros mots n’est désormais plus sanctionné et la règle est retirée.<br />
 {{< image classes="fig-75 center clear" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/PSAP/SystemeEthique2.png?raw=true" >}}
-</td></tr></table><br />
+</td></tr></table>
 
 Une deuxième possibilité est que le cadre ne peut pas se réadapter, car le désir individuel exprimé atteint d’autres personnes dans leurs limites défensives. La sanction aura pour objectif d’identifier l’essence de ce désir et de le rendre possible à l’intérieur du cadre, en permettant à la personne de comprendre en quoi son désir initial était offensif pour d’autres.\
 
 <table style="color:#6b615b"><tr><td><i class="fas fa-cog fa-spin"></i><b>&nbsp;&nbsp;Deuxième possibilité&nbsp;:</b><br />
-Un enfant écrit «&nbsp;Nique ta mère&nbsp;» sur un mur et cette insulte met en tension des membres du groupe. Suite à cela, une discussion mène à l’adoption d’une consigne qui consiste à essayer de diminuer le nombre de gros mots, car le collectif distingue un gros mot dit de manière spontanée d’un gros mot planifié et dont l’intention est offensive.<br /><br />
+Un enfant écrit «&nbsp;Nique ta mère&nbsp;» sur un mur et cette insulte met en tension des membres du groupe. Suite à cela, une discussion mène à l’adoption d’une consigne qui consiste à essayer de diminuer le nombre de gros mots, car le collectif distingue un gros mot dit de manière spontanée d’un gros mot planifié et dont l’intention est offensive.<br />
 {{< image classes="fig-75 center clear" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/PSAP/SystemeEthique3.png?raw=true" >}}
-</td></tr></table><br />
+</td></tr></table>
 
 Une troisième possibilité est que le cadre ne peut pas se réadapter, car l’essence du désir individuel exprimé est nocive et qu’il est nécessaire pour le cadre de protéger les membres du collectif. Une sanction protectrice est alors mise en place, et si l’individu refuse malgré tout d’abandonner son désir individuel, il pourra l’assouvir dans des espaces hors du cadre, mais il ne bénéficiera plus des avantages que le cadre lui permettait.\
 
-<table style="color:#6b615b"><tr><td><i class="fas fa-cog fa-spin"></i><b>&nbsp;&nbsp;Deuxième possibilité&nbsp;:</b><br />
-Lors d’un jeu, les insultes d’un enfant nuisent à son bon déroulement. L’enfant doit alors se décider entre son désir de participer à l’activité et son désir de dire des insultes. Dans un cas, l’enfant pourra continuer de jouer (schéma précédent), et dans l’autre cas, l’enfant pourra continuer d’être grossier, mais sera mis à l’écart du jeu.<br /><br />
+<table style="color:#6b615b"><tr><td><i class="fas fa-cog fa-spin"></i><b>&nbsp;&nbsp;Troisième possibilité&nbsp;:</b><br />
+Lors d’un jeu, les insultes d’un enfant nuisent à son bon déroulement. L’enfant doit alors se décider entre son désir de participer à l’activité et son désir de dire des insultes. Dans un cas, l’enfant pourra continuer de jouer (schéma précédent), et dans l’autre cas, l’enfant pourra continuer d’être grossier, mais sera mis à l’écart du jeu.<br />
 {{< image classes="fig-75 center clear" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/PSAP/SystemeEthique4.png?raw=true" >}}
-</td></tr></table><br />
+</td></tr></table>
