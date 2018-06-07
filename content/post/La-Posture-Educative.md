@@ -128,9 +128,9 @@ Ou le comble de l’adaptation sociale.
 # <i class="far fa-bookmark" aria-hidden="true" style="padding-right:15px"></i>La sanction
 À *Second Souffle*, nous considérons que la sanction est un acte éducatif qui a l’intention de faire porter la conséquence d’une transgression à son auteure. La sanction aura donc comme premières intentions de protéger la ou les victimes d’une transgression, de responsabiliser son auteur, et si possible d’envisager une réparation.\
 
-<i class="fas fa-arrow-right fa-sm" style="padding-right:7.5px"></i><span style="color:#fa8072">La sanction **_comprend_**</span> là où la punition *condamne*.\
-<i class="fas fa-arrow-right fa-sm" style="padding-right:7.5px"></i><span style="color:#fa8072">La sanction **_répare_**</span> là où la punition *réprime*.\
-<i class="fas fa-arrow-right fa-sm" style="padding-right:7.5px"></i><span style="color:#fa8072">La sanction **_éduque_**</span> là où la punition *soumet*.\
+<span style="color:#fa8072"><i class="fas fa-arrow-right fa-sm" style="padding-right:7.5px"></i>La sanction **_comprend_**</span> là où la punition *condamne*.\
+<span style="color:#fa8072"><i class="fas fa-arrow-right fa-sm" style="padding-right:7.5px"></i>La sanction **_répare_**</span> là où la punition *réprime*.\
+<span style="color:#fa8072"><i class="fas fa-arrow-right fa-sm" style="padding-right:7.5px"></i>La sanction **_éduque_**</span> là où la punition *soumet*.\
 
 La sanction est l’outil de l’équipe pédagogique qui lui permettra de maintenir son autorité tout en garantissant le cadre.\
 
