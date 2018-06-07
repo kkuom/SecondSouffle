@@ -9,7 +9,7 @@ categories: ["Philosophie appliquée", "Posture éducative"]
 tags: ["Brochure", "Éthique", "Contrat social", "Anti-âgisme", "Posture éducative", "Éducation", "Acteurs éducatifs"]
 
 thumbnailImagePosition: left
-thumbnailImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Philosophie-appliquee-thumbnail.png?raw=true
+thumbnailImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Thumbnails/PhilosophieAppliquee140.png?raw=true
 
 coverImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Post-header.jpg?raw=true
 coverMeta: in

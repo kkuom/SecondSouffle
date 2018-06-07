@@ -8,8 +8,8 @@ metaAlignment: center
 categories: ["Papiers politiques", "Organisation des luttes"]
 tags: ["Brochure", "Politique", "Stratégie de lutte", "Déterminisme", "Essentialisme"]
 
-thumbnailImagePosition: right
-thumbnailImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Papiers-politiques-thumbnail.png?raw=true
+thumbnailImagePosition: top
+thumbnailImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Thumbnails/PapierPolitique750.jpg?raw=true
 
 coverImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Post-header.jpg?raw=true
 coverMeta: in

@@ -9,7 +9,7 @@ categories: ["Contes éthiques", "Contes pour une autre vision du monde"]
 tags: ["Brochure", "Conte", "Anti-âgisme"]
 
 thumbnailImagePosition: top
-thumbnailImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/images/KumiEtLArbreMaudit_thumbnail.jpg?raw=true
+thumbnailImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Thumbnails/ConteEthique-Kumi750.jpg?raw=true
 
 coverImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Post-header.jpg?raw=true
 coverMeta: in

@@ -6,10 +6,10 @@ draft: false
 metaAlignment: center
 
 categories: ["Éducation", "Réédition"]
-tags: ["Brochure", "Éthique", "Contrat social", "Anti-âgisme", "Posture éducative", "Éducation"]
+tags: ["Brochure", "Éthique", "Éducation", "Contrat social", "Anti-âgisme", "Posture éducative et éthique"]
 
-thumbnailImagePosition: left
-thumbnailImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Philosophie-appliquee-thumbnail.png?raw=true
+thumbnailImagePosition: right
+thumbnailImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Thumbnails/EducationEthique140.png?raw=true
 
 coverImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Post-header.jpg?raw=true
 coverMeta: in

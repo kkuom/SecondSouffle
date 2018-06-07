@@ -9,7 +9,7 @@ categories: ["Contes éthiques", "Contes pour une autre vision du monde", "Réé
 tags: ["Brochure", "Conte", "Genre", "Essentialisme", "Réédition"]
 
 thumbnailImagePosition: top
-thumbnailImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/images/LhistoireDesLutunes_thumbnail.jpg?raw=true
+thumbnailImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Thumbnails/ConteEthique-Lutunes750.jpg?raw=true
 
 coverImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Post-header.jpg?raw=true
 coverMeta: in

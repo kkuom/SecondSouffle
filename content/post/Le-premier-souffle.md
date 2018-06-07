@@ -8,8 +8,8 @@ metaAlignment: center
 categories: ["Écrits structurants", "Postulat philosophique"]
 tags: ["Brochure", "Éthique", "Contrat social"]
 
-thumbnailImagePosition: left
-thumbnailImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Ecrits-structurants-thumbnail.png?raw=true
+thumbnailImagePosition: top
+thumbnailImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Thumbnails/EcritStructurant750.jpg?raw=true
 
 coverImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Post-header.jpg?raw=true
 coverMeta: in

@@ -8,8 +8,8 @@ metaAlignment: center
 categories: ["Contes éthiques", "Contes pour une autre vision du monde", "Réédition"]
 tags: ["Brochure", "Conte", "Anti-âgisme", "Réédition"]
 
-thumbnailImagePosition: top
-thumbnailImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/images/QuandLesEnfantsAvaientDesAiles_thumbnail.jpg?raw=true
+thumbnailImagePosition: left
+thumbnailImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Thumbnails/ConteEthique-EnfantsAiles140.png?raw=true
 
 coverImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Post-header.jpg?raw=true
 coverMeta: in

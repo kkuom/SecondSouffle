@@ -5,11 +5,11 @@ readingtime: "120"
 draft: false
 metaAlignment: center
 
-categories: ["Éducation", "Posture éducative"]
-tags: ["Brochure", "Éthique", "Posture éducative", "Éducation", "Acteur.ices éducatif.ves"]
+categories: ["Éducation", "Posture éducative et éthique"]
+tags: ["Brochure", "Éthique", "Éducation", "Posture éducative et éthique", "Acteur.ices éducatif.ves", "Sanction", "Cadre", "Punition", "Humiliation", "Séduction", "Privilèges", "Tyrannie d'adultes", "Absence de structure"]
 
 thumbnailImagePosition: top
-thumbnailImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/images/PostureEducative-PSAP-thumbnail.jpg?raw=true
+thumbnailImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Thumbnails/EducationEthique750.jpg?raw=true
 
 coverImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Post-header.jpg?raw=true
 coverMeta: in
