@@ -114,7 +114,25 @@ h6 {
   font-size: 1.6rem
 }
 
-a, a:active, a:hover, a:visited {
+a {
+  cursor: pointer;
+  color: #333;
+  text-decoration: none
+}
+
+a:hover {
+  cursor: pointer;
+  color: #fa8072;
+  text-decoration: none
+}
+
+a:active {
+  cursor: pointer;
+  color: #fa8072;
+  text-decoration: none
+}
+
+a:visited {
   cursor: pointer;
   color: #333;
   text-decoration: none
@@ -122,14 +140,6 @@ a, a:active, a:hover, a:visited {
 
 .archive .archive-posts .archive-post .archive-post-title:hover, .archive .archive-title:hover, a:hover {
   text-decoration: underline
-}
-
-a:hover {
-  color: #fa8072
-}
-
-a:visited {
-  color: #333
 }
 
 table {
