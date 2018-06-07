@@ -5,7 +5,7 @@ readingtime: "15"
 draft: false
 metaAlignment: center
 
-categories: ["Contes éthiques", "Contes pour une autre vision du monde"]
+categories: ["Conte éthique", "Contes pour une autre vision du monde"]
 tags: ["Brochure", "Conte", "Anti-âgisme"]
 
 thumbnailImagePosition: top

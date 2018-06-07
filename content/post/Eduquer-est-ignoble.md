@@ -5,8 +5,8 @@ readingtime: "10"
 draft: false
 metaAlignment: center
 
-categories: ["Éducation", "Réédition"]
-tags: ["Brochure", "Éthique", "Éducation", "Contrat social", "Anti-âgisme", "Posture éducative et éthique"]
+categories: ["Éducation éthique", "Réédition"]
+tags: ["Brochure", "Éthique", "Éducation", "Contrat social", "Anti-âgisme", "Posture éducative et éthique", "Acteur•ices éducatif•ves"]
 
 thumbnailImagePosition: right
 thumbnailImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Thumbnails/EducationEthique140.png?raw=true
