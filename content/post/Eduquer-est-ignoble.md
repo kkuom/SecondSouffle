@@ -31,6 +31,10 @@ La <i>K.R.Ä.T.Z.Ä</i> est un collectif de Berlinois anti-âgiste qui s'est att
 {{< /alert >}}
 </section>
 
+{{< blockquote "Françoise Héritier," "Le Monde de l'éducation (2001)" >}}
+La violence n'est pas innée chez l'homme. Elle s'acquiert par l'éducation et la pratique sociale.
+{{< /blockquote >}}
+
 # <i class="fas fa-sticky-note" aria-hidden="true" style="padding-right:13px;"></i>Note de Second Souffle
 En lisant le livre *La domination Adulte* de Yves Bonnardel, je suis tombé sur le collectif *K.R.Ä.T.Z.Ä.* Ce collectif Berlinois, principalement composé de mineures, m’a totalement retourné.\
 Combattant pour le droit des enfants, ce collectif a notamment lutté contre la scolarisation, pour le droit électoral des mineures, pour l’indépendance matérielle des enfants et… contre l’éducation.\
