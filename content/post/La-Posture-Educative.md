@@ -548,7 +548,7 @@ Les systèmes d’obéissance observés avant deviennent extrêmement efficaces 
 <i class="fas fa-arrow-right fa-sm" style="padding-right:7.5px"></i>Ne rien faire (tyrannie d’absence de structure) permet aux nouveaux désirs individuels dont l’angle alpha est petit (soutiens du désir maître) d’être libres de dominer les êtres les plus affaiblis par ce système.\
 <i class="fas fa-arrow-right fa-sm" style="padding-right:7.5px"></i>La punition permet quant à elle de résigner les derniers récalcitrants (déjà isolés par les mécanismes susdits), et dont l’objectif principal est de les mater. Leur révolte sera alors quasi impossible.\
 
-<table style="color:#6b615b"><tr><td><i class="fas fa-cog fa-spin"></i><b>&nbsp;&nbsp;Situation</b><br />
+<table style="color:#6b615b"><tr><td><i class="fas fa-cog fa-spin"></i><b>&nbsp;&nbsp;Situation&nbsp;:</b><br />
 Il nous arrive par exemple souvent d’entendre des animatrices conseiller que pour pouvoir gérer un groupe d’individus "difficiles", il faille pour cela se mettre dans la poche le ou les leaders. Cet exemple montre bien l’utilisation coordonnée de tous ces mécanismes&nbsp;:<br />
 <i class="fas fa-arrow-right fa-sm" style="padding-right:7.5px"></i>La séduction du leader permet la réduction de son angle alpha tout en augmentant son désir individuel devenu co-désir maître (avec des responsabilités, etc.)<br />
 <i class="fas fa-arrow-right fa-sm" style="padding-right:7.5px"></i>Le leader exerce les autres types d’autorité sur le reste du groupe, et celles-ci avec encore moins de contraintes qu’un animateur (exemple&nbsp;: taper un enfant lui est possible)<br />
@@ -573,3 +573,49 @@ Un nombre relativement faible de “fauteurs de trouble” peuvent être traité
 </td></tr></table>
 
 # <i class="fas fa-lock-open" aria-hidden="true" style="padding-right:13px;"></i>Les sanctions pour un système éthique.
+Les sanctions sont là pour participer à la protection des limites défensives, tout en laissant un cadre de liberté individuelle le plus élevé possible.
+Ainsi, lorsque le système n’arrive pas à trouver de sanction, il se voit dans l’obligation de changer son cadre. Ce cadre aura la souplesse que lui permettent le collectif ainsi que ses outils d’organisations.\
+
+La sanction pousse donc le système à être de plus en plus juste et pousse les enfants à la comprendre de plus en plus profondément. Cette compréhension passe par l’éthique, car c’est la compréhension des conséquences de leurs actes qui leur donnera envie de respecter le cadre par empathie envers les autres.\
+
+La sanction transforme une motivation externe (« Je respecte les règles parce que ça m’est imposé, et j’aurais une bonne position dans le groupe si je ne fais pas de vague ou si je suis exemplaire. ») en une motivation interne (*«&nbsp;Je comprends qu’il y ait des règles, car elles existent pour nous protéger, et je souhaite les respecter.&nbsp;»*).\
+
+{{< blockquote "Alexander Sutherland Neill," "Libres enfants de Summerhill" >}}
+L’argument contre la récompense, c’est qu’une chose doit être faite pour elle-même, pas en vue d’une récompense ; et cet argument est des plus valables.
+{{< /blockquote >}}
+
+Ainsi, il est possible qu’il ne soit à un moment plus nécessaire de créer de règles, car les individus du groupe arriveront à considérer les limites défensives des autres par leur éthique. La discipline est internalisée, ce qui signifie que l’ensemble du groupe devient garant du cadre et que chaque personne a la liberté de développer ses relations, ses compétences et d’accroître son statut sans que cela ne soit vécu comme une imposition pour quiconque.\
+
+Quand le système ne marche pas (par exemple, pas assez de temps pour que des enfants habitués à des logiques punitives ou de spectacle —&nbsp;voir chapitre précédent&nbsp;— transforment leurs habitudes), il est au moins suffisant pour garantir à chacune la protection de ses limites défensives.\
+Et quand il réussit, non seulement le cadre tendra à devenir de plus en plus libre et agréable, mais surtout, la compréhension des logiques de limites défensives des autres se prolongera bien au-delà du séjour.\
+
+La sanction est l’outil privilégié du système éthique. À l’inverse des systèmes punitifs, ce système n’a pas de désir maître clair, car il cherche plus à fédérer des désirs individuels entre eux plutôt qu’à les orienter dans une direction donnée par les tenants du cadre.\
+
+Ainsi, chaque collectif définira son désir maître lui-même. Les limites défensives définiront les bases d’un contrat social, et ce dernier arbitrera la résolution des tensions entre les désirs individuels.\
+
+<table style="color:#6b615b"><tr><td><i class="fas fa-cog fa-spin"></i>
+{{< image classes="fig-75 center clear" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/PSAP/SystemeEthique1.png?raw=true" >}}
+</td></tr></table><br />
+
+Ce contrat tend à se calibrer progressivement aux limites défensives et aux désirs individuels liés à ce contrat. Ainsi, il permettra plus de libertés là où cette dernière ne nuira à personne d’autre, et restreindra les libertés atteignant les autres dans leurs limites défensives. Une tension entre deux individus ou entre le cadre et un individu a plusieurs possibilités de résolution.\
+
+La première possibilité est que le cadre se réadapte, car le désir individuel exprimé qui sortait du contrat social ne semble pas atteindre les limites d’autres personnes dans le groupe.\
+
+<table style="color:#6b615b"><tr><td><i class="fas fa-cog fa-spin"></i><b>&nbsp;&nbsp;Première possibilité&nbsp;:</b><br />
+Une enfant ne parvient pas à ne pas dire de gros mots. Le groupe avait une règle qui les interdisait, mais puisque cela n’atteint personne dans ses limites, dire des gros mots n’est désormais plus sanctionné et la règle est retirée.<br /><br />
+{{< image classes="fig-75 center clear" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/PSAP/SystemeEthique2.png?raw=true" >}}
+</td></tr></table><br />
+
+Une deuxième possibilité est que le cadre ne peut pas se réadapter, car le désir individuel exprimé atteint d’autres personnes dans leurs limites défensives. La sanction aura pour objectif d’identifier l’essence de ce désir et de le rendre possible à l’intérieur du cadre, en permettant à la personne de comprendre en quoi son désir initial était offensif pour d’autres.\
+
+<table style="color:#6b615b"><tr><td><i class="fas fa-cog fa-spin"></i><b>&nbsp;&nbsp;Deuxième possibilité&nbsp;:</b><br />
+Un enfant écrit «&nbsp;Nique ta mère&nbsp;» sur un mur et cette insulte met en tension des membres du groupe. Suite à cela, une discussion mène à l’adoption d’une consigne qui consiste à essayer de diminuer le nombre de gros mots, car le collectif distingue un gros mot dit de manière spontanée d’un gros mot planifié et dont l’intention est offensive.<br /><br />
+{{< image classes="fig-75 center clear" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/PSAP/SystemeEthique3.png?raw=true" >}}
+</td></tr></table><br />
+
+Une troisième possibilité est que le cadre ne peut pas se réadapter, car l’essence du désir individuel exprimé est nocive et qu’il est nécessaire pour le cadre de protéger les membres du collectif. Une sanction protectrice est alors mise en place, et si l’individu refuse malgré tout d’abandonner son désir individuel, il pourra l’assouvir dans des espaces hors du cadre, mais il ne bénéficiera plus des avantages que le cadre lui permettait.\
+
+<table style="color:#6b615b"><tr><td><i class="fas fa-cog fa-spin"></i><b>&nbsp;&nbsp;Deuxième possibilité&nbsp;:</b><br />
+Lors d’un jeu, les insultes d’un enfant nuisent à son bon déroulement. L’enfant doit alors se décider entre son désir de participer à l’activité et son désir de dire des insultes. Dans un cas, l’enfant pourra continuer de jouer (schéma précédent), et dans l’autre cas, l’enfant pourra continuer d’être grossier, mais sera mis à l’écart du jeu.<br /><br />
+{{< image classes="fig-75 center clear" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/PSAP/SystemeEthique4.png?raw=true" >}}
+</td></tr></table><br />
