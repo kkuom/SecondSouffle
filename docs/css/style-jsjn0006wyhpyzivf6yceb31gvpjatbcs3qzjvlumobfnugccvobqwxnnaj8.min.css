@@ -129,7 +129,7 @@ a:visited {
 a:hover {
   cursor: pointer;
   color: #fa8072;
-  text-decoration: none
+  text-decoration: underline
 }
 
 a:active {
@@ -1778,10 +1778,10 @@ pre.code-highlight>code {
   text-decoration: none
 }
 
-.boxes:hover {
+.boxes a:hover {
   cursor: pointer;
   color: #fa8072;
-  text-decoration: underline
+  text-decoration: none
 }
 
 .box {

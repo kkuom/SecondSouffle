@@ -6,7 +6,7 @@ draft: false
 metaAlignment: center
 
 categories: ["Philosophie appliquée", "Posture éducative et éthique"]
-tags: ["Brochure", "Éthique", "Contrat social", "Anti-âgisme", "Posture éducative et éthique", "Éducation", "Acteur•ices éducatif•ves"]
+tags: ["Brochure", "Éthique", "Contrat social", "Anti-âgisme", "Posture éducative et éthique", "Éducation éthique", "Acteur•ices éducatif•ves"]
 
 thumbnailImagePosition: right
 thumbnailImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Thumbnails/PhilosophieAppliquee140.png?raw=true
