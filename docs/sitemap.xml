@@ -66,7 +66,7 @@
   </url>
   
   <url>
-    <loc>https://kkuom.github.io/SecondSouffle/tags/anticarc%C3%A9ral/</loc>
+    <loc>https://kkuom.github.io/SecondSouffle/tags/anticarc%C3%A9rale/</loc>
     <lastmod>2018-06-07T15:16:55+01:00</lastmod>
     <priority>0</priority>
   </url>
@@ -142,8 +142,14 @@
   </url>
   
   <url>
-    <loc>https://kkuom.github.io/SecondSouffle/categories/organisation-des-luttes/</loc>
+    <loc>https://kkuom.github.io/SecondSouffle/categories/lutte-anticarc%C3%A9rale/</loc>
     <lastmod>2018-06-07T15:16:55+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kkuom.github.io/SecondSouffle/categories/organisation-des-luttes/</loc>
+    <lastmod>2018-01-09T15:16:55+01:00</lastmod>
     <priority>0</priority>
   </url>
   
