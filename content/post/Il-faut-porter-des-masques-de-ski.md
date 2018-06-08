@@ -251,7 +251,7 @@ Voilà l’avenir que prévoit l’État pour nous. Tout comme en Amérique, l�
 <p style="text-align:right; font-style:italic">Mark Barnsley<br />
 (Texte paru dans le numéro 19 de l’ABC en 2001)</p>
 
-# <i class="far fa-bookmark" aria-hidden="true" style="padding-right:15px"></i>Campagne Contre l’Esclavage en Prison/&nbsp;—Campaign&nbsp;Against Prison&nbsp;Slavery&nbsp;—<br /><i>Se battre pour mettre fin au travail forcé dans les prisons</i>
+# <i class="far fa-bookmark" aria-hidden="true" style="padding-right:15px"></i>Campagne Contre l’Esclavage en Prison&nbsp;— Campaign&nbsp;Against Prison&nbsp;Slavery&nbsp;—<br /><i>Se battre pour mettre fin au travail forcé dans les prisons</i>
 L’esclavage n’a pas été aboli en Grande-Bretagne, derrière les hauts murs et les portes fermées, il reste florissant.
 Les travailleuses sont obligées de trimer dans des conditions pénibles, au mépris des inspections de santé et de sécurité, du respect des droits du travail et des accords syndicaux même les plus basiques, et sont sévèrement punies si elles refusent de se soumettre. Dans les prisons britanniques, il y a eu des coupes sauvages dans les budgets de l’éducation depuis plus de cinq ans et toute prétention de réhabilitation des prisonnières et d’apprentissage de compétences valorisées a été abandonnée. Elles sont maintenant perçus comme une force de travail exploitable à merci, une colonie du tiers-monde dans la propre arrière-cour de la Grande-Bretagne, bon marché, non syndiquée, disponible et littéralement acculée au travail.\
 
