@@ -18,6 +18,11 @@
   </url>
   
   <url>
+    <loc>https://kkuom.github.io/SecondSouffle/2018/06/lhistoire-des-lutunes/</loc>
+    <lastmod>2018-06-04T17:13:42+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://kkuom.github.io/SecondSouffle/2018/06/quand-les-enfants-avaient-des-ailes/</loc>
     <lastmod>2018-06-04T15:42:41+02:00</lastmod>
   </url>
@@ -90,19 +95,19 @@
   
   <url>
     <loc>https://kkuom.github.io/SecondSouffle/tags/conte/</loc>
-    <lastmod>2018-06-04T15:42:41+02:00</lastmod>
+    <lastmod>2018-06-04T17:13:42+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://kkuom.github.io/SecondSouffle/categories/conte-%C3%A9thique/</loc>
-    <lastmod>2018-06-04T15:42:41+02:00</lastmod>
+    <lastmod>2018-06-04T17:13:42+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://kkuom.github.io/SecondSouffle/categories/contes-pour-une-autre-vision-du-monde/</loc>
-    <lastmod>2018-06-04T15:42:41+02:00</lastmod>
+    <lastmod>2018-06-04T17:13:42+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -120,7 +125,13 @@
   
   <url>
     <loc>https://kkuom.github.io/SecondSouffle/tags/essentialisme/</loc>
-    <lastmod>2018-01-09T15:16:55+01:00</lastmod>
+    <lastmod>2018-06-04T17:13:42+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kkuom.github.io/SecondSouffle/tags/genre/</loc>
+    <lastmod>2018-06-04T17:13:42+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -173,13 +184,13 @@
   </url>
   
   <url>
-    <loc>https://kkuom.github.io/SecondSouffle/tags/posture-%C3%A9ducative-et-%C3%A9thique/</loc>
+    <loc>https://kkuom.github.io/SecondSouffle/categories/posture-%C3%A9ducative-et-%C3%A9thique/</loc>
     <lastmod>2018-06-06T10:25:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kkuom.github.io/SecondSouffle/categories/posture-%C3%A9ducative-et-%C3%A9thique/</loc>
+    <loc>https://kkuom.github.io/SecondSouffle/tags/posture-%C3%A9ducative-et-%C3%A9thique/</loc>
     <lastmod>2018-06-06T10:25:20+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -197,13 +208,13 @@
   </url>
   
   <url>
-    <loc>https://kkuom.github.io/SecondSouffle/tags/r%C3%A9%C3%A9dition/</loc>
+    <loc>https://kkuom.github.io/SecondSouffle/categories/r%C3%A9%C3%A9dition/</loc>
     <lastmod>2018-06-07T15:16:55+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kkuom.github.io/SecondSouffle/categories/r%C3%A9%C3%A9dition/</loc>
+    <loc>https://kkuom.github.io/SecondSouffle/tags/r%C3%A9%C3%A9dition/</loc>
     <lastmod>2018-06-07T15:16:55+01:00</lastmod>
     <priority>0</priority>
   </url>
