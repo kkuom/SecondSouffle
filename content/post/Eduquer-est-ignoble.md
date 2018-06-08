@@ -1,6 +1,6 @@
 ---
 title: "Éduquer est ignoble, K.R.Ä.T.Z.Ä."
-date: 2018-06-06T13:15:20+02:00
+date: 2018-06-05T13:15:20+02:00
 readingtime: "10"
 draft: false
 metaAlignment: center
