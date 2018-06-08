@@ -27,6 +27,7 @@ comments: true
 <!--more-->
 <hr class="intro-divider">
 <!-- toc -->
+{{%attachments title="" style="black" pattern=".*(pdf)"/%}}
 {{< alert genre >}}
 *On a l’habitude de voir le masculin absorber grammaticalement le féminin. Ici, le féminin et le masculin sont employés de manière aléatoire, ceci dans le but de conserver une lecture fluide tout en neutralisant la langue.*
 {{< /alert >}}
