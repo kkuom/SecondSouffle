@@ -2441,7 +2441,7 @@ a.fancybox {
   position: relative;
   width: 100%;
   display: inline-block;
-  margin-top: 40px
+  margin-top: 30px
 }
 
 .post .post-header .post-title {
@@ -2887,7 +2887,7 @@ a.fancybox {
 }
 
 .postShorten .postShorten-excerpt {
-  margin-top: 15px
+  margin-top: 5px
 }
 
 .postShorten .postShorten-excerpt p:nth-child(1) {}
@@ -4061,7 +4061,7 @@ section.attachments.black .attachments-files a {
 .intro {
   background-color: #F5F5F5;
   color: #333;
-  padding: 10px 10px;
+  padding: 20px 10px 10px 10px;
   text-align: justify
 }
 
