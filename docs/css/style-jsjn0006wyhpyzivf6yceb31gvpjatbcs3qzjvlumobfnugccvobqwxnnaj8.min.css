@@ -2840,9 +2840,11 @@ a.fancybox {
   margin: 0;
   word-break: initial;
   overflow: hidden;
-  font-family: 'Love Ya Like A Sister';
+  font-family: 'Libre Baskerville', serif;
   font-weight: normal;
-  letter-spacing: .1px
+  letter-spacing: .1px;
+  font-size: 2.4rem;
+  font-style: italic
 }
 
 .postShorten .postShorten-meta {
