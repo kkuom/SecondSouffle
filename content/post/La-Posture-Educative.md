@@ -574,8 +574,7 @@ Ce système organise le harcèlement comme un puissant support du <span style="c
 {{< blockquote "Mark Barnsley," "Il faut porter des masques de ski" >}}
 Un nombre relativement faible de “fauteurs de trouble” peuvent être traités de manière très simple, et aussi brutalement et cruellement que nécessaire, du moment qu’il y a soumission générale de la population carcérale.
 {{< /blockquote >}}
-</td></tr></table>\
-{{< image classes="fig-75 center clear" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Articles/PSAP/IllustrationEthique.jpg?raw=true" >}}
+</td></tr></table>
 
 # <i class="fas fa-lock-open" aria-hidden="true" style="padding-right:13px;"></i>Les sanctions pour un système éthique.
 Les sanctions sont là pour participer à la protection des limites défensives, tout en laissant un cadre de liberté individuelle le plus élevé possible.
@@ -623,4 +622,6 @@ Une troisième possibilité est que le cadre ne peut pas se réadapter, car l’
 <table style="color:#6b615b"><tr><td><i class="fas fa-cog fa-spin"></i><b>&nbsp;&nbsp;Troisième possibilité&nbsp;:</b><br />
 Lors d’un jeu, les insultes d’un enfant nuisent à son bon déroulement. L’enfant doit alors se décider entre son désir de participer à l’activité et son désir de dire des insultes. Dans un cas, l’enfant pourra continuer de jouer (schéma précédent), et dans l’autre cas, l’enfant pourra continuer d’être grossier, mais sera mis à l’écart du jeu.<br />
 {{< image classes="fig-75 center clear" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Articles/PSAP/SystemeEthique4.png?raw=true" >}}
-</td></tr></table><br/>
+</td></tr></table>\
+
+{{< image classes="fig-75 center clear" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Articles/PSAP/IllustrationEthique.jpg?raw=true" >}}
