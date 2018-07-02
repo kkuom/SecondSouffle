@@ -27,6 +27,7 @@ Ce texte aborde la question centrale de la <i>posture éducative</i>. Par une cl
 <!--more-->
 <hr class="intro-divider">
 <!-- toc -->
+{{%attachments title="" style="black" pattern=".*(pdf)"/%}}
 {{< alert genre >}}
 *On a l’habitude de voir le masculin absorber grammaticalement le féminin. Ici, le féminin et le masculin sont employés de manière aléatoire, ceci dans le but de conserver une lecture fluide tout en neutralisant la langue.*
 {{< /alert >}}
@@ -621,4 +622,6 @@ Une troisième possibilité est que le cadre ne peut pas se réadapter, car l’
 <table style="color:#6b615b"><tr><td><i class="fas fa-cog fa-spin"></i><b>&nbsp;&nbsp;Troisième possibilité&nbsp;:</b><br />
 Lors d’un jeu, les insultes d’un enfant nuisent à son bon déroulement. L’enfant doit alors se décider entre son désir de participer à l’activité et son désir de dire des insultes. Dans un cas, l’enfant pourra continuer de jouer (schéma précédent), et dans l’autre cas, l’enfant pourra continuer d’être grossier, mais sera mis à l’écart du jeu.<br />
 {{< image classes="fig-75 center clear" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Articles/PSAP/SystemeEthique4.png?raw=true" >}}
-</td></tr></table>
+</td></tr></table><br/>
+
+{{< image classes="fig-100 fig-border nocaption" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Articles/PSAP/IllustrationEthique.jpg?raw=true" title="" >}}
