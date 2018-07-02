@@ -574,10 +574,8 @@ Ce système organise le harcèlement comme un puissant support du <span style="c
 {{< blockquote "Mark Barnsley," "Il faut porter des masques de ski" >}}
 Un nombre relativement faible de “fauteurs de trouble” peuvent être traités de manière très simple, et aussi brutalement et cruellement que nécessaire, du moment qu’il y a soumission générale de la population carcérale.
 {{< /blockquote >}}
-</td></tr></table><br/>
-
-{{< image classes="fig-75 center clear"
-src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Articles/PSAP/IllustrationEthique.jpg?raw=true" title="" >}}
+</td></tr></table>\
+{{< image classes="fig-75 center clear" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Articles/PSAP/IllustrationEthique.jpg?raw=true" >}}
 
 # <i class="fas fa-lock-open" aria-hidden="true" style="padding-right:13px;"></i>Les sanctions pour un système éthique.
 Les sanctions sont là pour participer à la protection des limites défensives, tout en laissant un cadre de liberté individuelle le plus élevé possible.
