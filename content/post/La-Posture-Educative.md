@@ -575,8 +575,8 @@ Ce système organise le harcèlement comme un puissant support du <span style="c
 Un nombre relativement faible de “fauteurs de trouble” peuvent être traités de manière très simple, et aussi brutalement et cruellement que nécessaire, du moment qu’il y a soumission générale de la population carcérale.
 {{< /blockquote >}}
 </td></tr></table>
-{{< image classes="fig-75 center clear"
 
+{{< image classes="fig-75 center clear"
 src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Articles/PSAP/IllustrationEthique.jpg?raw=true" title="" >}}
 
 # <i class="fas fa-lock-open" aria-hidden="true" style="padding-right:13px;"></i>Les sanctions pour un système éthique.
