@@ -2,7 +2,7 @@
 title: "L'histoire des Lutunes"
 date: 2018-06-04T17:13:42+02:00
 readingtime: "10"
-draft: true
+draft: false
 metaAlignment: center
 
 categories: ["Conte éthique", "Contes pour une autre vision du monde", "Réédition"]
@@ -35,7 +35,11 @@ On ne naît pas femme, on le devient.
 
 
 # <i class="fas fa-sticky-note" aria-hidden="true" style="padding-right:15px;"></i>Note de Second Souffle
-À faire.
+J’ai lu *«&nbsp;L’Histoire des Lutunes&nbsp;»* alors que je finissais mon Service Civique dans une association qui anime notamment  des séances d’éducation à la sexualité. Questionner le genre était l’un des axes principaux de ces séances, question difficile à aborder pour la plupart des jeunes, car elle remet en question des fondations de notre société, de notre éducation, de nos repères. Le genre en général est un sujet délicat, pour les jeunes, les plus jeunes mais également –presque surtout- les moins jeunes.\
+
+Ce texte semble apporter une petite réponse à cette problématique. Je l’ai découvert avec un véritable sourire aux lèvres. Je trouve qu’il incarne ce qu’est la magie d’un conte. Mettre dans des mots simples des idées et des faits compliqués voire violents.  Il ramène en effet avec sobriété des aspects du monde et de notre société qui peuvent paraître obscurs et complexes, si complexes que des personnes préfèrent les oublier, les mettre de côté, et avec les personnes que ces idées représentent. Car oui, ces idées et ces thèmes sont des humains *«&nbsp;unique(s) et étonnant(s)&nbsp;»* au même titre que les lutunes, encore trop marginalisés, opprimés et violentés. Ce conte soulève en quelques lignes un système binaire à qui notre société semble très attachée. La différenciation des genres, des sexes et leur comportement est une création humaine&nbsp;: un pénis est un homme, une vulve est une femme.\
+
+Une célébration particulière pour les trois lignes qui abordent l’immense tabou qu’est l’intersexuation (alors que j’écris ceci sur mon ordinateur, le mot se souligne en rouge dans Word. Ce mot n’existe pas apparemment …). Comment parler d’intersexuation aujourd’hui à des jeunes alors que la France est encore accusé chaque année par la Cour Européenne des Droits de L’Homme de mutilation chez les nouveaux nés de trois jours dit *intersexes*&nbsp;? Ce conte l’aborde en trois lignes, certes, mais soulève toutes ses incohérences.
 
 # <i class="far fa-bookmark" aria-hidden="true" style="padding-right:15px;"></i>L'histoire des lutunes
 Il était une fois, dans un pays lointain, un peuple de petits êtres, les lutunes. Les lutunes étaient des êtres assez jolis et variés&nbsp;: certaines avaient de petites mains rondes et vertes, d’autres de grandes mains triangulaires et roses, certains avaient la peau dorée, d’autres les cheveux qui clignotaient... Chaque lutune était unique et étonnant.\
