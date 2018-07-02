@@ -135,7 +135,7 @@ Ou le comble de l’adaptation sociale.
 
 La sanction est l’outil de l’équipe pédagogique qui lui permettra de maintenir son autorité tout en garantissant le cadre.\
 
-L’animateur qui punit risquera de détériorer sa relation avec un ou des enfants, voire entrer dans une spirale de conflits. Quand la punition agit dans un cadre moral (notion de bien ou de mal collectif), la sanction fonctionne par l’éthique (notion d’évaluation individuelle de la conséquence de ses actes). Ainsi, il existe une infinité de sanctions étant donné qu’elles varieront en fonction des transgressions et du cadre. Cela demandera donc à l’actrice éducative de comprendre en profondeur le fonctionnement de la sanction. Par ailleurs, celle-ci évolue systématiquement et n’est jamais définitives.\
+L’animateur qui punit risquera de détériorer sa relation avec un ou des enfants, voire entrer dans une spirale de conflits. Quand la punition agit dans un cadre moral (notion de bien ou de mal collectif), la sanction fonctionne par l’éthique (notion d’évaluation individuelle de la conséquence de ses actes). Ainsi, il existe une infinité de sanctions étant donné qu’elles varieront en fonction des transgressions et du cadre. Cela demandera donc à l’actrice éducative de comprendre en profondeur le fonctionnement de la sanction. Par ailleurs, celle-ci évolue systématiquement et n’est jamais définitive.\
 Chaque sanction comprend la réconciliation et le pardon, et l’enfant sanctionné récupère le même statut que n’importe quel autre une fois le processus de la sanction achevé. Cela implique qu’il bénéficie à nouveau des avantages que lui permet le cadre collectif.\
 
 ## Comment une sanction se pense-t-elle&nbsp;?
