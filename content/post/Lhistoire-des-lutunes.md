@@ -22,7 +22,7 @@ showDate: true
 comments: true
 ---
 <section class="intro">
-En un temps où les enfants avaient des ailes, Alix se pose des questions sur une paire d’ailes dont elle ne sait pas quoi faire&nbsp;: tiraillée entre des rêves enivrants et les conseils insistants de ses parents.
+Le roi des lutunes et deux de ses sujets en ont un jour eu assez de laver eux-mêmes leurs chaussettes sales. Ils commencèrent alors à inventer des règles sans queue ni tête, mais basées sur des observations scientifiques&nbsp;! Arriveront-ils à se débarrasser de cette corvée&nbsp;?
 <!--more-->
 <hr class="intro-divider">
 <!-- toc -->
