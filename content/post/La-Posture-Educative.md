@@ -1,5 +1,5 @@
 ---
-title: "La posture éducative - Punition, Sanction, Autorité & Posture"
+title: "La posture éducative - Punition, Sanction, Autorité & Cadre"
 date: 2018-06-06T10:25:20+02:00
 readingtime: "120"
 draft: false
