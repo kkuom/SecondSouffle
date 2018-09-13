@@ -54,7 +54,13 @@
   </url>
   
   <url>
-    <loc>https://kkuom.github.io/SecondSouffle/tags/acteurices-%C3%A9ducatifves/</loc>
+    <loc>https://kkuom.github.io/SecondSouffle/tags/acteurs-%C3%A9ducatifs/</loc>
+    <lastmod>2018-06-06T10:25:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kkuom.github.io/SecondSouffle/tags/actrices-%C3%A9ducatives/</loc>
     <lastmod>2018-06-06T10:25:20+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -184,13 +190,13 @@
   </url>
   
   <url>
-    <loc>https://kkuom.github.io/SecondSouffle/categories/posture-%C3%A9ducative-et-%C3%A9thique/</loc>
+    <loc>https://kkuom.github.io/SecondSouffle/tags/posture-%C3%A9ducative-et-%C3%A9thique/</loc>
     <lastmod>2018-06-06T10:25:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kkuom.github.io/SecondSouffle/tags/posture-%C3%A9ducative-et-%C3%A9thique/</loc>
+    <loc>https://kkuom.github.io/SecondSouffle/categories/posture-%C3%A9ducative-et-%C3%A9thique/</loc>
     <lastmod>2018-06-06T10:25:20+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -208,19 +214,13 @@
   </url>
   
   <url>
-    <loc>https://kkuom.github.io/SecondSouffle/tags/rochure/</loc>
-    <lastmod>2018-01-08T13:11:33+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kkuom.github.io/SecondSouffle/categories/r%C3%A9%C3%A9dition/</loc>
+    <loc>https://kkuom.github.io/SecondSouffle/tags/r%C3%A9%C3%A9dition/</loc>
     <lastmod>2018-06-07T15:16:55+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kkuom.github.io/SecondSouffle/tags/r%C3%A9%C3%A9dition/</loc>
+    <loc>https://kkuom.github.io/SecondSouffle/categories/r%C3%A9%C3%A9dition/</loc>
     <lastmod>2018-06-07T15:16:55+01:00</lastmod>
     <priority>0</priority>
   </url>
@@ -244,6 +244,18 @@
   </url>
   
   <url>
+    <loc>https://kkuom.github.io/SecondSouffle/tags/syst%C3%A8me-injuste/</loc>
+    <lastmod>2018-06-06T10:25:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kkuom.github.io/SecondSouffle/tags/syst%C3%A8me-%C3%A9thique/</loc>
+    <lastmod>2018-06-06T10:25:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://kkuom.github.io/SecondSouffle/tags/s%C3%A9duction/</loc>
     <lastmod>2018-06-06T10:25:20+02:00</lastmod>
     <priority>0</priority>
@@ -256,7 +268,7 @@
   </url>
   
   <url>
-    <loc>https://kkuom.github.io/SecondSouffle/tags/tyrannie-dadultes/</loc>
+    <loc>https://kkuom.github.io/SecondSouffle/tags/tyrannie-d-adultes/</loc>
     <lastmod>2018-06-06T10:25:20+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -268,13 +280,13 @@
   </url>
   
   <url>
-    <loc>https://kkuom.github.io/SecondSouffle/categories/%C3%A9ducation-%C3%A9thique/</loc>
+    <loc>https://kkuom.github.io/SecondSouffle/tags/%C3%A9ducation-%C3%A9thique/</loc>
     <lastmod>2018-06-06T10:25:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kkuom.github.io/SecondSouffle/tags/%C3%A9ducation-%C3%A9thique/</loc>
+    <loc>https://kkuom.github.io/SecondSouffle/categories/%C3%A9ducation-%C3%A9thique/</loc>
     <lastmod>2018-06-06T10:25:20+02:00</lastmod>
     <priority>0</priority>
   </url>
