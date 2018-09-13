@@ -6,7 +6,7 @@ draft: false
 metaAlignment: center
 
 categories: ["papier politique", "organisation des luttes"]
-tags: ["Brochure", "Politique", "Stratégie de lutte", "Déterminisme", "Essentialisme"]
+tags: ["brochure", "politique", "stratégie de lutte", "déterminisme", "essentialisme"]
 
 thumbnailImagePosition: top
 thumbnailImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Thumbnails/PapierPolitique750.jpg?raw=true

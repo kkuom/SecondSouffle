@@ -6,7 +6,7 @@ draft: false
 metaAlignment: center
 
 categories: ["conte éthique", "contes pour une autre vision du monde", "réédition"]
-tags: ["Brochure", "Conte", "Genre", "Essentialisme", "Réédition"]
+tags: ["brochure", "conte", "genre", "essentialisme", "réédition"]
 
 thumbnailImagePosition: top
 thumbnailImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Thumbnails/ConteEthique-Lutunes750.jpg?raw=true

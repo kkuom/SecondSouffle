@@ -6,7 +6,7 @@ draft: false
 metaAlignment: center
 
 categories: ["écrit structurant", "postulat philosophique"]
-tags: ["Brochure", "Éthique", "Contrat social"]
+tags: ["brochure", "éthique", "contrat social"]
 
 thumbnailImagePosition: top
 thumbnailImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Thumbnails/EcritStructurant750.jpg?raw=true

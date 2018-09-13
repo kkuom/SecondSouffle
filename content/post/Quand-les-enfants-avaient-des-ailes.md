@@ -6,7 +6,7 @@ draft: false
 metaAlignment: center
 
 categories: ["conte éthique", "contes pour une autre vision du monde", "réédition"]
-tags: ["Brochure", "Conte", "Anti-âgisme", "Réédition"]
+tags: ["brochure", "conte", "anti-âgisme", "réédition"]
 
 thumbnailImagePosition: left
 thumbnailImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Thumbnails/ConteEthique-EnfantsAiles140.png?raw=true

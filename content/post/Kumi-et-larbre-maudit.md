@@ -6,7 +6,7 @@ draft: false
 metaAlignment: center
 
 categories: ["conte éthique", "contes pour une autre vision du monde"]
-tags: ["Brochure", "Conte", "Anti-âgisme"]
+tags: ["brochure", "conte", "anti-âgisme"]
 
 thumbnailImagePosition: top
 thumbnailImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Thumbnails/ConteEthique-Kumi750.jpg?raw=true

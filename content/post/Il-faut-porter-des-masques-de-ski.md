@@ -5,8 +5,8 @@ readingtime: "50"
 draft: false
 metaAlignment: center
 
-categories: ["papier politique", "lutte Anticarcérale", "réédition"]
-tags: ["Brochure", "Politique", "Stratégie de lutte", "Anticarcérale", "Réédition"]
+categories: ["papier politique", "lutte anticarcérale", "réédition"]
+tags: ["brochure", "politique", "stratégie de lutte", "anticarcérale", "réédition"]
 
 thumbnailImagePosition: left
 thumbnailImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Thumbnails/PapierPolitique140.png?raw=true

@@ -6,7 +6,7 @@ draft: false
 metaAlignment: center
 
 categories: ["éducation éthique", "posture éducative et éthique"]
-tags: ["Brochure", "Éthique", "Éducation éthique", "Posture éducative et éthique", "Acteur•ices éducatif•ves", "Sanction", "Cadre", "Punition", "Humiliation", "Séduction", "Privilèges", "Tyrannie d'adultes", "Absence de structure"]
+tags: ["brochure", "éthique", "éducation éthique", "posture éducative et éthique", "acteur•ices éducatif•ves", "sanction", "cadre", "punition", "humiliation", "séduction", "privilèges", "tyrannie d'adultes", "absence de structure"]
 
 thumbnailImagePosition: top
 thumbnailImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Thumbnails/EducationEthique750.jpg?raw=true
