@@ -5,7 +5,7 @@ readingtime: "10"
 draft: false
 metaAlignment: center
 
-categories: ["Conte éthique", "Contes pour une autre vision du monde", "Réédition"]
+categories: ["conte éthique", "contes pour une autre vision du monde", "réédition"]
 tags: ["Brochure", "Conte", "Genre", "Essentialisme", "Réédition"]
 
 thumbnailImagePosition: top

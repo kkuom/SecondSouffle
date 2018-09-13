@@ -5,7 +5,7 @@ readingtime: "25"
 draft: false
 metaAlignment: center
 
-categories: ["Papier politique", "Organisation des luttes"]
+categories: ["papier politique", "organisation des luttes"]
 tags: ["Brochure", "Politique", "Stratégie de lutte", "Déterminisme", "Essentialisme"]
 
 thumbnailImagePosition: top

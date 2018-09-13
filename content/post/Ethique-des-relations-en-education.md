@@ -6,7 +6,7 @@ readingtime: "35"
 draft: false
 metaAlignment: center
 
-categories: ["Philosophie appliquée", "Posture éducative et éthique"]
+categories: ["philosophie appliquée", "posture éducative et éthique"]
 tags: ["Brochure", "Éthique", "Contrat social", "Anti-âgisme", "Posture éducative et éthique", "Éducation éthique", "Acteur•ices éducatif•ves"]
 
 thumbnailImagePosition: right

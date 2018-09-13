@@ -5,7 +5,7 @@ readingtime: "120"
 draft: false
 metaAlignment: center
 
-categories: ["Éducation éthique", "Posture éducative et éthique"]
+categories: ["éducation éthique", "posture éducative et éthique"]
 tags: ["Brochure", "Éthique", "Éducation éthique", "Posture éducative et éthique", "Acteur•ices éducatif•ves", "Sanction", "Cadre", "Punition", "Humiliation", "Séduction", "Privilèges", "Tyrannie d'adultes", "Absence de structure"]
 
 thumbnailImagePosition: top

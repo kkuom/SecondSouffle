@@ -5,7 +5,7 @@ readingtime: "50"
 draft: false
 metaAlignment: center
 
-categories: ["Papier politique", "Lutte Anticarcérale", "Réédition"]
+categories: ["papier politique", "lutte Anticarcérale", "réédition"]
 tags: ["Brochure", "Politique", "Stratégie de lutte", "Anticarcérale", "Réédition"]
 
 thumbnailImagePosition: left

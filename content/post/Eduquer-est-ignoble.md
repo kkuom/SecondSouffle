@@ -5,7 +5,7 @@ readingtime: "10"
 draft: false
 metaAlignment: center
 
-categories: ["Éducation éthique", "Réédition"]
+categories: ["éducation éthique", "réédition"]
 tags: ["Brochure", "Éthique", "Éducation éthique", "Contrat social", "Anti-âgisme", "Posture éducative et éthique", "Acteur•ices éducatif•ves"]
 
 thumbnailImagePosition: right
