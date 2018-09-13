@@ -1,16 +1,12 @@
 ---
-title: "Statuts de Second Souffle"
-date: 2018-06-05T13:15:20+02:00
+title: ""
+date: 2018-09-13T13:15:20+02:00
 readingtime: "15"
 draft: false
 metaAlignment: center
 
 categories: []
 tags: []
-
-coverImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Post-header.jpg?raw=true
-coverMeta: in
-coverSize: partial
 
 showTags: false
 showPagination: false

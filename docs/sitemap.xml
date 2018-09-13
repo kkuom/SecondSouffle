@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://kkuom.github.io/SecondSouffle/page/statuts/</loc>
+    <lastmod>2018-09-13T13:15:20+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://kkuom.github.io/SecondSouffle/2018/06/il-faut-porter-des-masques-de-ski/</loc>
     <lastmod>2018-06-07T15:16:55+01:00</lastmod>
   </url>
@@ -10,11 +15,6 @@
   <url>
     <loc>https://kkuom.github.io/SecondSouffle/2018/06/la-posture-%C3%A9ducative---punition-sanction-autorit%C3%A9--cadre/</loc>
     <lastmod>2018-06-06T10:25:20+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kkuom.github.io/SecondSouffle/page/statuts/</loc>
-    <lastmod>2018-06-05T13:15:20+02:00</lastmod>
   </url>
   
   <url>
@@ -166,7 +166,7 @@
   
   <url>
     <loc>https://kkuom.github.io/SecondSouffle/page/</loc>
-    <lastmod>2018-06-05T13:15:20+02:00</lastmod>
+    <lastmod>2018-09-13T13:15:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -244,7 +244,7 @@
   
   <url>
     <loc>https://kkuom.github.io/SecondSouffle/</loc>
-    <lastmod>2018-06-07T15:16:55+01:00</lastmod>
+    <lastmod>2018-09-13T13:15:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
