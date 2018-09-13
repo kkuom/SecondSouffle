@@ -14,19 +14,19 @@ showSocial: false
 showDate: false
 comments: false
 ---
-#_Second Souffle_
-##_Collectif à direction collégiale_
+# _Second Souffle_
+## _Collectif à direction collégiale_
 
 _**Article 1&nbsp;:**_ _Constitution et dénomination_\
 Il est fondé entre les adhérent‑e‑s aux présents statuts un collectif régi par la loi 1901, ayant pour
 titre&nbsp;: _Second Souffle_.\
 
 _**Article 2&nbsp;:**_ _Buts_\
-Second Souffle a pour buts fondamentaux&nbsp;:\
-1.	La mise en œuvre d’espaces mus par l’éthique, dans lesquels chaque personne adhère à un contrat social capable d’intégrer la diversité des volontés individuelles dans une volonté générale articulant individu‑e‑s et collectif.\
-2.	Le déploiement d’espaces internes permettant aux membres de Second Souffle de s’aventurer dans des préoccupations —&nbsp;principalement&nbsp;— philosophiques, éducatives et politiques. Ces espaces sont ouverts à toutes expérimentations individuelles ou collectives, ceci tant qu’elles sont mues par l’éthique.\
-3.	L’implantation d’espaces et d’actions internes ou externes à Second Souffle et appartenant à l’éducation populaire, permettant de produire des contenus de toutes formes et facilitant la compréhension, voire l’appropriation des sujets développés, tant qu’ils ne cherchent à moraliser aucun individu‑e du collectif et de la société en général.\
-4.	La rencontre de personnes et de collectifs animés de préoccupations tendant vers une éthique mais liées à des espaces variés, afin d’échanger sur nos stratégies et pratiques respectives, voire de les coordonner ou de les fédérer.\
+_Second Souffle_ a pour buts fondamentaux&nbsp;:\
+_1._&nbsp;La mise en œuvre d’espaces mus par l’éthique, dans lesquels chaque personne adhère à un contrat social capable d’intégrer la diversité des volontés individuelles dans une volonté générale articulant individu‑e‑s et collectif.\
+_2._&nbsp;Le déploiement d’espaces internes permettant aux membres de _Second Souffle_ de s’aventurer dans des préoccupations —&nbsp;principalement&nbsp;— philosophiques, éducatives et politiques. Ces espaces sont ouverts à toutes expérimentations individuelles ou collectives, ceci tant qu’elles sont mues par l’éthique.\
+_3._&nbsp;L’implantation d’espaces et d’actions internes ou externes à _Second Souffle_ et appartenant à l’éducation populaire, permettant de produire des contenus de toutes formes et facilitant la compréhension, voire l’appropriation des sujets développés, tant qu’ils ne cherchent à moraliser aucun individu‑e du collectif et de la société en général.\
+_4._&nbsp;La rencontre de personnes et de collectifs animés de préoccupations tendant vers une éthique mais liées à des espaces variés, afin d’échanger sur nos stratégies et pratiques respectives, voire de les coordonner ou de les fédérer.\
 
 _**Article 3&nbsp;:**_ _Siège social_\
 Le siège social est fixé à&nbsp;: 2, rue du 8 mai 1945, 38550 Clonas‑sur‑Varèze
@@ -38,25 +38,25 @@ La durée du collectif est illimitée.\
 
 _**Article 5&nbsp;:**_ _Admission et adhésion_\
 Pour faire partie du collectif, il suffit d’adhérer aux présents statuts tout en s’acquittant (ou non) d’une cotisation à prix libre. Les mineur‑e‑s peuvent adhérer à l’association et sont membres à part entière du collectif. Toute personne adhère pour un exercice d’une année&nbsp;; l’adhésion est renouvelée à la demande de l’intéressé‑e.\
-Second Souffle s’interdit toute discrimination, veille au respect de ce principe et garantit la liberté de conscience pour chacun‑e de ses membres. En cas de litige quant à l’admission d’une personne en tant que membre, le groupe de gouvernance pourra établir un processus de décision explicitement justifié, ouvert à l’ensemble des membres de Second Souffle, et permettant de refuser exceptionnellement l’admission en question sous réserve d’une unanimité atteinte —&nbsp;l’unanimité s'entendant par le consentement de l'ensemble des membres. Lors de ce processus, la personne concernée a une liberté totale de défendre sa position et de s’exprimer quant à ses envies de rejoindre le collectif.\
+_Second Souffle_ s’interdit toute discrimination, veille au respect de ce principe et garantit la liberté de conscience pour chacun‑e de ses membres. En cas de litige quant à l’admission d’une personne en tant que membre, le groupe de gouvernance pourra établir un processus de décision explicitement justifié, ouvert à l’ensemble des membres de _Second Souffle_, et permettant de refuser exceptionnellement l’admission en question sous réserve d’une unanimité atteinte —&nbsp;l’unanimité s'entendant par le consentement de l'ensemble des membres. Lors de ce processus, la personne concernée a une liberté totale de défendre sa position et de s’exprimer quant à ses envies de rejoindre le collectif.\
 
 _**Article 6&nbsp;:**_ _Composition du collectif_\
-Devient d’office membre actif‑ve toute personne souhaitant s’investir —&nbsp;quel que soit l’échelle de cet investissement&nbsp;— dans Second Souffle, et adhérant aux présents statuts. De fait, Second Souffle se dégage de toute ambiguïté&nbsp;: tout‑e adhérent‑e est nommé‑e « membre ».\
+Devient d’office membre actif‑ve toute personne souhaitant s’investir —&nbsp;quel que soit l’échelle de cet investissement&nbsp;— dans _Second Souffle_, et adhérant aux présents statuts. De fait, _Second Souffle_ se dégage de toute ambiguïté&nbsp;: tout‑e adhérent‑e est nommé‑e « membre ».\
 
 _**Article 7&nbsp;:**_ _Perte de la qualité de membre_\
 La qualité de membre se perd par&nbsp;:\
-* La démission ou le non-renouvellement de l’adhésion.\
-* Le décès.\
-* La radiation prononcée par le conseil collégial pour motifs graves, telle qu’une atteinte aux limites défensives des membres du collectif sans processus possible de réhabilitation de la confiance. Dans ce cas, l’intéressé‑e aura précédemment été invité‑e à faire valoir ses droits à la défense auprès du conseil collégial.\
+-&nbsp;La démission ou le non-renouvellement de l’adhésion.\
+-&nbsp;Le décès.\
+-&nbsp;La radiation prononcée par le conseil collégial pour motifs graves, telle qu’une atteinte aux limites défensives des membres du collectif sans processus possible de réhabilitation de la confiance. Dans ce cas, l’intéressé‑e aura précédemment été invité‑e à faire valoir ses droits à la défense auprès du conseil collégial.\
 
 _**Article 8&nbsp;:**_ _Les finances du collectif_\
 Les ressources du collectif se composent&nbsp;:\
-* des cotisations à prix libre&nbsp;;\
-* de la vente (à prix fixe ou libre) de produits développés par le collectif&nbsp;;\
-*	de la vente de prestations (à prix fixe ou libre) fournies par le collectif&nbsp;;\
-*	de subventions éventuelles&nbsp;;\
-*	de dons manuels&nbsp;;\
-*	de toutes autres ressources possibles et en accord avec l’article 2.\
+-&nbsp;des cotisations à prix libre&nbsp;;\
+-&nbsp;de la vente (à prix fixe ou libre) de produits développés par le collectif&nbsp;;\
+-&nbsp;de la vente de prestations (à prix fixe ou libre) fournies par le collectif&nbsp;;\
+-&nbsp;de subventions éventuelles&nbsp;;\
+-&nbsp;de dons manuels&nbsp;;\
+-&nbsp;de toutes autres ressources possibles et en accord avec l’article 2.\
 
 Il est tenu à jour une comptabilité complète de toutes les recettes et de toutes les dépenses du collectif.\
 
@@ -78,9 +78,9 @@ Un mode de décision préservant la diversité des points de vue permet à chaqu
 
 _**Article 12&nbsp;:**_ _L’assemblée générale extraordinaire_\
 Si besoin est, une assemblée générale extraordinaire est convoquée à la demande du groupe de gouvernance, ou d’un référendum souhaitant pour au moins 20 % son avènement. L’assemblée générale extraordinaire permet&nbsp;:\
-*	la modification des statuts&nbsp;;\
-*	la dissolution du groupe de gouvernance&nbsp;;\
-*	la dissolution du collectif.\
+-&nbsp;la modification des statuts&nbsp;;\
+-&nbsp;la dissolution du groupe de gouvernance&nbsp;;\
+-&nbsp;la dissolution du collectif.\
 Les conditions de convocations sont identiques à celles de l’assemblée générale ordinaire. Pour la validité de ses délibérations, il est nécessaire qu’au moins la moitié des membres du collectif soient présent‑e‑s. Si le quorum n’est pas atteint, l’assemblée extraordinaire est convoquée à nouveau, à quinze jours d’intervalle. Elle peut alors délibérer quel que soit le nombre de présent‑e‑s. Le mode de prise de décision implique des délibérations prises au consentement issues de la sociocratie.\
 
 _**Article 13&nbsp;:**_ _Dissolution_\
