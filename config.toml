@@ -83,7 +83,7 @@ canonifyurls = true
     weight = 6
     identifier ="Statuts"
     name = "Statuts"
-    pre = "<i class=\"sidebar-button-icon fas fa-lg fa-clipboard-check\"></i>"
+    pre = "<i class=\"sidebar-button-icon fas fa-lg fa-file-alt\"></i>"
     url = "/page/statuts/"
 
 [[menu.misc]]
