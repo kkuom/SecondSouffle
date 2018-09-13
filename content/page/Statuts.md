@@ -14,8 +14,8 @@ showSocial: false
 showDate: false
 comments: false
 ---
-# _Second Souffle_
-## _Collectif à direction collégiale_
+{{< image classes="fig-66 center clear" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/SecondSouffle_LogoColor.png?raw=true" >}}\
+<p style="text-align:center;font-style:italic">Collectif à direction collégiale</p>
 
 _**Article 1&nbsp;:**_ _Constitution et dénomination_\
 Il est fondé entre les adhérent‑e‑s aux présents statuts un collectif régi par la loi 1901, ayant pour
