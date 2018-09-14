@@ -35,10 +35,10 @@ canonifyurls = true
 [author]
   name = "Collectif éthique, libertaire et anti-âgiste"
   bio = "Trouver une forme d’association qui défende et protège de toute la force commune la personne et les biens de chaque associé, et par laquelle chacun, s’unissant à tous, n’obéisse pourtant qu’à lui-même, et reste aussi libre qu’auparavant. Tel est le problème fondamental dont le Contrat Social donne la solution. (J.J.Rousseau)"
-  job = "Description de Second Souffle"
-  location = "Description territoriale du collectif"
+  job = "Second Souffle est une association, un collectif, un réseau, qui s'est formalisé à partir de l'automne 2017. En interne ou en externe, Second Souffle ouvre des espaces d'éducation, de politique et de philosophie. Des travaux y sont réalisés, des temps d'échanges de pratiques sont organisés, des personnes de milieux similaires ou différents peuvent se rencontrer et se mettre en réseau..."
+  location = "Second Souffle n'est pas particulièrement rattaché à un territoire. Bien que les lieux les plus actifs pour le moment soient Grenoble et Lyon, nous comptons des membres dans de nombreuses régions différentes en France et dans les pays limitrophes."
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
-  gravatarEmail = "secondsouffle@protonmail.com"
+  gravatarEmail = "secondsouffle@pm.me"
   # Your profile picture
   # Overwritten by your gravatar image if `author.gravatarEmail` is filled
   picture = "https://github.com/kkuom/SecondSouffle/blob/master/docs/images/SecondSouffle_Logo.png?raw=true"
@@ -116,7 +116,7 @@ canonifyurls = true
   hierarchicalCategories = true
 
   name = "Thomas"
-  description = "Plateforme collaborative et vitrine du collectif libertaire Second Souffle"
+  description = "Plateforme web du collectif libertaire Second Souffle"
 
   # Customization
   # Define the behavior of the sidebar

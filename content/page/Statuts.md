@@ -1,13 +1,11 @@
 ---
-title: ""
+title: "Statuts"
 date: 2018-09-13T13:15:20+02:00
-readingtime: "15"
 draft: false
 metaAlignment: center
 
-categories: []
-tags: []
-
+showMeta: false
+showActions: false
 showTags: false
 showPagination: false
 showSocial: false
