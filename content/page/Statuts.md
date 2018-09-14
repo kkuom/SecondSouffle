@@ -5,7 +5,6 @@ draft: false
 metaAlignment: center
 
 showMeta: false
-showActions: false
 showTags: false
 showPagination: false
 showSocial: false
