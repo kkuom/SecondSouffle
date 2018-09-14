@@ -82,4 +82,4 @@ Si besoin est, une assemblée générale extraordinaire est convoquée à la dem
 Les conditions de convocations sont identiques à celles de l’assemblée générale ordinaire. Pour la validité de ses délibérations, il est nécessaire qu’au moins la moitié des membres du collectif soient présent‑e‑s. Si le quorum n’est pas atteint, l’assemblée extraordinaire est convoquée à nouveau, à quinze jours d’intervalle. Elle peut alors délibérer quel que soit le nombre de présent‑e‑s. Le mode de prise de décision implique des délibérations prises au consentement issues de la sociocratie.\
 
 _**Article 13&nbsp;:**_ _Dissolution_\
-En cas de dissolution, l’assemblée générale se prononcera sur la dévolution des biens, et nommera un‑e ou plusieurs liquidateur‑rice‑s chargé‑e‑s de la liquidation des biens.\
+En cas de dissolution, l’assemblée générale se prononcera sur la dévolution des biens, et nommera un‑e ou plusieurs liquidateur‑rice‑s chargé‑e‑s de la liquidation des biens.
