@@ -72,22 +72,21 @@ canonifyurls = true
   name = "Archives"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-archive\"></i>"
   url = "/archives"
-[[menu.main]]
-  weight = 5
+
+[[menu.misc]]
+  weight = 1
   identifier = "à propos"
   name = "À propos"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-question\"></i>"
   url = "/#about"
-
-[[menu.main]]
-    weight = 6
-    identifier ="Statuts"
-    name = "Statuts"
-    pre = "<i class=\"sidebar-button-icon fas fa-lg fa-file-alt\"></i>"
-    url = "/page/statuts/"
-
 [[menu.misc]]
-  weight = 1
+  weight = 2
+  identifier ="Statuts"
+  name = "Statuts"
+  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-file-alt\"></i>"
+  url = "/page/statuts/"
+[[menu.misc]]
+  weight = 3
   identifier = "rss"
   name = "RSS"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-rss-square\"></i>"
