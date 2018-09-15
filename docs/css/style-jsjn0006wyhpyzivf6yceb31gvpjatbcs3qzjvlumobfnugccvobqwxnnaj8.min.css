@@ -733,7 +733,8 @@ pre.code-highlight>code {
     #main {
       padding-top: 70px;
       display: block;
-      width: 100%
+      width: 100%;
+      Background-color: #fff
     }
 
     #main[data-behavior="4"].pushed, #main[data-behavior="5"].pushed, #main[data-behavior="1"].pushed, #main[data-behavior="2"].pushed {
