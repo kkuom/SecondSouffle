@@ -130,7 +130,7 @@ canonifyurls = true
   #    large sidebar is swiped on all lower screens
   # 5: Display header bar on all screens and large sidebar is swiped on large screen
   # 6: Display header bar on all screens and medium sidebar is swiped
-  sidebarBehavior = 5
+  sidebarBehavior = 6
 
   # Your blog cover picture. I STRONGLY recommend you to use a CDN to speed up loading of pages.
   # There is many free CDN like Cloudinary or you can also use indirectly
@@ -201,7 +201,8 @@ canonifyurls = true
   [params.header.rightLink]
     class = ""
     icon = ""
-    url = "/#home"
+    url = "http://www.secondsouffle.me/"
+    # url = "/#home"
 
   # Customize link of author avatar in sidebar
   # [params.sidebar.profile]
@@ -209,4 +210,4 @@ canonifyurls = true
 
   # Customize copyright value "© 2017 <CUSTOMIZATION>. All Rights Reserved"
   # [params.footer]
-  #   copyright = "<a href=\"https://github.com/kakawait\">kakawait</a>"
+  # copyright = "<a href=\"https://github.com/kakawait\">kakawait</a>"
