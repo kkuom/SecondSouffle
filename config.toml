@@ -201,8 +201,7 @@ canonifyurls = true
   [params.header.rightLink]
     class = ""
     icon = ""
-    url = "http://www.secondsouffle.me/#home"
-    # url = "/#home"
+    url = "/#home"
 
   # Customize link of author avatar in sidebar
   # [params.sidebar.profile]
