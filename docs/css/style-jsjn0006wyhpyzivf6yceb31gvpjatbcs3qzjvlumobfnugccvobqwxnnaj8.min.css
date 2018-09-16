@@ -3082,6 +3082,14 @@ pre.code-highlight>code {
     padding-left: 1px
   }
 
+  .postShorten-author {
+    color: #fff;
+    font-size: 1.5rem;
+    font-family: 'Lato', sans-serif;
+    letter-spacing: .05em;
+    text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.3)
+  }
+
   .postShorten-meta a:hover {
     color: #fa8072
   }
