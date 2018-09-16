@@ -1,5 +1,6 @@
 ---
 title: "Kumi et l'arbre Maudit"
+author: "Raphaël & Thomas"
 date: 2018-01-07T18:15:01+01:00
 readingtime: "15"
 draft: false

@@ -1,5 +1,6 @@
 ---
-title: "Il faut porter des masques de ski"
+title: "Il faut porter des masques de ski (réédition)"
+author: "Mark Barnsley"
 date: 2018-06-07T15:16:55+01:00
 readingtime: "50"
 draft: false

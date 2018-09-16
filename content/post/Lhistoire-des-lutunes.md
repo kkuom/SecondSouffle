@@ -1,5 +1,6 @@
 ---
-title: "L'histoire des Lutunes"
+title: "L'histoire des Lutunes (réédition)"
+author: "Anonyme"
 date: 2018-06-04T17:13:42+02:00
 readingtime: "10"
 draft: false

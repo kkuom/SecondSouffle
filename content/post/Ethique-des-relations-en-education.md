@@ -1,5 +1,6 @@
 ---
 title: "Éthique des relations en éducation"
+author: "Raphaël"
 date: 2018-01-08T13:11:33+01:00
 readingtime: "35"
 draft: false

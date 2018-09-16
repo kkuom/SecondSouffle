@@ -1,5 +1,6 @@
 ---
-title: "Éduquer est ignoble, K.R.Ä.T.Z.Ä."
+title: "Éduquer est ignoble (réédition)"
+author: "K.R.Ä.T.Z.Ä."
 date: 2018-06-05T13:15:20+02:00
 readingtime: "10"
 draft: false

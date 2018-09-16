@@ -1,5 +1,6 @@
 ---
 title: "Mettre fin à l'essentialisme"
+author: "Aviv & Thomas"
 date: 2018-01-09T15:16:55+01:00
 readingtime: "25"
 draft: false
