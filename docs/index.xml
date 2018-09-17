@@ -6,20 +6,10 @@
     <description>Recent content on Second Souffle</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Sep 2018 13:15:20 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 07 Jun 2018 15:16:55 +0100</lastBuildDate>
     
 	<atom:link href="https://kkuom.github.io/SecondSouffle/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title></title>
-      <link>https://kkuom.github.io/SecondSouffle/page/statuts/</link>
-      <pubDate>Thu, 13 Sep 2018 13:15:20 +0200</pubDate>
-      
-      <guid>https://kkuom.github.io/SecondSouffle/page/statuts/</guid>
-      <description>&lt;section class=&#34;intro&#34;&gt;
-Second Souffle a été déposé en 2018 en association loi 1901. Ci-dessous les statuts officiels.\</description>
-    </item>
     
     <item>
       <title>Il faut porter des masques de ski (réédition)</title>
@@ -111,6 +101,15 @@ Un arbre mystérieux transforme le mode de vie de tout un village d&#39;une sobr
       <guid>https://kkuom.github.io/SecondSouffle/2017/12/le-premier-souffle/</guid>
       <description>&lt;section class=&#34;intro&#34;&gt;
 Le Premier Souffle se veut être le postulat philosophique sur lequel le collectif se pose. Il est, si l&#39;on veut, la racine principale des textes fondateurs qui émergeront ensuite du collectif.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kkuom.github.io/SecondSouffle/page/statuts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kkuom.github.io/SecondSouffle/page/statuts/</guid>
+      <description>Second Souffle   function AfficherMasquer() { divSidebar = document.getElementById(&#39;sidebar&#39;); divInfo = document.getElementById(&#39;frontground&#39;); if (divSidebar.className == &#39;pushed&#39;) divInfo.style.display = &#39;block&#39;; else divInfo.style.display = &#39;none&#39;; }        Accueil    Catégories    Tags    Archive      À propos    Statuts    RSS          Second&amp;nbsp;Souffle&amp;nbsp;: collectif à direction collégiale</description>
     </item>
     
   </channel>
