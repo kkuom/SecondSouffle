@@ -595,8 +595,8 @@ pre.code-highlight>code {
     height: 55px;
     position: fixed;
     top: 0;
-    background-image: url('https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Post-header.jpg?raw=true');
-    color: #fff;
+    background: #f5f5f5;
+    color: #fa8072;
     box-shadow: 0 -15px 10px 15px rgba(0, 0, 0, .5);
     z-index: 200;
     -webkit-transition: -webkit-transform .25s ease-in-out
