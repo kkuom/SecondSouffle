@@ -627,12 +627,17 @@ pre.code-highlight>code {
     line-height: 1
   }
 
-  .btn-open-mail .fa-envelope-open, .btn-open-mail:hover .fa-envelope {
-    display: none;
+  .btn-open-mail i{
+  font-family: 'FontAwesome';
+  content: "\f0e0";
   }
-  .btn-open-mail:hover .fa-fa-envelope-open {
-    display: inline;
+
+  .btn-open-mail:focus i:before,
+  .btn-open-mail:hover i:before{
+  font-family: 'FontAwesome';
+  content: "\f2b6";
   }
+
 
   #header .header-right-icon, #header .header-right-picture {
     position: absolute;
