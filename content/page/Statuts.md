@@ -1,15 +1,14 @@
 ---
-title: ""
+title: "Statuts de Second Souffle"
 date: 2018-09-13T13:15:20+02:00
-draft: false
-metaAlignment: center
 
-showMeta: false
-showTags: false
-showPagination: false
-showSocial: false
-showDate: false
+keywords:
+- statuts
+- association
+- collectif
+
 comments: false
+showMeta: false
 ---
 {{< image classes="fig-50 center clear" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/SecondSouffle_LogoColor.png?raw=true" >}}\
 <div style="text-align:center;font-style:italic;margin:-20px 0 40px 0;font-size:1.8rem">Second&nbsp;Souffle&nbsp;: collectif à direction collégiale</div>
