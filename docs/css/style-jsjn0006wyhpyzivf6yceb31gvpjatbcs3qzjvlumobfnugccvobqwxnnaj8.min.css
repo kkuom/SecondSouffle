@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i&subset=latin-ext');
 @import url('https://fonts.googleapis.com/css?family=Love+Ya+Like+A+Sister');
 
-#about, #blog, #cover, body {
+#about, #statut, #blog, #cover, body {
   height: 100%;
   width: 100%
 }
@@ -25,11 +25,11 @@ dl dt, table th {
   font-weight: 700
 }
 
-#about, #blog, #cover, #header, body, pre>code, table {
+#about, #statut, #blog, #cover, #header, body, pre>code, table {
   width: 100%
 }
 
-#about, #sidebar {
+#about, #statut, #sidebar {
   background: rgba(17, 26, 35, 0)
 }
 
@@ -180,7 +180,7 @@ pre>code {
   font-size: 1.4rem
 }
 
-#about, #bottom-bar {
+#about, #statut, #bottom-bar {
   display: none;
   position: fixed
 }
@@ -280,7 +280,7 @@ pre.code-highlight>code {
   line-height: inherit
 }
 
-#about {
+#about, #statut {
   top: 0;
   left: 0;
   text-align: center;
