@@ -1,5 +1,6 @@
 ---
-title: ""
+title: "Statuts de Second Souffle"
+author: "Groupe de gouvernance"
 date: 2018-09-13T13:15:20+02:00
 draft: false
 metaAlignment: center
@@ -8,6 +9,10 @@ keywords:
 - statuts
 - association
 - collectif
+
+coverImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Post-header.jpg?raw=true
+coverMeta: in
+coverSize: partial
 
 comments: false
 showMeta: false
