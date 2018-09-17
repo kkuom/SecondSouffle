@@ -1,13 +1,6 @@
-<div id="statuts">
-  <div id="about-card">
-    <div id="about-btn-close">
-      <i class="fas fa-times"></i>
-    </div>
-    {{ with ($.Scratch.Get "authorPicture") }}
-      <img id="about-card-picture" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/SecondSouffle_LogoColor.png?raw=true" alt="{{ i18n "global.author_picture" }}" />
-    {{ end }}
-    <hr/>
-    <h4 id="about-card-name">Statuts de <i>Second Souffle<i></h4>
+<div>
+  <hr/>
+  <h4 id="about-card-name">Statuts de <i>Second Souffle<i></h4>
     <div>
       <i><b>Article 1&nbsp;:</b></i>&nbsp;<i>Constitution et dénomination</i><hr/>
       Il est fondé entre les adhérent‑e‑s aux présents statuts un collectif régi par la loi 1901, ayant pour
@@ -78,5 +71,4 @@
       <i><b>Article 13&nbsp;:</b></i>&nbsp;<i>Dissolution</i><hr/>
       En cas de dissolution, l’assemblée générale se prononcera sur la dévolution des biens, et nommera un‑e ou plusieurs liquidateur‑rice‑s chargé‑e‑s de la liquidation des biens.
     </div>
-  </div>
 </div>
