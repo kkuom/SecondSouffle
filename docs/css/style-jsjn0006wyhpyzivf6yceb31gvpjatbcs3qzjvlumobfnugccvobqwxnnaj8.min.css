@@ -1,9 +1,9 @@
-#2b2b2b@charset "UTF-8";
+@charset "UTF-8";
 @import url('https://fonts.googleapis.com/css?family=Libre+Baskerville:400,400i,700&subset=latin-ext');
 @import url('https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i&subset=latin-ext');
 @import url('https://fonts.googleapis.com/css?family=Love+Ya+Like+A+Sister');
 
-#about, #statuts, #blog, #cover, body {
+#about, #blog, #cover, body {
   height: 100%;
   width: 100%
 }
@@ -25,11 +25,11 @@ dl dt, table th {
   font-weight: 700
 }
 
-#about, #statuts, #blog, #cover, #header, body, pre>code, table {
+#about, #blog, #cover, #header, body, pre>code, table {
   width: 100%
 }
 
-#about, #statuts, #sidebar {
+#about, #sidebar {
   background: rgba(17, 26, 35, 0)
 }
 
@@ -180,7 +180,7 @@ pre>code {
   font-size: 1.4rem
 }
 
-#about, #statuts, #bottom-bar {
+#about, #bottom-bar {
   display: none;
   position: fixed
 }
