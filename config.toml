@@ -92,13 +92,6 @@ canonifyurls = true
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-rss-square\"></i>"
   url = "/index.xml"
 
-  [[menu.links]]
-    weight = 0
-    identifier = "contactmail"
-    name = "CONTACTEZ-NOUS"
-    pre = "<i class=\"sidebar-button-icon fas fa-lg fa-at\"></i>"
-    url = "mailto:secondsouffle@pm.me"
-
 [params]
   # Customize date format use to render blog post date, categories and other
   # You must use date format used by Go Time package https://golang.org/pkg/time/
