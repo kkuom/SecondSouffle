@@ -1,6 +1,8 @@
 ---
 title: ""
 date: 2018-09-13T13:15:20+02:00
+draft: false
+metaAlignment: center
 
 keywords:
 - statuts
