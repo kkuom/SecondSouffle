@@ -598,7 +598,9 @@ pre.code-highlight>code {
     background: #fff;
     color: #2b2b2b;
     font-size: 1.3rem;
-    border-bottom: 1px solid #eef2f8    z-index: 200;
+    border-bottom: 1px solid #eef2f8;
+    z-index: 200;
+    font-family: 'Lato', sans-serif;
     -webkit-transition: -webkit-transform .25s ease-in-out
   }
 
