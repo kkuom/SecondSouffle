@@ -619,6 +619,14 @@ pre.code-highlight>code {
     cursor: pointer
   }
 
+  #header #btn-open-mail {
+    position: absolute;
+    top: 20px;
+    left: 25px;
+    cursor: pointer;
+    line-height: 1
+  }
+
   #header .header-right-icon, #header .header-right-picture {
     position: absolute;
     top: 12.5px;
