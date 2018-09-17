@@ -1,7 +1,20 @@
-<div>
-  <hr/>
-  <h4 id="about-card-name">Statuts de <i>Second Souffle<i></h4>
-    <div>
+---
+title: ""
+date: 2018-09-13T13:15:20+02:00
+
+keywords:
+- statuts
+- association
+- collectif
+
+comments: false
+showMeta: false
+showTags: false
+showPagination: false
+showSocial: false
+showDate: false
+---
+<h4 id="about-card-name">Statuts de <i>Second Souffle<i></h4>
       <i><b>Article 1&nbsp;:</b></i>&nbsp;<i>Constitution et dénomination</i><hr/>
       Il est fondé entre les adhérent‑e‑s aux présents statuts un collectif régi par la loi 1901, ayant pour
       titre&nbsp;: <i>Second Souffle</i>.<hr/>
@@ -70,5 +83,3 @@
 
       <i><b>Article 13&nbsp;:</b></i>&nbsp;<i>Dissolution</i><hr/>
       En cas de dissolution, l’assemblée générale se prononcera sur la dévolution des biens, et nommera un‑e ou plusieurs liquidateur‑rice‑s chargé‑e‑s de la liquidation des biens.
-    </div>
-</div>
