@@ -1,16 +1,16 @@
 ---
-title: "Statuts de Second Souffle"
+title: "Statuts de l'association"
+author: "Second Souffle"
+date: 2018-09-17T15:30:38+02:00
 draft: false
 metaAlignment: center
 
-keywords:
-- statuts
-- association
-- collectif
+categories: ["statuts", "association"]
+tags: []
 
-coverImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/images/SecondSouffle_LogoColor.png?raw=true
-coverMeta: out
-coverSize: full
+coverImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Post-header.jpg?raw=true
+coverMeta: in
+coverSize: partial
 
 comments: false
 showMeta: false
@@ -22,6 +22,7 @@ showDate: false
 <section class="intro">
 <!--more-->
 </section>
+{{< image classes="fig-50 center clear" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/SecondSouffle_LogoColor.png?raw=true" >}}\
 <div style="text-align:center;font-style:italic;margin:-20px 0 40px 0;font-size:1.8rem">Second&nbsp;Souffle&nbsp;: collectif à direction collégiale</div>
 
 _**Article 1&nbsp;:**_ _Constitution et dénomination_\
