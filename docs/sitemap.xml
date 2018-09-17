@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://kkuom.github.io/SecondSouffle/page/statuts/</loc>
-    <lastmod>2018-09-17T15:30:38+02:00</lastmod>
+    <lastmod>2018-09-17T15:38:20+02:00</lastmod>
   </url>
   
   <url>
@@ -88,12 +88,6 @@
   </url>
   
   <url>
-    <loc>https://kkuom.github.io/SecondSouffle/categories/association/</loc>
-    <lastmod>2018-09-17T15:30:38+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://kkuom.github.io/SecondSouffle/tags/brochure/</loc>
     <lastmod>2018-06-07T15:16:55+01:00</lastmod>
     <priority>0</priority>
@@ -107,7 +101,6 @@
   
   <url>
     <loc>https://kkuom.github.io/SecondSouffle/categories/</loc>
-    <lastmod>2018-09-17T15:30:38+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -173,7 +166,7 @@
   
   <url>
     <loc>https://kkuom.github.io/SecondSouffle/page/</loc>
-    <lastmod>2018-09-17T15:30:38+02:00</lastmod>
+    <lastmod>2018-09-17T15:38:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -208,13 +201,13 @@
   </url>
   
   <url>
-    <loc>https://kkuom.github.io/SecondSouffle/categories/posture-%C3%A9ducative-et-%C3%A9thique/</loc>
+    <loc>https://kkuom.github.io/SecondSouffle/tags/posture-%C3%A9ducative-et-%C3%A9thique/</loc>
     <lastmod>2018-06-06T10:25:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kkuom.github.io/SecondSouffle/tags/posture-%C3%A9ducative-et-%C3%A9thique/</loc>
+    <loc>https://kkuom.github.io/SecondSouffle/categories/posture-%C3%A9ducative-et-%C3%A9thique/</loc>
     <lastmod>2018-06-06T10:25:20+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -232,13 +225,13 @@
   </url>
   
   <url>
-    <loc>https://kkuom.github.io/SecondSouffle/categories/r%C3%A9%C3%A9dition/</loc>
+    <loc>https://kkuom.github.io/SecondSouffle/tags/r%C3%A9%C3%A9dition/</loc>
     <lastmod>2018-06-07T15:16:55+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kkuom.github.io/SecondSouffle/tags/r%C3%A9%C3%A9dition/</loc>
+    <loc>https://kkuom.github.io/SecondSouffle/categories/r%C3%A9%C3%A9dition/</loc>
     <lastmod>2018-06-07T15:16:55+01:00</lastmod>
     <priority>0</priority>
   </url>
@@ -251,13 +244,7 @@
   
   <url>
     <loc>https://kkuom.github.io/SecondSouffle/</loc>
-    <lastmod>2018-09-17T15:30:38+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kkuom.github.io/SecondSouffle/categories/statuts/</loc>
-    <lastmod>2018-09-17T15:30:38+02:00</lastmod>
+    <lastmod>2018-09-17T15:38:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -304,13 +291,13 @@
   </url>
   
   <url>
-    <loc>https://kkuom.github.io/SecondSouffle/categories/%C3%A9ducation-%C3%A9thique/</loc>
+    <loc>https://kkuom.github.io/SecondSouffle/tags/%C3%A9ducation-%C3%A9thique/</loc>
     <lastmod>2018-06-06T10:25:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kkuom.github.io/SecondSouffle/tags/%C3%A9ducation-%C3%A9thique/</loc>
+    <loc>https://kkuom.github.io/SecondSouffle/categories/%C3%A9ducation-%C3%A9thique/</loc>
     <lastmod>2018-06-06T10:25:20+02:00</lastmod>
     <priority>0</priority>
   </url>
