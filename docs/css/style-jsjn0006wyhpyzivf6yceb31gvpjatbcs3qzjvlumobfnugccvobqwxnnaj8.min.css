@@ -628,13 +628,11 @@ pre.code-highlight>code {
   }
 
   .btn-open-mail i{
-  font-family: 'FontAwesome';
   content: "\f0e0";
   }
 
   .btn-open-mail:focus i:before,
   .btn-open-mail:hover i:before{
-  font-family: 'FontAwesome';
   content: "\f2b6";
   }
 
