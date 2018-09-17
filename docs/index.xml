@@ -6,10 +6,24 @@
     <description>Recent content on Second Souffle</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 Jun 2018 15:16:55 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 13 Sep 2018 13:15:20 +0200</lastBuildDate>
     
 	<atom:link href="https://kkuom.github.io/SecondSouffle/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>https://kkuom.github.io/SecondSouffle/page/statuts/</link>
+      <pubDate>Thu, 13 Sep 2018 13:15:20 +0200</pubDate>
+      
+      <guid>https://kkuom.github.io/SecondSouffle/page/statuts/</guid>
+      <description>Second&amp;nbsp;Souffle&amp;nbsp;: collectif à direction collégiale
+Article 1&amp;nbsp;: Constitution et dénomination
+Il est fondé entre les adhérent‑e‑s aux présents statuts un collectif régi par la loi 1901, ayant pour titre&amp;nbsp;: Second Souffle.
+Article 2&amp;nbsp;: Buts
+Second Souffle a pour buts fondamentaux&amp;nbsp;:
+1.&amp;nbsp;La mise en œuvre d’espaces mus par l’éthique, dans lesquels chaque personne adhère à un contrat social capable d’intégrer la diversité des volontés individuelles dans une volonté générale articulant individu‑e‑s et collectif.</description>
+    </item>
     
     <item>
       <title>Il faut porter des masques de ski (réédition)</title>
@@ -101,15 +115,6 @@ Un arbre mystérieux transforme le mode de vie de tout un village d&#39;une sobr
       <guid>https://kkuom.github.io/SecondSouffle/2017/12/le-premier-souffle/</guid>
       <description>&lt;section class=&#34;intro&#34;&gt;
 Le Premier Souffle se veut être le postulat philosophique sur lequel le collectif se pose. Il est, si l&#39;on veut, la racine principale des textes fondateurs qui émergeront ensuite du collectif.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://kkuom.github.io/SecondSouffle/page/statuts/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://kkuom.github.io/SecondSouffle/page/statuts/</guid>
-      <description>Second Souffle   function AfficherMasquer() { divSidebar = document.getElementById(&#39;sidebar&#39;); divInfo = document.getElementById(&#39;frontground&#39;); if (divSidebar.className == &#39;pushed&#39;) divInfo.style.display = &#39;block&#39;; else divInfo.style.display = &#39;none&#39;; }        Accueil    Catégories    Tags    Archive      À propos    Statuts    RSS          Second&amp;nbsp;Souffle&amp;nbsp;: collectif à direction collégiale</description>
     </item>
     
   </channel>
