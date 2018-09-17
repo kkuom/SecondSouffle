@@ -660,15 +660,15 @@ pre.code-highlight>code {
   @media (max-width: 480px) {
     #header .header-right-picture {
       display: block;
-      top: 16.5px
+      top: 11.5px
     }
 
     #header .header-right-picture .header-picture {
       display: block;
-      width: 91px;
-      height: 41px;
+      width: 75px;
+      height: 34px;
       background-image: url(https://github.com/kkuom/SecondSouffle/blob/master/docs/images/SecondSouffle_LogoHeaderSmall.png?raw=true);
-      background-size: 100% auto;
+      background-size: auto 100%;
       background-repeat: no-repeat
     }
   }
