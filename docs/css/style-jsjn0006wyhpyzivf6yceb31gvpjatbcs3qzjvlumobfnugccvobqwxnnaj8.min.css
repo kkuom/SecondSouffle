@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i&subset=latin-ext');
 @import url('https://fonts.googleapis.com/css?family=Love+Ya+Like+A+Sister');
 
-#about, #statut, #blog, #cover, body {
+#about, #statuts, #blog, #cover, body {
   height: 100%;
   width: 100%
 }
@@ -25,11 +25,11 @@ dl dt, table th {
   font-weight: 700
 }
 
-#about, #statut, #blog, #cover, #header, body, pre>code, table {
+#about, #statuts, #blog, #cover, #header, body, pre>code, table {
   width: 100%
 }
 
-#about, #statut, #sidebar {
+#about, #statuts, #sidebar {
   background: rgba(17, 26, 35, 0)
 }
 
@@ -180,7 +180,7 @@ pre>code {
   font-size: 1.4rem
 }
 
-#about, #statut, #bottom-bar {
+#about, #statuts, #bottom-bar {
   display: none;
   position: fixed
 }
@@ -280,7 +280,7 @@ pre.code-highlight>code {
   line-height: inherit
 }
 
-#about, #statut {
+#about, #statuts {
   top: 0;
   left: 0;
   text-align: center;
@@ -294,7 +294,7 @@ pre.code-highlight>code {
   overflow: auto
 }
 
-#about #about-card {
+#about #statuts #about-card {
   position: relative;
   top: -1000px;
   display: block;
@@ -308,7 +308,7 @@ pre.code-highlight>code {
   box-shadow: 0 0 5px rgba(0, 0, 0, .5)
 }
 
-#about #about-card #about-btn-close {
+#about #statuts #about-card #about-btn-close {
   position: absolute;
   top: 15px;
   right: 15px;
@@ -316,27 +316,27 @@ pre.code-highlight>code {
   cursor: pointer
 }
 
-#about #about-card #about-btn-close:hover {
+#about #statuts #about-card #about-btn-close:hover {
   color: #738691
 }
 
-#about #about-card #about-card-name {
+#about #statuts #about-card #about-card-name {
   margin-top: 10px;
   margin-bottom: 10px
 }
 
-#about #about-card #about-card-bio {
+#about #statuts #about-card #about-card-bio {
   padding: 0 30px;
   margin: 0 0 30px;
   color: #333
 }
 
-#about #about-card #about-card-job, #about #about-card #about-card-location {
+#about #statuts #about-card #about-card-job, #about #statuts #about-card #about-card-location {
   display: inline-block;
   vertical-align: top
 }
 
-#about #about-card #about-card-job, #about #about-card #about-card-location {
+#about #statuts #about-card #about-card-job, #about #statuts #about-card #about-card-location {
   font-size: 1.4rem;
   line-height: 1.2em;
   font-weight: 400;
@@ -353,22 +353,22 @@ pre.code-highlight>code {
 }
 
 @media only screen and (max-width:767px) {
-  #about #about-card {
+  #about #statuts #about-card {
     width: 90%
   }
 
-  #about #about-card #about-card-job, #about #about-card #about-card-location {
+  #about #statuts #about-card #about-card-job, #about #statuts #about-card #about-card-location {
     display: block;
     width: calc(100% - 60px);
     padding: 0 30px
   }
 
-  #about #about-card #about-card-picture {
+  #about #statuts #about-card #about-card-picture {
     width: 200px;
     height: auto
   }
 
-  #about #about-card #about-card-job {
+  #about #statuts #about-card #about-card-job {
     margin-bottom: 15px
   }
 
@@ -391,29 +391,29 @@ pre.code-highlight>code {
 }
 
 @media only screen and (min-width:768px) {
-  #about #about-card {
+  #about #statuts #about-card {
     width: 80%
   }
 
-  #about #about-card #about-card-picture {
+  #about #statuts #about-card #about-card-picture {
     width: 250px;
     max-width: 250px;
     height: auto
   }
 
-  #about #about-card #about-card-job, #about #about-card #about-card-location {
+  #about #statuts #about-card #about-card-job, #about #statuts #about-card #about-card-location {
     display: inline-block;
     width: calc((100% / 2) - 48px)
   }
 
-  #about #about-card #about-card-job {
+  #about #statuts #about-card #about-card-job {
     padding: 0 15px 0 30px;
     font-size: 1.2rem;
     text-align: left;
     color: #fa8072
   }
 
-  #about #about-card #about-card-location {
+  #about #statuts #about-card #about-card-location {
     padding: 0 30px 0 15px;
     font-size: 1.2rem;
     text-align: right;

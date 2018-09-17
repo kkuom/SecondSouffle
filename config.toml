@@ -80,11 +80,11 @@ canonifyurls = true
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-question\"></i>"
   url = "/#about"
 [[menu.misc]]
-      weight = 2
-      identifier ="Statuts"
-      name = "Statuts"
-      pre = "<i class=\"sidebar-button-icon fas fa-lg fa-file-alt\"></i>"
-      url = "/#statuts"
+  weight = 2
+  identifier ="statuts"
+  name = "Statuts"
+  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-file-alt\"></i>"
+  url = "/#statuts"
 [[menu.misc]]
   weight = 3
   identifier = "rss"
