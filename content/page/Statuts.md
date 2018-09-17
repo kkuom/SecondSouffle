@@ -1,14 +1,25 @@
 ---
-title: ""
+title: "Statuts de l'association"
 date: 2018-09-17T15:38:20+02:00
+draft: false
+metaAlignment: center
+
 categories: []
 tags: []
-keywords:
-- tech
-comments:       false
-showMeta:       false
-showActions:    false
+keywords: ["statuts", "association", "loi", "1901"]
+
+coverImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Post-header.jpg?raw=true
+coverMeta: in
+coverSize: partial
+
+showTags: false
+showPagination: false
+showSocial: false
+showDate: false
+showMeta: true
+comments: false
 ---
+{{< image classes="fig-50 center clear" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/SecondSouffle_LogoColor.png?raw=true" >}}\
 _**Article 1&nbsp;:**_ _Constitution et dénomination_\
 Il est fondé entre les adhérent‑e‑s aux présents statuts un collectif régi par la loi 1901, ayant pour
 titre&nbsp;: _Second Souffle_.\
