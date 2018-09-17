@@ -94,10 +94,10 @@ canonifyurls = true
 
   [[menu.links]]
     weight = 0
-    identifier = "mail"
+    identifier = "contactmail"
     name = "CONTACTEZ-NOUS"
     pre = "<i class=\"sidebar-button-icon fas fa-lg fa-at\"></i>"
-    url = "secondsouffle@pm.me"
+    url = "mailto:secondsouffle@pm.me"
 
 [params]
   # Customize date format use to render blog post date, categories and other
