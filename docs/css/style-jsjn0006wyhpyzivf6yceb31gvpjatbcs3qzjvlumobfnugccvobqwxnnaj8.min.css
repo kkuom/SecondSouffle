@@ -627,12 +627,11 @@ pre.code-highlight>code {
     line-height: 1
   }
 
-  .headermail {
-    content: "\f0e0";
+  .btn-open-mail .fa-envelope-open, .btn-open-mail:hover .fa-envelope {
+    display: none;
   }
-
-  .headermail:hover {
-      content: "\f2b6";
+  .btn-open-mail:hover .fa-fa-envelope-open {
+    display: inline;
   }
 
   #header .header-right-icon, #header .header-right-picture {
