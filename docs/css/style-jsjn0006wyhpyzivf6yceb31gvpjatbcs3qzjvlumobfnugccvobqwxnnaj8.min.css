@@ -622,7 +622,7 @@ pre.code-highlight>code {
   #header #btn-open-mail {
     position: absolute;
     top: 20px;
-    left: 112px;
+    left: 116px;
     cursor: pointer;
     line-height: 1
   }
@@ -665,9 +665,9 @@ pre.code-highlight>code {
 
     #header .header-right-picture .header-picture {
       display: block;
-      width: 210px;
-      height: 27px;
-      background-image: url(https://github.com/kkuom/SecondSouffle/blob/master/docs/images/SecondSouffle_LogoHeader.png?raw=true);
+      width: 91px;
+      height: 41px;
+      background-image: url(https://github.com/kkuom/SecondSouffle/blob/master/docs/images/SecondSouffle_LogoHeaderSmall.png?raw=true);
       background-size: 100% auto;
       background-repeat: no-repeat
     }
