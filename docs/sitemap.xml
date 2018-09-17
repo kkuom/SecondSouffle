@@ -48,6 +48,10 @@
   </url>
   
   <url>
+    <loc>https://kkuom.github.io/SecondSouffle/page/statuts/</loc>
+  </url>
+  
+  <url>
     <loc>https://kkuom.github.io/SecondSouffle/tags/absence-de-structure/</loc>
     <lastmod>2018-06-06T10:25:20+02:00</lastmod>
     <priority>0</priority>
@@ -156,6 +160,11 @@
   <url>
     <loc>https://kkuom.github.io/SecondSouffle/categories/organisation-des-luttes/</loc>
     <lastmod>2018-01-09T15:16:55+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kkuom.github.io/SecondSouffle/page/</loc>
     <priority>0</priority>
   </url>
   

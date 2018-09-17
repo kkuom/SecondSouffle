@@ -103,5 +103,14 @@ Un arbre mystérieux transforme le mode de vie de tout un village d&#39;une sobr
 Le Premier Souffle se veut être le postulat philosophique sur lequel le collectif se pose. Il est, si l&#39;on veut, la racine principale des textes fondateurs qui émergeront ensuite du collectif.</description>
     </item>
     
+    <item>
+      <title></title>
+      <link>https://kkuom.github.io/SecondSouffle/page/statuts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kkuom.github.io/SecondSouffle/page/statuts/</guid>
+      <description>{{ with ($.Scratch.Get &#34;authorPicture&#34;) }} {{ end }}  Statuts de Second Souffle  Article 1&amp;nbsp;:&amp;nbsp;Constitution et dénomination Il est fondé entre les adhérent‑e‑s aux présents statuts un collectif régi par la loi 1901, ayant pour titre&amp;nbsp;: Second Souffle. Article 2&amp;nbsp;:&amp;nbsp;Buts Second Souffle a pour buts fondamentaux&amp;nbsp;: 1.&amp;nbsp;La mise en œuvre d’espaces mus par l’éthique, dans lesquels chaque personne adhère à un contrat social capable d’intégrer la diversité des volontés individuelles dans une volonté générale articulant individu‑e‑s et collectif.</description>
+    </item>
+    
   </channel>
 </rss>
