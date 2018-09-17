@@ -57,32 +57,32 @@ canonifyurls = true
 [[menu.main]]
   weight = 2
   identifier = "categories"
-  name = "Catégories"
+  name = "CATÉGORIES"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-bookmark\"></i>"
   url = "/categories"
 [[menu.main]]
   weight = 3
   identifier = "tags"
-  name = "Tags"
+  name = "TAGS"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-tags\"></i>"
   url = "/tags"
 [[menu.main]]
   weight = 4
   identifier = "archives"
-  name = "Archives"
+  name = "ARCHIVES"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-archive\"></i>"
   url = "/archives"
 
 [[menu.misc]]
   weight = 1
   identifier = "à propos"
-  name = "À propos"
+  name = "À PROPOS"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-question\"></i>"
   url = "/#about"
 [[menu.misc]]
   weight = 2
   identifier ="Statuts"
-  name = "Statuts"
+  name = "STATUTS"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-file-alt\"></i>"
   url = "/page/statuts/"
 [[menu.misc]]

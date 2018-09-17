@@ -954,7 +954,7 @@ pre.code-highlight>code {
     }
 
     #sidebar[data-behavior="4"] ul.sidebar-buttons li.sidebar-button .sidebar-button-link .sidebar-button-icon, #sidebar[data-behavior="5"] ul.sidebar-buttons li.sidebar-button .sidebar-button-link .sidebar-button-icon, #sidebar[data-behavior="1"] ul.sidebar-buttons li.sidebar-button .sidebar-button-link .sidebar-button-icon, #sidebar[data-behavior="2"] ul.sidebar-buttons li.sidebar-button .sidebar-button-link .sidebar-button-icon {
-      font-size: 2.2rem;
+      font-size: 2rem;
       display: inline-block;
       text-align: center;
       width: 30px;
@@ -970,7 +970,7 @@ pre.code-highlight>code {
       width: auto;
       height: 35px;
       line-height: 35px;
-      font-size: 1.7rem;
+      font-size: 1.45rem;
       letter-spacing: 0.1rem;
       vertical-align: middle
     }
@@ -1127,7 +1127,7 @@ pre.code-highlight>code {
       width: auto;
       height: 35px;
       line-height: 35px;
-      font-size: 1.5rem;
+      font-size: 1.45rem;
       letter-spacing: .3px;
       vertical-align: middle
     }
@@ -1344,7 +1344,7 @@ pre.code-highlight>code {
       width: auto;
       height: 35px;
       line-height: 35px;
-      font-size: 1.5rem;
+      font-size: 1.45rem;
       letter-spacing: .3px;
       vertical-align: middle
     }
@@ -1747,7 +1747,7 @@ pre.code-highlight>code {
       width: auto;
       height: 35px;
       line-height: 35px;
-      font-size: 1.5rem;
+      font-size: 1.45rem;
       letter-spacing: .3px;
       vertical-align: middle
     }
@@ -4300,7 +4300,7 @@ pre.code-highlight>code {
 
   #filter-form {
     padding: 0px 10px 0px 10px;
-    border-radius: 0px 5px 5px 0px;
+    border-radius: 0px 0px 20px 0px;
     background-color: #f5f5f5;
     border-left: 5px solid #fa8072
   }
