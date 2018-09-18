@@ -1883,7 +1883,7 @@ pre.code-highlight>code {
     position: absolute;
     top: 0.5em;
     left: 0.75em;
-    font-family: FontAwesome;
+    font-family: Font Awesome\ 5 Free;
     font-size: 2.5rem
   }
 
@@ -1965,7 +1965,7 @@ pre.code-highlight>code {
   }
 
   .archive .archive-posts .archive-post::before {
-    font-family: FontAwesome;
+    font-family: Font Awesome\ 5 Free;
     content: '\f0da';
     font-size: 1.3rem;
     color: #fa8072
