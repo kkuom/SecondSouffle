@@ -180,6 +180,10 @@ pre>code {
   font-size: 1.4rem
 }
 
+#about {
+  overflow: auto
+}
+
 #about, #bottom-bar {
   display: none;
   position: fixed
