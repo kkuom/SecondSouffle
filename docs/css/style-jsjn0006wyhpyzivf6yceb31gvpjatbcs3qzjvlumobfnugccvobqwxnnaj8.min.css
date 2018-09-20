@@ -667,17 +667,6 @@ pre.code-highlight>code {
     color: #fa8072
   }
 
-  #btn-mail-content-arrow {
-    width:0;
-    height:0;
-    border:5px solid transparent;
-    border-top:none;
-    border-bottom:5px solid black;
-    position:absolute;
-    top:-5px;
-    left:20px;
-  }
-
   #header .header-right-icon, #header .header-right-picture {
     position: absolute;
     top: 12.5px;
