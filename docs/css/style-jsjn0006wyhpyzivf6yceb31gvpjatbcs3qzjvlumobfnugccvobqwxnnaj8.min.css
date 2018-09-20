@@ -647,18 +647,17 @@ pre.code-highlight>code {
   }
 
   .btn-mail-content {
+    font-family: 'Lato', sans-serif;
     display: none;
     position: absolute;
-    color: #5d686f;
-    background-color: #f5f5f5;
-    max-width: 400px;
-    text-align: left;
+    color: #fff;
+    background-color: #2b2b2b;
+    border-radius: 4px;
     font-size: 1.4rem;
-    line-height: 2rem;
-    box-shadow: 0px 2px 8px 0px rgba(0, 0, 0, 0.2);
-    padding: 5px;
-    z-index: 1;
-    margin-right: 20px
+    padding: 4px 8px;
+    z-index: 100;
+    margin-top: 5px;
+    margin-left: -68px
   }
 
   #btn-mail:focus i:before,
