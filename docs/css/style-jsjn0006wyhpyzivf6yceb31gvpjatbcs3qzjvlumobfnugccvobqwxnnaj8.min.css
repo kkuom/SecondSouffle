@@ -633,18 +633,19 @@ pre.code-highlight>code {
     line-height: 1
   }
 
-  .btn-mail {
+  #btn-mail {
     display: inline-block;
+  }
+
+  #btn-mail i{
+    content: "\f0e0";
+    color: #2b2b2b
+  }
+
+  #btn-mail:focus i:before,
+  #btn-mail:hover i:before  {
+    content: "\f2b6";
     color: #fa8072
-  }
-
-  .btn-mail i{
-  content: "\f0e0";
-  }
-
-  .btn-mail:focus i:before,
-  .btn-mail:hover i:before{
-  content: "\f2b6";
   }
 
   .btn-mail-content {
@@ -663,7 +664,7 @@ pre.code-highlight>code {
   }
 
   .btn-mail:hover .btn-mail-content {
-    display: block;
+    display: block
   }
 
   #header .header-right-icon, #header .header-right-picture {
