@@ -356,7 +356,8 @@ pre.code-highlight>code {
 
 @media only screen and (max-width:767px) {
   #about #about-card {
-    width: 90%
+    width: 90%;
+    margin: auto
   }
 
   #about #about-card #about-card-job, #about #about-card #about-card-location {
@@ -401,7 +402,8 @@ pre.code-highlight>code {
 
 @media only screen and (min-width:768px) {
   #about #about-card {
-    width: 80%
+    width: 80%;
+    margin: auto
   }
 
   #about #about-card #about-card-picture {
