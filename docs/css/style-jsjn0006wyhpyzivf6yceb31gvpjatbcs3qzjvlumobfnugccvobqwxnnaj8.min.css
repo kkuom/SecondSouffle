@@ -625,7 +625,7 @@ pre.code-highlight>code {
     cursor: pointer
   }
 
-  #header #btn-open-mail {
+  #header #btn-mail {
     position: absolute;
     top: 20px;
     left: 116px;
@@ -633,15 +633,38 @@ pre.code-highlight>code {
     line-height: 1
   }
 
-  .btn-open-mail i{
+  .btn-mail {
+    display: inline-block;
+    color: #fa8072
+  }
+
+  .btn-mail i{
   content: "\f0e0";
   }
 
-  .btn-open-mail:focus i:before,
-  .btn-open-mail:hover i:before{
+  .btn-mail:focus i:before,
+  .btn-mail:hover i:before{
   content: "\f2b6";
   }
 
+  .btn-mail-content {
+    display: none;
+    position: absolute;
+    color: #5d686f;
+    background-color: #f5f5f5;
+    max-width: 400px;
+    text-align: left;
+    font-size: 1.4rem;
+    line-height: 2rem;
+    box-shadow: 0px 2px 8px 0px rgba(0, 0, 0, 0.2);
+    padding: 5px;
+    z-index: 1;
+    margin-right: 20px
+  }
+
+  .btn-mail:hover .btn-mail-content {
+    display: block;
+  }
 
   #header .header-right-icon, #header .header-right-picture {
     position: absolute;
