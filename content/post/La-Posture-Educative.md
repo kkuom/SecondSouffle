@@ -1,7 +1,7 @@
 ---
 title: "La posture éducative - Punition, Sanction, Autorité & Cadre"
 author: "Aviv & Thomas"
-date: 2018-06-06T10:25:20+02:00
+date: 2018-08-06T10:25:20+02:00
 readingtime: "120"
 draft: false
 metaAlignment: center
