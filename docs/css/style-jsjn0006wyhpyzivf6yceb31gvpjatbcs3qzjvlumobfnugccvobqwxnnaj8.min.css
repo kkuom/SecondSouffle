@@ -633,7 +633,7 @@ pre.code-highlight>code {
     line-height: 1
   }
 
-  .popupMail a span{
+  #mailpopup a span{
        position:absolute;
        margin-top:23px;
        margin-left:-35px;
@@ -647,7 +647,7 @@ pre.code-highlight>code {
        opacity:0
   }
 
-  .popupMail a:hover span, a:focus span{
+  #mailpopup a:hover span, a:focus span{
        transform:scale(1) rotate(0);
        opacity:1
   }
