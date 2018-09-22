@@ -642,11 +642,11 @@ pre.code-highlight>code {
     color: #2b2b2b
   }
 
-  #btn-mail:hover .btn-mail-content {
+  #btn-mail:hover .button-mail-popup-content {
     display: block
   }
 
-  .btn-mail-content {
+  .button-mail-popup-content {
     font-family: 'Lato', sans-serif;
     display: none;
     position: absolute;
