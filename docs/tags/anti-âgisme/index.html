@@ -88,7 +88,7 @@
 <i id="btn-open-sidebar" class="far fa-map" style="font-size:1.7rem"><span id="headerSidebar"> MENU</span></i>
 
 <input type="readonly" value="secondsouffle@pm.me" id="myInput" style="height:0px;width=0px;opacity:0;position:absolute;margin-left:-1000px">
-<button class="far fa-envelope" id="buttonMail" onclick="copyMailAdress();changeTextPopup();changeClassPopup();setTimeout(fadeoutPopup, 5000);" style="border:none;background-color:#fff;text-align:center;font-size:1.7rem">
+<button class="far fa-envelope" id="buttonMail" onclick="copyMailAdress();changeTextPopup();changeClassPopup()" style="border:none;background-color:#fff;text-align:center;font-size:1.7rem">
   <span id="buttonMailPopup">
     <span id="buttonMailPopupContent">Clique pour copier le mail</span>
   </span>
@@ -106,9 +106,6 @@
   function changeClassPopup(){
     document.getElementById("buttonMailPopupContent").id = "buttonMailPopupContentClicked";
   }
-  function fadeoutPopup(){
-    document.getElementById('buttonMailPopupContentClicked').id = 'buttonMailPopupContentOut';
-  }, 2500);
 </script>
 
   

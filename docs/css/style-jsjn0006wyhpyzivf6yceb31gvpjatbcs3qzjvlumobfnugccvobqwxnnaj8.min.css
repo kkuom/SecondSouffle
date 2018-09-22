@@ -689,20 +689,6 @@ pre.code-highlight>code {
     content:"\f164";
     color: #fff
   }
-
-  #buttonMailPopupContentOut {
-    font-family: 'Lato', sans-serif;
-    display: block;
-    position: fixed;
-    color: #fff;
-    background-color: #fa8072;
-    border-radius: 4px;
-    font-size: 1.25rem;
-    line-height: 1.6rem;
-    padding: 4px 8px;
-    z-index: 100;
-    opacity:0
-  }
   
   #header .header-right-icon, #header .header-right-picture {
     position: absolute;
