@@ -101,37 +101,11 @@ La K.R.Ä.T.Z.Ä est un collectif de Berlinois anti-âgiste qui s&#39;est attaqu
   <span><span class="btn-mail-popup-content">Clique pour copier le mail</span></span>
 </button>
 
-<div id="mailModal" class="modal">
-  <div class="modal-content">
-    <div class="modal-header">
-      <span class="closemailModal">&times;</span>
-      <h2>secondsouffle@pm.me !</h2>
-    </div>
-    <div class="modal-body">
-      <p>On attend ton mail avec impatience  !</p>
-    </div>
-  </div>
-</div>
-
 <script>
   function myFunction() {
     var copyText = document.getElementById("myInput");
     copyText.select();
     document.execCommand("copy");
-    }
-    var modal = document.getElementById('mailModal');
-    var btn = document.getElementById("btn-mail");
-    var span = document.getElementsByClassName("closemailModal")[0];
-    btn.onclick = function() {
-        modal.style.display = "block";
-    }
-    span.onclick = function() {
-        modal.style.display = "none";
-    }
-    window.onclick = function(event) {
-      if (event.target == modal) {
-          modal.style.display = "none";
-      }
     }
 </script>
 
