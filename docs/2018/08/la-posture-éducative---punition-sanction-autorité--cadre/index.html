@@ -104,11 +104,16 @@ Ce texte aborde la question centrale de la posture éducative. Par une clarifica
   <span><span class="btn-mail-popup-content">Clique pour copier le mail</span></span>
 </button>
 
-<script>
+<script type="text/javascript">
   function myFunction() {
     var copyText = document.getElementById("myInput");
     copyText.select();
     document.execCommand("copy");
+    }
+</script>
+<script type="text/javascript">
+    $('#btn-mail').click(function() {
+      $('#btn-mail > span > span').text("On attend ton mail !");
     }
 </script>
 
