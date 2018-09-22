@@ -674,7 +674,7 @@ pre.code-highlight>code {
 
   #buttonMailPopupContentClicked {
     font-family: 'Lato', sans-serif;
-    display: block;
+    display: none;
     position: fixed;
     color: #fff;
     background-color: #fa8072;
@@ -687,7 +687,7 @@ pre.code-highlight>code {
 
   #buttonMailPopupContentClicked::after {
     font-family: Font Awesome\ 5 Free;
-    content:"\f599";
+    content:"\f164";
     color: #fff;
     margin-left: 5px
   }
