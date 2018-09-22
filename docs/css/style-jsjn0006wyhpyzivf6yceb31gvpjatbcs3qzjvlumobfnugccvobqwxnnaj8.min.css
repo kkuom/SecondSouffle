@@ -661,8 +661,7 @@ pre.code-highlight>code {
     font-size: 1.25rem;
     line-height: 1.6rem;
     padding: 4px 8px;
-    z-index: 100;
-    transition:opacity 500ms;
+    z-index: 100
   }
 
   #buttonMailPopupContent::after {
