@@ -97,7 +97,7 @@ En un temps où les enfants avaient des ailes, Alix se pose des questions sur un
 <i id="btn-open-sidebar" class="far fa-map" style="font-size:1.7rem"><span id="headerSidebar"> MENU</span></i>
 
 <input type="readonly" value="secondsouffle@pm.me" id="myInput" style="height:0px;width=0px;opacity:0;position:absolute;margin-left:-1000px">
-<button class="far fa-envelope" id="buttonMail" onclick="copyMailAdress();changeTextPopup()" style="border:none;background-color:#fff;text-align:center;font-size:1.7rem">
+<button class="far fa-envelope" id="buttonMail" onclick="copyMailAdress();changeTextPopup();changeClassPopup()" style="border:none;background-color:#fff;text-align:center;font-size:1.7rem">
   <span id="buttonMailPopup">
     <span id="buttonMailPopupContent">Clique pour copier le mail</span>
   </span>
@@ -111,6 +111,9 @@ En un temps où les enfants avaient des ailes, Alix se pose des questions sur un
   }
   function changeTextPopup(){
 	   document.getElementById('buttonMailPopupContent').innerHTML = 'On attend ton mail !';
+  }
+  function changeClassPopup(){
+    document.getElementById("buttonMailPopupContent").className = "buttonMailPopupContentClicked";
   }
 </script>
 
