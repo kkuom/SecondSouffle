@@ -643,6 +643,14 @@ pre.code-highlight>code {
     margin-left: 6px
   }
 
+  #buttonMail:hover {
+    color: #fa8072
+  }
+
+  #buttonMail:active {
+    color: #fa8072
+  }
+
   #buttonMail:hover #buttonMailPopupContent {
     display: block
   }
