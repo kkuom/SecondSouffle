@@ -637,6 +637,12 @@ pre.code-highlight>code {
     display: inline-block;
   }
 
+  #buttonMailPopup {
+    position: absolute;
+    margin-top: -3px;
+    margin-left: 6px
+  }
+
   #buttonMail:hover #buttonMailPopupContent {
     display: block
   }
@@ -652,8 +658,6 @@ pre.code-highlight>code {
     line-height: 1.6rem;
     padding: 4px 8px;
     z-index: 100;
-    margin-top: 6px;
-    margin-left: -70.5px
   }
 
   #header .header-right-icon, #header .header-right-picture {
