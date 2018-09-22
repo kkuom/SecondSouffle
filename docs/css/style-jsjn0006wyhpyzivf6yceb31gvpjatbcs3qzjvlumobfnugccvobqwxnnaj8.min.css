@@ -635,19 +635,11 @@ pre.code-highlight>code {
 
   #buttonMail {
     display: inline-block;
+    border:none;
+    background-color:#fff;
+    text-align:center;
+    font-size:1.7rem
   }
-
-  .envelop:before {
-   font-family: Font Awesome\ 5 Free;
-   content:"\f0e0";
-   color: #2b2b2b
-  }
-
-  .envelope:hover:before {
-    font-family: Font Awesome\ 5 Free;
-    content:"\f2b6";
-    color: #fa8072
-   }
 
   #buttonMailPopup {
     position: absolute;
