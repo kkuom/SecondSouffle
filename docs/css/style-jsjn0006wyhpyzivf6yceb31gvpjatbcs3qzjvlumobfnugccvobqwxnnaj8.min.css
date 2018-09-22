@@ -643,7 +643,11 @@ pre.code-highlight>code {
     margin-left: 6px
   }
 
-  #buttonMail:hover #buttonMailPopupContent #buttonMailPopupContentClicked {
+  #buttonMail:hover #buttonMailPopupContent {
+    display: block
+  }
+
+  #buttonMail:hover #buttonMailPopupContentClicked {
     display: block
   }
 
@@ -658,16 +662,18 @@ pre.code-highlight>code {
     line-height: 1.6rem;
     padding: 4px 8px;
     z-index: 100;
+    transition:opacity 500ms;
   }
 
   #buttonMailPopupContent:before {
+    font-family: Font Awesome\ 5 Free;
     content:"\f0c5";
-    color: #fa8072
+    color: #fff
   }
 
   #buttonMailPopupContentClicked {
     font-family: 'Lato', sans-serif;
-    display: none;
+    display: block;
     position: fixed;
     color: #fff;
     background-color: #fa8072;
@@ -676,9 +682,11 @@ pre.code-highlight>code {
     line-height: 1.6rem;
     padding: 4px 8px;
     z-index: 100;
+    opacity:0;
   }
 
   #buttonMailPopupContentClicked:before {
+    font-family: Font Awesome\ 5 Free;
     content:"\f164";
     color: #fff
   }
