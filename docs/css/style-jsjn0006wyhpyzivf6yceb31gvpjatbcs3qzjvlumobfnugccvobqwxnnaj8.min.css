@@ -625,7 +625,7 @@ pre.code-highlight>code {
     cursor: pointer
   }
 
-  #header #btn-mail {
+  #header #buttonMail {
     position: absolute;
     top: 20px;
     left: 116px;
@@ -633,15 +633,15 @@ pre.code-highlight>code {
     line-height: 1
   }
 
-  #btn-mail {
+  #buttonMail {
     display: inline-block;
   }
 
-  #btn-mail:hover .btn-mail-popup-content {
+  #buttonMail:hover #buttonMailPopupContent {
     display: block
   }
 
-  .btn-mail-popup-content {
+  #buttonMailPopupContent {
     font-family: 'Lato', sans-serif;
     display: none;
     position: fixed;
