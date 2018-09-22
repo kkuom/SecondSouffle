@@ -665,10 +665,11 @@ pre.code-highlight>code {
     transition:opacity 500ms;
   }
 
-  #buttonMailPopupContent:before {
+  #buttonMailPopupContent::after {
     font-family: Font Awesome\ 5 Free;
     content:"\f0c5";
-    color: #fff
+    color: #fff;
+    margin-left: 5px
   }
 
   #buttonMailPopupContentClicked {
@@ -684,12 +685,13 @@ pre.code-highlight>code {
     z-index: 100;
   }
 
-  #buttonMailPopupContentClicked:before {
+  #buttonMailPopupContentClicked::after {
     font-family: Font Awesome\ 5 Free;
-    content:"\f164";
-    color: #fff
+    content:"\f599";
+    color: #fff;
+    margin-left: 5px
   }
-  
+
   #header .header-right-icon, #header .header-right-picture {
     position: absolute;
     top: 12.5px;
