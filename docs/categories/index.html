@@ -421,8 +421,13 @@
   </script>
 <i id="btn-open-sidebar" class="far fa-map" style="font-size:1.7rem"><span id="headerSidebar"> MENU</span></i>
 
-<input type="readonly" value="secondsouffle@pm.me" id="myInput" style="height:0px;width=0px;opacity:0;position:relative">
-<button onclick="myFunction()" class="far fa-envelope"></button>
+<input type="readonly" value="secondsouffle@pm.me" id="myInput" style="height:0px;width=0px;opacity:0;position:absolute;margin-left:-1000px">
+<button id="btn-mail" onclick="myFunction()" class="far fa-envelope" style="border:none;background-color:#fff;font-size:1.7rem">
+  <span id="btn-mail" class="btn-mail" >
+      <i class="far fa-envelope"><span class="btn-mail-content">Clique pour copier le mail</span></i>
+  </span>
+</button>
+
 <script>
   function myFunction() {
     var copyText = document.getElementById("myInput");
@@ -431,14 +436,6 @@
     alert("Copied the text: " + copyText.value);
   }
 </script>
-
-
-<span id="btn-mail" class="btn-mail" >
-    <i class="far fa-envelope">
-      <span class="btn-mail-content"><a href="mailto:secondsouffle@pm.me" style="color:#fff">secondsouffle@pm.me</a></span>
-    </i>
-</span>
-
 
   
     
