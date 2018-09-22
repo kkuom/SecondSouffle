@@ -101,13 +101,12 @@ Le roi des lutunes et deux de ses sujets en ont un jour eu assez de laver eux-m√
   <span><span class="btn-mail-popup-content">Clique pour copier le mail</span></span>
 </button>
 
-<script>
+<script type="text/javascript">
   function myFunction() {
     var copyText = document.getElementById("myInput");
     copyText.select();
     document.execCommand("copy");
-    var element = document.getElementByClassName("btn-mail-popup-content");
-    element.innerHTML("On attend ton mail !");
+  	document.getElementByClassName('btn-mail-popup-content').innerHTML = 'On attend ton mail !';
     }
 </script>
 

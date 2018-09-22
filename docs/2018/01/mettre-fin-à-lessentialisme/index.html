@@ -101,13 +101,12 @@ L&#39;essentialisme et la morale sont ici attaqués à leur base. Ce papier dév
   <span><span class="btn-mail-popup-content">Clique pour copier le mail</span></span>
 </button>
 
-<script>
+<script type="text/javascript">
   function myFunction() {
     var copyText = document.getElementById("myInput");
     copyText.select();
     document.execCommand("copy");
-    var element = document.getElementByClassName("btn-mail-popup-content");
-    element.innerHTML("On attend ton mail !");
+  	document.getElementByClassName('btn-mail-popup-content').innerHTML = 'On attend ton mail !';
     }
 </script>
 
