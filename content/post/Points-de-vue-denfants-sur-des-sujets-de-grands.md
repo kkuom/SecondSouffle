@@ -1,5 +1,5 @@
 ---
-title: "Points de vue d'enfants sur des sujets de « grands »"
+title: "Points de vue d'enfants sur des sujets de 'grands'"
 date: 2018-09-24T17:52:13+02:00
 readingtime: "25"
 draft: false
@@ -22,7 +22,8 @@ showDate: true
 comments: true
 ---
 <section class="intro">
-Ce que trois enfants ont à dire lorsqu’elles expérimentent, en colonie de vacances, un cadre qui se veut le plus éthique possible.
+Ce que trois enfants ont à dire lorsqu’elles expérimentent, en colonie de vacances, un cadre qui se veut le plus éthique possible.\
+
 On découvre ainsi une discussion d’enfants philosophes, qui cheminent parmi des concepts tels que la liberté, la confiance, le consentement, la responsabilité, l’oppression âgiste ou encore l’individualité.
 <!--more-->
 <hr class="intro-divider">
@@ -67,7 +68,7 @@ Pour préciser le cadre de cette colonie, elle part d’un projet porté par plu
 
 À la suite de la discussion, vous trouverez une analyse qui revient sur la perception et les propos des jeunes, avec un éclairage contextuel et une évaluation du travail qui a été fait par l’équipe pédagogique et les vacanciers, et la portée que ce dernier a pu avoir auprès de chacun et chacune.\
 
-{{< image classes="fig-75 center clear" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Articles/Points-de-vue-denfants-sur-des-sujets-de-grands.png?raw=true" >}}\
+{{< image classes="center clear" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Articles/Points-de-vue-denfants-sur-des-sujets-de-grands.png?raw=true" >}}\
 
 <table><tr><td style="background-color:#2b2b2b; color:#fff; text-align:justify">
 <i class="fas fa-info-circle fa-sm" style="padding-right:7.5px"></i><b>Nous ne publions pas le fichier audio en raison de sa qualité très médiocre (enregistrement dans une voiture avec un mauvais micro). Toutefois, n’hésitez pas à prendre contact avec nous si vous désirez l’acquérir. Chaque personne impliquée dans cette conversation a donné son autorisation.\
@@ -123,8 +124,8 @@ La transcription a été faite par <i>Second Souffle</i> le plus fidèlement pos
 <span style="color:#861c1a">[C]&emsp;Et aussi par exemple les limites offensives et défensives, c’est à peu près trois quarts de toutes les règles.</span>\
 <span style="color:#6b615b">[R]&emsp;Ouais, tu veux dire les trois quarts de toutes les règles qu’on a sur la colonie sont basée là-dessus&nbsp;?</span>\
 <span style="color:#861c1a">[C]&emsp;Oui, c’est par exemple&nbsp;: si tu voles quelque chose et ben si la personne à qui t’as volé est d’accord et s’en fout, c’est pas si grave. Alors que si elle se plaint, c’est plus grave.</span>\
-<span style="color:#6b615b">[R]&emsp;Il y a une limite quand même à ça, c’est qu’il faut que l’ambiance soit suffisamment… enfin qu’il y ait suffisamment de confiance parmi les gens pour que les gens se sentent libres d’exprimer leurs limites. Parce que parfois on dit «<i>&nbsp;oh, mais c’est bon, elle a rien dit, elle a pas dit qu’elle était pas d’accord&nbsp;</i>», mais si l’ambiance ne permet pas à chacun d’exprimer ses limites défensives, alors le résultat est biaisé. On se dirait&nbsp;: mais de toute façon elle a rien dit, et puis voilà. Il faut aussi réfléchir à l’ambiance du groupe et à la confiance qu’ont les personnes les unes envers les autres. D’animateurs à enfants, d’enfants à animateurs, d’animateurs à animateurs et d’enfants à enfants.</span>\
-<span style="color:#309589">[F]&emsp;Sur la confiance, c’est ce que je disais l’autre jour, le fait de nous faire confiance, le fait de se coucher à l’heure qu’on veut et tout… ça me donne plus de confiance pour dire des choses aux animateurs. Par exemple, si quelqu’un a cassé quelque chose sans le faire exprès (ça peut arriver n’importe comment) le fait qu’on sache que vous n’allez pas dire&nbsp;: «<i>&nbsp;oh non, là tu l’as fait exprès…&nbsp;</i>», alors que c’était un accident, ça nous met plus en confiance. On peut vous dire les trucs et tout, tandis que quand c’est plus strict, on a l’impression qu’ils ne vont pas nous faire confiance.</span>\
+<span style="color:#6b615b">[R]&emsp;Il y a une limite quand même à ça, c’est qu’il faut que l’ambiance soit suffisamment… enfin qu’il y ait suffisamment de confiance parmi les gens pour que les gens se sentent libres d’exprimer leurs limites. Parce que parfois on dit «<i>&nbsp;Oh, mais c’est bon, elle a rien dit, elle a pas dit qu’elle était pas d’accord&nbsp;</i>», mais si l’ambiance ne permet pas à chacun d’exprimer ses limites défensives, alors le résultat est biaisé. On se dirait&nbsp;: mais de toute façon elle a rien dit, et puis voilà. Il faut aussi réfléchir à l’ambiance du groupe et à la confiance qu’ont les personnes les unes envers les autres. D’animateurs à enfants, d’enfants à animateurs, d’animateurs à animateurs et d’enfants à enfants.</span>\
+<span style="color:#309589">[F]&emsp;Sur la confiance, c’est ce que je disais l’autre jour, le fait de nous faire confiance, le fait de se coucher à l’heure qu’on veut et tout… ça me donne plus de confiance pour dire des choses aux animateurs. Par exemple, si quelqu’un a cassé quelque chose sans le faire exprès (ça peut arriver n’importe comment) le fait qu’on sache que vous n’allez pas dire&nbsp;: «<i>&nbsp;Oh non, là tu l’as fait exprès…&nbsp;</i>», alors que c’était un accident, ça nous met plus en confiance. On peut vous dire les trucs et tout, tandis que quand c’est plus strict, on a l’impression qu’ils ne vont pas nous faire confiance.</span>\
 <span style="color:#6b615b">[R]&emsp;Qu’est-ce qui se passe d’habitude quand tu casses un truc&nbsp;?</span>\
 <span style="color:#861c1a">[C]&emsp;T’as peur de le dire.</span>\
 <span style="color:#309589">[F]&emsp;Si t’as pas fait exprès et que tu te fais engueuler, c’est pas chouette. Et puis au contraire, c’est mieux de le dire, ça te met plus en confiance.</span>\
@@ -133,17 +134,17 @@ La transcription a été faite par <i>Second Souffle</i> le plus fidèlement pos
 <span style="color:#6b615b">[R]&emsp;Les papotages du soir…</span>\
 <span style="color:#861c1a">[C]&emsp;Ah ouais, ça c’est trop bien&nbsp;! Mais par exemple, je ne sais plus si c’était dimanche ou lundi, j’ai dit quelque chose à Aviv que genre j’avais dit à personnes parce que je ne m’en étais pas encore rendu compte. Et en fait quand il m’a expliqué de chercher ce qui nous dérangeait, par exemple si quelqu’un te traite de je ne sais quoi ou quelque chose de raciste ou un truc dans le genre et que toi ça te gêne pas c’est pas grave. Mais y a des endroits où on est plus sensible que d’autres, comme l’histoire qu’il y a eu quand on est arrivé et du coup j’ai compris que moi ça me gênait pas que certaines personnes m’insultent tant que c’est pas mon cousin parce qu’avec mon cousin j’ai une sorte de protection, c’est comme si, parce que j’avais toujours rêvé d’avoir un grand frère et qu’il est comme mon grand frère, quand c’est lui qui m’insulte, ça me fait beaucoup plus mal que quelqu’un d’autre.</span>\
 <span style="color:#309589">[F]&emsp;Ce qui est bien aussi c’est genre, vous nous engueulez pas trop, mais vous nous parlez franchement. Quand on fait quelque chose de pas forcément bien, vous le dites, mais pas genre en nous engueulant. Vous nous expliquez bien comme on se disait tout à l’heure les conséquences… c’est dit, mais genre pas violemment. Parce que quand c’est dit brutalement on est plus concentré sur le fait de se faire engueuler que sur l’explication. Tandis que le fait de parler plus sympathiquement, c’est beaucoup mieux. On a plus l’impression que c’est effectivement une explication, qu’une engueulade.</span>\
-<span style="color:#861c1a">[C]&emsp;Je voulais dire un truc, en fait, comme vous nous donnez plus de confiance, nous on en a plus envers vous, on se dit&nbsp;: «<i>&nbsp;bah ils nous font confiance, on peut avoir confiance en eux&nbsp;</i>» donc c’est cool.</span>\
+<span style="color:#861c1a">[C]&emsp;Je voulais dire un truc, en fait, comme vous nous donnez plus de confiance, nous on en a plus envers vous, on se dit&nbsp;: «<i>&nbsp;Bah ils nous font confiance, on peut avoir confiance en eux&nbsp;</i>» donc c’est cool.</span>\
 <span style="color:#309589">[F]&emsp;C’est vraiment des règles cool sur cette colo, comparées aux autres colos, les autres étaient toujours strictes, on se couchait tous en même temps, le levé était de telle heure à telle heure.</span>\
 <span style="color:#861c1a">[C]&emsp;Des fois ici, il n’y a pas de levé…</span>\
 <span style="color:#309589">[F]&emsp;C’était trop cadré dans les autres colos, tandis qu’ici c’est cadré, mais on est suffisamment libre.</span>\
 <span style="color:#861c1a">[C]&emsp;Mais vous savez y a des enfants qui sont plus matures que certains adultes.</span>\
 <span style="color:#6b615b">[R]&emsp;J’ai remarqué aussi…</span>\
-<span style="color:#861c1a">[C]&emsp;Des fois, ma mère me dit&nbsp;: «<i>&nbsp;oui t’as pas le droit au téléphone parce que ça abîme tes yeux&nbsp;</i>», mais elle, elle regarde un film tous les soirs avant de se coucher. Maintenant j’ai qu’à dire, mais ça se sont mes limites défensives, c’est mon droit de le faire, là tu me poses une limite offensive.</span>\
+<span style="color:#861c1a">[C]&emsp;Des fois, ma mère me dit&nbsp;: «<i>&nbsp;Oui t’as pas le droit au téléphone parce que ça abîme tes yeux&nbsp;</i>», mais elle, elle regarde un film tous les soirs avant de se coucher. Maintenant j’ai qu’à dire, mais ça se sont mes limites défensives, c’est mon droit de le faire, là tu me poses une limite offensive.</span>\
 <span style="color:#6b615b">[R]&emsp;Et du coup, c’est quoi la différence entre un adulte et un enfant en termes de droit&nbsp;? Selon vous, quelle devrait être la différence&nbsp;?</span>\
 <span style="color:#861c1a">[C]&emsp;Bah les enfants, ils doivent être un peu moins punis, par exemple ils ne peuvent pas aller en prison, car ils ne sont pas totalement responsables.</span>\
 <span style="color:#6b615b">[R]&emsp;Moi je parlais plutôt de quand les adultes disent, ne le fais pas, c’est mauvais pour toi et qu’eux s’autorisent à le faire.</span>\
-<span style="color:#861c1a">[C]&emsp;Bah ils se disent&nbsp;: «<i>&nbsp;moi je suis une adulte, je peux faire ce que je veux&nbsp;!&nbsp;</i>»</span>\
+<span style="color:#861c1a">[C]&emsp;Bah ils se disent&nbsp;: «<i>&nbsp;Moi je suis une adulte, je peux faire ce que je veux&nbsp;!&nbsp;</i>»</span>\
 <span style="color:#6b615b">[R]&emsp;Est-ce que tu trouves ça normal que des adultes te disent&nbsp;: «<i>&nbsp;Toi tu dois pas le faire, car c’est mal pour toi, et moi je peux le faire parce que je suis adulte&nbsp;</i>»&nbsp;?</span>\
 <span style="color:#861c1a">[C]&emsp;Il pourrait y avoir une raison, genre que nous on est en train de grandir et que si on s’abîme les yeux maintenant, bah c’est mort.</span>\
 <span style="color:#6b615b">[R]&emsp;Oui, mais moi je suis un adulte et si je fume maintenant je m’abîme mes poumons pour plus tard, donc c’est pareil, donc c’est quoi la différence selon vous.</span>\
