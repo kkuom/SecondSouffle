@@ -1,5 +1,5 @@
 ---
-title: "Points de vue d'enfants sur des sujets de 'grands'"
+title: "Points de vue d'enfants sur des sujets de ‘grands’"
 date: 2018-09-24T17:52:13+02:00
 readingtime: "25"
 draft: false
@@ -22,8 +22,7 @@ showDate: true
 comments: true
 ---
 <section class="intro">
-Ce que trois enfants ont à dire lorsqu’elles expérimentent, en colonie de vacances, un cadre qui se veut le plus éthique possible.\
-
+Ce que trois enfants ont à dire lorsqu’elles expérimentent, en colonie de vacances, un cadre qui se veut le plus éthique possible.<br />
 On découvre ainsi une discussion d’enfants philosophes, qui cheminent parmi des concepts tels que la liberté, la confiance, le consentement, la responsabilité, l’oppression âgiste ou encore l’individualité.
 <!--more-->
 <hr class="intro-divider">
