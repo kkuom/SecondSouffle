@@ -1,5 +1,6 @@
 ---
 title: "Points de vue d'enfants sur des sujets de ‘grands’"
+author: "Clémence, Flavia, Raphaël & Réjane"
 date: 2018-09-24T17:52:13+02:00
 readingtime: "25"
 draft: false
