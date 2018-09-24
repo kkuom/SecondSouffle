@@ -1,5 +1,5 @@
 ---
-title: "Point de vu d'enfant sur des sujet de «grands»"
+title: "Points de vue d'enfants sur des sujets de « grands »"
 date: 2018-09-24T17:52:13+02:00
 readingtime: "25"
 draft: false
