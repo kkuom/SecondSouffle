@@ -5,7 +5,7 @@ readingtime: "25"
 draft: false
 metaAlignment: center
 
-categories: [Éducation éthique", "Sur le terrain"]
+categories: ["Éducation éthique", "Sur le terrain"]
 tags: ["brochure", "éthique", "éducation éthique", "cadre", "terrain", "système éthique", "posture éducative et éthique", "conversation"]
 
 thumbnailImagePosition: right
