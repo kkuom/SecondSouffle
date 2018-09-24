@@ -27,7 +27,7 @@ On découvre ainsi une discussion d’enfants philosophes, qui cheminent parmi d
 <!--more-->
 <hr class="intro-divider">
 <!-- toc -->
-{{%attachments title="" style="black" pattern=".(pdf)"/%}}
+{{%attachments title="" style="black" pattern=".*(pdf)"/%}}
 </section>
 
 {{< blockquote "Philippe Meirieu" "L'enfant philosophe, avenir de l'humanité (2008)" >}}
@@ -67,12 +67,13 @@ Pour préciser le cadre de cette colonie, elle part d’un projet porté par plu
 
 À la suite de la discussion, vous trouverez une analyse qui revient sur la perception et les propos des jeunes, avec un éclairage contextuel et une évaluation du travail qui a été fait par l’équipe pédagogique et les vacanciers, et la portée que ce dernier a pu avoir auprès de chacun et chacune.\
 
+{{< image classes="fig-75 center clear" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Articles/Points-de-vue-denfants-sur-des-sujets-de-grands.png?raw=true" >}}\
+
 <table><tr><td style="background-color:#2b2b2b; color:#fff; text-align:justify">
 <i class="fas fa-info-circle fa-sm" style="padding-right:7.5px"></i><b>Nous ne publions pas le fichier audio en raison de sa qualité très médiocre (enregistrement dans une voiture avec un mauvais micro). Toutefois, n’hésitez pas à prendre contact avec nous si vous désirez l’acquérir. Chaque personne impliquée dans cette conversation a donné son autorisation.\
+
 La transcription a été faite par <i>Second Souffle</i> le plus fidèlement possible. Nous avons opté pour quelques modifications mineures lorsque, par exemple, l’ajout de syntaxe ou le retrait d’un mot permettait une meilleure compréhension sans aucune altération du fond.
 </td></tr></table>
-
-{{< image classes="fig-75 center clear" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Articles/Points-de-vue-denfants-sur-des-sujets-de-grands.png?raw=true" >}}\
 
 # <i class="far fa-bookmark" aria-hidden="true" style="padding-right:15px"></i>Conversation
 <span style="color:#309589">[FLAVIA]&emsp;Ce que je trouve bien dans cette colonie c’est qu’on est suffisamment libres, mais en même temps on est bien casés.</span>\
