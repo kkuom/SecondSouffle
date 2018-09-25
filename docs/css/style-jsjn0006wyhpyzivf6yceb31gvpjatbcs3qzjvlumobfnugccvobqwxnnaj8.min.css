@@ -350,7 +350,7 @@ pre.code-highlight>code {
 
 #about #about-card #about-card-bio {
   padding: 0 30px;
-  margin: 0 0 30px;
+  margin: 0 0 20px;
   color: #333
 }
 
@@ -367,17 +367,32 @@ pre.code-highlight>code {
   width: 90%;
   margin: auto;
   font-size: 1.4rem;
-  line-height: 1.7rem;
-  text-align: justify
+  line-height: 1.7rem
 }
 
-#about-card-td-text {
+#about-card-tr-contact {
+  border-top: 1px solid rgb(245, 245, 245);
+}
+
+#about-card-tr-location {
+  border-top: 1px solid rgb(245, 245, 245);
+  border-bottom: 1px solid rgb(245, 245, 245);
+}
+
+#about-card-td-contact {
   border: none;
-  color: #2b2b2b
+  color: #2b2b2b;
+  text-align: left
+}
+
+#about-card-td-location {
+  border: none;
+  color: #2b2b2b;
+  text-align: right
 }
 
 #about-card-td-icon {
-  order: none;
+  border: none;
   color: #fa8072;
 }
 
