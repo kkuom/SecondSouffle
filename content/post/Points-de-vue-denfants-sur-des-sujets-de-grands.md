@@ -70,9 +70,10 @@ Pour préciser le cadre de cette colonie, elle part d’un projet porté par plu
 
 {{< image classes="center clear" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Articles/Points-de-vue-denfants-sur-des-sujets-de-grands.png?raw=true" >}}\
 
-{{< alert info >}}*Nous ne publions pas le fichier audio en raison de sa qualité très médiocre (enregistrement dans une voiture avec un mauvais micro). Toutefois, n’hésitez pas à prendre contact avec nous si vous désirez l’acquérir. Chaque personne impliquée dans cette conversation a donné son autorisation.*\
-
-*La transcription a été faite par Second Souffle le plus fidèlement possible. Nous avons opté pour quelques modifications mineures lorsque, par exemple, l’ajout de syntaxe ou le retrait d’un mot permettait une meilleure compréhension sans aucune altération du fond.*{{< /alert >}}
+{{< alert info >}}
+Nous ne publions pas le fichier audio en raison de sa qualité très médiocre (enregistrement dans une voiture avec un mauvais micro). Toutefois, n’hésitez pas à prendre contact avec nous si vous désirez l’acquérir. Chaque personne impliquée dans cette conversation a donné son autorisation.\
+La transcription a été faite par Second Souffle le plus fidèlement possible. Nous avons opté pour quelques modifications mineures lorsque, par exemple, l’ajout de syntaxe ou le retrait d’un mot permettait une meilleure compréhension sans aucune altération du fond.
+{{< /alert >}}
 
 # <i class="far fa-bookmark" aria-hidden="true" style="padding-right:15px"></i>Conversation
 <span style="color:#309589"><i>[FLAVIA]</i>&emsp;Ce que je trouve bien dans cette colonie c’est qu’on est suffisamment libres, mais en même temps on est bien casés.</span>\
