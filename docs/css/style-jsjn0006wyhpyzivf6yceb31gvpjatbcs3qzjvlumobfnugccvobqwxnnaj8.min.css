@@ -209,7 +209,7 @@ blockquote {
 }
 
 blockquote cite::before {
-  content: '';
+  content: "";
   padding: 0 .3em
 }
 
@@ -1961,6 +1961,7 @@ pre.code-highlight>code {
 
   .alert.info:not(.no-icon)::before {
     font-family: "Font Awesome 5 Free";
+    font-weight: bold;
     content: "\f05a";
     color: #349ef3
   }
@@ -1972,6 +1973,7 @@ pre.code-highlight>code {
 
   .alert.success:not(.no-icon)::before {
     font-family: "Font Awesome 5 Free";
+    font-weight: bold;
     content: "\f058";
     color: #4dc657
   }
@@ -1983,6 +1985,7 @@ pre.code-highlight>code {
 
   .alert.warning:not(.no-icon)::before {
     font-family: "Font Awesome 5 Free";
+    font-weight: bold;
     content: "\f071";
     color: #f5aa0a
   }
@@ -1994,6 +1997,7 @@ pre.code-highlight>code {
 
   .alert.danger:not(.no-icon)::before {
     font-family: "Font Awesome 5 Free";
+    font-weight: bold;
     content: "\f05e";
     color: #f5311d
   }
@@ -2007,6 +2011,7 @@ pre.code-highlight>code {
 
   .alert.genre:not(.no-icon)::before {
     font-family: "Font Awesome 5 Free";
+    font-weight: bold;
     content: "\f22c";
     color: rgba(255, 255, 255, .98);
     top: 0.65em;
@@ -2037,8 +2042,9 @@ pre.code-highlight>code {
 
   .archive .archive-posts .archive-post::before {
     font-family: "Font Awesome 5 Free";
-    content: '\f0da';
+    content: "\f0da";
     font-size: 1.3rem;
+    font-weight: bold;
     color: #fa8072
   }
 

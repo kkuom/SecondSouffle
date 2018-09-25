@@ -64,17 +64,17 @@ Le matériau est là&nbsp;: même si sa verbalisation est tâtonnante, l’enfan
 # <i class="fas fa-sticky-note" aria-hidden="true" style="padding-right:15px"></i>Note de Second Souffle.
 Cette discussion a eu lieu le 4e jour d’une colonie de vacances qui s’est déroulée durant l’été 2018. Un animateur conduisait quatre vacancières sur un lieu d’activité et pendant le trajet, l’une d’elles a désiré parler de ce qu’elle vivait pendant ce séjour. Raphaël, l’animateur a alors proposé d’enregistrer la conversation et trois des quatre vacancières, Flavia, Réjane et Clémence ont désiré parler de leur vision concernant cette colonie qu’elles perçoivent comme «&nbsp;particulière&nbsp;».\
 
-Pour préciser le cadre de cette colonie, elle part d’un projet porté par plusieurs membres de <i>Second Souffle</i>. Il s’agissait de travailler en codirection (fonctionnement tendant entre autres à déhiérarchiser les statuts) dans un lieu en gestion libre (sans personnel technique). Cette colonie a accueilli une quarantaine d’enfants âgés de 7 à 13 ans dans un fonctionnement aussi libertaire que ce que permettaient les contraintes institutionnelles, humaines, matérielles… Thomas et Aviv, les deux personnes mentionnées dans la discussion, étaient les animateurs référents des jeunes ayant pris part à la discussion.\
+Pour préciser le cadre de cette colonie, elle part d’un projet porté par plusieurs membres de *Second Souffle*. Il s’agissait de travailler en codirection (fonctionnement tendant entre autres à déhiérarchiser les statuts) dans un lieu en gestion libre (sans personnel technique). Cette colonie a accueilli une quarantaine d’enfants âgés de 7 à 13 ans dans un fonctionnement aussi libertaire que ce que permettaient les contraintes institutionnelles, humaines, matérielles… Thomas et Aviv, les deux personnes mentionnées dans la discussion, étaient les animateurs référents des jeunes ayant pris part à la discussion.\
 
 À la suite de la discussion, vous trouverez une analyse qui revient sur la perception et les propos des jeunes, avec un éclairage contextuel et une évaluation du travail qui a été fait par l’équipe pédagogique et les vacanciers, et la portée que ce dernier a pu avoir auprès de chacun et chacune.\
 
 {{< image classes="center clear" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Articles/Points-de-vue-denfants-sur-des-sujets-de-grands.png?raw=true" >}}\
 
-<table><tr><td style="background-color:#2b2b2b; color:#fff; text-align:justify">
-<i class="fas fa-info-circle fa-sm" style="padding-right:7.5px"></i><b>Nous ne publions pas le fichier audio en raison de sa qualité très médiocre (enregistrement dans une voiture avec un mauvais micro). Toutefois, n’hésitez pas à prendre contact avec nous si vous désirez l’acquérir. Chaque personne impliquée dans cette conversation a donné son autorisation.<br />
+{{< alert info >}}
+*Nous ne publions pas le fichier audio en raison de sa qualité très médiocre (enregistrement dans une voiture avec un mauvais micro). Toutefois, n’hésitez pas à prendre contact avec nous si vous désirez l’acquérir. Chaque personne impliquée dans cette conversation a donné son autorisation.*\
 
-La transcription a été faite par <i>Second Souffle</i> le plus fidèlement possible. Nous avons opté pour quelques modifications mineures lorsque, par exemple, l’ajout de syntaxe ou le retrait d’un mot permettait une meilleure compréhension sans aucune altération du fond.
-</td></tr></table>
+*La transcription a été faite par Second Souffle le plus fidèlement possible. Nous avons opté pour quelques modifications mineures lorsque, par exemple, l’ajout de syntaxe ou le retrait d’un mot permettait une meilleure compréhension sans aucune altération du fond.*
+{{< /alert >}}
 
 # <i class="far fa-bookmark" aria-hidden="true" style="padding-right:15px"></i>Conversation
 <span style="color:#309589"><i>[FLAVIA]</i>&emsp;Ce que je trouve bien dans cette colonie c’est qu’on est suffisamment libres, mais en même temps on est bien casés.</span>\
