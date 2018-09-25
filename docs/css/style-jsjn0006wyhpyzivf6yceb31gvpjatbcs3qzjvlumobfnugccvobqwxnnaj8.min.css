@@ -1959,17 +1959,18 @@ pre.code-highlight>code {
   }
 
   .alert.info:not(.no-icon)::before {
+    font-family: "Font Awesome 5 Free";
     content: "\f05a";
     color: #349ef3
   }
 
   .alert.success {
     border-color: #4dc657;
-    background-color: #effaf0;
-    content: "\f058"
+    background-color: #effaf0
   }
 
   .alert.success:not(.no-icon)::before {
+    font-family: "Font Awesome 5 Free";
     content: "\f058";
     color: #4dc657
   }
@@ -1980,6 +1981,7 @@ pre.code-highlight>code {
   }
 
   .alert.warning:not(.no-icon)::before {
+    font-family: "Font Awesome 5 Free";
     content: "\f071";
     color: #f5aa0a
   }
@@ -1990,6 +1992,7 @@ pre.code-highlight>code {
   }
 
   .alert.danger:not(.no-icon)::before {
+    font-family: "Font Awesome 5 Free";
     content: "\f05e";
     color: #f5311d
   }
@@ -2002,6 +2005,7 @@ pre.code-highlight>code {
   }
 
   .alert.genre:not(.no-icon)::before {
+    font-family: "Font Awesome 5 Free";
     content: "\f22c";
     color: rgba(255, 255, 255, .98);
     top: 0.65em;
