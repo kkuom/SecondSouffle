@@ -58,6 +58,11 @@
   </url>
   
   <url>
+    <loc>https://kkuom.github.io/SecondSouffle/2017/11/test/</loc>
+    <lastmod>2017-11-29T15:26:33+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://kkuom.github.io/SecondSouffle/tags/absence-de-structure/</loc>
     <lastmod>2018-08-06T10:25:20+02:00</lastmod>
     <priority>0</priority>
@@ -212,14 +217,14 @@
   </url>
   
   <url>
-    <loc>https://kkuom.github.io/SecondSouffle/tags/posture-%C3%A9ducative-et-%C3%A9thique/</loc>
-    <lastmod>2018-09-24T17:52:13+02:00</lastmod>
+    <loc>https://kkuom.github.io/SecondSouffle/categories/posture-%C3%A9ducative-et-%C3%A9thique/</loc>
+    <lastmod>2018-08-06T10:25:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kkuom.github.io/SecondSouffle/categories/posture-%C3%A9ducative-et-%C3%A9thique/</loc>
-    <lastmod>2018-08-06T10:25:20+02:00</lastmod>
+    <loc>https://kkuom.github.io/SecondSouffle/tags/posture-%C3%A9ducative-et-%C3%A9thique/</loc>
+    <lastmod>2018-09-24T17:52:13+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -236,13 +241,13 @@
   </url>
   
   <url>
-    <loc>https://kkuom.github.io/SecondSouffle/tags/r%C3%A9%C3%A9dition/</loc>
+    <loc>https://kkuom.github.io/SecondSouffle/categories/r%C3%A9%C3%A9dition/</loc>
     <lastmod>2018-06-07T15:16:55+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kkuom.github.io/SecondSouffle/categories/r%C3%A9%C3%A9dition/</loc>
+    <loc>https://kkuom.github.io/SecondSouffle/tags/r%C3%A9%C3%A9dition/</loc>
     <lastmod>2018-06-07T15:16:55+01:00</lastmod>
     <priority>0</priority>
   </url>
@@ -314,13 +319,13 @@
   </url>
   
   <url>
-    <loc>https://kkuom.github.io/SecondSouffle/tags/%C3%A9ducation-%C3%A9thique/</loc>
+    <loc>https://kkuom.github.io/SecondSouffle/categories/%C3%A9ducation-%C3%A9thique/</loc>
     <lastmod>2018-09-24T17:52:13+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kkuom.github.io/SecondSouffle/categories/%C3%A9ducation-%C3%A9thique/</loc>
+    <loc>https://kkuom.github.io/SecondSouffle/tags/%C3%A9ducation-%C3%A9thique/</loc>
     <lastmod>2018-09-24T17:52:13+02:00</lastmod>
     <priority>0</priority>
   </url>
