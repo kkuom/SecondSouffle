@@ -2,6 +2,15 @@
 @import url('https://fonts.googleapis.com/css?family=Libre+Baskerville:400,400i,700&subset=latin-ext');
 @import url('https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i&subset=latin-ext');
 @import url('https://fonts.googleapis.com/css?family=Love+Ya+Like+A+Sister');
+@import url('/fonts/fontawesome-free-5.3.1-web/webfonts/fa-brands-400.ttf');
+@import url('/fonts/fontawesome-free-5.3.1-web/webfonts/fa-brands-400.woff');
+@import url('/fonts/fontawesome-free-5.3.1-web/webfonts/fa-brands-400.woff2');
+@import url('/fonts/fontawesome-free-5.3.1-web/webfonts/fa-regular-400.ttf');
+@import url('/fonts/fontawesome-free-5.3.1-web/webfonts/fa-regular-400.woff');
+@import url('/fonts/fontawesome-free-5.3.1-web/webfonts/fa-regular-400.woff2');
+@import url('/fonts/fontawesome-free-5.3.1-web/webfonts/fa-solid-900.ttf');
+@import url('/fonts/fontawesome-free-5.3.1-web/webfonts/fa-solid-900.woff');
+@import url('/fonts/fontawesome-free-5.3.1-web/webfonts/fa-solid-900.woff2');
 
 #about, #blog, #cover, body {
   height: 100%;
