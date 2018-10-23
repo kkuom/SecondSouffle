@@ -23,7 +23,7 @@ showDate: true
 comments: true
 ---
 <section class="intro">
-Un arbre mystérieux transforme le mode de vie de tout un village d'une sobriété heureuse vers le labeur et l'insécurité. Que peut faire Kumi, une petite fille curieuse et intrépide, à qui croyances et superstitions ne suffisent pas&nbsp;?<br /><br />Ce conte est proposé en deux versions. La version <i>«&nbsp;comme on l’écrit&nbsp;»</i> est idéale pour une lecture silencieuse ou oralisée de l’histoire, sans jouer les personnages. La version <i>«&nbsp;comme on le dit&nbsp;»</i>, facilite une mise en scène.
+Un arbre mystérieux transforme le mode de vie de tout un village d'une sobriété heureuse vers le labeur et l'insécurité. Que peut faire Kumi, une petite fille curieuse et intrépide, à qui croyances et superstitions ne suffisent pas&nbsp;?<br />Ce conte est proposé en deux versions. La version <i>«&nbsp;comme on l’écrit&nbsp;»</i> est idéale pour une lecture silencieuse ou oralisée de l’histoire, sans jouer les personnages. La version <i>«&nbsp;comme on le dit&nbsp;»</i>, facilite une mise en scène.
 <!--more-->
 <hr class="intro-divider">
 <!-- toc -->
