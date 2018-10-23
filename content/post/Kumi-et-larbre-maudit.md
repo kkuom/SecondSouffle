@@ -154,7 +154,7 @@ Un soir, l’un des plus gros orages qu’on n’eut jamais vu éclata. Tout le 
 
 <div style="color:#309589; margin:0 20px 0 20px">**Sorcier** *«&nbsp;Étrange&nbsp;? Comment ça&nbsp;? ... Montrez-moi&nbsp;!&nbsp;»*</div>\
 
-Les deux hommes retirèrent leurs mains de leurs fronts, laissant l’assemblée bouche bée. Puis, le silence laissa place aux explosions de rires face au ridicule de la scène&nbsp;: les visages des deux hommes étaient pourvus d’un troisième œil.</div>\
+Les deux hommes retirèrent leurs mains de leurs fronts, laissant l’assemblée bouche bée. Puis, le silence laissa place aux explosions de rires face au ridicule de la scène&nbsp;: les visages des deux hommes étaient pourvus d’un troisième œil.\
 
 <div style="color:#5f0261; margin:0 20px 0 20px">**Homme** *«&nbsp;C’est pas notre faute&nbsp;! C’est arrivé quand nous avons cueilli des Lomis&nbsp;!&nbsp;»*</div>\
 
@@ -164,7 +164,7 @@ La foule était silencieuse et attendait de savoir où le sorcier voulait en ven
 
 <div style="color:#5f0261; margin:0 20px 0 20px">**Foule 1** *«&nbsp;Pourquoi trouves-tu cela intéressant&nbsp;? Nous montons dans l’arbre chaque jour depuis des années&nbsp;!&nbsp;»*</div>\
 
-<div style="color:#309589; margin:0 20px 0 20px">**Sorcier** *«&nbsp;Mes amis, les dieux nous avertissent. Les Lomis sont devenus mauvais pour nous. En trouvant notre nourriture si facilement, nous nous sommes englués dans notre paresse. J’ai eu une intuition cette nuit lorsque la tempête était au plus fort, et j’en suis maintenant convaincu. Une malédiction a frappé notre récolte, et ceux qui voudront monter dans l’arbre seront désormais punis. Ce matin, ces deux hommes en ont fait l’expérience, mais des choses pires encore pourraient nous arriver...&nbsp;»*\
+<div style="color:#309589; margin:0 20px 0 20px">**Sorcier** *«&nbsp;Mes amis, les dieux nous avertissent. Les Lomis sont devenus mauvais pour nous. En trouvant notre nourriture si facilement, nous nous sommes englués dans notre paresse. J’ai eu une intuition cette nuit lorsque la tempête était au plus fort, et j’en suis maintenant convaincu. Une malédiction a frappé notre récolte, et ceux qui voudront monter dans l’arbre seront désormais punis. Ce matin, ces deux hommes en ont fait l’expérience, mais des choses pires encore pourraient nous arriver...&nbsp;»*</div>\
 
 <div style="color:#5f0261; margin:0 20px 0 20px">**Foule 2** *«&nbsp;Peut-être qu’ils sont contagieux&nbsp;!&nbsp;»*</div>\
 
