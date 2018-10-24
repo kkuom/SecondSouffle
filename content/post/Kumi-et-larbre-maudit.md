@@ -7,7 +7,7 @@ draft: false
 metaAlignment: center
 
 categories: ["conte éthique", "contes pour une autre vision du monde"]
-tags: ["brochure", "conte", "anti-âgisme"]
+tags: ["brochure", "conte", "anti-âgisme" "comme on l'écrit" "comme on le dit"]
 
 thumbnailImagePosition: top
 thumbnailImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Thumbnails/ConteEthique-Kumi750.jpg?raw=true
@@ -202,11 +202,11 @@ Kumi repartit déçue. Elle aurait bien aimé en parler plus. Elle se rendit là
 
 Là, vous vous dites probablement que ça ne sert à rien de parler à un animal. Mais en ces temps-là, les animaux prenaient parfois la peine de répondre lorsqu’ils avaient confiance en l’humain qui leur parlait. Évidemment, ça n’arrive aujourd’hui que très rarement, tous les animaux savent bien que presque toute l’humanité les considère comme inférieurs. En attendant, lorsque Kumi lui parla, ce chimpanzé lui répondit.\
 
-<div style="color:#309589; margin:0 20px 0 20px">**Singe** *«&nbsp;Oui, je connais bien cette fleur. Et tous les chimpanzés de cette forêt la connaissent d’ailleurs. Un jour, l’un des nôtres lui a découvert un pouvoir spécial.&nbsp;»*</div>\
+<div style="color:#348226; margin:0 20px 0 20px">**Singe** *«&nbsp;Oui, je connais bien cette fleur. Et tous les chimpanzés de cette forêt la connaissent d’ailleurs. Un jour, l’un des nôtres lui a découvert un pouvoir spécial.&nbsp;»*</div>\
 
 Sur ces mots, le chimpanzé commença une longue histoire que Kumi écoutait allongée sur la branche. Le singe parlait calmement, ses paroles captivaient Kumi. Elle s’amusait lorsque ce dernier, parfois emporté par son récit, gesticulait pour mimer un de ses semblables. Kumi avait de nouveau porté son attention sur la plante si belle lorsque le grand singe conclut&nbsp;:\
 
-<div style="color:#309589; margin:0 20px 0 20px">**Singe** *«&nbsp;Et voilà pourquoi nous connaissons si bien cette fleur. J’espère que cela t’aidera à comprendre les problèmes que les hommes ont avec elle.&nbsp;»*</div>\
+<div style="color:#348226; margin:0 20px 0 20px">**Singe** *«&nbsp;Et voilà pourquoi nous connaissons si bien cette fleur. J’espère que cela t’aidera à comprendre les problèmes que les hommes ont avec elle.&nbsp;»*</div>\
 
 <div style="color:#861c1a; margin:0 20px 0 20px">**Kumi** *«&nbsp;Pourquoi tu dis ça&nbsp;? J’crois pas que la fleur nous pose un problème. Personne ne vient ici d’ailleurs, et les chasseurs ne montent pas aux arbres. Enfin, j’pense pas. Tu en as déjà vu perchés ici&nbsp;?&nbsp;»*</div>\
 
