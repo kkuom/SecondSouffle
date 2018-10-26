@@ -144,7 +144,6 @@ Un homme prit prudemment la fleur que Kumi avait déposée un peu plus tôt sur 
 La femme qui était toujours à côté de Kumi, lui lança un regard amical et plein d’excitation. Kumi comprit&nbsp;: toutes deux commencèrent l’escalade de l’arbre qui allait désormais être le symbole d’un bonheur retrouvé.\
 
 # <i class="fas fa-bullhorn" aria-hidden="true" style="padding-right:15px;"></i>Version <i>«&nbsp;comme on le dit&nbsp;»</i>
-
 Il fut un temps où un arbre majestueux produisait des Lomis. Les Lomis étaient des fruits si nourrissants et sucrés qu’une tribu avait décidé de s’installer au pied de cet arbre immense, afin de profiter de cette abondance. Toute l’année, il leur procurait l’équivalent d’un panier chaque jour.
 Un soir, l’un des plus gros orages qu’on n’eut jamais vu éclata. Tout le monde eut très peur, mais au matin, tout était calme et le soleil resplendissait. Deux hommes décidèrent de monter dans l’arbre pour ramener un panier de Lomis aux villageois. Mais quand ils furent redescendus, ils poussèrent des cris d’effroi qui déchirèrent le silence paisible qui régnait. Tout le village accouru. Les deux hommes, qui étaient à présent au centre d’un attroupement, avaient leurs mains plaquées sur leurs fronts. Le silence fut rétabli par le sorcier du village qui fit irruption.\
 
