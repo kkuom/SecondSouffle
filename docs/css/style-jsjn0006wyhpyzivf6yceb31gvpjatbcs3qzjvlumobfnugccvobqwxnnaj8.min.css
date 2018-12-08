@@ -213,8 +213,9 @@ blockquote-right {
   font-size: 1.6rem;
   font-style: italic;
   line-height: 1.8em;
-  width: 400px;
-  float: right
+  width: 50%;
+  float: right;
+  margin-left: 40px
 }
 
 blockquote-left {
@@ -222,8 +223,9 @@ blockquote-left {
   font-size: 1.6rem;
   font-style: italic;
   line-height: 1.8em;
-  width: 400px;
-  float: left
+  width: 50%;
+  float: left;
+  margin-right: 40px
 }
 
 blockquote cite::before {
