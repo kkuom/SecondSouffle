@@ -69,16 +69,16 @@ C’est trop souvent le passé qu’on propose comme modèle aux êtres nouveaux
 
 <table>
   <tr>
-    <td style="background-color:#333; color:#fff; text-align:justify">
-    <Ci-dessous, voici un extrait de la brochure <i>Rupture</i>, écrit en 2004 par <i>Simon</i>
-  </tr>
-  <tr>
-    <td style="font-style:italic;">
-    Mettons-nous d’abord d’accord sur les mots employés&nbsp;: j’utilise le mot relation au sens très large dès qu’un contact a lieu, et qu’une relation s’établit. Au sein d’une relation, <b>je distingue ce qui sera de l’ordre du rapport d’une part et ce qui sera de l’ordre du lien d’autre part</b>. Une relation est complexe. Elle contient souvent des deux, mais il existe aussi des relations qui ne sont que purs rapports et d’autres purs liens.<br /><br />
-    <b>Le rapport est de l’ordre du pouvoir&nbsp;:</b> domination, violence, séduction, manipulation, soumission, obéissance, possessivité, vente, salariat, valorisation, prostitution, enfermement, contrainte, esclavage, production, contrat, chantage, menace, etc. Les rapports peuplent les dispositifs de pouvoir. Je dirais même que le mode relationnel au sein des dispositifs est celui du rapport&nbsp;: dans l’entreprise, le magasin, l’école, à l’armée ou sur la route.&nbsp;[…] Dans le rapport, il y a une frontière, une séparation&nbsp;: l’autre m’est étranger, me fait peur. Je ne le connais ou le reconnais pas. Je ne sors pas du rapport aussi longtemps que je lui reste étranger, que je refuse de l’écouter, de le ou la connaître. <b>Le respect est la vertu suprême d’un univers de rapports. Respecter c’est avant tout ignorer</b>, rester à bonne distance de l’autre, ne pas se mêler de ses problèmes.&nbsp;[…]<br /><br />
-    <b>Le lien se ramène aux sentiments et affects&nbsp;:</b> amour, amitié, affection, plaisir d’être ensemble, sentiment d’appartenance à une communauté, confiance, tendresse, désir réciproque, envies communes, etc. Le respect est au rapport ce que l’attention est au lien. Être attentif à l’autre c’est apprendre à l’écouter, le ou la connaître, comprendre et lui faire confiance. Il s’établit un lien entre nous dès lors que nous commençons à nous connaître. Il y a quelque chose qui se noue entre nous, car nous apprenons de l’autre et changeons au cours de cette relation.&nbsp;[…]<br /><br />
+    <td style="td style="background-color:#333; color:#fff; font-style:italic; text-align:justify">
+    Mettons-nous d’abord d’accord sur les mots employés&nbsp;: j’utilise le mot relation au sens très large dès qu’un contact a lieu, et qu’une relation s’établit. Au sein d’une relation, <b>je distingue ce qui sera de l’ordre du rapport d’une part et ce qui sera de l’ordre du lien d’autre part</b>. Une relation est complexe. Elle contient souvent des deux, mais il existe aussi des relations qui ne sont que purs rapports et d’autres purs liens.<br />
+    <b>Le rapport est de l’ordre du pouvoir&nbsp;:</b> domination, violence, séduction, manipulation, soumission, obéissance, possessivité, vente, salariat, valorisation, prostitution, enfermement, contrainte, esclavage, production, contrat, chantage, menace, etc. Les rapports peuplent les dispositifs de pouvoir. Je dirais même que le mode relationnel au sein des dispositifs est celui du rapport&nbsp;: dans l’entreprise, le magasin, l’école, à l’armée ou sur la route.&nbsp;[…] Dans le rapport, il y a une frontière, une séparation&nbsp;: l’autre m’est étranger, me fait peur. Je ne le connais ou le reconnais pas. Je ne sors pas du rapport aussi longtemps que je lui reste étranger, que je refuse de l’écouter, de le ou la connaître. <b>Le respect est la vertu suprême d’un univers de rapports. Respecter c’est avant tout ignorer</b>, rester à bonne distance de l’autre, ne pas se mêler de ses problèmes.&nbsp;[…]<br />
+    <b>Le lien se ramène aux sentiments et affects&nbsp;:</b> amour, amitié, affection, plaisir d’être ensemble, sentiment d’appartenance à une communauté, confiance, tendresse, désir réciproque, envies communes, etc. Le respect est au rapport ce que l’attention est au lien. Être attentif à l’autre c’est apprendre à l’écouter, le ou la connaître, comprendre et lui faire confiance. Il s’établit un lien entre nous dès lors que nous commençons à nous connaître. Il y a quelque chose qui se noue entre nous, car nous apprenons de l’autre et changeons au cours de cette relation.&nbsp;[…]<br />
     Là où le rapport ramène à l’ignorance de l’autre, le respect et l’échange ; le lien ramène à la connaissance de l’autre, l’attention et le partage.
     </td>
+  </tr>
+  <tr>
+    <td style="background-color:#333; color:#fff; text-align:right">
+    Extrait de la brochure <a href=https://infokiosques.net/spip.php?article415" target="_blank"><i>Rupture</i></a>, écrit en 2004 par <i>Simon</i>
   </tr>
 </table>
 
@@ -97,19 +97,11 @@ Je gâche sciemment la surprise de la conclusion en vous avouant d’entrée que
 
 
 Le terme *respect* dérive très facilement vers la morale par l’usage qu’on en fait. La première dérive que j’identifie est la persistance d’un **ordre hiérarchique établi.** Dans le cas d’un ordre institutionnalisé, on va demander le «&nbsp;respect de la prof’&nbsp;», «&nbsp;respect du curé&nbsp;»&nbsp;: le respect des agents reconnus comme chargés du fonctionnement «&nbsp;normal&nbsp;» et «&nbsp;ordonné&nbsp;» du système, et cela d’autant plus que l’agent est haut placé dans l’ordre hiérarchique. Cette injonction au respect inconditionnel des agents régulateurs est tacite dans des institutions comme le collège, car absente des
-<span class="dropdown">
-<span> règlements intérieurs</span>
-<span class="dropdown-content">Après lecture de plusieurs règlements intérieurs de collège, dans lesquels on trouve au passage de nombreuses fois le mot respect, je n’ai trouvé aucune mention qui encadrait le fait qu’un jeune n’ait pas le droit de <i«&nbsp;répondre&nbsp;» à un adulte ou de faire preuve d’impertinence, tandis que ce «&nbsp;manque de respect&nbsp;» est assez sévèrement réprimandé dans la réalité. Dans les règlements, le respect est même souvent accompagné du mot «&nbsp;mutuel&nbsp;» lorsqu’il définit le cadre des relations entre adulte et élève.</span>
-</span>,  mais instituée par la punition. En effet, l’institution considère comme allant de soi que la faute est plus grande lorsque l’insulte vise un adulte et qu’elle est d’autant plus grave que l’adulte est haut placé dans la hiérarchie. Une telle exécution du droit attribue un
- «&nbsp;droit au respect&nbsp;» plus grand pour les hauts placé. Dans d’autres institutions comme la justice et la république française, la règle est explicite, car inscrite dans le droit sous la dénomination d’
- <span class="dropdown">
- <span> «&nbsp;Outrage à agent public &nbsp;»</span>
- <span class="dropdown-content">Plus fortement punissable si l’offense est adressée à un dépositaire de l'autorité publique (magistrat, préfet, policier…) plutôt qu’à un «&nbsp;simple&nbsp;» chargé d'une mission de service public.</span>
- </span> ou
- <span class="dropdown">
- <span> «&nbsp;offense au chef de l'État &nbsp;»</span>
- <span class="dropdown-content">Utilisé par Sarkozy en 2008 suite aux propos d’un passant qui lui avait dit <i>«&nbsp;Me touche pas&nbsp;! Tu me salis&nbsp;!&nbsp;»</i> et auquel Sarkozy avait répondu <i>«&nbsp;Casse-toi alors&nbsp;! Pauvre con.&nbsp;»</i></span>
- </span> (loi abrogée en 2013). Tous ces mécanismes ont pour fonction de préserver la puissance symbolique de pouvoirs institutionnels en place.\
+<span class="dropdown"><span>règlements intérieurs</span>
+<span class="dropdown-content">Après lecture de plusieurs règlements intérieurs de collège, dans lesquels on trouve au passage de nombreuses fois le mot respect, je n’ai trouvé aucune mention qui encadrait le fait qu’un jeune n’ait pas le droit de <i«&nbsp;répondre&nbsp;» à un adulte ou de faire preuve d’impertinence, tandis que ce «&nbsp;manque de respect&nbsp;» est assez sévèrement réprimandé dans la réalité. Dans les règlements, le respect est même souvent accompagné du mot «&nbsp;mutuel&nbsp;» lorsqu’il définit le cadre des relations entre adulte et élève.</span></span>,  mais instituée par la punition. En effet, l’institution considère comme allant de soi que la faute est plus grande lorsque l’insulte vise un adulte et qu’elle est d’autant plus grave que l’adulte est haut placé dans la hiérarchie. Une telle exécution du droit attribue un «&nbsp;droit au respect&nbsp;» plus grand pour les hauts placé. Dans d’autres institutions comme la justice et la république française, la règle est explicite, car inscrite dans le droit sous la dénomination d’
+<span class="dropdown"><span>«&nbsp;Outrage à agent public &nbsp;»</span>
+<span class="dropdown-content">Plus fortement punissable si l’offense est adressée à un dépositaire de l'autorité publique (magistrat, préfet, policier…) plutôt qu’à un «&nbsp;simple&nbsp;» chargé d'une mission de service public.</span></span> ou
+<span class="dropdown"><span> «&nbsp;offense au chef de l'État &nbsp;»</span><span class="dropdown-content">Utilisé par Sarkozy en 2008 suite aux propos d’un passant qui lui avait dit <i>«&nbsp;Me touche pas&nbsp;! Tu me salis&nbsp;!&nbsp;»</i> et auquel Sarkozy avait répondu <i>«&nbsp;Casse-toi alors&nbsp;! Pauvre con.&nbsp;»</i></span></span> (loi abrogée en 2013). Tous ces mécanismes ont pour fonction de préserver la puissance symbolique de pouvoirs institutionnels en place.\
 
 {{< blockquote "Anne Barratin," "De toutes les paroisses" >}}
 Cachez le plus possible vos défaites à vos domestiques&nbsp;: pour qu'ils respectent le maître, il doit être infaillible.
