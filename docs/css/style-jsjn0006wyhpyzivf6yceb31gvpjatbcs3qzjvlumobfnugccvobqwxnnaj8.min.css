@@ -208,6 +208,24 @@ blockquote {
   margin: 1.5em 0.5em
 }
 
+blockquote-right {
+  font-family: 'Libre Baskerville', serif;
+  font-size: 1.6rem;
+  font-style: italic;
+  line-height: 1.8em;
+  width: 400px;
+  float: right
+}
+
+blockquote-left {
+  font-family: 'Libre Baskerville', serif;
+  font-size: 1.6rem;
+  font-style: italic;
+  line-height: 1.8em;
+  width: 400px;
+  float: left
+}
+
 blockquote cite::before {
   content: "";
   padding: 0 .3em

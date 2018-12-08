@@ -86,10 +86,10 @@ C’est à partir de cette vision défendue par Simon que j’ai voulu développ
 
 Ce sujet me tenait à cœur du fait de l’omniprésence du mot respect dans notre société – admis quasi unanimement comme valeur universelle. Qui se positionne contre *le respect*&nbsp;? Comment un tel individu serait-il perçu&nbsp;? L’usage systématique de ce mot l’inscrit dans un flou conceptuel et couvre une telle étendue sémantique qu’il en vient parfois à se contredire lui-même, faisant ainsi naître des incompréhensions.\
 
-{{< blockquote "Aretha Franklin," "Respect" >}}
+{{< blockquote-left "Aretha Franklin," "Respect" >}}
 R-E-S-P-E-C-T<br />
 Trouve ce que cela veut dire pour moi
-{{< /blockquote >}}
+{{< /blockquote-left >}}
 
 Je gâche sciemment la surprise de la conclusion en vous avouant d’entrée que dans la vie de tous les jours, j’ai drastiquement limité l’utilisation de ce mot en voyant les limites qu’il posait, notamment vis-à-vis des attentes qu’il crée dans les relations interpersonnelles. Autant certains mots peuvent être redéfinis, autant d’autres portent une charge symbolique, affective et culturelle si forte qu’une éventuelle redéfinition serait délicate aux vues des résistances ou des incompréhensions qu’elle pourrait créer. Le mot *respect* fait précisément partie de cette dernière catégorie, et une réappropriation aurait pu être potentiellement maladroite.\
 
