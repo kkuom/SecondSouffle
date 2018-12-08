@@ -208,24 +208,48 @@ blockquote {
   margin: 1.5em 0.5em
 }
 
-blockquote-right {
+blockquote-right50 {
   font-family: 'Libre Baskerville', serif;
   font-size: 1.6rem;
   font-style: italic;
   line-height: 1.8em;
   width: 50%;
   float: right;
-  margin-left: 40px
+  margin-left: 40px;
+  text-align: right
 }
 
-blockquote-left {
+blockquote-left50 {
   font-family: 'Libre Baskerville', serif;
   font-size: 1.6rem;
   font-style: italic;
   line-height: 1.8em;
   width: 50%;
   float: left;
-  margin-right: 40px
+  margin-right: 40px;
+  text-align: left
+}
+
+blockquote-rightauto {
+  font-family: 'Libre Baskerville', serif;
+  font-size: 1.6rem;
+  font-style: italic;
+  line-height: 1.8em;
+  width: auto;
+  float: right;
+  margin-left: 40px;
+  text-align: right
+}
+
+blockquote-leftauto {
+  font-family: 'Libre Baskerville', serif;
+  font-size: 1.6rem;
+  font-style: italic;
+  line-height: 1.8em;
+  width: auto;
+  float: left;
+  margin-right: 40px;
+  text-align: left
 }
 
 blockquote cite::before {
