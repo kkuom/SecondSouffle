@@ -123,12 +123,12 @@ Le respect peut également constituer une **contrepartie morale essentialisante*
 </span> . Dès lors, ces individus perdent donc leur «&nbsp;droit au respect&nbsp;» aux yeux de celles et ceux attachés à la conformité.\
 
 {{< blockquote-left "Furax Barbarossa," "Les poissons morts" >}}
-Parait qu’un homme qui s’respecte, c’est l’premier à taper<br />
+Parait qu’un homme qui s’respecte, c’est l’premier à taper,<br />
 C’est l’premier qui s’fait la belle et c’est l’dernier attrapé&nbsp;[…]<br />
 Puisqu’ils t’ont dit qu’faire de la cabane fait gagner l’respect des autres&nbsp;[…]<br />
-Parait qu’une femme qui s’respecte vit dans l’ombre de l’homme<br />
-Reste belle, parait presque bête quand il montre de l’or<br />
-Baise, perds des kilos pour lui plaire ou perds ce type
+Parait qu’une femme qui s’respecte vit dans l’ombre de l’homme,<br />
+Reste belle, parait presque bête quand il montre de l’or,<br />
+Baise, perd des kilos pour lui plaire ou perd ce type.
 {{< /blockquote-left >}}\
 
 Le respect, dès qu’il est vu comme une contrepartie, permet à certains de l’utiliser comme une compensation au manque de considération ou à la gêne qu’ils ressentent vis-à-vis de certaines personnes. Ils accordent un droit au respect à des catégories de personnes qu’ils estiment «&nbsp;plus faibles&nbsp;»&nbsp;: femmes, enfants, personnes porteuses de handicap (de manière visible). Les individus de ces catégories sont alors placés, par la reconnaissance morale à laquelle elles accèdent, dans une position de «&nbsp;victimes par essence&nbsp;». Cette essentialisation des catégories dominées dépolitise la question des rapports sociaux en déplaçant la question des structures sociétales vers une responsabilité individuelle&nbsp;: la morale disant que ces personnes sont défavorisées, chacun devrait les respecter en tant que tel. Beaucoup d’individues et de collectifs vont alors agir pour leur protection. Or, même si la question de la protection est souvent nécessaire dans l’urgence (aide apportée à un enfant battu), elle ne doit pas occulter les questions de fond (l’oppression adulte envers les enfants qui les plongent dans une dépendance matérielle obligatoire jusqu’à la majorité). Par exemple&nbsp;: «&nbsp;Quelles structures sociopolitiques et quelles déterminations plongent ces catégories de personne dans ces positions de faiblesse et de non-droit&nbsp;?&nbsp;» Je crois que la morale répond à cela de manière absurde (et naïve) en créant cette prothèse qu’on peut appeler le «&nbsp;droit au respect&nbsp;», droit que les plus faibles peuvent obtenir grâce à leur statut de
