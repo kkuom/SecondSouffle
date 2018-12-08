@@ -124,10 +124,8 @@ Le respect peut également constituer une **contrepartie morale essentialisante*
 
 {{< blockquote-left "Furax Barbarossa," "Les poissons morts" >}}
 Parait qu’un homme qui s’respecte, c’est l’premier à taper<br />
-C’est l’premier qui s’fait la belle et c’est l’dernier attrapé<br />
-[…]<br />
-Puisqu’ils t’ont dit qu’faire de la cabane fait gagner l’respect des autres<br />
-[…]<br />
+C’est l’premier qui s’fait la belle et c’est l’dernier attrapé&nbsp;[…]<br />
+Puisqu’ils t’ont dit qu’faire de la cabane fait gagner l’respect des autres&nbsp;[…]<br />
 Parait qu’une femme qui s’respecte vit dans l’ombre de l’homme<br />
 Reste belle, parait presque bête quand il montre de l’or<br />
 Baise, perds des kilos pour lui plaire ou perds ce type
