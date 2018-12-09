@@ -35,11 +35,11 @@ Cette brochure tente de clarifier ce que chacun entend par «&nbsp;respect&nbsp;
 *On a l’habitude de voir le masculin absorber grammaticalement le féminin. Ici, le féminin et le masculin sont employés de manière aléatoire, ceci dans le but de conserver une lecture fluide tout en neutralisant la langue.*
 {{< /alert >}}
 </section>
-<span style="color:#3EAE">
+
 {{< blockquote "Henri Roorda," "Le pédagogue n'aime pas les enfants (1917)" >}}
 C’est trop souvent le passé qu’on propose comme modèle aux êtres nouveaux&nbsp;; et il y a beaucoup de chances pour que ceux-ci, par leur inertie, soient plus tard les défenseurs de l’ordre ancien. Pour les esprits respectueux, le mot «&nbsp;ordre&nbsp;» représente l’Intangible. Or, il désigne, à l’ordinaire, un ensemble de choses lourdes et difficiles à déplacer. Si les hommes inertes pouvaient un jour s’animer, un ordre nouveau commencerait à se faire dans le monde.
 {{< /blockquote >}}
-</span>
+
 # <i class="fas fa-info-circle" aria-hidden="true" style="padding-right:13px;"></i>Concepts indispensables
 <table>
 <tr>

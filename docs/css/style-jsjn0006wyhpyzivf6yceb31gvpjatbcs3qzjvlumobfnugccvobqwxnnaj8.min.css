@@ -205,7 +205,8 @@ blockquote {
   font-size: 1.6rem;
   font-style: italic;
   line-height: 1.8em;
-  margin: 1.5em 0.5em
+  margin: 1.5em 0.5em;
+  color:#fa8072
 }
 
 blockquote-right50 {
@@ -216,7 +217,8 @@ blockquote-right50 {
   width: 50%;
   float: right;
   margin-left: 40px;
-  text-align: right
+  text-align: right;
+  color:#fa8072
 }
 
 blockquote-left50 {
@@ -227,7 +229,8 @@ blockquote-left50 {
   width: 50%;
   float: left;
   margin-right: 40px;
-  text-align: left
+  text-align: left;
+  color:#fa8072
 }
 
 blockquote-rightauto {
@@ -238,7 +241,8 @@ blockquote-rightauto {
   width: auto;
   float: right;
   margin-left: 40px;
-  text-align: right
+  text-align: right;
+  color:#fa8072
 }
 
 blockquote-leftauto {
@@ -249,7 +253,8 @@ blockquote-leftauto {
   width: auto;
   float: left;
   margin-right: 40px;
-  text-align: left
+  text-align: left;
+  color:#fa8072
 }
 
 blockquote cite::before {
