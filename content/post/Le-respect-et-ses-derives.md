@@ -272,18 +272,18 @@ Ainsi, avec cette analyse basée sur l’éthique, chacune devrait pouvoir s’e
 
 # <i class="fas fa-key" aria-hidden="true" style="padding-right:15px;"></i>Pour aller plus loin
 
-## Pour aller plus loin sur la définition d’une personne et de ses droits&nbsp;:
+## Pour aller plus loin sur la définition d’une personne et de ses droits
 <i class="fas fa-arrow-right fa-sm" style="padding-right:7.5px"></i>*Pourquoi faudrait-il punir*, un livre de Catherine Baker *(disponible sur infokiosque)*\
 <i class="fas fa-arrow-right fa-sm" style="padding-right:7.5px"></i>*La conscience*, une vidéo de Science étonnante *(disponible sur YouTube)*\
 <i class="fas fa-arrow-right fa-sm" style="padding-right:7.5px"></i>*Les animaux peuvent-ils être des citoyens&nbsp;?* Une vidéo de Politikon *(disponible sur YouTube)*\
 
-## Pour aller plus loin sur la personne artificielle&nbsp;:
+## Pour aller plus loin sur la personne artificielle
 <i class="fas fa-arrow-right fa-sm" style="padding-right:7.5px"></i>*Les enfers artificiels*, une vidéo de Dirty biology *disponible sur YouTube*\
 <i class="fas fa-arrow-right fa-sm" style="padding-right:7.5px"></i>*West world*, une série créée par Jonathan Nolan et Lisa Joy\
 <i class="fas fa-arrow-right fa-sm" style="padding-right:7.5px"></i>*L’homme bicentenaire*, un film de Chris Colombus\
 <i class="fas fa-arrow-right fa-sm" style="padding-right:7.5px"></i>*Black mirror* série créée par Charlie Brooker, saison 4 épisodes 1 et 6\
 
-## Pour aller plus loin dans la réflexion entre éthique et éducation&nbsp;:
+## Pour aller plus loin dans la réflexion entre éthique et éducation
 <i class="fas fa-arrow-right fa-sm" style="padding-right:7.5px"></i>*Autorité et respect en éducation*, un article écrit par Eirick Prairat disponible sur internet\
 <i class="fas fa-arrow-right fa-sm" style="padding-right:7.5px"></i>*Mettre fin à l’essentialisme*, une brochure d’Aviv et Thomas disponible sur le site de <a href="http://secondsouffle.me/" target="_blank">Second souffle</a>\
 <i class="fas fa-arrow-right fa-sm" style="padding-right:7.5px"></i>*Éthique des relations en éducation*, une brochure de Raphaël disponible sur le site de <a href="http://secondsouffle.me/" target="_blank">Second souffle</a>\
