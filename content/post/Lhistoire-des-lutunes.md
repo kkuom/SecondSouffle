@@ -120,55 +120,55 @@ Les lutunes étaient minuscules (à peu près la taille d’un pouce) et naissai
 
 Un jour, le Roi des lutunes était à la rivière avec deux de ses sujets. Comme tous les jours, ils lavaient leurs chaussettes. Et comme tous les jours, c’était très désagréable et ils avaient froid aux mains. Un des deux sujets du Roi, fatigué, dit aux autres&nbsp;:\
 
-<div style="color:#309589; margin:0 20px 0 20px"><b>Sujet</b> <i>«&nbsp;J’en ai assez de laver mes chaussettes tous les jours. Il faut vraiment trouver une solution&nbsp;!&nbsp;»</i></div>
+<div style="color:#309589; margin:0 20px 0 20px"><b>Sujet</b> <i>«&nbsp;J’en ai assez de laver mes chaussettes tous les jours. Il faut vraiment trouver une solution&nbsp;!&nbsp;»</i></div>\
 
-<div style="color:#348226; margin:0 20px 0 20px"><b>Roi</b> <i>«&nbsp;Eh bien, on n’a qu’à arrêter de les laver&nbsp;!&nbsp;»»</i></div>
+<div style="color:#348226; margin:0 20px 0 20px"><b>Roi</b> <i>«&nbsp;Eh bien, on n’a qu’à arrêter de les laver&nbsp;!&nbsp;»»</i></div>\
 
-<div style="color:#309589; margin:0 20px 0 20px"><b>Sujet</b> <i>«&nbsp;Tu déconnes&nbsp;? On pue bien trop des pieds, ça serait atroce&nbsp;!&nbsp;»»</i></div>
+<div style="color:#309589; margin:0 20px 0 20px"><b>Sujet</b> <i>«&nbsp;Tu déconnes&nbsp;? On pue bien trop des pieds, ça serait atroce&nbsp;!&nbsp;»»</i></div>\
 
-<div style="color:#348226; margin:0 20px 0 20px"><b>Roi</b> <i>«&nbsp;C’est vrai. Et si on trouvait quelqu’un pour les laver à notre place&nbsp;?&nbsp;»»</i></div>
+<div style="color:#348226; margin:0 20px 0 20px"><b>Roi</b> <i>«&nbsp;C’est vrai. Et si on trouvait quelqu’un pour les laver à notre place&nbsp;?&nbsp;»»</i></div>\
 
-<div style="color:#309589; margin:0 20px 0 20px"><b>Sujet</b> <i>«&nbsp;Ce serait génial. Mais qui voudrait bien faire ça&nbsp;?&nbsp;»»</i></div>
+<div style="color:#309589; margin:0 20px 0 20px"><b>Sujet</b> <i>«&nbsp;Ce serait génial. Mais qui voudrait bien faire ça&nbsp;?&nbsp;»»</i></div>\
 
 Évidemment, l’un comme l’autre savait parfaitement que personne ne voudrait laver leurs chaussettes. Le deuxième sujet, Mac Yav, qui écoutait depuis le début et qui était très malin, dit&nbsp;:
 
-<div style="color:#861c1a; margin:0 20px 0 20px"><b>Mac Yav</b> <i>«&nbsp;J’ai une idée. Il faut trouver un point commun à nous trois.&nbsp;»</i></div>
+<div style="color:#861c1a; margin:0 20px 0 20px"><b>Mac Yav</b> <i>«&nbsp;J’ai une idée. Il faut trouver un point commun à nous trois.&nbsp;»</i></div>\
 
-<div style="color:#309589; margin:0 20px 0 20px"><b>Sujet</b> <i>«&nbsp;On pue des pieds&nbsp;!&nbsp;»</i></div>
+<div style="color:#309589; margin:0 20px 0 20px"><b>Sujet</b> <i>«&nbsp;On pue des pieds&nbsp;!&nbsp;»</i></div>\
 
-<div style="color:#348226; margin:0 20px 0 20px"><b>Roi</b> <i>«&nbsp;Oui, on pue des pieds.&nbsp;»</i></div>
+<div style="color:#348226; margin:0 20px 0 20px"><b>Roi</b> <i>«&nbsp;Oui, on pue des pieds.&nbsp;»</i></div>\
 
-<div style="color:#861c1a; margin:0 20px 0 20px"><b>Mac Yav</b> <i>«&nbsp;Non non, ça ne va pas. Tous les lutunes puent des pieds&nbsp;! Ça ne peut pas faire l’affaire.&nbsp;»</i></div>
+<div style="color:#861c1a; margin:0 20px 0 20px"><b>Mac Yav</b> <i>«&nbsp;Non non, ça ne va pas. Tous les lutunes puent des pieds&nbsp;! Ça ne peut pas faire l’affaire.&nbsp;»</i></div>\
 
-<div style="color:#348226; margin:0 20px 0 20px"><b>Roi</b> <i>«&nbsp;Mais nous sommes tous les trois différents. Et puis, qu’est-ce que ça peut bien changer de nous trouver un point commun à tous les trois&nbsp;?&nbsp;»</i></div>
+<div style="color:#348226; margin:0 20px 0 20px"><b>Roi</b> <i>«&nbsp;Mais nous sommes tous les trois différents. Et puis, qu’est-ce que ça peut bien changer de nous trouver un point commun à tous les trois&nbsp;?&nbsp;»</i></div>\
 
-<div style="color:#861c1a; margin:0 20px 0 20px"><b>Mac Yav</b> <i>«&nbsp;Faites-moi confiance. Si nous trouvons un point commun à nous trois, bientôt, nous ne laverons plus jamais nos chaussettes. Même si ce point commun est partagé par d’autres... et surtout s’il est partagé par d’autres&nbsp;!&nbsp;»</i></div>
+<div style="color:#861c1a; margin:0 20px 0 20px"><b>Mac Yav</b> <i>«&nbsp;Faites-moi confiance. Si nous trouvons un point commun à nous trois, bientôt, nous ne laverons plus jamais nos chaussettes. Même si ce point commun est partagé par d’autres... et surtout s’il est partagé par d’autres&nbsp;!&nbsp;»</i></div>\
 
 Comme Mac Yav avait toujours été un bon conseiller du Roi, ce dernier lui fit confiance. Les trois lutunes commencèrent donc à s’examiner...\
 
-<div style="color:#348226; margin:0 20px 0 20px"><b>Roi</b> <i>«&nbsp;J’ai des grands pieds et toi aussi.&nbsp;»</i></div>
+<div style="color:#348226; margin:0 20px 0 20px"><b>Roi</b> <i>«&nbsp;J’ai des grands pieds et toi aussi.&nbsp;»</i></div>\
 
 Mais ça n’allait pas, le troisième avait de petits pieds.\
 
-<div style="color:#309589; margin:0 20px 0 20px"><b>Sujet</b> <i>«&nbsp;Vous avez tous les deux des ongles violets&nbsp;!&nbsp;»</i></div>
+<div style="color:#309589; margin:0 20px 0 20px"><b>Sujet</b> <i>«&nbsp;Vous avez tous les deux des ongles violets&nbsp;!&nbsp;»</i></div>\
 
 Mais ça n’allait pas, un des trois avait des ongles roses à pois verts.\
 
-<div style="color:#861c1a; margin:0 20px 0 20px"><b>Mac Yav</b> <i>«&nbsp;Je suis un cuisinier hors pair et toi aussi&nbsp;!&nbsp;»</i></div>
+<div style="color:#861c1a; margin:0 20px 0 20px"><b>Mac Yav</b> <i>«&nbsp;Je suis un cuisinier hors pair et toi aussi&nbsp;!&nbsp;»</i></div>\
 
 Mais le troisième ne savait faire que des plats infects.\
 
 Cet examen dura plusieurs heures, et ils ne trouvèrent rien. Ils rentrèrent chez eux bredouilles, et pendant des jours, dès qu’ils se retrouvaient pour laver leurs chaussettes, ils s’examinaient. Un jour, enfin, ils trouvèrent&nbsp;: ils avaient les oreilles pointues tous les trois. Mac Yav, devant cette découverte, sauta de joie. Les autres le regardèrent interloqués, car en attendant ça ne changeait rien&nbsp;: ils lavaient toujours leurs chaussettes.\
 
-<div style="color:#348226; margin:0 20px 0 20px"><b>Roi</b> <i>«&nbsp;Et comment comptes-tu t’y prendre&nbsp;? Tu veux mettre tes chaussettes sur tes oreilles pour qu’elles ne puent pas des pieds&nbsp;?&nbsp;»</i></div>
+<div style="color:#348226; margin:0 20px 0 20px"><b>Roi</b> <i>«&nbsp;Et comment comptes-tu t’y prendre&nbsp;? Tu veux mettre tes chaussettes sur tes oreilles pour qu’elles ne puent pas des pieds&nbsp;?&nbsp;»</i></div>\
 
 Mac Yav demanda au Roi de lui faire confiance, et lui conseilla de faire passer le décret suivant&nbsp;:\
 {{< pullquote >}}Les lutunes sont naturellement séparés en deux catégories&nbsp;: les lutunes aux oreilles pointues et les autres,les lutunes aux oreilles rondes.{{< /pullquote >}}
 Le premier sujet lui fit remarquer que c’était totalement ridicule&nbsp;:\
 
-<div style="color:#309589; margin:0 20px 0 20px"><b>Sujet</b> <i>«&nbsp;Pourquoi pas les lutunes aux dents dorées et les lutunes aux dents argentées&nbsp;? Ou les lutunes blancs et les lutunes noirs, ou...&nbsp;»</i></div>
+<div style="color:#309589; margin:0 20px 0 20px"><b>Sujet</b> <i>«&nbsp;Pourquoi pas les lutunes aux dents dorées et les lutunes aux dents argentées&nbsp;? Ou les lutunes blancs et les lutunes noirs, ou...&nbsp;»</i></div>\
 
-<div style="color:#861c1a; margin:0 20px 0 20px"><b>Mac Yav</b> <i>«&nbsp;Tout simplement parce que les oreilles pointues sont le seul point commun que nous ayons trouvé. Ça aurait pu être autre chose, ça n’a pas d’importance. Mais laisse-moi finir&nbsp;: à la naissance, pour bien marquer la différence, les lutunes aux oreilles pointues porteront des chaussons verts, et les lutunes aux oreilles rondes porteront des chaussons orange.&nbsp;»</i></div>
+<div style="color:#861c1a; margin:0 20px 0 20px"><b>Mac Yav</b> <i>«&nbsp;Tout simplement parce que les oreilles pointues sont le seul point commun que nous ayons trouvé. Ça aurait pu être autre chose, ça n’a pas d’importance. Mais laisse-moi finir&nbsp;: à la naissance, pour bien marquer la différence, les lutunes aux oreilles pointues porteront des chaussons verts, et les lutunes aux oreilles rondes porteront des chaussons orange.&nbsp;»</i></div>\
 
 Là, le Roi pensa que son conseiller avait définitivement perdu la raison. Des chaussures adaptées aux oreilles, quelle idée&nbsp;! Mais comme il avait toujours eu confiance en Mac Yav et qu’il ne savait que faire, il fit passer le décret.\
 
@@ -176,23 +176,23 @@ Le peuple des lutunes prit le Roi pour un fou, mais la guilde des scientifiques 
 
 Quelque temps plus tard, Mac Yav parla au Roi.\
 
-<div style="color:#861c1a; margin:0 20px 0 20px"><b>Mac Yav</b> <i>«&nbsp;Il faut faire savoir au peuple que les lutunes aux oreilles pointues sont des lutunes, et que les autres sont des lutones. On dira Ul pour les lutunes, Ol pour les lutones. Ça nous permettra d’être clairs quand on parlera de quelqu’un. On saura directement si ses oreilles sont pointues ou rondes.&nbsp;»</i></div>
+<div style="color:#861c1a; margin:0 20px 0 20px"><b>Mac Yav</b> <i>«&nbsp;Il faut faire savoir au peuple que les lutunes aux oreilles pointues sont des lutunes, et que les autres sont des lutones. On dira Ul pour les lutunes, Ol pour les lutones. Ça nous permettra d’être clairs quand on parlera de quelqu’un. On saura directement si ses oreilles sont pointues ou rondes.&nbsp;»</i></div>\
 
 Cette idée ravit le Roi, qui aimait beaucoup la précision dans le langage. Cependant il demanda&nbsp;:\
 
-<div style="color:#348226; margin:0 20px 0 20px"><b>Roi</b> <i>«&nbsp;Les lutones, ce sont des lutunes quand même&nbsp;?&nbsp;»</i></div>
+<div style="color:#348226; margin:0 20px 0 20px"><b>Roi</b> <i>«&nbsp;Les lutones, ce sont des lutunes quand même&nbsp;?&nbsp;»</i></div>\
 
-<div style="color:#861c1a; margin:0 20px 0 20px"><b>Mac Yav</b> <i>«&nbsp;Oui, mais des lutunes aux oreilles rondes.&nbsp;»</i></div>
+<div style="color:#861c1a; margin:0 20px 0 20px"><b>Mac Yav</b> <i>«&nbsp;Oui, mais des lutunes aux oreilles rondes.&nbsp;»</i></div>\
 
 Le Roi se demandait où cela allait mener, mais puisque les scientifiques avaient prouvé cette différence, il ne pouvait pas trouver à redire. Il ne voyait cependant pas en quoi cela l’empêchait de laver ses chaussettes. Un jour, Mac Yav lui proposa un décret&nbsp;:\
 {{< pullquote >}}Aucun lutune ne devra aimer un lutune, et aucun lutone ne devra aimer un lutone, sous peine d’être traqué et traité de tous les noms.{{< /pullquote >}}
-<div style="color:#348226; margin:0 20px 0 20px"><b>Roi</b> <i>«&nbsp;Quelle folle idée&nbsp;! Pourquoi nous dis-tu qui aimer&nbsp;?&nbsp;»</i></div>
+<div style="color:#348226; margin:0 20px 0 20px"><b>Roi</b> <i>«&nbsp;Quelle folle idée&nbsp;! Pourquoi nous dis-tu qui aimer&nbsp;?&nbsp;»</i></div>\
 
-<div style="color:#861c1a; margin:0 20px 0 20px"><b>Mac Yav</b> <i>«&nbsp;Tu ne comprends pas, c’est très important d’aimer quelqu’un de différent de soi-même&nbsp;!&nbsp;»</i></div>
+<div style="color:#861c1a; margin:0 20px 0 20px"><b>Mac Yav</b> <i>«&nbsp;Tu ne comprends pas, c’est très important d’aimer quelqu’un de différent de soi-même&nbsp;!&nbsp;»</i></div>\
 
-<div style="color:#309589; margin:0 20px 0 20px"><b>Sujet</b> <i>«&nbsp;Voyons, tu sais très bien que chaque lutune est unique&nbsp;!&nbsp;»</i></div>
+<div style="color:#309589; margin:0 20px 0 20px"><b>Sujet</b> <i>«&nbsp;Voyons, tu sais très bien que chaque lutune est unique&nbsp;!&nbsp;»</i></div>\
 
-<div style="color:#861c1a; margin:0 20px 0 20px"><b>Mac Yav</b> <i>«&nbsp;Oui, mais seule la différence d’oreille est scientifique&nbsp;!&nbsp;»</i></div>
+<div style="color:#861c1a; margin:0 20px 0 20px"><b>Mac Yav</b> <i>«&nbsp;Oui, mais seule la différence d’oreille est scientifique&nbsp;!&nbsp;»</i></div>\
 
 Le Roi, désespéré et épuisé par le lavage de ses chaussettes, fit passer le décret soufflé par Mac Yav. Dans le Royaume, tout le monde s’habituait à ces lois. Les plus zélés montraient du doigt les lutunes qui mettaient des chaussons ne convenant pas à leurs oreilles, c’était vu comme quelque chose de contre nature, et c’est ce qu’il y avait de plus honteux. Chacun s’efforçait d’être digne de ses oreilles, qu’elles soient rondes ou pointues.\
 
