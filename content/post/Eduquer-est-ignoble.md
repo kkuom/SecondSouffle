@@ -10,7 +10,7 @@ categories: ["éducation éthique", "réédition", "bingo"]
 tags: ["brochure", "éthique", "éducation éthique", "contrat social", "anti-âgisme", "posture éducative et éthique", "acteurs éducatifs", "actrices éducatives", "bingo"]
 
 thumbnailImagePosition: top
-thumbnailImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Thumbnails/EducationEthique750_2?raw=true
+thumbnailImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Thumbnails/EducationEthique750_2.png?raw=true
 
 coverImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Post-header.jpg?raw=true
 coverMeta: in
