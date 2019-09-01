@@ -3,7 +3,7 @@ title: "Éduquer est ignoble (réédition)"
 author: "K.R.Ä.T.Z.Ä."
 date: 2019-09-01T13:15:20+02:00
 readingtime: "15"
-draft: false
+draft: true
 metaAlignment: center
 
 categories: ["éducation éthique", "réédition", "bingo"]
