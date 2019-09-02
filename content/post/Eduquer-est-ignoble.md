@@ -111,7 +111,7 @@ Si on ne se sent pas à l’aise dans la relation avec des enfants et ne sait pa
 
 <i>Un refus généralisé de l’éducation ne resterait sûrement pas sans effet sur la société. Nous supposons que la disposition à la violence diminuerait, car des personnes qui vivent l’égalité estimeront probablement mieux les droits et les libertés des autres. L’énergie perdue jusqu’à maintenant dans des luttes pour le pouvoir serait libérée pour de plus belles choses et pour résoudre des problèmes jusqu’ici négligés.</i>\
 
-<span style="color:#fa8072"><i class="fas fa-check-square fa-sm" style="padding-right:7.5px"></i><i>Traduction réalisée par Yves Bonnardel,\
+<span style="color:#fa8072"><i class="fas fa-globe" style="padding-right:7.5px"></i><i>Traduction réalisée par Yves Bonnardel,\
 avec quelques modifications mineures de Second Souffle.</i></span>\
 
 # <i class="fas fa-pencil-alt" aria-hidden="true" style="padding-right:13px;"></i>Éduquer est ignoble - version allemande
@@ -181,7 +181,7 @@ Comprenons-nous bien : nous n'entendons pas par "phrases de connards" que celle
 Ce Bingo! démontre en utilisant l'ironie la portée politique et affective des phrases <s>de connards</s> âgistes. Et éventuellement, donne des moyens d'y répondre.</i>\
 
 {{< image classes="fig-50 center clear fig-no-border nocaption" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Bingo/BingoAgiste.png?raw=true" title="Bingo!" >}}\
-
+\
 <i class="fas fa-users" style="padding-right:7.5px;color:#fa8072"></i><span style="color:#fa8072">Une fessée, ça n'a jamais tué personne&nbsp;!</span>\
 <i class="fas fa-user-ninja" style="padding-right:7.5px"></i><i>...&nbsp;ouai. Un viol non plus...</i>\
 
@@ -205,7 +205,7 @@ Ou comme quand on interdit aux filles de sortir pour ne pas qu'elles se fassent 
 T'assumes toujours maintenant&nbsp;?</i>\
 
 <i class="fas fa-users" style="padding-right:7.5px;color:#fa8072"></i><span style="color:#fa8072">Dis bonjour à la Dame&nbsp;!</span>\
-<i class="fas fa-user-ninja" style="padding-right:7.5px"></i><i>...&nbsp;changeons le contexte en gardant l'idée&nbsp;: Suces la bite au monsieur&nbsp;!\
+<i class="fas fa-user-ninja" style="padding-right:7.5px"></i><i>...&nbsp;changeons le contexte en gardant l'idée&nbsp;: suces la bite au monsieur&nbsp;!\
 Ah, tout de suite on comprend mieux qu'il y a une question de consentement&nbsp;!</i>\
 
 <i class="fas fa-users" style="padding-right:7.5px;color:#fa8072"></i><span style="color:#fa8072">Les jeunes ne respectent plus rien...</span>\
