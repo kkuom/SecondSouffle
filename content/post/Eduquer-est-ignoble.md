@@ -174,7 +174,7 @@ Falls man sich im Umgang mit Kindern mal nicht sicher ist, ob man auf der Grundl
 <i>Ein flächendeckender Verzicht auf Erziehung würde sicher nicht ohne Auswirkung auf die Gesellschaft bleiben. Wir nehmen an, daß die Gewaltbereitschaft abnimmt, denn Menschen, die Gleichberechtigung erleben, werden vermutlich auch die Rechte und Freiheiten anderer zu schätzen wissen. Die bisher in Machtkämpfen gebundene Energie, würde frei werden für schönere Dinge und das Lösen bisher vernachlässigter Probleme.</i>\
 
 # <i class="fas fa-pencil-alt" aria-hidden="true" style="padding-right:13px;"></i>Bingo! des phrases âgistes
-{{< image classes="fig-75 center clear fig-border nocaption" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Bingo/BingoAgiste.png?raw=true" title="Bingo!" >}}\
+{{< image classes="fig-33 center clear fig-no-border nocaption" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Bingo/BingoAgiste.png?raw=true" title="Bingo!" >}}\
 
 <i>Le but, au départ, était de répertorier toutes les phrases dîtes "de connards" ou "de connasses". On faisait ça plutôt par amusement, pour le plaisir de trouver une rhétorique singlante permettant de répondre à une agression raciste, sexiste, âgiste, etc.\
 
@@ -182,14 +182,14 @@ Comprenons-nous bien : nous n'entendons pas par "phrases de connards" que celle
 
 Ce Bingo! démontre en utilisant l'ironie la portée politique et affective des phrases <s>de connards</s> âgistes. Et éventuellement, donne des moyens d'y répondre.</i>\
 
-<i class="fas fa-microphone-alt" style="padding-right:7.5px;color:#fa8072"></i><span style="color:#fa8072">Une fessée, ça n'a jamais tué personne&nbsp;!</span>\
-<b><i>Ouai. Un viol non plus...</i></b>\
+<i class="fas fa-users" style="padding-right:7.5px;color:#fa8072"></i><span style="color:#fa8072">Une fessée, ça n'a jamais tué personne&nbsp;!</span>\
+<i class="fas fa-user-ninja" style="padding-right:7.5px"></i><i>Ouai. Un viol non plus...</i>\
 
-<i class="fas fa-microphone-alt" style="padding-right:7.5px;color:#fa8072"></i><span style="color:#fa8072">Tu comprendras quand tu seras grande&nbsp;!</span>\
-<b><i>Tu dis ça parce que t'as plus d'arguments ou bien c'est toi qui as oublié ce que ça fait d'être enfant&nbsp;?</i></b>\
+<i class="fas fa-users" style="padding-right:7.5px;color:#fa8072"></i><span style="color:#fa8072">Tu comprendras quand tu seras grande&nbsp;!</span>\
+<i class="fas fa-user-ninja" style="padding-right:7.5px"></i><i>Tu dis ça parce que t'as plus d'arguments ou bien c'est toi qui as oublié ce que ça fait d'être enfant&nbsp;?</i>\
 
-<i class="fas fa-microphone-alt" style="padding-right:7.5px;color:#fa8072"></i><span style="color:#fa8072">Il faut bien que jeunesse se passe...</span>\
-<b><i>et il faut bien quelques adultes pour essayer de m'faire croire que ce qui est important pour moi maintenant ne l'sera plus une fois grand.</i></b>\
+<i class="fas fa-users" style="padding-right:7.5px;color:#fa8072"></i><span style="color:#fa8072">Il faut bien que jeunesse se passe...</span>\
+<i class="fas fa-user-ninja" style="padding-right:7.5px"></i><i>et il faut bien quelques adultes pour essayer de m'faire croire que ce qui est important pour moi maintenant ne l'sera plus une fois grand.</i>\
 
 {{< blockquote "...comme quand on bombardait l'Irak pour les libérer ?  Ou comme quand on interdit aux filles de sortir pour ne pas qu'elles se fassent violer ?" "" >}}
 Écoute-moi, c'est pour ton bien.{{< /blockquote >}}
