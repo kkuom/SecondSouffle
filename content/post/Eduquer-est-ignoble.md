@@ -37,7 +37,7 @@ La violence n'est pas innée chez l'homme. Elle s'acquiert par l'éducation et l
 {{< /blockquote >}}
 
 # <i class="fas fa-sticky-note" aria-hidden="true" style="padding-right:13px;"></i>Note de Second Souffle
-En lisant le livre La domination Adulte de <i>Yves Bonnardel</i>, je suis tombé sur le collectif <i>K.R.Ä.T.Z.Ä.</i> Ce collectif Berlinois, principalement composé de mineures, m’a totalement retourné.\
+En lisant le livre <i>La domination Adulte</i> de <i>Yves Bonnardel</i>, je suis tombé sur le collectif <i>K.R.Ä.T.Z.Ä.</i> Ce collectif Berlinois, principalement composé de mineures, m’a totalement retourné.\
 Combattant pour le droit des enfants, ce collectif a notamment lutté contre la scolarisation, pour le droit électoral des mineures, pour l’indépendance matérielle des enfants et… contre l’éducation.\
 
 Je ne savais pas trop à quoi m’attendre en lisant ce texte et cela fait des années que je suis impliqué dans l’éducation. Je travaillais déjà depuis plus de dix ans sur ma posture, les questions de contrat social, etc.\
@@ -180,8 +180,8 @@ Comprenons-nous bien : nous n'entendons pas par "phrases de connards" que celle
 
 Ce Bingo! démontre en utilisant l'ironie la portée politique et affective des phrases <s>de connards</s> âgistes. Et éventuellement, donne des moyens d'y répondre.</i>\
 
-{{< image classes="fig-50 center clear fig-no-border nocaption" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Bingo/BingoAgiste.png?raw=true" title="Bingo!" >}}\
-\
+{{< image classes="fig-50 center clear fig-no-border nocaption" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Bingo/BingoAgiste.png?raw=true" title="Bingo!" >}}<br />
+
 <i class="fas fa-users" style="padding-right:7.5px;color:#fa8072"></i><span style="color:#fa8072">Une fessée, ça n'a jamais tué personne&nbsp;!</span>\
 <i class="fas fa-user-ninja" style="padding-right:7.5px"></i><i>...&nbsp;ouai. Un viol non plus...</i>\
 
