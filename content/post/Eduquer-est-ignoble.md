@@ -173,8 +173,9 @@ Falls man sich im Umgang mit Kindern mal nicht sicher ist, ob man auf der Grundl
 
 <i>Ein flächendeckender Verzicht auf Erziehung würde sicher nicht ohne Auswirkung auf die Gesellschaft bleiben. Wir nehmen an, daß die Gewaltbereitschaft abnimmt, denn Menschen, die Gleichberechtigung erleben, werden vermutlich auch die Rechte und Freiheiten anderer zu schätzen wissen. Die bisher in Machtkämpfen gebundene Energie, würde frei werden für schönere Dinge und das Lösen bisher vernachlässigter Probleme.</i>\
 
-# <i class="fas fa-pencil-alt" aria-hidden="true" style="padding-right:13px;"></i>Bingo! des phrases âgistes
-{{< image classes="fig-33 center clear fig-no-border nocaption" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Bingo/BingoAgiste.png?raw=true" title="Bingo!" >}}\
+# <i class="fas fa-user-ninja" aria-hidden="true" style="padding-right:13px;"></i>Bingo! des phrases âgistes
+\
+{{< image classes="fig-50 center clear fig-no-border nocaption" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Bingo/BingoAgiste.png?raw=true" title="Bingo!" >}}\
 
 <i>Le but, au départ, était de répertorier toutes les phrases dîtes "de connards" ou "de connasses". On faisait ça plutôt par amusement, pour le plaisir de trouver une rhétorique singlante permettant de répondre à une agression raciste, sexiste, âgiste, etc.\
 
@@ -183,52 +184,58 @@ Comprenons-nous bien : nous n'entendons pas par "phrases de connards" que celle
 Ce Bingo! démontre en utilisant l'ironie la portée politique et affective des phrases <s>de connards</s> âgistes. Et éventuellement, donne des moyens d'y répondre.</i>\
 
 <i class="fas fa-users" style="padding-right:7.5px;color:#fa8072"></i><span style="color:#fa8072">Une fessée, ça n'a jamais tué personne&nbsp;!</span>\
-<i class="fas fa-user-ninja" style="padding-right:7.5px"></i><i>Ouai. Un viol non plus...</i>\
+<i class="fas fa-user-ninja" style="padding-right:7.5px"></i><i>...ouai. Un viol non plus...</i>\
 
 <i class="fas fa-users" style="padding-right:7.5px;color:#fa8072"></i><span style="color:#fa8072">Tu comprendras quand tu seras grande&nbsp;!</span>\
-<i class="fas fa-user-ninja" style="padding-right:7.5px"></i><i>Tu dis ça parce que t'as plus d'arguments ou bien c'est toi qui as oublié ce que ça fait d'être enfant&nbsp;?</i>\
+<i class="fas fa-user-ninja" style="padding-right:7.5px"></i><i>...tu dis ça parce que t'as plus d'arguments ou bien c'est toi qui as oublié ce que ça fait d'être enfant&nbsp;?</i>\
 
 <i class="fas fa-users" style="padding-right:7.5px;color:#fa8072"></i><span style="color:#fa8072">Il faut bien que jeunesse se passe...</span>\
-<i class="fas fa-user-ninja" style="padding-right:7.5px"></i><i>et il faut bien quelques adultes pour essayer de m'faire croire que ce qui est important pour moi maintenant ne l'sera plus une fois grand.</i>\
+<i class="fas fa-user-ninja" style="padding-right:7.5px"></i><i>...et il faut bien quelques adultes pour essayer de m'faire croire que ce qui est important pour moi maintenant ne l'sera plus une fois grand.</i>\
 
-{{< blockquote "...comme quand on bombardait l'Irak pour les libérer ?  Ou comme quand on interdit aux filles de sortir pour ne pas qu'elles se fassent violer ?" "" >}}
-Écoute-moi, c'est pour ton bien.{{< /blockquote >}}
+<i class="fas fa-users" style="padding-right:7.5px;color:#fa8072"></i><span style="color:#fa8072">Écoute-moi, c'est pour ton bien.</span>\
+<i class="fas fa-user-ninja" style="padding-right:7.5px"></i><i>...comme quand on bombardait l'Irak pour les libérer&nbsp;?\
+Ou comme quand on interdit aux filles de sortir pour ne pas qu'elles se fassent violer&nbsp;?</i>\
 
-{{< blockquote "...qui l'a décidé ? Toi ou moi ?" "" >}}
-T'es trop jeune. / C'est pas de ton âge.{{< /blockquote >}}
+<i class="fas fa-users" style="padding-right:7.5px;color:#fa8072"></i><span style="color:#fa8072">T'es trop jeune.\
+C'est pas de ton âge.</span>\
+<i class="fas fa-user-ninja" style="padding-right:7.5px"></i><i>...qui l'a décidé&nbsp;? Toi ou moi&nbsp;?</i>\
 
-{{< blockquote "...oui mais moi j'ai l'droit, j'suis un mec. ...oui mais moi j'ai l'droit parce que j'suis blanc. ...oui mais moi j'suis riche, j'ai l'droit non ? T'assumes toujours maintenant ?" "" >}}
-Oui mais moi j'ai le droit parce que je suis un adulte.{{< /blockquote >}}
+<i class="fas fa-users" style="padding-right:7.5px;color:#fa8072"></i><span style="color:#fa8072">Oui mais moi j'ai le droit parce que je suis un adulte.</span>\
+<i class="fas fa-user-ninja" style="padding-right:7.5px"></i><i>...oui mais moi j'ai l'droit, j'suis un mec.\
+...oui mais moi j'ai l'droit parce que j'suis blanc.\
+...oui mais moi j'suis riche, j'ai l'droit non&nbsp;?\
+T'assumes toujours maintenant&nbsp;?</i>\
 
-{{< blockquote "...changeons le contexte en gardant l'idée : Suces la bite au monsieur ! Ah, tout de suite on comprend mieux qu'il y a une question de consentement !" "" >}}
-Dis bonjour à la Dame !{{< /blockquote >}}
+<i class="fas fa-users" style="padding-right:7.5px;color:#fa8072"></i><span style="color:#fa8072">Dis bonjour à la Dame&nbsp;!</span>\
+<i class="fas fa-user-ninja" style="padding-right:7.5px"></i><i>...changeons le contexte en gardant l'idée&nbsp;: Suces la bite au monsieur&nbsp;!\
+Ah, tout de suite on comprend mieux qu'il y a une question de consentement&nbsp;!</i>\
 
-{{< blockquote "...à croire qu'ils ont même le droit de se défendre des adultes" "" >}}
-Les jeunes ne respectent plus rien...{{< /blockquote >}}
+<i class="fas fa-users" style="padding-right:7.5px;color:#fa8072"></i><span style="color:#fa8072">Les jeunes ne respectent plus rien...</span>\
+<i class="fas fa-user-ninja" style="padding-right:7.5px"></i><i>...à croire qu'ils ont même le droit de se défendre des adultes.</i>\
 
-{{< blockquote "...si l'respect c'est de t'obéir sans réfléchir, j'te suggère la poupée gonflable." "" >}}
-Et le respect des anciens alors ?{{< /blockquote >}}
+<i class="fas fa-users" style="padding-right:7.5px;color:#fa8072"></i><span style="color:#fa8072">Et le respect des anciens alors&nbsp;?</span>\
+<i class="fas fa-user-ninja" style="padding-right:7.5px"></i><i>...si l'respect c'est de t'obéir sans réfléchir, j'te suggère la poupée gonflable.</i>\
 
-{{< blockquote "...mmh, à ne pas confondre avec c'est un truc de pédales / de noirs / de gonzesses." "" >}}
-C'est un truc de gamin...{{< /blockquote >}}
+<i class="fas fa-users" style="padding-right:7.5px;color:#fa8072"></i><span style="color:#fa8072">C'est un truc de gamin...</span>\
+<i class="fas fa-user-ninja" style="padding-right:7.5px"></i><i>...mmh, à ne pas confondre avec c'est un truc de pédales /&nbsp;de noirs /&nbsp;de gonzesses</i>\
 
-{{< blockquote "...et tu t'comportes comme un gros con." "" >}}
-Tu te comportes comme un enfant !{{< /blockquote >}}
+<i class="fas fa-users" style="padding-right:7.5px;color:#fa8072"></i><span style="color:#fa8072">Tu t'comportes comme un enfant;&nbsp;</span>\
+<i class="fas fa-user-ninja" style="padding-right:7.5px"></i><i>...et tu t'comportes comme un gros con.</i>\
 
-{{< blockquote "...alors ne m'oppresse pas s'il te plait." "" >}}
-Ne réponds pas (aux adultes) !{{< /blockquote >}}
+<i class="fas fa-users" style="padding-right:7.5px;color:#fa8072"></i><span style="color:#fa8072">Ne réponds pas (aux adultes)&nbsp;!</span>\
+<i class="fas fa-user-ninja" style="padding-right:7.5px"></i><i>...alors ne m'oppresse pas s'il te plait.</i>\
 
-{{< blockquote "...oui, tu arrives à lire l'avenir ou alors t'avais plus d'arguments?" "" >}}
-Tu dis ça parce que t’es encore jeune !{{< /blockquote >}}
+<i class="fas fa-users" style="padding-right:7.5px;color:#fa8072"></i><span style="color:#fa8072">Tu dis ça parce que t’es encore jeune&nbsp;!</span>\
+<i class="fas fa-user-ninja" style="padding-right:7.5px"></i><i>...oui, tu arrives à lire l'avenir ou alors t'avais plus d'arguments&nbsp;?</i>\
 
-{{< blockquote "...contrairement aux enfants qui frappent leurs femmes, conduisent bourrés et donnent leur argent à la Française des Jeux." "" >}}
-Sois un peu responsable, on est tous des adultes ici !{{< /blockquote >}}
+<i class="fas fa-users" style="padding-right:7.5px;color:#fa8072"></i><span style="color:#fa8072">Sois un peu responsable, on est tous des adultes ici&nbsp;!</span>\
+<i class="fas fa-user-ninja" style="padding-right:7.5px"></i><i>...contrairement aux enfants qui frappent leurs femmes, conduisent bourrés et donnent leur argent à la Française des Jeux.</i>\
 
-{{< blockquote "...Ok, t'as raison. Du coup j'vais la laisser dehors cet hiver pour qu'elle apprenne à construire une maison, bonne idée." "" >}}
-Mais c’est comme ça qu'elle apprendra ! Comment veux-tu qu'elle apprenne sinon ?{{< /blockquote >}}
+<i class="fas fa-users" style="padding-right:7.5px;color:#fa8072"></i><span style="color:#fa8072">Mais c’est comme ça qu'elle apprendra&nbsp;! Comment veux-tu qu'elle apprenne sinon&nbsp;?</span>\
+<i class="fas fa-user-ninja" style="padding-right:7.5px"></i><i>...ok, t'as raison. Du coup j'vais la laisser dehors cet hiver pour qu'elle apprenne à construire une maison, bonne idée.</i>\
 
-{{< blockquote "...tu as raison, et puis si on pouvait les torturer on serait encore plus sûr qu'il arrêterait ses bêtises." "" >}}
-On peut plus mettre de claque, on peut plus rien faire pour éduquer nos enfants.{{< /blockquote >}}
+<i class="fas fa-users" style="padding-right:7.5px;color:#fa8072"></i><span style="color:#fa8072">On peut plus mettre de claque, on peut plus rien faire pour éduquer nos enfants.</span>\
+<i class="fas fa-user-ninja" style="padding-right:7.5px"></i><i>...tu as raison, et puis si on pouvait les torturer on serait encore plus sûr qu'il arrêterait ses bêtises.</i>\
 
-{{< blockquote "...dommage que ton vieux con ait trahi l'enfant que t'étais." "" >}}
-Je pensais comme toi quand j'avais ton âge...{{< /blockquote >}}
+<i class="fas fa-users" style="padding-right:7.5px;color:#fa8072"></i><span style="color:#fa8072">Je pensais comme toi quand j'avais ton âge...</span>\
+<i class="fas fa-user-ninja" style="padding-right:7.5px"></i><i>...dommage que ton vieux con ait trahi l'enfant que t'étais.</i>
