@@ -218,7 +218,7 @@ Ah, tout de suite on comprend mieux qu'il y a une question de consentement&nbsp;
 <i class="fas fa-users" style="padding-right:7.5px;color:#fa8072"></i><span style="color:#fa8072">C'est un truc de gamin...</span>\
 <i class="fas fa-user-ninja" style="padding-right:7.5px"></i><i>...&nbsp;mmh, à ne pas confondre avec c'est un truc de pédales /&nbsp;de noirs /&nbsp;de gonzesses</i>\
 
-<i class="fas fa-users" style="padding-right:7.5px;color:#fa8072"></i><span style="color:#fa8072">Tu t'comportes comme un enfant;&nbsp;</span>\
+<i class="fas fa-users" style="padding-right:7.5px;color:#fa8072"></i><span style="color:#fa8072">Tu t'comportes comme un enfant.&nbsp;</span>\
 <i class="fas fa-user-ninja" style="padding-right:7.5px"></i><i>...&nbsp;et tu t'comportes comme un gros con.</i>\
 
 <i class="fas fa-users" style="padding-right:7.5px;color:#fa8072"></i><span style="color:#fa8072">Ne réponds pas (aux adultes)&nbsp;!</span>\
