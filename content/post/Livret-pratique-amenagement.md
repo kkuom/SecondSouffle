@@ -28,9 +28,6 @@ L’aménagement est un champ complexe, mais d’une importance indiscutable. Il
 <hr class="intro-divider">
 <!-- toc -->
 {{%attachments title="" style="black" pattern=".*(pdf)"/%}}
-{{< alert genre >}}
-*On a l’habitude de voir le masculin absorber grammaticalement le féminin. Ici, le féminin et le masculin sont employés de manière aléatoire, ceci dans le but de conserver une lecture fluide tout en neutralisant la langue.*
-{{< /alert >}}
 </section>
 
 {{< blockquote "Makarenko" "" >}}
@@ -45,7 +42,7 @@ L’aménagement peut être divisé en <b>trois échelles</b>&nbsp;:\
 <i class="fas fa-arrow-right fa-sm" style="padding-right:7.5px;color:#fa8072"></i><span style="color:#fa8072">Macro</span>aménagements\
 <i class="fas fa-arrow-right fa-sm" style="padding-right:7.5px;color:#fa8072"></i><span style="color:#fa8072">Moyen</span>-aménagements\
 <i class="fas fa-arrow-right fa-sm" style="padding-right:7.5px;color:#fa8072"></i><span style="color:#fa8072">Micro</span>aménagements\
-{{< image classes="fig-50 center clear fig-no-border nocaption" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Articles/LP1/echelle.png?raw=true" style="margin-bottom:20px;" title="" >}}
+{{< image classes="fig-50 center clear fig-no-border nocaption" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Articles/LP1/echelle.png?raw=true" title="" >}}
 Ces trois échelles seront détaillées en fin de livret. Cependant, si vous n’êtes pas encore au clair avec l’aménagement, commencez par le microaménagement peut être une bonne idée.\
 
 Par ailleurs, <b>trois échelles de temps</b> différentes peuvent être distinguées&nbsp;:\
@@ -56,7 +53,7 @@ Par ailleurs, <b>trois échelles de temps</b> différentes peuvent être disting
 <i class="fas fa-arrow-right fa-sm" style="padding-right:7.5px;color:#fa8072"></i><span style="color:#fa8072">L’aménagement d’activité</span>, tel que celui qui sera mis en œuvre avant une activité, qui durera le temps de l’activité, et qui sera rangé ensuite.\
 <i class="fas fa-arrow-right fa-sm" style="padding-right:7.5px;color:#fa8072"></i><span style="color:#fa8072">L’aménagement continu</span>, tel que ceux qui se créeront pendant un stage, une colonie ou autre&nbsp;:\ l’affichage, le séchage, la cabane que les enfants feront, etc.\
 
-{{< image classes="fig-100 center clear fig-no-border nocaption" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Articles/LP1/photo1.png?raw=true" style="margin-bottom:20px;" title="" >}}
+{{< image classes="fig-100 center clear fig-no-border nocaption" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Articles/LP1/photo1.png?raw=true" title="" >}}
 
 # <i class="far fa-bookmark" aria-hidden="true" style="padding-right:15px"></i>Notions de base
 
@@ -69,40 +66,40 @@ Exemples de matériels qui peuvent se trouver en régie&nbsp;:\
 <i class="fas fa-arrow-right fa-sm" style="padding-right:7.5px;color:#fa8072"></i>Fongibles&nbsp;: *papier, crayon, stylo, baguettes de bois, colle, etc.*\
 <i class="fas fa-arrow-right fa-sm" style="padding-right:7.5px;color:#fa8072"></i>Matériel en trop : *ballons, chasubles, jeux de société en plusieurs exemplaires, etc.*\
 
-{{< image classes="fig-100 center clear fig-no-border nocaption" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Articles/LP1/photo2.png?raw=true" style="margin-bottom:20px;" title="" >}}
+{{< image classes="fig-100 center clear fig-no-border nocaption" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Articles/LP1/photo2.png?raw=true" title="" >}}
 
 ## <i class="fas fa-lightbulb" aria-hidden="true" style="padding-right:15px; color:#ffc700"></i>Sachez être minimaliste
 Afin de donner des repères clairs et compréhensibles, il faut que les aménagements soient sobres. Inutile de mettre des affiches partout et une incroyable décoration. Chaque affiche doit être claire et utile et un code couleur aide souvent au repérage.\
 Par ailleurs, il faut veiller à ne pas sortir du matériel superflu. Par exemple, il est inutile de sortir 20 paires de ciseaux pour un groupe de 12 enfants. Même si cela parait évident, cette erreur d’aménagement est assez courante. Mettez plutôt 8 paires de ciseaux en régie et 12 en aménagement autonome. Si vous pensez qu’il sera exceptionnel que les enfants soient à 12 à utiliser des ciseaux en même temps, mettez-en moins.\
 
 {{< image classes="fig-100 center clear fig-no-border nocaption" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Articles/LP1/photo3.png?raw=true" title="" >}}
-{{< image classes="fig-100 center clear fig-no-border nocaption" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Articles/LP1/photo4.png?raw=true" style="margin-bottom:20px;" title="" >}}
+{{< image classes="fig-100 center clear fig-no-border nocaption" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Articles/LP1/photo4.png?raw=true" title="" >}}
 
 ## <i class="fas fa-lightbulb" aria-hidden="true" style="padding-right:15px; color:#ffc700"></i>Ayez un soucis d'esthétique
 De manière générale, un aménagement ayant de belles écritures, lisibles, de tailles différentes selon ce qu’elles transmettent, etc., sera plus efficace qu’un aménagement où les affichages sont brouillons et raturés. Les dessins facilement identifiables sont de très bons atouts. Les codes couleur, lorsqu’ils sont identifiables facilement —&nbsp;par exemple en respectant partout la même façon d’être présentés&nbsp;—, sont aussi plus efficients.\
 
-{{< image classes="fig-100 center clear fig-no-border nocaption" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Articles/LP1/photo5.png?raw=true" style="margin-bottom:20px;" title="" >}}
+{{< image classes="fig-100 center clear fig-no-border nocaption" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Articles/LP1/photo5.png?raw=true" title="" >}}
 
 N’oubliez pas qu’un aménagement doit être capable de susciter l’envie d’être utilisé. Ainsi, un coin marionnette où le théâtre est à moitié branlant et constitué de tissus sales aura possiblement moins de succès que s’il est beau. Toutefois, acceptez qu’un aménagement évolue dans le temps&nbsp;: il est contreproductif de faire un bel aménagement si vous refusez qu’il soit potentiellement sali ou abimé. Si vous refusez que les enfants utilisent le théâtre de marionnettes en l’absence d’une animatrice, car vous avez peur qu’il soit abimé, alors il valait peut-être mieux construire un théâtre plus simple que les enfants auraient pu utiliser en autonomie.\
 
 Aussi, lorsque vous manquez de compétences pour faire quelque chose de «&nbsp;joli&nbsp;» (à prendre avec des pincettes, c’est un jugement arbitraire), pensez au paragraphe précédent concernant le minimalisme&nbsp;: mieux vaut un aménagement sobre et efficace qu’un aménagement surchargé de décoration nuisant à la compréhension de l’espace.\
 
 {{< image classes="fig-100 center clear fig-no-border nocaption" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Articles/LP1/photo6.png?raw=true" title="" >}}
-{{< image classes="fig-100 center clear fig-no-border nocaption" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Articles/LP1/photo7.png?raw=true" style="margin-bottom:20px;" title="" >}}
+{{< image classes="fig-100 center clear fig-no-border nocaption" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Articles/LP1/photo7.png?raw=true" title="" >}}
 
 ## <i class="fas fa-lightbulb" aria-hidden="true" style="padding-right:15px; color:#ffc700"></i>Veillez à vous adapter
 Il s’agit de tenir compte de son public, son état de maturité, sa taille, son autonomie. Il s’agit aussi d’adapter ses aménagements au projet pédagogique, à la structure, au cadre, etc.\
 
 Même si vous avez bien réfléchi à l’aménagement de votre table matériel, si elle est trop haute pour les enfants, votre aménagement ne sera pas investi par elles et eux&nbsp;! De la même manière, une affiche fixée pour une taille adulte ne sera probablement pas repéré par des enfants de petite taille&nbsp;: pensez à descendre vos affichages à hauteur des yeux des utilisatrices&nbsp;!\
 
-{{< image classes="fig-100 center clear fig-no-border nocaption" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Articles/LP1/photo8.png?raw=true" style="margin-bottom:20px;" title="" >}}
+{{< image classes="fig-100 center clear fig-no-border nocaption" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Articles/LP1/photo8.png?raw=true" title="" >}}
 
 ## <i class="fas fa-lightbulb" aria-hidden="true" style="padding-right:15px; color:#ffc700"></i>Soyez pratique
 Si on dispose des pinceaux au bout d’une salle et que la table peinture est de l’autre côté, l’aménagement ne sera pas pratique&nbsp;: il oblige en effet les usagères à faire de nombreux déplacements. Si on dispose un coin séchage trop loin de la peinture, peu de personnes penseront à l’utiliser pour faire sécher leurs œuvres, et, pour celles qui iront, elles saliront probablement le sol lors du trajet&nbsp;!\
 
-{{< image classes="fig-100 center clear fig-no-border nocaption" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Articles/LP1/photo9.png?raw=true" style="margin-bottom:20px;" title="" >}}
-
 Il est également utile de penser à laisser de l’espace autour des aménagements. Par exemple, un fauteuil juste devant la table de matériel empêchera le bon repérage et l’utilisation de ce matériel, et il ne sera peut-être pas utilisé de la semaine. Des chaises devant un espace vertical de peinture rendront moins attractif cet aménagement, alors qu’il est pourtant pratique pour cette activité.\
+
+{{< image classes="fig-100 center clear fig-no-border nocaption" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Articles/LP1/photo9.png?raw=true" title="" >}}
 
 ## <i class="fas fa-lightbulb" aria-hidden="true" style="padding-right:15px; color:#ffc700"></i>Veillez à ce que chaque chose ait sa place
 Les enfants doivent pouvoir trouver chaque objet : il est donc important de soi-même savoir où ils se trouvent. Ainsi, les crayons vont dans la boite à crayons, le scotch à l’emplacement du scotch, etc. Cela permettra à l’enfant d’être très autonome, car en plus de pouvoir trouver facilement le matériel, il ou elle saura où le ranger (plus de détails plus bas).\
@@ -111,18 +108,18 @@ Par ailleurs, il faudra penser à aménager des espaces pour mettre les travaux 
 
 Et cette logique s'applique également pour tout ce qui concerne la vie quotidienne : pensez à prévoir un espace pour ranger les sacs ou les habits sortis de la chambre peut s’avérer indispensable. Chaque rangement doit faire partie d’une organisation plus générale, et plusieurs méthodes peuvent s’articuler pour contribuer à cette organisation. Pensez-les&nbsp;!\
 
-{{< image classes="fig-100 center clear fig-no-border nocaption" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Articles/LP1/photo10.png?raw=true" style="margin-bottom:20px;" title="" >}}
+{{< image classes="fig-100 center clear fig-no-border nocaption" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Articles/LP1/photo10.png?raw=true" title="" >}}
 
 ## <i class="fas fa-lightbulb" aria-hidden="true" style="padding-right:15px; color:#ffc700"></i>Affichez les règles et consignes du lieu
 Lorsqu’un aménagement nécessite de comprendre des règles ou consignes spécifiques afin qu’il soit utilisé correctement, veillez à ce qu’elles soient visibles et facilement compréhensibles par tout le monde (une animatrice ou une enfant entrant pour la première fois dans l’aménagement). Cela vous aidera à sanctionner adéquatement. Souvent, une découverte des espaces avec les enfants est très utile pour appréhender les différents fonctionnements qu’ils supposent.\
 
-{{< image classes="fig-100 center clear fig-no-border nocaption" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Articles/LP1/photo11.png?raw=true" style="margin-bottom:20px;" title="" >}}
+{{< image classes="fig-100 center clear fig-no-border nocaption" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Articles/LP1/photo11.png?raw=true" title="" >}}
 
 ## <i class="fas fa-lightbulb" aria-hidden="true" style="padding-right:15px; color:#ffc700"></i>Apercevez-vous du chaos et gérez-le
 Si vous constatez qu’il demeure des choses chaotiques suite à l’usage de votre aménagement, c’est qu’il est possible de l’améliorer. Évaluez les choses et essayez de les comprendre, trouvez des emplacements pour ce qui n’est jamais rangé.\
 Si vous ne trouvez pas de solutions pour ce qu’il reste, il s’agit de canaliser le chaos. Il existe un outil de rangement collectif que l’on peut appeler la «&nbsp;boite à tornade&nbsp;». Il s’agit de prendre une grande malle et de l’afficher comme boite à tornade. Dès que l’on ne sait pas où mettre quelque chose ou que l’on ne sait pas à qui ça appartient, on le met dans cette boite. Cela permet de ranger rapidement sans se faire court-circuiter par des questions insolubles de «&nbsp;où cette pile usée devrait se ranger&nbsp;?&nbsp;». De temps à autre ou pendant un gros rangement, on peut inviter les usagères à fouiller dans la boite à tornade pour identifier, reprendre et ranger d’éventuelles affaires à elles. Ensuite, on peut décider de trouver des emplacements pour ce qu’il reste dedans, de les archiver ou de les jeter.\
 
-{{< image classes="fig-100 center clear fig-no-border nocaption" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Articles/LP1/photo12.png?raw=true" style="margin-bottom:20px;" title="" >}}
+{{< image classes="fig-100 center clear fig-no-border nocaption" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Articles/LP1/photo12.png?raw=true" title="" >}}
 
 ## <i class="fas fa-lightbulb" aria-hidden="true" style="padding-right:15px; color:#ffc700"></i>Jetez, réparez
 Il arrive assez souvent que des objets soient en fin de vie ou à réparer. Laisser des objets non fonctionnels dans un aménagement donne un double message. D’une part, que le matériel est en sale état et que rien ne fonctionne. D’autre part, qu’il n’est pas nécessaire de soigner ce qui est en bon état. Bref, prendre le réflexe de réparer, de mettre dans une zone de réparation en régie ou de jeter ce qui ne fonctionne plus et de donner aux enfants les moyens de le faire sont des actions qui participent à éviter ce problème. Créer une zone de réparation accessible permet d’entamer les réparations des objets avant qu’il ne soit trop tard.\
@@ -280,7 +277,7 @@ Toutes ces stratégies sont à mélanger en fonction du contexte. Par exemple, j
 Ou encore, je peux dédié une salle aux activités d’expression, dans laquelle j’aménage des coins différents (marionnettes, impro, contes…), un espace déguisement comportant des kits déguisements déplaçables hors de la salle.
 </td></tr></table>
 <br />
-{{< image classes="fig-100 center clear fig-no-border nocaption" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Articles/LP1/photo13.png?raw=true" style="margin-bottom:20px;" title="" >}}
+{{< image classes="fig-100 center clear fig-no-border nocaption" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Articles/LP1/photo13.png?raw=true" title="" >}}
 
 # <i class="far fa-bookmark" aria-hidden="true" style="padding-right:15px"></i>Démarche pratique
 Vous trouverez ci-dessous des démarches pratiques —&nbsp;non exhaustives&nbsp;— concernant chaque échelle d’aménagements des plus simples aux plus complexes… Cependant, il faut garder en tête qu’on travaille dans le sens inverse sur le terrain. Néanmoins, il vaut peut-être mieux approfondir ce qui est simple dans un premier temps, tout en s’initiant à ce qui l’est moins. La plupart du temps, les directrices se chargeront des macroaménagements et les animatrices ne devront réfléchir qu’aux micros et moyens-aménagements. Pour ces raisons, les macroaménagements ne seront abordés que brièvement.\
@@ -310,7 +307,7 @@ Vous trouverez ci-dessous des démarches pratiques —&nbsp;non exhaustives&nbsp
 
 {{< image classes="fig-100 center clear fig-no-border nocaption" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Articles/LP1/photo14.png?raw=true" title="" >}}
 {{< image classes="fig-100 center clear fig-no-border nocaption" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Articles/LP1/photo15.png?raw=true" title="" >}}
-{{< image classes="fig-100 center clear fig-no-border nocaption" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Articles/LP1/photo16.png?raw=true" style="margin-bottom:20px;" title="" >}}
+{{< image classes="fig-100 center clear fig-no-border nocaption" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Articles/LP1/photo16.png?raw=true" title="" >}}
 
 ## <i class="fas fa-couch" aria-hidden="true" style="padding-right:15px;"></i>Moyen-aménagements
 {{< image classes="fig-33 center clear fig-no-border nocaption" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Articles/LP1/moyenamenagement.png?raw=true" style="margin-bottom:20px;" title="moyen-aménagement" >}}
@@ -329,7 +326,7 @@ Vous trouverez ci-dessous des démarches pratiques —&nbsp;non exhaustives&nbsp
 
 {{< image classes="fig-100 center clear fig-no-border nocaption" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Articles/LP1/photo17.png?raw=true" title="" >}}
 {{< image classes="fig-100 center clear fig-no-border nocaption" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Articles/LP1/photo18.png?raw=true" title="" >}}
-{{< image classes="fig-100 center clear fig-no-border nocaption" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Articles/LP1/photo19.png?raw=true" style="margin-bottom:20px;" title="" >}}
+{{< image classes="fig-100 center clear fig-no-border nocaption" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Articles/LP1/photo19.png?raw=true" title="" >}}
 
 ## <i class="fas fa-home" aria-hidden="true" style="padding-right:15px;"></i>Macroaménagements
 {{< image classes="fig-33 center clear fig-no-border nocaption" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Articles/LP1/macroamenagement.png?raw=true" style="margin-bottom:20px;" title="macroaménagement" >}}
@@ -351,4 +348,4 @@ Vous trouverez ci-dessous des démarches pratiques —&nbsp;non exhaustives&nbsp
 
 {{< image classes="fig-100 center clear fig-no-border nocaption" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Articles/LP1/photo20.png?raw=true" title="" >}}
 {{< image classes="fig-100 center clear fig-no-border nocaption" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Articles/LP1/photo21.png?raw=true" title="" >}}
-{{< image classes="fig-100 center clear fig-no-border nocaption" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Articles/LP1/photo22.png?raw=true" style="margin-bottom:20px;" title="" >}}
+{{< image classes="fig-100 center clear fig-no-border nocaption" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Articles/LP1/photo22.png?raw=true" title="" >}}
