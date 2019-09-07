@@ -51,7 +51,7 @@ Par ailleurs, <b>trois échelles de temps</b> différentes peuvent être disting
 <i class="far fa-hand-point-right" style="padding-left:21px;padding-right:7.5px;color:#fa8072"></i>Celui qui est aménagé de manière permanente dans un lieu (ludothèque dans une structure d’accueil, salle poterie, bibliothèque, etc.)\
 <i class="far fa-hand-point-right" style="padding-left:21px;padding-right:7.5px;color:#fa8072"></i>Celui qui est aménagé afin qu’il soit permanent pour un séjour précis (salle de réveil permanente pour un séjour, coin Kapla permanent, etc.)\
 <i class="fas fa-arrow-right fa-sm" style="padding-right:7.5px;color:#fa8072"></i><span style="color:#fa8072">L’aménagement d’activité</span>, tel que celui qui sera mis en œuvre avant une activité, qui durera le temps de l’activité, et qui sera rangé ensuite.\
-<i class="fas fa-arrow-right fa-sm" style="padding-right:7.5px;color:#fa8072"></i><span style="color:#fa8072">L’aménagement continu</span>, tel que ceux qui se créeront pendant un stage, une colonie ou autre&nbsp;:\ l’affichage, le séchage, la cabane que les enfants feront, etc.\
+<i class="fas fa-arrow-right fa-sm" style="padding-right:7.5px;color:#fa8072"></i><span style="color:#fa8072">L’aménagement continu</span>, tel que ceux qui se créeront pendant un stage, une colonie ou autre&nbsp;: l’affichage, le séchage, la cabane que les enfants feront, etc.\
 
 {{< image classes="fig-100 center clear fig-no-border nocaption" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Articles/LP1/photo1.png?raw=true" title="" >}}
 
