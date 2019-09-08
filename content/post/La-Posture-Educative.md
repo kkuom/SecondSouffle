@@ -10,9 +10,9 @@ categories: ["éducation éthique", "posture éducative et éthique"]
 tags: ["brochure", "éthique", "éducation éthique", "posture éducative et éthique", "acteurs éducatifs", "actrices éducatives", "sanction", "cadre", "système injuste", "système éthique", punition", "humiliation", "séduction", "privilèges", "tyrannie d adultes", "absence de structure"]
 
 thumbnailImagePosition: top
-thumbnailImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Thumbnails/EducationEthique750.jpg?raw=true
+thumbnailImage: https://secondsouffle.me/images/Thumbnails/EducationEthique750.jpg?raw=true
 
-coverImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Post-header.jpg?raw=true
+coverImage: https://secondsouffle.me/images/Post-header.jpg?raw=true
 coverMeta: in
 coverSize: partial
 
@@ -87,11 +87,11 @@ Imaginons que le <span style="color:#6b615b">désir individuel</span> soit le d�
 <i class="fas fa-arrow-right fa-sm" style="padding-right:7.5px"></i>une grande flèche symbolise la force du désir, qu’il soit le <span style="color:#6b615b">désir individuel</span> ou le <span style="color:#fa8072">désir maître</span>&nbsp;;<br />
 <i class="fas fa-arrow-right fa-sm" style="padding-right:7.5px"></i><span style="color:#5f0261">l’angle alpha&nbsp;(α)</span> représente la divergence entre le <span style="color:#6b615b">désir individuel</span> et le <span style="color:#fa8072">désir maître</span>.<br />
 Par conséquent, au plus <span style="color:#5f0261">l’angle alpha&nbsp;(α)</span> est élevé, au plus la tension entre les tenants du cadre (imposant le <span style="color:#fa8072">désir maître</span>) et l’individue s’élevera également. Aussi, un <span style="color:#6b615b">désir individuel</span> très élevé peut se mettre en concurrence avec le <span style="color:#fa8072">désir maître</span>.<br /><br />
-{{< image classes="fig-75 center clear" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Articles/PSAP/Punition1.png?raw=true" >}}<br />
+{{< image classes="fig-75 center clear" src="https://secondsouffle.me/images/Articles/PSAP/Punition1.png?raw=true" >}}<br />
 Dans le cadre punitif, le <span style="color:#fa8072">désir maître</span> cherche à augmenter sa force afin d’annihiler un <span style="color:#6b615b">désir individuel</span> <span style="color:#5f0261">divergent</span>. Il ne cherche donc pas du tout à s’adapter aux besoins exprimés par le <span style="color:#6b615b">désir individuel</span>, et cherche à l’écraser aux moyens de punitions préconçues, censées inspirer la peur.<br /><br />
-{{< image classes="fig-75 center clear" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Articles/PSAP/Punition2.png?raw=true" >}}<br />
+{{< image classes="fig-75 center clear" src="https://secondsouffle.me/images/Articles/PSAP/Punition2.png?raw=true" >}}<br />
 Lorsque la punition fonctionne, le <span style="color:#6b615b">désir individuel</span> s’écrase laissant <span style="color:#fa8072">désir maître</span> s’imposer. La peur de la punition est la force principale qui annihile le <span style="color:#6b615b">désir individuel</span>. Ainsi, l’envie d’opposition de l’individu n’a pas été changée (<span style="color:#5f0261">l’angle alpha&nbsp;(α)</span> est toujours le même), mais puisque sa force est inférieure à la peur générée par le <span style="color:#fa8072">désir maître</span>,  elle ne lui permet pas de maintenir son <span style="color:#6b615b">désir individuel</span>.<br /><br />
-{{< image classes="fig-75 center clear" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Articles/PSAP/Punition3.png?raw=true" >}}<br />
+{{< image classes="fig-75 center clear" src="https://secondsouffle.me/images/Articles/PSAP/Punition3.png?raw=true" >}}<br />
 {{< blockquote "Maria Montessori" "" >}}
 Nous ne considérons pas qu’un enfant soit discipliné quand ses professeurs ont réussi à le rendre aussi silencieux qu’un muet et aussi immobile qu’un paralytique. Un tel individu n’est pas discipliné, mais annihilé. Nous disons d’un individu qu’il est discipliné quand il est maître de lui-même et qu’il est capable de contrôler sa conduite dans les occasions où il faut suivre des règles.
 {{< /blockquote >}}
@@ -330,9 +330,9 @@ Le statut correspond au crédit accordé à la personne. Ainsi être animatrice 
 
 Avoir un crédit de départ signifie que celui-ci n’est pas immuable. Il pourra augmenter avec le temps ou diminuer. En effet, ce crédit se construit sur la base d’une compétence et d’une relation entretenues par l’actrice éducative en adéquation avec son rôle. Il sera mis à épreuve, soit par la pratique, soit directement testé par les participantes. Et au plus le statut est élevé, au plus sa base doit être stable pour pouvoir tenir&nbsp;! Sa base est composée de la compétence et de la relation.\
 
-{{< image classes="fig-100 fig-border nocaption" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Articles/PSAP/PostureEducative-Statut1.jpg?raw=true" title="Page 1" >}}
-{{< image classes="fig-100 fig-border nocaption" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Articles/PSAP/PostureEducative-Statut2.jpg?raw=true" title="Page 2" >}}
-{{< image classes="fig-100 fig-border nocaption" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Articles/PSAP/PostureEducative-Statut3.jpg?raw=true" title="Page 3" >}}
+{{< image classes="fig-100 fig-border nocaption" src="https://secondsouffle.me/images/Articles/PSAP/PostureEducative-Statut1.jpg?raw=true" title="Page 1" >}}
+{{< image classes="fig-100 fig-border nocaption" src="https://secondsouffle.me/images/Articles/PSAP/PostureEducative-Statut2.jpg?raw=true" title="Page 2" >}}
+{{< image classes="fig-100 fig-border nocaption" src="https://secondsouffle.me/images/Articles/PSAP/PostureEducative-Statut3.jpg?raw=true" title="Page 3" >}}
 
 <span style="color:#fa8072"><i class="fas fa-arrow-right fa-sm" style="padding-right:7.5px"></i>*Quelques mots sur les planches 1 à 3&nbsp;:*</span>\
 
@@ -343,9 +343,9 @@ Reprenons notre experte en mathématiques, qui sait pertinemment qu’elle a des
 
 La reconnaissance d’une erreur peut donc entrainer une diminution de l’autorité, mais elle peut toutefois augmenter la stabilité de celle-ci. À l’inverse, ne pas la reconnaître feindra un statut artificiellement haut, mais prêt à s’écrouler.
 
-{{< image classes="fig-100 fig-border nocaption" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Articles/PSAP/PostureEducative-Statut4.jpg?raw=true" title="Page 4" >}}
-{{< image classes="fig-100 fig-border nocaption" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Articles/PSAP/PostureEducative-Statut5.jpg?raw=true" title="Page 5" >}}
-{{< image classes="fig-100 fig-border nocaption" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Articles/PSAP/PostureEducative-Statut6.jpg?raw=true" title="Page 6" >}}
+{{< image classes="fig-100 fig-border nocaption" src="https://secondsouffle.me/images/Articles/PSAP/PostureEducative-Statut4.jpg?raw=true" title="Page 4" >}}
+{{< image classes="fig-100 fig-border nocaption" src="https://secondsouffle.me/images/Articles/PSAP/PostureEducative-Statut5.jpg?raw=true" title="Page 5" >}}
+{{< image classes="fig-100 fig-border nocaption" src="https://secondsouffle.me/images/Articles/PSAP/PostureEducative-Statut6.jpg?raw=true" title="Page 6" >}}
 
 <span style="color:#fa8072"><i class="fas fa-arrow-right fa-sm" style="padding-right:7.5px"></i>*Quelques mots sur les planches 4 à 6&nbsp;:*</span>\
 
@@ -469,7 +469,7 @@ Dans la tyrannie d’absence de structure, les membres d’une équipe pédagogi
 
 <table style="box-shadow: 0px 2px 8px 0px rgba(0, 0, 0, 0.2); color:#5d686f"><tr><td style="border-width:thin; border-color:#5d686f">
 Dans ce système, le <span style="color:#fa8072">désir maître</span> s’efface au profit de <span style="color:#6b615b">désirs individuels</span> qui, potentiellement, deviendront de nouveaux désirs maîtres. Ainsi, loin de diminuer la violence issue des moyens d’obéissance, la responsabilité de celle-ci est simplement déplacée.<br /><br />
-{{< image classes="fig-75 center clear" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Articles/PSAP/TyrannieDAbsenceDeStructure.png?raw=true" >}}
+{{< image classes="fig-75 center clear" src="https://secondsouffle.me/images/Articles/PSAP/TyrannieDAbsenceDeStructure.png?raw=true" >}}
 </td></tr></table>
 
 ## La tyrannie d'adultes.
@@ -484,7 +484,7 @@ Cette spirale amène à quelques résolutions radicales.\
 
 <table style="box-shadow: 0px 2px 8px 0px rgba(0, 0, 0, 0.2); color:#5d686f"><tr><td style="border-width:thin; border-color:#5d686f">
 Dans la tyrannie d’adultes, un <span style="color:#6b615b">désir individuel</span> subissant la violence d’un <span style="color:#fa8072">désir maître</span> sans être trop affecté par la peur se révoltera et ne se soumettra plus aux menaces de ce dernier. Au contraire, <span style="color:#5f0261">l’angle de divergence (α)</span> augmentera et selon la peur que le système est capable de lui imposer, la force de son <span style="color:#6b615b">désir individuel</span> augmentera ou diminuera.<br /><br />
-{{< image classes="fig-75 center clear" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Articles/PSAP/TyrannieDAdultes.png?raw=true" >}}
+{{< image classes="fig-75 center clear" src="https://secondsouffle.me/images/Articles/PSAP/TyrannieDAdultes.png?raw=true" >}}
 </td></tr></table>
 
 ## La punition sociale, l’humiliation et la société du spectacle.
@@ -499,7 +499,7 @@ Pour exprimer ses besoins et parler de ses limites défensives, un climat de cla
 
 <table style="box-shadow: 0px 2px 8px 0px rgba(0, 0, 0, 0.2); color:#5d686f"><tr><td style="border-width:thin; border-color:#5d686f">
 Avec l’humiliation, il nous faut envisager le schéma de manière collective. En effet, le <span style="color:#fa8072">désir maître</span> tente d’anéantir la force d’un <span style="color:#6b615b">désir individuel</span> dont <span style="color:#5f0261">l’angle alpha&nbsp;(α)</span> est trop élevé, en enrôlant d’autres individus dans sa force répressive. Ceci notamment via l’isolement de l’individu dans sa divergence.<br /><br />
-{{< image classes="fig-75 center clear" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Articles/PSAP/Lhumiliation.png?raw=true" >}}
+{{< image classes="fig-75 center clear" src="https://secondsouffle.me/images/Articles/PSAP/Lhumiliation.png?raw=true" >}}
 </td></tr></table>
 
 ## La séduction.
@@ -519,7 +519,7 @@ La séduction peut toutefois se retourner contre les personnes l’ayant install
 <table style="box-shadow: 0px 2px 8px 0px rgba(0, 0, 0, 0.2); color:#5d686f"><tr><td style="border-width:thin; border-color:#5d686f">
 Avec la séduction, le <span style="color:#fa8072">désir maître</span> s’attaque directement aux <span style="color:#5f0261">angles alpha&nbsp;(α)</span> des individus du groupe. Il favorise donc les <span style="color:#6b615b">désirs individuels</span> uniquement lorsqu’ils vont dans son sens. En effet, au plus <span style="color:#5f0261">l’angle alpha&nbsp;(α)</span> sera petit, au plus l’individu aura accès à des privilèges lui permettant d’augmenter la force de son <span style="color:#6b615b">désir (plus tellement) individuel</span>.<br />
 À l’inverse, s’opposer au <span style="color:#fa8072">désir maître</span> fait perdre des droits, et il est plus difficile au <span style="color:#6b615b">désir individuel</span> de s’exprimer du fait de sa liberté réduite.<br /><br />
-{{< image classes="fig-75 center clear" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Articles/PSAP/LaSeduction.png?raw=true" >}}
+{{< image classes="fig-75 center clear" src="https://secondsouffle.me/images/Articles/PSAP/LaSeduction.png?raw=true" >}}
 </td></tr></table>
 
 ## Le système de privilèges en prison... et en animation&nbsp;?
@@ -563,13 +563,13 @@ Il nous arrive par exemple souvent d’entendre des animatrices conseiller que p
 <table style="box-shadow: 0px 2px 8px 0px rgba(0, 0, 0, 0.2); color:#5d686f"><tr><td style="border-width:thin; border-color:#5d686f">
 Le système d’obéissance totale ne punit pas directement, mais crée avant tout une séparation entre des <span style="color:#ffc700">désirs individuels dissidents</span> et des <span style="color:#6b615b">désirs individuels enrôlables</span>.<br />
 L’humiliation permet d’isoler un <span style="color:#ffc700">désir individuel dissident</span> tandis que la séduction permet de réduire les <span style="color:#5f0261">angles alpha&nbsp;(α)</span> de la majorité. L’effort du <span style="color:#fa8072">désir maître</span> est particulièrement orienté vers des <span style="color:#6b615b">désirs individuels «&nbsp;leaders&nbsp;»</span>, ayant une influence sur le reste du groupe.<br /><br />
-{{< image classes="fig-75 center clear" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Articles/PSAP/ObeissanceGlobale1.png?raw=true" >}}<br/>
+{{< image classes="fig-75 center clear" src="https://secondsouffle.me/images/Articles/PSAP/ObeissanceGlobale1.png?raw=true" >}}<br/>
 <span style="color:#6b615b">Le désir du leader</span> se confond de plus en plus avec le <span style="color:#fa8072">désir maître</span> tant son <span style="color:#5f0261">angle alpha&nbsp;(α)</span> se réduit, et par le fait que ses privilèges lui accordent des droits d’un <span style="color:#6b615b">co-</span><span style="color:#fa8072">désir maître</span>. Il est en position d’influencer lui aussi le <span style="color:#fa8072">désir maître</span> et participe avec lui à la réduction des <span style="color:#5f0261">angles alpha&nbsp;(α)</span> des personnes enrôlables.<br />
 Le <span style="color:#ffc700">désir individuel dissident</span> perd quant à lui de sa force et se sépare encore plus du reste du groupe.<br /><br />
-{{< image classes="fig-75 center clear" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Articles/PSAP/ObeissanceGlobale2.png?raw=true" >}}<br/>
+{{< image classes="fig-75 center clear" src="https://secondsouffle.me/images/Articles/PSAP/ObeissanceGlobale2.png?raw=true" >}}<br/>
 Poussé à l’extrême de l’isolement, le <span style="color:#ffc700">désir individuel dissident</span> est en position pour subir des punitions et humiliations de l’ensemble du groupe, et le <span style="color:#fa8072">désir maître</span> initial ne fera rien pour l’en protéger. Sa force risque d’être annihilée, ce qui l’amènera forcément à réajuster son <span style="color:#5f0261">angle alpha&nbsp;(α)</span> et à créer un nouveau désir aliéné en accord avec le <span style="color:#fa8072">désir maître</span> (soumission).<br /><br />
 Lorsque cela arrive, le <span style="color:#2d5383">désir individuel dont l’angle alpha est le plus élevé</span> risque de subir à son tour cette logique d’isolement, car il représentera la nouvelle <span style="color:#ffc700">dissidence</span>. Ainsi, au fur et à mesure des réajustements, la tolérance du <span style="color:#fa8072">désir maître</span> tend à diminuer puisque les angles alpha se réduisent.<br /><br />
-{{< image classes="fig-75 center clear" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Articles/PSAP/ObeissanceGlobale3.png?raw=true" >}}<br/>
+{{< image classes="fig-75 center clear" src="https://secondsouffle.me/images/Articles/PSAP/ObeissanceGlobale3.png?raw=true" >}}<br/>
 Ce système organise le harcèlement comme un puissant support du <span style="color:#fa8072">désir maître</span>. La problématique est donc structurelle, et aucune campagne de prévention contre le harcèlement ne suffira à compenser de tels mécanismes d’isolement et de privilèges.<br />
 
 {{< blockquote "Mark Barnsley," "Il faut porter des masques de ski" >}}
@@ -599,7 +599,7 @@ La sanction est l’outil privilégié du système éthique. À l’inverse des 
 Ainsi, chaque collectif définira son désir maître lui-même. Les limites défensives définiront les bases d’un contrat social, et ce dernier arbitrera la résolution des tensions entre les désirs individuels.\
 
 <table style="color:#6b615b"><tr><td><i class="fas fa-cog fa-spin"></i>
-{{< image classes="fig-75 center clear" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Articles/PSAP/SystemeEthique1.png?raw=true" >}}
+{{< image classes="fig-75 center clear" src="https://secondsouffle.me/images/Articles/PSAP/SystemeEthique1.png?raw=true" >}}
 </td></tr></table>
 
 Ce contrat tend à se calibrer progressivement aux limites défensives et aux désirs individuels liés à ce contrat. Ainsi, il permettra plus de libertés là où cette dernière ne nuira à personne d’autre, et restreindra les libertés atteignant les autres dans leurs limites défensives. Une tension entre deux individus ou entre le cadre et un individu a plusieurs possibilités de résolution.\
@@ -608,21 +608,21 @@ La première possibilité est que le cadre se réadapte, car le désir individue
 
 <table style="color:#6b615b"><tr><td><i class="fas fa-cog fa-spin"></i><b>&nbsp;&nbsp;Première possibilité&nbsp;:</b><br />
 Une enfant ne parvient pas à ne pas dire de gros mots. Le groupe avait une règle qui les interdisait, mais puisque cela n’atteint personne dans ses limites, dire des gros mots n’est désormais plus sanctionné et la règle est retirée.<br />
-{{< image classes="fig-75 center clear" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Articles/PSAP/SystemeEthique2.png?raw=true" >}}
+{{< image classes="fig-75 center clear" src="https://secondsouffle.me/images/Articles/PSAP/SystemeEthique2.png?raw=true" >}}
 </td></tr></table>
 
 Une deuxième possibilité est que le cadre ne peut pas se réadapter, car le désir individuel exprimé atteint d’autres personnes dans leurs limites défensives. La sanction aura pour objectif d’identifier l’essence de ce désir et de le rendre possible à l’intérieur du cadre, en permettant à la personne de comprendre en quoi son désir initial était offensif pour d’autres.\
 
 <table style="color:#6b615b"><tr><td><i class="fas fa-cog fa-spin"></i><b>&nbsp;&nbsp;Deuxième possibilité&nbsp;:</b><br />
 Un enfant écrit «&nbsp;Nique ta mère&nbsp;» sur un mur et cette insulte met en tension des membres du groupe. Suite à cela, une discussion mène à l’adoption d’une consigne qui consiste à essayer de diminuer le nombre de gros mots, car le collectif distingue un gros mot dit de manière spontanée d’un gros mot planifié et dont l’intention est offensive.<br />
-{{< image classes="fig-75 center clear" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Articles/PSAP/SystemeEthique3.png?raw=true" >}}
+{{< image classes="fig-75 center clear" src="https://secondsouffle.me/images/Articles/PSAP/SystemeEthique3.png?raw=true" >}}
 </td></tr></table>
 
 Une troisième possibilité est que le cadre ne peut pas se réadapter, car l’essence du désir individuel exprimé est nocive et qu’il est nécessaire pour le cadre de protéger les membres du collectif. Une sanction protectrice est alors mise en place, et si l’individu refuse malgré tout d’abandonner son désir individuel, il pourra l’assouvir dans des espaces hors du cadre, mais il ne bénéficiera plus des avantages que le cadre lui permettait.\
 
 <table style="color:#6b615b"><tr><td><i class="fas fa-cog fa-spin"></i><b>&nbsp;&nbsp;Troisième possibilité&nbsp;:</b><br />
 Lors d’un jeu, les insultes d’un enfant nuisent à son bon déroulement. L’enfant doit alors se décider entre son désir de participer à l’activité et son désir de dire des insultes. Dans un cas, l’enfant pourra continuer de jouer (schéma précédent), et dans l’autre cas, l’enfant pourra continuer d’être grossier, mais sera mis à l’écart du jeu.<br />
-{{< image classes="fig-75 center clear" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Articles/PSAP/SystemeEthique4.png?raw=true" >}}
+{{< image classes="fig-75 center clear" src="https://secondsouffle.me/images/Articles/PSAP/SystemeEthique4.png?raw=true" >}}
 </td></tr></table>\
 
-{{< image classes="fig-75 center clear" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Articles/PSAP/IllustrationEthique.jpg?raw=true" >}}
+{{< image classes="fig-75 center clear" src="https://secondsouffle.me/images/Articles/PSAP/IllustrationEthique.jpg?raw=true" >}}

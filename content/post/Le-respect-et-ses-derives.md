@@ -10,9 +10,9 @@ categories: ["philosophie appliquée", "moi et les autres"]
 tags: ["brochure", "éthique", "essentialisme", "éducation éthique","relations interpersonnelles"]
 
 thumbnailImagePosition: top
-thumbnailImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Thumbnails/PhilosophieAppliquee-Respect750.jpg?raw=true
+thumbnailImage: https://secondsouffle.me/images/Thumbnails/PhilosophieAppliquee-Respect750.jpg?raw=true
 
-coverImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Post-header.jpg?raw=true
+coverImage: https://secondsouffle.me/images/Post-header.jpg?raw=true
 coverMeta: in
 coverSize: partial
 

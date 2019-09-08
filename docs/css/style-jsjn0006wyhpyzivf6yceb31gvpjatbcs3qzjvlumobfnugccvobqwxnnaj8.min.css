@@ -768,7 +768,7 @@ pre.code-highlight>code {
     display: block;
     width: 321px;
     height: 41px;
-    background-image: url(https://github.com/kkuom/SecondSouffle/blob/master/docs/images/SecondSouffle_LogoHeader.png?raw=true);
+    background-image: url(https://secondsouffle.me/images/SecondSouffle_LogoHeader.png?raw=true);
     background-size: 100% auto;
     background-repeat: no-repeat
   }
@@ -783,7 +783,7 @@ pre.code-highlight>code {
       display: block;
       width: 75px;
       height: 34px;
-      background-image: url(https://github.com/kkuom/SecondSouffle/blob/master/docs/images/SecondSouffle_LogoHeaderSmall.png?raw=true);
+      background-image: url(https://secondsouffle.me/images/SecondSouffle_LogoHeaderSmall.png?raw=true);
       background-size: auto 100%;
       background-repeat: no-repeat
     }

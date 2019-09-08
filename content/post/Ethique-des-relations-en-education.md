@@ -10,9 +10,9 @@ categories: ["philosophie appliquée", "posture éducative et éthique"]
 tags: ["brochure", "éthique", "contrat social", "anti-âgisme", "posture éducative et éthique", "éducation éthique", "acteurs éducatifs", "actrices éducatives"]
 
 thumbnailImagePosition: right
-thumbnailImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Thumbnails/PhilosophieAppliquee140.png?raw=true
+thumbnailImage: https://secondsouffle.me/images/Thumbnails/PhilosophieAppliquee140.png?raw=true
 
-coverImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Post-header.jpg?raw=true
+coverImage: https://secondsouffle.me/images/Post-header.jpg?raw=true
 coverMeta: in
 coverSize: partial
 
@@ -216,7 +216,7 @@ Lors d’une brimade, 3 rôles sont attribués&nbsp;:\
 —	Le premier est celui de dupeur-initié, souvent détenu par le ou les éducateurs d’un groupe (dans la *«&nbsp;chasse au dahu&nbsp;»*, c’est l’équipe d’animation qui connaissait ce *«&nbsp;jeu&nbsp;»*). Ce sont les personnes qui connaîtront les tenants et les aboutissants du jeu tout en prenant une part active dans la tromperie.\
 —	Le deuxième rôle est celui de spectateur qui sera plutôt composé d’individus éduqués initiés ou non (dans la *«&nbsp;chasse au dahu&nbsp;»*&nbsp;; ce sont tous les enfants du groupe sauf la victime). Ce sont ceux qui ne subiront pas la tromperie, mais en seront spectateurs, profitant du spectacle offert par les dupeurs-initiés aux dépens du dernier rôle.\
 —	Ce dernier rôle, le dupé non-initié, est rempli par des individus éduqués le plus souvent, soit volontaires, soit désignés par le sort ou de manière arbitraire par le ou les dupeurs. Le rôle de la personne dupée est celui qui sera à la merci du groupe. Il est l’objet de la farce, son consentement n’est pas possible, car il ne sait pas à quoi s’attendre, il subira la brimade.\
-{{< image classes="fig-66 center clear" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Articles/EthiqueDesRelationEnEducation-Brimade.png?raw=true" >}}\
+{{< image classes="fig-66 center clear" src="https://secondsouffle.me/images/Articles/EthiqueDesRelationEnEducation-Brimade.png?raw=true" >}}\
 
 Lorsqu’un éducateur met en place, favorise, ou laisse s’installer une situation de brimade, il segmente le groupe entre des sujets ayant droit à la dignité (sujets non dupés) et à ceux n’y ayant pas droit (sujets dupés). Il met également en place une hiérarchie par dissymétrie d’informations représentée dans le schéma suivant.\
 Suite à une brimade, le dupeur gagne du pouvoir vis-à-vis des spectateurs qui le perçoivent comme puissant, car capable de soumettre un individu pour le plaisir de spectateurs. Il inspirera également de la méfiance. Dans le cas de spectateurs en désaccord avec la situation de brimade il perdra en autorité et en confiance. Dans un cas où les individus en désaccord sont plusieurs, l’éducateur peut faire face à une révolte (mais ce cas est malheureusement assez rare).\

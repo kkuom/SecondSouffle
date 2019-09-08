@@ -10,9 +10,9 @@ categories: ["papier politique", "lutte anticarcérale", "réédition"]
 tags: ["brochure", "politique", "stratégie de lutte", "anticarcérale", "réédition"]
 
 thumbnailImagePosition: left
-thumbnailImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Thumbnails/PapierPolitique140.png?raw=true
+thumbnailImage: https://secondsouffle.me/images/Thumbnails/PapierPolitique140.png?raw=true
 
-coverImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Post-header.jpg?raw=true
+coverImage: https://secondsouffle.me/images/Post-header.jpg?raw=true
 coverMeta: in
 coverSize: partial
 

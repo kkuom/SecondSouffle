@@ -10,9 +10,9 @@ categories: ["éducation éthique", "réédition", "bingo"]
 tags: ["brochure", "éthique", "éducation éthique", "contrat social", "anti-âgisme", "posture éducative et éthique", "acteurs éducatifs", "actrices éducatives", "bingo"]
 
 thumbnailImagePosition: top
-thumbnailImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Thumbnails/EducationEthique750_2.png?raw=true
+thumbnailImage: https://secondsouffle.me/images/Thumbnails/EducationEthique750_2.png?raw=true
 
-coverImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Post-header.jpg?raw=true
+coverImage: https://secondsouffle.me/images/Post-header.jpg?raw=true
 coverMeta: in
 coverSize: partial
 
@@ -181,7 +181,7 @@ Comprenons-nous bien : nous n'entendons pas par "phrases de connards" que celle
 
 Ce Bingo! démontre en utilisant l'ironie la portée politique et affective des phrases <s>de connards</s> âgistes. Et éventuellement, donne des moyens d'y répondre.</i>\
 
-{{< image classes="fig-50 center clear fig-no-border nocaption" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Bingo/BingoAgiste.png?raw=true" title="Bingo!" >}}<br />
+{{< image classes="fig-50 center clear fig-no-border nocaption" src="https://secondsouffle.me/images/Bingo/BingoAgiste.png?raw=true" title="Bingo!" >}}<br />
 
 <i class="fas fa-users" style="padding-right:7.5px;color:#fa8072"></i><span style="color:#fa8072">Une fessée, ça n'a jamais tué personne&nbsp;!</span>\
 <i class="fas fa-user-ninja" style="padding-right:7.5px"></i><i>...&nbsp;ouai. Un viol non plus...</i>\

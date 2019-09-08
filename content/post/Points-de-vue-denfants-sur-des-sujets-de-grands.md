@@ -10,9 +10,9 @@ categories: ["éducation éthique", "sur le terrain"]
 tags: ["brochure", "éthique", "éducation éthique", "cadre", "terrain", "système éthique", "posture éducative et éthique", "conversation"]
 
 thumbnailImagePosition: right
-thumbnailImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Thumbnails/EducationEthique140_2.png?raw=true
+thumbnailImage: https://secondsouffle.me/images/Thumbnails/EducationEthique140_2.png?raw=true
 
-coverImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Post-header.jpg?raw=true
+coverImage: https://secondsouffle.me/images/Post-header.jpg?raw=true
 coverMeta: in
 coverSize: partial
 
@@ -68,7 +68,7 @@ Pour préciser le cadre de cette colonie, elle part d’un projet porté par plu
 
 À la suite de la discussion, vous trouverez une analyse qui revient sur la perception et les propos des vacancières, avec un éclairage contextuel et une évaluation du travail qui a été fait par l’équipe pédagogique et les jeunes, et la portée que ce dernier a pu avoir auprès de chacun et chacune.\
 
-{{< image classes="center clear" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Articles/Points-de-vue-denfants-sur-des-sujets-de-grands.png?raw=true" >}}\
+{{< image classes="center clear" src="https://secondsouffle.me/images/Articles/Points-de-vue-denfants-sur-des-sujets-de-grands.png?raw=true" >}}\
 
 {{< alert info >}}
 Nous ne publions pas le fichier audio en raison de sa qualité très médiocre (enregistrement dans une voiture avec un mauvais micro). Toutefois, n’hésitez pas à prendre contact avec nous si vous désirez l’acquérir. Chaque personne impliquée dans cette conversation a donné son autorisation.\

@@ -10,9 +10,9 @@ categories: ["écrit structurant", "postulat philosophique"]
 tags: ["brochure", "éthique", "contrat social"]
 
 thumbnailImagePosition: top
-thumbnailImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Thumbnails/EcritStructurant750.jpg?raw=true
+thumbnailImage: https://secondsouffle.me/images/Thumbnails/EcritStructurant750.jpg?raw=true
 
-coverImage: https://github.com/kkuom/SecondSouffle/blob/master/docs/images/Post-header.jpg?raw=true
+coverImage: https://secondsouffle.me/images/Post-header.jpg?raw=true
 coverMeta: in
 coverSize: partial
 
