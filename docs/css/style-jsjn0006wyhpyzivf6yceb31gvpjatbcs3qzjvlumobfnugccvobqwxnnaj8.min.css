@@ -682,7 +682,7 @@ pre.code-highlight>code {
   #header #buttonMail {
     position: absolute;
     top: 20px;
-    left: 196px;
+    left: 176px;
     cursor: pointer;
     line-height: 1
   }
@@ -698,7 +698,7 @@ pre.code-highlight>code {
   #header #buttonInstagram {
     position: absolute;
     top: 20px;
-    left: 156px;
+    left: 146px;
     cursor: pointer;
     line-height: 1
   }
