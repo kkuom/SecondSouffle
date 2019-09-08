@@ -91,6 +91,18 @@ canonifyurls = true
   name = "RSS"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-rss-square\"></i>"
   url = "/index.xml"
+[[menu.misc]]
+  weight = 4
+  identifier = "facebook"
+  name = "FB"
+  pre = "<i class=\"sidebar-button-icon fab fa-lg fa-facebook-square\"></i>"
+  url = "https://www.facebook.com/ReseauSecondSouffle/"
+[[menu.misc]]
+  weight = 5
+  identifier = "instagram"
+  name = "INSTA"
+  pre = "<i class=\"sidebar-button-icon fab fa-lg fa-instagram\"></i>"
+  url = "https://www.instagram.com/reseausecondsouffle/"
 
 [params]
   # Customize date format use to render blog post date, categories and other
