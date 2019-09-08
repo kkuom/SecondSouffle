@@ -15,7 +15,7 @@ showDate: false
 showMeta: true
 comments: false
 ---
-{{< image classes="fig-66 center clear" src="https://github.com/kkuom/SecondSouffle/blob/master/docs/images/SecondSouffle_LogoColor.png?raw=true" >}}\
+{{< image classes="fig-66 center clear" src="https://secondsouffle.me/images/SecondSouffle_LogoColor.png?raw=true" >}}\
 <div style="text-align:center;font-style:italic;margin:-20px 0 40px 0;font-size:1.8rem">Second&nbsp;Souffle&nbsp;: collectif à direction collégiale</div>
 
 _**Article 1&nbsp;:**_ _Constitution et dénomination_\
